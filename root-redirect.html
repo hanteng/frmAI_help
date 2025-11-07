@@ -67,10 +67,21 @@
             font-size: 14px;
             color: #666;
         }
+        /* Inside the <style> block of root-redirect.html */
+        .book-cover {
+            width: 100%; /* Make it responsive within the container */
+            max-width: 250px; /* Set a maximum size */
+            height: auto;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+            margin-bottom: 30px; /* Space above the spinner/text */
+        }        
     </style>
 </head>
 <body>
     <div class="container">
+        <img src="cover.png" alt="Book Cover" class="book-cover">
         <div class="spinner"></div>
         <h2 style="margin-top: 0;">Welcome! 歡迎!</h2>
         <p>Please select your language version, or the page will redirect automatically.</p>

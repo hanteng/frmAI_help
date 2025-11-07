@@ -45,6 +45,7 @@ jobs:
         run: |
           mkdir -p _book 
           cp CNAME _book/
+          cp cover.png _book/  
           cp root-redirect.html _book/index.html 
 
       # 4. Render the English version (output to _book/en)
