@@ -1,0 +1,28 @@
+encoding: "UTF-8"
+lang: en
+
+project:
+  type: book
+  # Define the output directory that will contain the language subfolders
+  output-dir: _book/en
+
+book:
+  # The base list of chapters (Quarto will look for the language-specific version)
+  title: "Framing AI"
+  author: "Han-Teng Liao"
+  date: "07/11/2025"
+  chapters:
+    - references.en.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+#  pdf:
+#    documentclass: scrreprt
+
+
+

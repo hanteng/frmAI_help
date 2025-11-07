@@ -1,0 +1,27 @@
+encoding: "UTF-8"
+lang: zh-hant
+
+project:
+  type: book
+  # Define the output directory that will contain the language subfolders
+  output-dir: _book/zht
+
+#language: _language-zh-hant.yml 
+
+book:
+  # The base list of chapters (Quarto will look for the language-specific version)
+  title: "Framing AI"
+  author: "Han-Teng Liao"
+  date: "07/11/2025"
+  chapters:
+    - references.zh-hant.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+#  pdf:
+#    documentclass: scrreprt
