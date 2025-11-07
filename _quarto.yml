@@ -1,5 +1,7 @@
 project:
   type: book
+  # 👇 START OF THE PROJECT BLOCK (Level 1)
+  profiles: [default, en, zh-hant]
   # --- ADD THIS SECTION ---
   resources:
     - CNAME
