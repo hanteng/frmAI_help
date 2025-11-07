@@ -1,0 +1,61 @@
+# .github/workflows/publish.yml
+
+name: Deploy Quarto Book to GitHub Pages
+
+on:
+  push:
+    branches: [main] # Trigger on pushes to the main branch
+  pull_request:
+    branches: [main] # Trigger on pull requests (optional)
+  workflow_dispatch: {} # Allows manual trigger from the GitHub UI
+
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to publish the site
+    steps:
+      # 1. Checkout the source code
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Needed for proper git history access by Quarto
+          
+      # 2. Setup Quarto Environment
+      - name: Setup Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: 'latest' # Use the latest stable Quarto version
+
+      # -------------------------------------------------------------
+      # 🌟 CORRECT STEP: Configure Git User Identity with the Bot ID
+      - name: Configure Git User
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com" 
+          
+      # 3. Install Pandoc/LaTeX (if you plan to render PDFs)
+      # - name: Setup Pandoc/LaTeX
+      #   uses: quarto-dev/quarto-actions/tinytex@v2
+      #   if: always() # Runs even if previous steps fail
+
+      # 4. Render the English version (output to _book/en)
+      - name: Render English Profile (EN)
+        run: quarto render --profile en
+
+      # 5. Render the Chinese version (output to _book/zht)
+      - name: Render Chinese Profile (ZHT)
+        run: quarto render --profile zh-hant
+      
+      # 6. Deploy the entire _book directory
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          # This deploys the entire rendered output
+          # Including _book/en, _book/zht, CNAME, and .nojekyll
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: _book
+          publish_branch: gh-pages # Or main, depending on your GH Pages config
+          # The destination folder is set by the GH Pages settings, 
+          # which should be configured to serve from the 'gh-pages' branch or '_book' folder.
