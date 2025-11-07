@@ -43,7 +43,7 @@ book:
   cover-image: cover.png
   favicon: cover.png
   search: true
-  repo-url: https://github.com/hanteng/frmAI/
+  repo-url: https://github.com/hanteng/frmAI_help/
   repo-actions: [edit]
   #downloads: [pdf, epub]
   sharing: [linkedin, twitter, facebook]
@@ -51,7 +51,7 @@ book:
 bibliography: references.bib
 resources:
   - styles.css
-
+  - cover.png
 format:
   html:
     theme:
