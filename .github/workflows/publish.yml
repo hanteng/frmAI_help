@@ -40,6 +40,13 @@ jobs:
       #   uses: quarto-dev/quarto-actions/tinytex@v2
       #   if: always() # Runs even if previous steps fail
 
+      # 3a. EXPLICITLY COPY ROOT FILES (This is guaranteed to work)
+      - name: Copy Critical Root Files
+        run: |
+          mkdir -p _book # Ensure _book exists
+          cp CNAME _book/
+          cp root-redirect.html _book/index.html # Copy and rename to index.html
+
       # 4. Render the English version (output to _book/en)
       - name: Render English Profile (EN)
         run: quarto render --profile en
