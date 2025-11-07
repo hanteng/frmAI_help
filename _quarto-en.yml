@@ -12,7 +12,8 @@ book:
   author: "Han-Teng Liao"
   date: "07/11/2025"
   chapters:
-    - references.en.qmd
+    - file: index.en.qmd 
+    - references.en.qmd   
 
 bibliography: references.bib
 resources:
