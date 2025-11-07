@@ -3,6 +3,7 @@ project:
   # --- ADD THIS SECTION ---
   resources:
     - CNAME
+    - index.html # <-- This tells Quarto to copy the file to the root output
   # -------------------------
 
 book:
