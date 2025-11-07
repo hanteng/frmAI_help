@@ -6,15 +6,47 @@ project:
   # Define the output directory that will contain the language subfolders
   output-dir: _book/zht
 
-#language: _language-zh-hant.yml 
-
+language: _language-zh-hant.yml 
 book:
-  # The base list of chapters (Quarto will look for the language-specific version)
-  title: "Framing AI"
-  author: "Han-Teng Liao"
-  date: "07/11/2025"
+  title: "道／盜智格局：AI 賽局手冊"
+  author: "廖漢騰"
+  date: "18/08/2025"
   chapters:
-    - references.zh-hant.qmd
+    - part: 01----problematics.zh-hant.md
+      chapters:
+        - file: 01-01-Turing_Test.zh-hant.md
+          id: sec-turing-test
+        - file: 01-02-Chinese_Room.zh-hant.md
+          id: sec-chinese-room
+        - file: 01-03-Symbol_Grounding_Problem.zh-hant.md
+          id: sec-symbol-grounding-problem
+        - file: 01-04-Frame_Problem.zh-hant.md
+          id: sec-frame-problem
+        - file: 01-05-Gestalt_Psychology.zh-hant.md
+          id: sec-gestalt-psychology
+        - file: 01-06-Alignment_Control_Problem.zh-hant.md
+          id: sec-alignment-control-problem
+        - file: 01-07-Language_Games.zh-hant.md
+          id: sec-language-games
+  sidebar:
+    search: true
+    style: "docked"
+    #style: "floating"
+    collapse-level: 1
+    section-numbers: true
+  page-footer:
+    left: |
+      《道／盜智格局：AI 賽局手冊》： (預印版)
+      Han-Teng Liao
+    right: |
+      本站使用 <a href="https://quarto.org/">Quarto</a> 製作。
+  cover-image: cover.png
+  favicon: cover.png
+  search: true
+  repo-url: https://github.com/hanteng/frmAI/
+  repo-actions: [edit]
+  #downloads: [pdf, epub]
+  sharing: [linkedin, twitter, facebook]
 
 bibliography: references.bib
 resources:
@@ -27,6 +59,15 @@ format:
       - brand
     lang: zh-Hant  # zh-Hant<-- This sets the <html lang="..."> attribute
     css: styles.css
+    custom-elements:
+      model:
+        text: "模型"
+        prefix: "mod" 
+      taxonomy:
+        text: "分類"
+        prefix: "tax"
+    number-sections: true # enable right-hand TOC
+    number-depth: 4
     toc: true
     toc-depth: 4
     toc-location: right
@@ -39,14 +80,5 @@ format:
     crossref-tip-prefix: "提示"
     crossref-tip-title: "提示"
     callout-important-title: "要點"
-    number-sections: true # enable right-hand TOC
-    number-depth: 4
-    custom-elements:
-      model:
-        text: "模型"
-        prefix: "mod" 
-      taxonomy:
-        text: "分類"
-        prefix: "tax"
 #  pdf:
 #    documentclass: scrreprt
