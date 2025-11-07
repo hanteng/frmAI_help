@@ -13,6 +13,8 @@ book:
   date: "18/08/2025"
   chapters:
     - file: index.zh-hant.md
+    - file: notes-mental_fill-in.zh-hant.md
+    - file: notes-constructive_fill-in.zh-hant.md
     - part: 01----problematics.zh-hant.md
       chapters:
         - file: 01-01-Turing_Test.zh-hant.md
