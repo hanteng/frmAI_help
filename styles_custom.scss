@@ -1,0 +1,16 @@
+/*-- scss:rules --*/
+/* 1. ULTIMATE FIX FOR LISTING CARD TEXT VISIBILITY (Override everything) */
+[data-bs-theme="dark"] .listing-card * {
+    /* Use !important to override everything */
+    color: var(--bs-light) !important;
+}
+
+/* 2. Fix for Inline Code (e.g., `code`) */
+[data-bs-theme="dark"] code {
+    /* ... (The rest of your code block rules) ... */
+    color: var(--bs-warning) !important; 
+    background-color: #3f4449 !important; 
+    padding: 2px 4px;
+    border-radius: 4px;
+}
+/* ... Keep the rest of your original code block fixes (pre, pre code) below ... */

@@ -58,9 +58,10 @@ resources:
   - cover.png
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: # dark mode enabled 
+      light: [flatly, styles_converge.scss, styles_custom.scss]
+      dark:  [darkly, styles_converge.scss, styles_custom.scss]
+    respect-user-color-scheme: true
     lang: zh-Hant  # zh-Hant<-- This sets the <html lang="..."> attribute
     css: styles.css
     custom-elements:
