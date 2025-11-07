@@ -15,12 +15,28 @@ book:
     - references.en.qmd
 
 bibliography: references.bib
+resources:
+  - styles.css
 
 format:
   html:
     theme:
       - cosmo
       - brand
+    lang: en
+    css: styles.css
+    custom-elements:
+      model:
+        text: "Models"
+        prefix: "mod" 
+      taxonomy:
+        text: "Taxonomy"
+        prefix: "tax"
+    number-sections: true # enable right-hand TOC
+    number-depth: 4
+    toc: true
+    toc-depth: 4
+    toc-location: right
 #  pdf:
 #    documentclass: scrreprt
 

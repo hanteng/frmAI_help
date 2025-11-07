@@ -17,11 +17,36 @@ book:
     - references.zh-hant.qmd
 
 bibliography: references.bib
+resources:
+  - styles.css
 
 format:
   html:
     theme:
       - cosmo
       - brand
+    lang: zh-Hant  # zh-Hant<-- This sets the <html lang="..."> attribute
+    css: styles.css
+    toc: true
+    toc-depth: 4
+    toc-location: right
+    toc-title: "〜📖本頁章節目錄📑〜"
+    section-title-appendices: "🔖附錄與筆記"
+    # ✅ 正確的鍵名:
+    toc-title-document: "〜本頁章節目錄〜"
+    crossref-nte-prefix: "註釋"
+    crossref-nte-title: "註釋"
+    crossref-tip-prefix: "提示"
+    crossref-tip-title: "提示"
+    callout-important-title: "要點"
+    number-sections: true # enable right-hand TOC
+    number-depth: 4
+    custom-elements:
+      model:
+        text: "模型"
+        prefix: "mod" 
+      taxonomy:
+        text: "分類"
+        prefix: "tax"
 #  pdf:
 #    documentclass: scrreprt
