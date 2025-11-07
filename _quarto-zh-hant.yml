@@ -8,10 +8,11 @@ project:
 
 language: _language-zh-hant.yml 
 book:
-  title: "道／盜智格局：AI 賽局手冊"
+  title: "框智格局：AI 賽局手冊"
   author: "廖漢騰"
   date: "18/08/2025"
   chapters:
+    - file: index.zh-hant.md
     - part: 01----problematics.zh-hant.md
       chapters:
         - file: 01-01-Turing_Test.zh-hant.md
@@ -36,9 +37,10 @@ book:
     section-numbers: true
   page-footer:
     left: |
-      《道／盜智格局：AI 賽局手冊》： (預印版)
-      Han-Teng Liao
+      《框智格局：AI 賽局手冊》
+       (預印版) Han-Teng Liao
     right: |
+      别名《道／盜智格局：AI 賽局手冊》
       本站使用 <a href="https://quarto.org/">Quarto</a> 製作。
   cover-image: cover.png
   favicon: cover.png
@@ -71,10 +73,10 @@ format:
     toc: true
     toc-depth: 4
     toc-location: right
-    toc-title: "〜📖本頁章節目錄📑〜"
+    toc-title: "〜📖本頁章節📑〜"
     section-title-appendices: "🔖附錄與筆記"
     # ✅ 正確的鍵名:
-    toc-title-document: "〜本頁章節目錄〜"
+    #toc-title-document: "〜本頁章節目錄〜"
     crossref-nte-prefix: "註釋"
     crossref-nte-title: "註釋"
     crossref-tip-prefix: "提示"
