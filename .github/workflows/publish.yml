@@ -25,8 +25,8 @@ jobs:
       # 2. Setup Quarto Environment
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
-        with:
-          version: 'latest' # Use the latest stable Quarto version
+        #with:
+        #  version: 'latest' # Use the latest stable Quarto version
 
       # -------------------------------------------------------------
       # 🌟 CORRECT STEP: Configure Git User Identity with the Bot ID
