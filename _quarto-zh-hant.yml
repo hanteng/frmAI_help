@@ -55,13 +55,13 @@ book:
 bibliography: references.bib
 resources:
   - styles.css
+  - styles_converge.scss
+  - styles_custom.scss
   - cover.png
 format:
   html:
-    theme: # dark mode enabled 
-      light: [flatly, styles_converge.scss, styles_custom.scss]
-      dark:  [darkly, styles_converge.scss, styles_custom.scss]
-    respect-user-color-scheme: true
+    theme: [flatly, styles_converge.scss, styles_custom.scss]
+    dark-mode: true
     lang: zh-Hant  # zh-Hant<-- This sets the <html lang="..."> attribute
     css: styles.css
     custom-elements:
