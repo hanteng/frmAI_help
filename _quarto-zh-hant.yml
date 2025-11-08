@@ -2,7 +2,7 @@ encoding: "UTF-8"
 lang: zh-hant
 
 project:
-  type: book
+  type: website #book
   # Define the output directory that will contain the language subfolders
   output-dir: _book/zht
 
@@ -53,15 +53,8 @@ book:
   sharing: [linkedin, twitter, facebook]
 
 bibliography: references.bib
-resources:
-  - styles.css
-  - styles_converge.scss
-  - styles_custom.scss
-  - cover.png
 format:
   html:
-    theme: [flatly, styles_converge.scss, styles_custom.scss]
-    dark-mode: true
     lang: zh-Hant  # zh-Hant<-- This sets the <html lang="..."> attribute
     css: styles.css
     custom-elements:
@@ -71,11 +64,6 @@ format:
       taxonomy:
         text: "分類"
         prefix: "tax"
-    number-sections: true # enable right-hand TOC
-    number-depth: 4
-    toc: true
-    toc-depth: 4
-    toc-location: right
     toc-title: "〜📖本頁章節📑〜"
     section-title-appendices: "🔖附錄與筆記"
     # ✅ 正確的鍵名:

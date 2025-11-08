@@ -1,21 +1,30 @@
 project:
   type: book
-filters:
-  - auto-dark
-
-book:
-  title: "frmAI_help"
-  author: "Han-Teng Liao"
-  date: "07/11/2025"
-  chapters:
-    - file: index.default.md
 
 bibliography: references.bib
+resources:
+  - styles.css
+  - styles_converge.scss
+  - styles_custom.scss
+  - cover.png
 
-format:
+format: 
   html:
+    from: markdown+emoji
+    number-sections: true # enable right-hand TOC
+    number-depth: 4
+    toc: true
+    toc-depth: 4
+    toc-location: right
+    respect-user-color-scheme: true
     theme:
-      - cosmo
-      - brand
+      light: 
+        - flatly
+        - "styles_converge.scss"
+        - "styles_custom.scss"
+      dark: 
+        - darkly
+        - "styles_converge.scss"
+        - "styles_custom.scss"
 #  pdf:
 #    documentclass: scrreprt
