@@ -1,0 +1,12 @@
+<!-- mimic Quarto's website toggle markup -->
+<button id="theme-toggle" class="navbar quarto-color-scheme-toggle">
+  🌗<i class="bi bi-circle-half"></i>
+</button>
+
+<script>
+document.querySelector(".quarto-color-scheme-toggle").onclick = function() {
+  const html = document.documentElement;
+  const current = html.getAttribute("data-bs-theme");
+  html.setAttribute("data-bs-theme", current === "dark" ? "light" : "dark");
+};
+</script>

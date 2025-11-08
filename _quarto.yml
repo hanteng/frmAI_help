@@ -27,6 +27,7 @@ format:
       - "styles_converge.scss"
       - "styles_custom.scss"
     default-mode: light
+    include-after-body: widget_toggle.html
 
 #filters:
 #  - quarto-extra-darkmode   # enables dark/light toggle in book projects
