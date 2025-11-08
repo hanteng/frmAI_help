@@ -14,3 +14,21 @@
     border-radius: 4px;
 }
 /* ... Keep the rest of your original code block fixes (pre, pre code) below ... */
+
+/*-- scss:rules --*/
+
+/* Inline code in light mode */
+code {
+  color: #002147;   /* Oxford Blue text */
+  background-color: transparent;
+}
+
+/* Inline code in dark mode */
+@media (prefers-color-scheme: dark) {
+  code {
+    color: #FFD700;        /* Yellow text */
+    background-color: #002147; /* Oxford Blue background */
+    padding: 2px 4px;
+    border-radius: 4px;
+  }
+}
