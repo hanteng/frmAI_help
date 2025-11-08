@@ -47,6 +47,14 @@
   --bs-navbar-color: var(--bs-gray-100);
 }
 
+[data-bs-theme="light"] .navbar {
+  background-color: var(--bs-gray-200) !important;
+}
+
+[data-bs-theme="dark"] .navbar {
+  background-color: var(--bs-gray-800) !important;
+}
+
 /* 隱藏原始文字，只顯示圖示 */
 .navbar .quarto-color-scheme-toggle .bi {
   display: inline-block;
@@ -54,6 +62,6 @@
 
 /* 加上中文標籤 */
 .navbar .quarto-color-scheme-toggle::after {
-  content: "切換";  /* 你可以改成「深淺模式」或「亮暗」 */
+  content: " 切換";  /* 你可以改成「深淺模式」或「亮暗」 */
   font-size: 0.9em;
 }
