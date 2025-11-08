@@ -1,33 +1,30 @@
 project:
-  type: website #book
-
+  type: website
 bibliography: references.bib
 resources:
-  - styles.css
-  - styles_converge.scss
-  - styles_custom.scss
-  - cover.png
-
+- styles.css
+- styles_converge.scss
+- styles_custom.scss
+- cover.png
 format:
   html:
     from: markdown+emoji
-    number-sections: true # enable right-hand TOC
+    number-sections: true
     number-depth: 4
     toc: true
     toc-depth: 4
     toc-location: right
     respect-user-color-scheme: true
     theme:
-      light: 
-        - flatly
-        - "styles_converge.scss"
-        - "styles_custom.scss"
-      dark: 
-        - darkly
-        - "styles_converge.scss"
-        - "styles_custom.scss"
-#  pdf:
-#    documentclass: scrreprt
-
-filters:
-  - quarto-extra-darkmode
+      light:
+      - flatly
+      - light.scss
+      - "styles_converge.scss"
+      - "styles_custom.scss"
+      dark:
+      - darkly
+      - dark.scss
+      - "styles_converge.scss"
+      - "styles_custom.scss"
+    default-mode: light
+# filters: darkmode  ~ no longer need once the 
