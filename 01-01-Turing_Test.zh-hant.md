@@ -3,7 +3,7 @@ tags:
 - 模仿遊戲
 - 艾倫・圖靈
 ---
-# 圖靈測試🎭🗪 {#sec-turing-test}
+## 圖靈測試🎭🗪 {#sec-turing-test}
 
 `圖靈測試` （Turing Test）指將「_機器能思考嗎？_」問題轉化成「_機器模仿/擬的像嗎？_」的 **模仿遊戲**（The Imitation Game）問題，由艾倫・圖靈（Alan Turing）於 1950 年提出。
 
