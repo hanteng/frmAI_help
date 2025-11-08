@@ -1,11 +1,14 @@
 project:
   type: book
+filters:
+  - auto-dark
 
 book:
   title: "frmAI_help"
   author: "Han-Teng Liao"
   date: "07/11/2025"
-  #chapters:
+  chapters:
+    - file: index.default.md
 
 bibliography: references.bib
 
