@@ -28,3 +28,6 @@ format:
         - "styles_custom.scss"
 #  pdf:
 #    documentclass: scrreprt
+
+filters:
+  - quarto-extra-darkmode
