@@ -2,7 +2,7 @@ encoding: "UTF-8"
 lang: en
 
 project:
-  type: book
+  type: website
   # Define the output directory that will contain the language subfolders
   output-dir: _book/en
 
@@ -21,9 +21,6 @@ resources:
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
     lang: en
     css: styles.css
     custom-elements:
