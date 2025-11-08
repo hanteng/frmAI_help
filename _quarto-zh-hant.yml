@@ -39,9 +39,6 @@ sharing: [linkedin, twitter, facebook]
 
 bibliography: references.bib
 
-filters:
-  - quarto-extra-darkmode   # enables dark/light toggle in book projects
-
 format:
   html:
     lang: zh-Hant
@@ -57,12 +54,3 @@ format:
     crossref-tip-prefix: "提示"
     crossref-tip-title: "提示"
     callout-important-title: "要點"
-    theme:
-      light:
-        - flatly
-        - styles_converge.scss
-        - styles_custom.scss
-      dark:
-        - darkly
-        - styles_converge.scss
-        - styles_custom.scss
