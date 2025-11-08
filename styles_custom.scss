@@ -36,13 +36,13 @@
 }
 
 /* Light mode banner: use mid-gray background, dark text */
-[data-bs-theme="light"] .quarto-banner {
+[data-bs-theme="light"] .navbar  {
   background-color: var(--bs-gray-200) !important;  /* light gray */
   color: var(--bs-gray-900) !important;             /* near black text */
 }
 
 /* Dark mode banner: use dark gray background, light text */
-[data-bs-theme="dark"] .quarto-banner {
+[data-bs-theme="dark"] .navbar  {
   background-color: var(--bs-gray-800) !important;  /* dark gray */
   color: var(--bs-gray-100) !important;             /* light gray text */
 }
