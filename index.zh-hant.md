@@ -96,6 +96,60 @@ tags:
 
 這本手冊在陪伴讀者理解人工智慧不同的`問題意識`及`解決方式`同時，期待也能讓讀者從系統性的理解出發，展開自己**實踐**與**設計**之旅。
 
+## 📐數學與代碼
+
+這本手冊提供基本的數學與代碼介紹，目的是給沒有任何基礎的人，用文字解釋的方式理解運作，讀者可以進一步依需學習。
+
+### 🧮 數學範例
+
+本書含有少量數學公式，主要用來簡要說明，不要求讀者有數學知識：如以下納許均衡（Nash Equilibrium）的數學定義：
+
+$$
+u_i(s_i^*, s_{-i}^*) \;\geq\; u_i(s_i, s_{-i}^*) 
+\quad \forall i \in N, \; \forall s_i \in S_i
+$$
+
+本書定位是科普參考書，相關的數學公式，以降低理解門檻為目標。
+
+### 🛠 Python 範例
+
+本書含有少量代碼，主要展示基本概念的落地實踐，以及各種不同可能的選擇。
+
+如以下的代碼，主要展示脈絡工程如何達成 **事實消歧**（factual disambiguation） 與 **世界紥根**（world grounding），展示脈絡工程如何具體運用 MCP 工具是如何補強 LLM 的不足，還展示可以選擇不同 LLM 的可能。
+
+```python
+# **世界紥根**（world grounding）範例：避免 LLM 在「Georgia」這類歧義問題上產生幻覺。  
+
+from langchain_community.chat_models import ChatOllama
+from langchain_mcp_adapters import initialize_agent_executor_with_mcp
+
+# 1. 定義 LLM 來源
+llm = ChatOllama(model="qwen2.5:1.5b", temperature=0)   # Qwen 模型，本地 Ollama
+# llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)  # 雲端 GPT-4o-mini
+# llm = ChatOllama(model="claude3-haiku", temperature=0) # Claude 小模型，本地 Ollama
+# llm = ChatOllama(model="llama3.2:3b", temperature=0)   # Meta Llama3.2 小模型，本地 Ollama
+
+# 2. 註冊 MCP 伺服器（例如國家查詢）
+mcp_servers = {
+    "country_lookup": {
+        "command": "python",
+        "args": ["./mcp_server_country.py"],  # 提供 ISO 國碼的 MCP 伺服器
+        "transport": "stdio",
+    }
+}
+
+# 3. 初始化 Agent
+executor = initialize_agent_executor_with_mcp(
+    llm=llm,
+    mcp_servers=mcp_servers,
+)
+
+# 4. 問題：需要 factual disambiguation 與 entity grounding
+result = executor.invoke({"input": "消歧 Georgia，並給出可能的 ISO 國碼"})
+print(result)
+```
+
+
 
 ::: {.callout-warning #nte--ed-index title="✎ 編輯筆記" collapse=true open=false}
 - [ ] 逐句**事實查核**
