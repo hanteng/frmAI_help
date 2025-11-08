@@ -12,7 +12,7 @@ language: _language-zh-hant.yml
 website:
   navbar:
     right:
-      - toggle
+      - icon: toggle
   title: "框智格局：AI 賽局手冊"
   sidebar:
     style: "docked"
