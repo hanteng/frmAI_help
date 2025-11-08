@@ -32,10 +32,6 @@ page-footer:
     别名《道／盜智格局：AI 賽局手冊》
     本站使用 <a href="https://quarto.org/">Quarto</a> 製作。
 
-repo-url: https://github.com/hanteng/frmAI_help/
-repo-actions: [edit]
-downloads: [pdf, epub]
-sharing: [linkedin, twitter, facebook]
 
 bibliography: references.bib
 
