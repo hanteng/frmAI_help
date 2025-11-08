@@ -8,7 +8,7 @@ project:
 language: _language-zh-hant.yml 
 
 book:
-  title: "框智格局：AI 賽局手冊"
+  title: "框智格局：<br/><small>AI 賽局手冊</small>"
   author: "廖漢騰"
   chapters:
     - index.zh-hant.md
