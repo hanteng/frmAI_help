@@ -65,5 +65,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: _book
           publish_branch: gh-pages # Or main, depending on your GH Pages config
+          force_orphan: true
           # The destination folder is set by the GH Pages settings, 
           # which should be configured to serve from the 'gh-pages' branch or '_book' folder.
