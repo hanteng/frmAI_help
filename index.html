@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Select Language / 選擇語言</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f8f8f8;
+            color: #333;
+            text-align: center; /* Default for text within container */
+        }
+        .container {
+            max-width: 800px; /* Make the container wider */
+            width: 90%; /* Responsive width */
+            padding: 40px;
+            background-color: #fff;
+            border-radius: 12px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+            display: flex; /* Use flexbox for main content arrangement */
+            flex-direction: column; /* Stack header and main content */
+            align-items: center;
+        }
+        .header-section {
+            width: 100%;
+            margin-bottom: 25px;
+        }
+        .main-content {
+            display: flex; /* Flexbox for cover and buttons */
+            flex-direction: row; /* Buttons left, Cover right */
+            align-items: center; /* Vertically align items in the row */
+            gap: 40px; /* Space between buttons and cover */
+            width: 100%;
+            justify-content: center; /* Center the flex items if space allows */
+        }
+        .buttons-section {
+            width: 33%;
+            display: flex;
+            flex-direction: column; /* Stack buttons vertically */
+            gap: 15px; /* Space between buttons */
+            align-items: flex-start; /* Align buttons to the left within their section */
+            flex-shrink: 0; /* Prevent this section from shrinking */
+            text-align: left; /* Align text within this section */
+        }
+        .book-cover {
+            width: 66%;
+            max-width: 640px; /* Slightly larger max-width for the cover */
+            height: auto;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            flex-shrink: 0; /* Prevent cover from shrinking */
+        }
+        .spinner {
+            border: 4px solid rgba(0, 0, 0, 0.1);
+            border-top: 4px solid #007bff;
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            animation: spin 1s linear infinite;
+            margin-bottom: 15px;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        .lang-button {
+            padding: 12px 25px;
+            border: none;
+            border-radius: 6px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.2s, transform 0.1s;
+            min-width: 180px; /* Ensure buttons have a consistent width */
+        }
+        .en-button {
+            background-color: #007bff;
+            color: white;
+        }
+        .zht-button {
+            background-color: #28a745;
+            color: white;
+        }
+        .lang-button:hover {
+            transform: translateY(-1px);
+        }
+        .countdown {
+            margin-top: 30px; /* Space above countdown */
+            font-size: 15px;
+            color: #666;
+            width: 100%; /* Ensure countdown spans full width */
+        }
+
+        /* Responsive adjustments for smaller screens */
+        @media (max-width: 800px) {
+            .container {
+                padding: 25px;
+                max-width: 95%;
+            }
+            .main-content {
+                flex-direction: column; /* Stack cover and buttons vertically on small screens */
+                gap: 25px;
+            }
+            .buttons-section {
+                align-items: center; /* Center buttons when stacked vertically */
+            }
+            .book-cover {
+                max-width: 720px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header-section">
+            <div class="spinner"></div>
+            <h2 style="margin-top: 0; margin-bottom: 10px;">Welcome! 歡迎!</h2>
+            <p style="margin: 0;">Please select your language version, or the page will redirect automatically.</p>
+            <p style="margin: 5px 0 0 0;">請選擇您的語言版本，否則頁面將自動跳轉。</p>
+        </div>
+
+        <div class="main-content">
+            <div class="buttons-section">
+                <button class="lang-button en-button">
+                    English Version
+                </button>
+                <button class="lang-button zht-button">
+                    繁體中文版本
+                </button>
+            </div>
+            <img src="cover.png" alt="Book Cover" class="book-cover">
+        </div>
+        
+        <div class="countdown">
+            Automatic redirect to <span style="font-weight: bold;"><span id="detected-lang-name">English</span></span> in <span id="timer">5</span> seconds...
+        </div>
+    </div>
+
+    <script>
+        const REDIRECT_TIME = 5; // Seconds
+        let timer = REDIRECT_TIME;
+        let countdownInterval;
+        let redirected = false;
+
+        // --- Language Detection Logic ---
+        const browserLang = navigator.language.toLowerCase();
+        let defaultRedirectPath = '/en/'; // Default fallback
+        let autoRedirectMessage = "English";
+
+        if (browserLang.startsWith('zh')) {
+            defaultRedirectPath = '/zht/';
+            autoRedirectMessage = "繁體中文";
+        }
+        
+        // Update the message displayed to the user
+        document.getElementById('detected-lang-name').textContent = autoRedirectMessage;
+        
+        // Function to handle the redirect and stop the countdown
+        function redirectTo(path) {
+            if (redirected) return;
+            redirected = true;
+            clearInterval(countdownInterval);
+            window.location.replace(path);
+        }
+
+        // Countdown timer function
+        function startCountdown() {
+            countdownInterval = setInterval(() => {
+                timer--;
+                document.getElementById('timer').textContent = timer;
+
+                if (timer <= 0) {
+                    redirectTo(defaultRedirectPath);
+                }
+            }, 1000);
+        }
+        
+        // Attach event listeners to buttons
+        document.querySelector('.en-button').onclick = () => redirectTo('/en/');
+        document.querySelector('.zht-button').onclick = () => redirectTo('/zht/');
+
+        // Start the countdown when the page loads
+        document.addEventListener('DOMContentLoaded', startCountdown);
+    </script>
+</body>
+</html>

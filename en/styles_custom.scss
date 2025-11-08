@@ -1,0 +1,77 @@
+/*-- scss:rules --*/
+/* 1. ULTIMATE FIX FOR LISTING CARD TEXT VISIBILITY (Override everything) */
+[data-bs-theme="dark"] .listing-card * {
+    /* Use !important to override everything */
+    color: var(--bs-light) !important;
+}
+
+/* 2. Fix for Inline Code (e.g., `code`) */
+[data-bs-theme="dark"] code {
+    /* ... (The rest of your code block rules) ... */
+    color: var(--bs-warning) !important; 
+    background-color: #3f4449 !important; 
+    padding: 2px 4px;
+    border-radius: 4px;
+}
+/* ... Keep the rest of your original code block fixes (pre, pre code) below ... */
+
+/*-- scss:rules --*/
+
+/* Inline code */
+/* Inline code in light mode */
+[data-bs-theme="light"] code {
+  color: #002147;   /* Oxford Blue text */
+  background-color: transparent;
+}
+
+
+/* Inline code in dark mode */
+@media (prefers-color-scheme: dark) {
+  code {
+    color: #FFD700;        /* Yellow text */
+    background-color: #002147; /* Oxford Blue background */
+    padding: 2px 4px;
+    border-radius: 4px;
+  }
+}
+
+/* Light mode navbar */
+[data-bs-theme="light"] .navbar {
+  --bs-navbar-bg: var(--bs-gray-200);   /* light gray */
+  --bs-navbar-color: var(--bs-gray-900);
+}
+
+/* Dark mode navbar */
+[data-bs-theme="dark"] .navbar {
+  --bs-navbar-bg: var(--bs-gray-800);   /* dark gray */
+  --bs-navbar-color: var(--bs-gray-100);
+}
+
+[data-bs-theme="light"] .navbar {
+  background-color: var(--bs-gray-200) !important;
+}
+
+[data-bs-theme="dark"] .navbar {
+  background-color: var(--bs-gray-800) !important;
+}
+
+/* 隱藏原始文字，只顯示圖示 */
+.quarto-color-scheme-toggle .bi {
+  display: inline-block;
+}
+/* Optionally enlarge the whole toggle link */
+.quarto-color-scheme-toggle {
+  padding: 0.5rem;  /* adjust spacing so it doesn’t look cramped */
+}
+
+/* 加上中文標籤 */
+.quarto-color-scheme-toggle::before {
+  content: "切換 ";  /* 你可以改成「深淺模式」或「亮暗」 */
+  font-size: 0.9em;
+}
+
+/* Float the toggle to the top-right of the sidebar */
+.quarto-navigation-tool.quarto-color-scheme-toggle {
+  display: inline-flex;
+  align-items: right;
+}
