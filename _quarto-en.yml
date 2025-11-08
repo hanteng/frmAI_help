@@ -6,7 +6,11 @@ project:
   # Define the output directory that will contain the language subfolders
   output-dir: _book/en
 
-book:
+#book:
+website:
+  navbar:
+    right:
+      - toggle
   # The base list of chapters (Quarto will look for the language-specific version)
   title: "Framing AI"
   author: "Han-Teng Liao"
