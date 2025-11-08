@@ -56,12 +56,24 @@
 }
 
 /* 隱藏原始文字，只顯示圖示 */
-.navbar .quarto-color-scheme-toggle .bi {
+.quarto-color-scheme-toggle .bi {
   display: inline-block;
+  font-size: 2em;   /* 2x the normal size */
+}
+/* Optionally enlarge the whole toggle link */
+.quarto-color-scheme-toggle {
+  font-size: 2em;   /* scales text + icon */
+  padding: 0.5rem;  /* adjust spacing so it doesn’t look cramped */
 }
 
 /* 加上中文標籤 */
-.navbar .quarto-color-scheme-toggle::after {
+.quarto-color-scheme-toggle::after {
   content: " 切換";  /* 你可以改成「深淺模式」或「亮暗」 */
   font-size: 0.9em;
+}
+
+/* Float the toggle to the top-right of the sidebar */
+.quarto-navigation-tool.quarto-color-scheme-toggle {
+  display: inline-flex;
+  align-items: right;
 }
