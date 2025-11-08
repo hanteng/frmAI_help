@@ -19,10 +19,11 @@
 
 /* Inline code */
 /* Inline code in light mode */
-code {
+[data-bs-theme="light"] code {
   color: #002147;   /* Oxford Blue text */
   background-color: transparent;
 }
+
 
 /* Inline code in dark mode */
 @media (prefers-color-scheme: dark) {
@@ -32,4 +33,16 @@ code {
     padding: 2px 4px;
     border-radius: 4px;
   }
+}
+
+/* Light mode banner: use mid-gray background, dark text */
+[data-bs-theme="light"] .quarto-banner {
+  background-color: var(--bs-gray-200) !important;  /* light gray */
+  color: var(--bs-gray-900) !important;             /* near black text */
+}
+
+/* Dark mode banner: use dark gray background, light text */
+[data-bs-theme="dark"] .quarto-banner {
+  background-color: var(--bs-gray-800) !important;  /* dark gray */
+  color: var(--bs-gray-100) !important;             /* light gray text */
 }
