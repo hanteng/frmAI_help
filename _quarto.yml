@@ -1,5 +1,5 @@
 project:
-  type: book
+  type: website #book
 
 bibliography: references.bib
 resources:
@@ -8,7 +8,7 @@ resources:
   - styles_custom.scss
   - cover.png
 
-format: 
+format:
   html:
     from: markdown+emoji
     number-sections: true # enable right-hand TOC
