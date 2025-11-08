@@ -2,73 +2,67 @@ encoding: "UTF-8"
 lang: zh-hant
 
 project:
-  type: website #book
-  # Define the output directory that will contain the language subfolders
+  type: book
   output-dir: _book/zht
 
 language: _language-zh-hant.yml 
-#book:
-#  author: "廖漢騰"
-website:
-  navbar:
-    right:
-      - icon: toggle
+
+book:
   title: "框智格局：AI 賽局手冊"
-  sidebar:
-    style: "docked"
-    #style: "floating"
-    search: true
-    collapse-level: 1
-    section-numbers: true
-    contents:
-      - section: "導言"
-        contents:
-          - index.zh-hant.md
-          - notes-mental_fill-in.zh-hant.md
-          - notes-constructive_fill-in.zh-hant.md
-      - section: "01----problematics.zh-hant.md"
-        contents:
-          - 01-01-Turing_Test.zh-hant.md
-          - 01-02-Chinese_Room.zh-hant.md
-          - 01-03-Symbol_Grounding_Problem.zh-hant.md
-          - 01-04-Frame_Problem.zh-hant.md
-          - 01-05-Gestalt_Psychology.zh-hant.md
-          - 01-06-Alignment_Control_Problem.zh-hant.md
-          - 01-07-Language_Games.zh-hant.md
-  page-footer:
-    left: |
-      《框智格局：AI 賽局手冊》
-       (預印版) Han-Teng Liao
-    right: |
-      别名《道／盜智格局：AI 賽局手冊》
-      本站使用 <a href="https://quarto.org/">Quarto</a> 製作。
-  # cover-image: cover.png ?for book project
-  # favicon: cover.png ?for book project
-  repo-url: https://github.com/hanteng/frmAI_help/
-  repo-actions: [edit]
-  # downloads: [pdf, epub]  ? for book project
-  # sharing: [linkedin, twitter, facebook] ? for book project
+  author: "廖漢騰"
+  chapters:
+    - index.zh-hant.md
+    - notes-mental_fill-in.zh-hant.md
+    - notes-constructive_fill-in.zh-hant.md
+    - part: "01----problematics.zh-hant.md"
+      chapters:
+        - 01-01-Turing_Test.zh-hant.md
+        - 01-02-Chinese_Room.zh-hant.md
+        - 01-03-Symbol_Grounding_Problem.zh-hant.md
+        - 01-04-Frame_Problem.zh-hant.md
+        - 01-05-Gestalt_Psychology.zh-hant.md
+        - 01-06-Alignment_Control_Problem.zh-hant.md
+        - 01-07-Language_Games.zh-hant.md
+
+page-footer:
+  left: |
+    《框智格局：AI 賽局手冊》
+     (預印版) Han-Teng Liao
+  right: |
+    别名《道／盜智格局：AI 賽局手冊》
+    本站使用 <a href="https://quarto.org/">Quarto</a> 製作。
+
+repo-url: https://github.com/hanteng/frmAI_help/
+repo-actions: [edit]
+downloads: [pdf, epub]
+sharing: [linkedin, twitter, facebook]
 
 bibliography: references.bib
+
+filters:
+  - quarto-extra-darkmode   # enables dark/light toggle in book projects
+
 format:
   html:
-    lang: zh-Hant  # zh-Hant<-- This sets the <html lang="..."> attribute
+    lang: zh-Hant
     css: styles.css
-    custom-elements:
-      model:
-        text: "模型"
-        prefix: "mod" 
-      taxonomy:
-        text: "分類"
-        prefix: "tax"
+    toc: true
+    toc-location: right
     toc-title: "〜📖本頁章節📑〜"
+    number-sections: true
+    number-depth: 4
     section-title-appendices: "🔖附錄與筆記"
-    # ✅ 正確的鍵名:
-    #toc-title-document: "〜本頁章節目錄〜"
     crossref-nte-prefix: "註釋"
     crossref-nte-title: "註釋"
     crossref-tip-prefix: "提示"
     crossref-tip-title: "提示"
     callout-important-title: "要點"
-#  pdf:
-#    documentclass: scrreprt
+    theme:
+      light:
+        - flatly
+        - styles_converge.scss
+        - styles_custom.scss
+      dark:
+        - darkly
+        - styles_converge.scss
+        - styles_custom.scss
