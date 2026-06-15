@@ -8,7 +8,7 @@ project:
 # language: _language-zh-hant.yml 
 
 book:
-  title: "Harnessing Intelligence：<br/><small>AI Game Playbook</small>"
+  title: "Harnessing Intelligence:<br/><small>AI Game Playbook</small>"
   author: "Han-Teng Liao"
   chapters:
     - index.zh-hant.md
@@ -16,7 +16,7 @@ book:
     - notes-constructive_fill-in.zh-hant.md
     - part: "01----problematics.zh-hant.md"
       chapters:
-        - 01-01-Turing_Test.zh-hant.md
+        - 01-01-Turing_Test.en.md
         - 01-02-Chinese_Room.zh-hant.md
         - 01-03-Symbol_Grounding_Problem.zh-hant.md
         - 01-04-Frame_Problem.zh-hant.md
