@@ -11,9 +11,10 @@ book:
   title: "框智格局：<br/><small>AI 賽局手冊</small>"
   author: "廖漢騰"
   chapters:
-    - index.zh-hant.md
-    - notes-mental_fill-in.zh-hant.md
-    - notes-constructive_fill-in.zh-hant.md
+    - file: index.zh-hant.md
+    - file: notes-mental_fill-in.zh-hant.md
+    - file: notes-constructive_fill-in.zh-hant.md
+    - file: toc.zh-hant.md         # This page will display the full TOC/Listings
     - part: "01----problematics.zh-hant.md"
       chapters:
         - 01-01-Turing_Test.zh-hant.md
