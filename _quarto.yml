@@ -1,41 +1,6 @@
 project:
-  type: book
-
-book:
-  repo-url: https://github.com/hanteng/frmAI_help/
-  repo-actions: [edit]
-  #downloads: [pdf, epub]
-  sharing: [linkedin, twitter, facebook]
-
-bibliography: references.bib
-resources:
-- styles.css
-- styles_converge.scss
-- styles_custom.scss
-- cover.png
-format:
-  html:
-    from: markdown+emoji
-    number-sections: true
-    number-depth: 4
-    toc: true
-    toc-depth: 4
-    toc-location: right
-    respect-user-color-scheme: true
-    theme:
-      light:
-      - flatly
-      - light.scss
-      - "styles_converge.scss"
-      - "styles_custom.scss"
-      dark:
-      - darkly
-      - dark.scss
-      - "styles_converge.scss"
-      - "styles_custom.scss"
-    default-mode: light
-    include-in-header: toggle.js   # injects the missing JS
-
-#filters:
-#  - quarto-extra-darkmode   # enables dark/light toggle in book projects
-# filters: darkmode  ~ no longer need once the 
+  type: website
+  output-dir: _site
+  render:
+    - "!*.en.md"
+    - "!*.zh-hant.md"

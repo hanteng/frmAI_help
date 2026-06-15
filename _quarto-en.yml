@@ -2,50 +2,52 @@ encoding: "UTF-8"
 lang: en
 
 project:
-  type: website
-  # Define the output directory that will contain the language subfolders
+  type: book
   output-dir: _book/en
 
-#book:
-#  author: "Han-Teng Liao"
+# language: _language-zh-hant.yml 
 
-website:
-  navbar:
-    right:
-      - toggle
-  # The base list of chapters (Quarto will look for the language-specific version)
-  title: "Framing AI"
-  sidebar:
-    style: docked
-    search: true
-    contents:
-      - section: "Introduction"
-        contents:
-          - file: index.en.qmd
-      #- section: "Problematics"
+book:
+  title: "Harnessing Intelligence：<br/><small>AI Game Playbook</small>"
+  author: "Han-Teng Liao"
+  chapters:
+    - index.zh-hant.md
+    - notes-mental_fill-in.zh-hant.md
+    - notes-constructive_fill-in.zh-hant.md
+    - part: "01----problematics.zh-hant.md"
+      chapters:
+        - 01-01-Turing_Test.zh-hant.md
+        - 01-02-Chinese_Room.zh-hant.md
+        - 01-03-Symbol_Grounding_Problem.zh-hant.md
+        - 01-04-Frame_Problem.zh-hant.md
+        - 01-05-Gestalt_Psychology.zh-hant.md
+        - 01-06-Alignment_Control_Problem.zh-hant.md
+        - 01-07-Language_Games.zh-hant.md
+
+page-footer:
+  left: |
+    《框智格局：AI 賽局手冊》
+     (預印版) Han-Teng Liao
+  right: |
+    别名《道／盜智格局：AI 賽局手冊》
+    本站使用 <a href="https://quarto.org/">Quarto</a> 製作。
+
 
 bibliography: references.bib
-resources:
-  - styles.css
 
 format:
   html:
-    lang: en
+    lang: zh-Hant
     css: styles.css
-    custom-elements:
-      model:
-        text: "Models"
-        prefix: "mod" 
-      taxonomy:
-        text: "Taxonomy"
-        prefix: "tax"
-    number-sections: true # enable right-hand TOC
-    number-depth: 4
     toc: true
-    toc-depth: 4
     toc-location: right
-#  pdf:
-#    documentclass: scrreprt
-
-
+    toc-title: "〜📖本頁章節📑〜"
+    number-sections: true
+    number-depth: 4
+    section-title-appendices: "🔖附錄與筆記"
+    crossref-nte-prefix: "註釋"
+    crossref-nte-title: "註釋"
+    crossref-tip-prefix: "提示"
+    crossref-tip-title: "提示"
+    callout-important-title: "要點"
 

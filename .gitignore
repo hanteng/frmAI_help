@@ -2,3 +2,5 @@
 /_book
 **/*.quarto_ipynb
 .nojekyll
+
+/.luarc.json
