@@ -10,15 +10,13 @@ The `Turing Test` shifts the fundamental inquiry of computer science from the ab
 
 ### ㉄ The Imitation Game and AI Problematics
 
-Turing described far more than a simple technical milestone; he established the foundational **problematics**—the essential framework of investigative questions—that characterize artificial intelligence as something that can be tested operationally. What constitutes intelligence? How does it manifest? And by what criteria can an external observer recognize it?
+More than simply describing a technical challenge, Turing established the core **problematics**—the essential framework of investigative questions—that characterize artificial intelligence as a field that can be tested operationally. What constitutes intelligence? How does it manifest? And how do human observers recognize it? By what criteria?
 
 > *"Can machines imitate human behavior convincingly?"*
 
-In his seminal paper, 'Computing Machinery and Intelligence', Turing operationalized these inquiries through a text-based setup. By requiring a machine to simulate human conversation, he challenged it to deceive a human interrogator into an inability to distinguish between human and computational responses. Turing famously predicted that by the year 2000, machines would pass the test, successfully deceiving at least 30 per cent of human judges during a five-minute keyboard dialogue.
+In his seminal paper, *Computing Machinery and Intelligence*, Turing operationalized these inquiries through a concrete text-based setup. By requiring a machine to **simulate human conversation**, he challenged it to mislead a human interrogator: a machine must successfully deceive at least 30 per cent of human judges during a five-minute keyboard dialogue to pass the test.
 
-In his seminal paper, *Computing Machinery and Intelligence*, Turing operationalized these inquiries through a text-based setup. By requiring a machine to **simulate human conversation**, he challenged it to deceive a human interrogator into an inability to distinguish between human and computational responses. 
-
-Turing famously predicted that by the year 2000 (within half a century), machines would successfully pass the test, successfully deceiving at least 30 per cent of human judges during a five-minute keyboard dialogue.
+Turing famously predicted that by the year 2000 (within half a century), machines would successfully pass the test. **The Imitation Game** becomes the play of the AI century.
 
 ### ✨ Profound Implications
 
@@ -35,6 +33,14 @@ Consequently, the Turing Test functions not merely as a technical benchmark, but
 In contemporary discourse, the Turing Test serves as a universal shorthand for any **empirical assessment that evaluates intelligence via behavioral performance output.**   While modern ***[Generative AI](06-05-analysis_generative.en)** and **[Large Language Models (LLMs)](02-07-large_language_models.en)** (arriving roughly 20 years later than Turing originally anticipated) cleared multiple variations of this test—demonstrating unprecedented linguistic fluency—their success paradoxically highlights the test’s **fundamental limitations**.
 
 The core vulnerability remains an unresolved tension: *Does sophisticated behavioral simulation truly equate to genuine semantic understanding?*
+
+Ultimately, this tension forces us to confront the defining question of the AI century: Is the machine's true objective to deceive or to convince?
+
+In 1950, Turing’s game was explicitly a dance of deception—a behavioral trick designed to fool a human judge behind a closed screen. Today, however, the paradigm has shifted. As AI transitions into autonomous agents and collaborative tools, the machine no longer hides its synthetic nature; instead, it aims to convince us. It seeks to convince us of its reliability, its analytical authority, and its alignment with human intent through seamless linguistic mastery.
+
+Whether through the historical lens of mimicry or the modern era of persuasion, the underlying gap between elegant performance and genuine conscious understanding remains wide open. This is the exact dilemma that invites us directly into the Chinese Room.
+
+---
 
 ### 👉 Progression of the Scaffold
 
