@@ -2,6 +2,8 @@
 tags:
 - The Imitation Game
 - Alan Turing
+bibliography: references.bib
+csl: apa-single-spaced.csl
 ---
 
 ## Turing Test 🎭🗪 {#sec-turing-test}
@@ -14,9 +16,13 @@ More than simply describing a technical challenge, Turing established the core *
 
 > *"Can machines imitate human behavior convincingly?"*
 
-In his seminal paper, *Computing Machinery and Intelligence*, Turing operationalized these inquiries through a concrete text-based setup. By requiring a machine to **simulate human conversation**, he challenged it to mislead a human interrogator: a machine must successfully deceive at least 30 per cent of human judges during a five-minute keyboard dialogue to pass the test.
+In his seminal paper *Computing Machinery and Intelligence*, Turing operationalized these inquiries through a concrete text-based setup. By requiring a machine to **simulate human conversation**, he challenged it to mislead a human interrogator.
 
-Turing famously predicted that by the year 2000 (within half a century), machines would successfully pass the test. **The Imitation Game** becomes the play of the AI century.
+Turing himself offered one concrete prediction: that within fifty years, computers would perform well enough in the imitation game that an average interrogator would have no more than a 70 per cent chance of making the correct identification after five minutes of questioning [@turing1950]. 
+
+(This prediction is often restated as a machine needing to "fool 30 per cent of judges" — but it is important to note that Turing framed this as a personal forecast, not a formal pass criterion. The codification of the 30 per cent threshold as a standard benchmark came from later philosophical and experimental literature [@moor1976; @moor2003].)
+
+**The Imitation Game** becomes the play of the AI century.
 
 ### ✨ Profound Implications
 
