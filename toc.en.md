@@ -78,16 +78,16 @@
 	* **10.4** 🌉🔗📒 [知識驅動生成（RAG）](10-04-retrieval_augmented_generation.zh-hant.md)（Retrieval-Augmented Generation）
 	* **10.5** 🌉🪟🧭 [脈絡工程](10-05-context_engineering.zh-hant.md)（Context Engineering） 
 	* **10.6** 🎁🌱🚀 [AI 產品經理](10-06-AI_PM.zh-hant.md)（AI Product Management）
-* 📚 [參考書目](references.zh-hant.qmd)
-- **🔖附錄與筆記**：
-	- A. 💪[行動](appendix-action.zh-hant.qmd)：「行動協奏」〜 聚焦 **動詞** 
-	- B. 🧠[心智](appendix-brain.zh-hant.md)：「道智修行」〜 聚焦 **名詞** 
-	* C. 🪜[能力](appendix-cognitive_capacity.zh-hant.md)：「建補鷹架」〜 聚焦 **名詞➕動詞** 
-	* D. ⚙[API分類](appendix-MCP_API.zh-hant.md)
-	* E. 本書🌌[心智圖](appendix-mindmap.zh-hant.qmd)
-	* F. 📔 [封面封底書脊](cover_back.zh-hant.md)
-	* G. 🔖[詞彙表](glossary.zh-hant.md)
-		* 🧠 [心智能力](notes-constructive_fill-in.zh-hant.md) 🐸🐘🧘
-		* 🧠🧞‍♀️ [〜語言賽局腦補機](notes-mental_fill-in.zh-hant.html)
-		* 🪜👨‍👩‍👧‍👦 〜家長篇~傳承 appendix-cognitive_capacity.zh-hant.md#parents
-		* 🪜🧘 〜自學篇~紥根 appendix-cognitive_capacity.zh-hant.md#learners
+* 📚 [Bibliography](references.zh-hant.qmd)
+* **🔖 Appendices & Notes**：
+	* A. 💪[Action](appendix-action.zh-hant.qmd)："Action Concerto" 〜 Focusing on **Verbs** 
+	* B. 🧠[Brain](appendix-brain.zh-hant.md)："Naming Intelligence" 〜 Focusing on **Nouns** 
+	* C. 🪜[Cognitive Capacity](appendix-cognitive_capacity.zh-hant.md)："Framing Scaffolding" 〜 Focusing on **Nouns ➕ Verbs** 
+	* D. ⚙[MCP/API Classification](appendix-MCP_API.zh-hant.md)
+	* E. 🌌[Mindmap](appendix-mindmap.zh-hant.qmd)
+	* F. 📔[Cover, Back Cover, and Spine](cover_back.zh-hant.md)
+	* G. 🔖[Glossary](glossary.zh-hant.md)
+		* 🧠 [Cognitive Fill-in](notes-constructive_fill-in.zh-hant.md) 🐸🐘🧘
+		* 🧠🧞‍♀️ [〜Language Game Mental Fill-in Engines](notes-mental_fill-in.zh-hant.html)
+		* 🪜👨‍👩‍👧‍👦 〜Parent's Edition: Legacy appendix-cognitive_capacity.zh-hant.md#parents
+		* 🪜🧘 〜Learner's Edition: Setting Roots appendix-cognitive_capacity.zh-hant.md#learners      

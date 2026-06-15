@@ -79,9 +79,9 @@
 	* **10.5** 🌉🪟🧭 [脈絡工程](10-05-context_engineering.zh-hant.md)（Context Engineering） 
 	* **10.6** 🎁🌱🚀 [AI 產品經理](10-06-AI_PM.zh-hant.md)（AI Product Management）
 * 📚 [參考書目](references.zh-hant.qmd)
-- **🔖附錄與筆記**：
-	- A. 💪[行動](appendix-action.zh-hant.qmd)：「行動協奏」〜 聚焦 **動詞** 
-	- B. 🧠[心智](appendix-brain.zh-hant.md)：「道智修行」〜 聚焦 **名詞** 
+* **🔖附錄與筆記**：
+	* A. 💪[行動](appendix-action.zh-hant.qmd)：「行動協奏」〜 聚焦 **動詞** 
+	* B. 🧠[心智](appendix-brain.zh-hant.md)：「道智修行」〜 聚焦 **名詞** 
 	* C. 🪜[能力](appendix-cognitive_capacity.zh-hant.md)：「建補鷹架」〜 聚焦 **名詞➕動詞** 
 	* D. ⚙[API分類](appendix-MCP_API.zh-hant.md)
 	* E. 本書🌌[心智圖](appendix-mindmap.zh-hant.qmd)
