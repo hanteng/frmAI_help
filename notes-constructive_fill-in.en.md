@@ -10,7 +10,7 @@ editor:
     references: 
       location: block
 ---
-# 📑筆記~🙶補全🙷知行合一 {.unnumbered}
+# 📑❝Constructive Fill-ins❞: Cognitive Unity of Knowledge and Action {.unnumbered}
 
 > ⚡🔥 **一次 ChatGPT 問答 ≈ 0.43 Wh**，算算 2025 年總能耗？  
 >  

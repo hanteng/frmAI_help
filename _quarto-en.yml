@@ -12,7 +12,7 @@ book:
   author: "Han-Teng Liao"
   chapters:
     - file: index.en.md
-    #- file: notes-mental_fill-in.zh-hant.md
+    - file: notes-mental_fill-in.en.md
     - file: notes-constructive_fill-in.en.md
     - file: toc.en.md         # This page will display the full TOC/Listings
     - part: "01----problematics.zh-hant.md"
