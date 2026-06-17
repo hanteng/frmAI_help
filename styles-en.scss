@@ -1,20 +1,34 @@
 /*-- scss:defaults --*/
 
-// 1. 定義 Bootstrap 的側邊欄預設寬度變數（覆蓋 Quarto 內建預設值）
-$sidebar-width: 360px; 
+// 1. 設定 Bootstrap 與 Quarto 英文側邊欄的基礎寬度變數（預設通常只有 250px）
+$sidebar-width: 320px; 
 
 
 /*-- scss:rules --*/
 
-// 2. 強制設定左側邊欄元素的實體寬度
-#quarto-sidebar {
-  width: 360px !important;
-}
-
-// 3. 調整中間主要內容區塊的網格佈局（當螢幕寬度大於 992px 桌面版時生效）
-// 確保主內文會從 360px 之後才開始渲染，避免文字重疊
+// 2. 當螢幕寬度大於 992px（桌面版）時，重新分配三欄式網格
+// Quarto Book 預設的 grid-template-columns 會導致文字擠壓，我們必須重新微調它
 @media (min-width: 992px) {
   #quarto-content.quarto-container {
-    grid-template-columns: 360px 1fr;
+    // 關鍵修正：給左邊欄 320px，中間主內文自動分配（1fr），右邊 TOC 220px
+    grid-template-columns: 320px 1fr 220px !important;
+    column-gap: 25px; /* 增加欄與欄之間的呼吸空隙，防止字體黏在一起 */
   }
+
+  // 強制設定左側導覽列的實體寬度與變數同步
+  #quarto-sidebar {
+    width: 320px !important;
+  }
+}
+
+// 3. 微調英文標題的大小，避免像截圖中 Harnessing Intelligence 巨大字體塞不下而折行
+. quat-title, h1.title {
+  font-size: 2.25rem !important;
+  line-height: 1.2 !important;
+  margin-bottom: 0.5rem;
+}
+
+small {
+  font-size: 0.65times !important;
+  color: #555;
 }
