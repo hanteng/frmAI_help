@@ -1,31 +1,31 @@
-# ⸻📖目錄📑⸻ {.unnumbered}
-* 🤗序言 〜  🙩 [《框智格局：人工智慧知行鷹架手冊》](index.zh-hant.md)
-* 💬導論 ~  [❝腦補❞ 知行捷徑](notes-mental_fill-in.zh-hant.md)
-* 📑筆記 ~  [🙶補全🙷 知行合一](notes-constructive_fill-in.zh-hant)
+# ⸻📖Table of Contents📑⸻ {.unnumbered}
+* 🤗Preface 〜  🙩 [《Harnessing Intelligence: AI Game Playbook for Cognitive Scaffolding](index.zh-hant.md)
+* 💬Introduction ~  [❝Mental Fill-ins❞: Cognitive Shortcuts](notes-mental_fill-in.zh-hant.md)
+* 📑Notes ~  [❝Constructive Fill-ins❞: Cognitive Unity of Knowledge and Action](notes-constructive_fill-in.zh-hant)
 * [01 ㉄](01----problematics.zh-hant.md)　AI Problematics
-	* **1.1** 🎭🗪 [圖靈測試](01-01-Turing_Test.zh-hant.md)（Turing Test）
-	* **1.2** 🧱🗣️ [中文房間](01-02-Chinese_Room.zh-hant.md)（Chinese Room）
-	* **1.3** 🔤⚓ [符碼紮根問題](01-03-Symbol_Grounding_Problem.zh-hant.md)（Symbol Grounding Problem）
-	* **1.4** 🖼️⏱️ [框架問題](01-04-Frame_Problem.zh-hant.md)（Frame Problem）
-	* **1.5** 👁️⯊ [完形心理](01-05-Gestalt_Psychology.zh-hant.md)（Gestalt Psychology）
-	* **1.6** 🎯🛡️ [對齊與控制問題](01-06-Alignment_Control_Problem.zh-hant.md)（AI Alignment & Control Problem）
-	* **1.7** 🗫🎲 [語言賽局](01-07-Language_Games.zh-hant.md)（Language Games）
+	* **1.1** 🎭🗪 [Turing Test](01-01-Turing_Test.zh-hant.md)
+	* **1.2** 🧱🗣️ [Chinese Room](01-02-Chinese_Room.zh-hant.md)
+	* **1.3** 🔤⚓ [Symbol Grounding Problem](01-03-Symbol_Grounding_Problem.zh-hant.md)
+	* **1.4** 🖼️⏱️ [Frame Problem](01-04-Frame_Problem.zh-hant.md)
+	* **1.5** 👁️⯊ [Gestalt Psychology](01-05-Gestalt_Psychology.zh-hant.md)
+	* **1.6** 🎯🛡️ [AI Alignment & Control Problem](01-06-Alignment_Control_Problem.zh-hant.md)
+	* **1.7** 🗫🎲 [Language Games](01-07-Language_Games.zh-hant.md)
 * [02 🎏🏮](02----schools_paradigms.zh-hant.md)　Schools & Paradigms
-	* **2.1** 🎏🏛️ [符號流／邏輯主義](02-01-symbolic_ai.zh-hant.md) AI（Symbolic AI / Logicism）
-	* **2.2** 🎏🌀 [統計流](02-02-statistical_ai.zh-hant.md) AI（Statistical AI）
-	* **2.3** 🎏🧠 [神經－符號合流](02-03-neurosymbolic_ai.zh-hant.md) AI（Neuro-Symbolic AI）
-	* **2.4** 🪙🫣 [AGI 人工通用智慧](02-04-agi.zh-hant.md)（AGI）
-	* **2.5** 🏮🧬 [連結主義](02-05-connectionism.zh-hant.md)（Connectionism）
-	* **2.6** 🏮💪 [行為主義](02-06-behaviorism.zh-hant.md)（Behaviorism）
-	* **2.7** 😵‍💫🧞‍♀️ [大語言模型](02-07-large_language_models.zh-hant.md)（Large Language Models）
+	* **2.1** 🎏🏛️ [Symbolic AI / Logicism](02-01-symbolic_ai.zh-hant.md)
+	* **2.2** 🎏🌀 [Statistical AI](02-02-statistical_ai.zh-hant.md)
+	* **2.3** 🎏🧠 [Neuro-Symbolic AI](02-03-neurosymbolic_ai.zh-hant.md)
+	* **2.4** 🪙🫣 [AGI](02-04-agi.zh-hant.md)
+	* **2.5** 🏮🧬 [Connectionism](02-05-connectionism.zh-hant.md)
+	* **2.6** 🏮💪 [Behaviorism](02-06-behaviorism.zh-hant.md)
+	* **2.7** 😵‍💫🧞‍♀️ [Large Language Models](02-07-large_language_models.zh-hant.md)
 * [03 🏛️](03----symbolic_ai.zh-hant.md)　Symbolic AI
-	* **3.1** 🏛️⊨∴ [形式邏輯](03-01-formal_logic.zh-hant.md)（Formal Logic）
-	* **3.2** 🏛️🤖💬 [自動對話系統](03-02-automatic_dialogue_systems.zh-hant.md)（Automatic Dialogue Systems）
-	* **3.3** 🏛️🎁🧠 [專家系統](03-03-expert_systems.zh-hant.md)（Expert Systems）
-	* **3.4** 🏛️🛠️🏗️ [知識表徵](03-04-knowledge_representation.zh-hant.md)（Knowledge Representation）
-	* **3.5** 🏛️🕸💡 [知識圖譜](03-05-knowledge_graph.zh-hant.md)（Knowledge Graphs）
-	* **3.6** 🏛️🌐🔗 [語意網](03-06-semantic_web.zh-hant.md)（Semantic Web）
-	* **3.7** 🏛️🌌🗺️ [本體論](03-07-ontology.zh-hant.md)（Ontology）
+	* **3.1** 🏛️⊨∴ [Formal Logic](03-01-formal_logic.zh-hant.md)
+	* **3.2** 🏛️🤖💬 [Automatic Dialogue Systems](03-02-automatic_dialogue_systems.zh-hant.md)
+	* **3.3** 🏛️🎁🧠 [Expert Systems](03-03-expert_systems.zh-hant.md)
+	* **3.4** 🏛️🛠️🏗️ [Knowledge Representation](03-04-knowledge_representation.zh-hant.md)
+	* **3.5** 🏛️🕸💡 [Knowledge Graphs](03-05-knowledge_graph.zh-hant.md)
+	* **3.6** 🏛️🌐🔗 [Semantic Web](03-06-semantic_web.zh-hant.md)
+	* **3.7** 🏛️🌌🗺️ [Ontology](03-07-ontology.zh-hant.md)
 * [04 🌀](04----statistical_ai.zh-hant.md) Statistical AI
 	* **4.1** 🌀🎲🌿 [Probabilistic Association](04-01-probabilistic_association.zh-hant.md)
 	* **4.2** 🌀🧞‍♀️🗪 [LLM-based Chatbots](04-02-llm_chatbots.zh-hant.md)

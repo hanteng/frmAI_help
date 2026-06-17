@@ -11,10 +11,10 @@ book:
   title: "Harnessing Intelligence:<br/><small>AI Game Playbook</small>"
   author: "Han-Teng Liao"
   chapters:
-    - file: index.zh-hant.md
-    - file: notes-mental_fill-in.zh-hant.md
-    - file: notes-constructive_fill-in.zh-hant.md
-    - file: toc.zh-hant.md         # This page will display the full TOC/Listings
+    #- file: index.zh-hant.md
+    #- file: notes-mental_fill-in.zh-hant.md
+    #- file: notes-constructive_fill-in.zh-hant.md
+    - file: toc.en.md         # This page will display the full TOC/Listings
     - part: "01----problematics.zh-hant.md"
       chapters:
         - 01-01-Turing_Test.en.md
