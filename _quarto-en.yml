@@ -45,6 +45,11 @@ format:
     toc: true
     toc-location: right
     toc-title: "〜📖 On This Page 📑〜" # 順手將英文版的 TOC 標題中文化改為英文
+    grid:
+      sidebar-width: 330px    # Widened to give long English chapter titles room
+      body-width: 850px       # Comfortable reading area for technical prose
+      margin-width: 260px     # Keeps the Right TOC perfectly stable and distinct
+      gutter-width: 1.5rem    # The air/padding between your three columns
     number-sections: true
     number-depth: 4
     section-title-appendices: "🔖 Appendices & Notes"
