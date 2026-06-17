@@ -27,41 +27,41 @@
 	* **3.6** 🏛️🌐🔗 [語意網](03-06-semantic_web.zh-hant.md)（Semantic Web）
 	* **3.7** 🏛️🌌🗺️ [本體論](03-07-ontology.zh-hant.md)（Ontology）
 * [04 🌀](04----statistical_ai.zh-hant.md) Statistical AI
-	* **4.1** 🌀🎲🌿 [機率性關聯](04-01-probabilistic_association.zh-hant.md)（Probabilistic Association）
-	* **4.2** 🌀🧞‍♀️🗪 [LLM聊天機器人](04-02-llm_chatbots.zh-hant.md)（LLM-based Chatbots）
-	* **4.3** 🌀🪢🧠 [神經網路](04-03-neural_networks.zh-hant.md)（Neural Networks）
-	* **4.4** 🌀🛠️🤏 [特徵工程](04-04-feature_engineering.zh-hant.md)（Feature Engineering）
-	* **4.5** 🌀🤖📦 [機器學習模型](04-05-machine_learning_models.zh-hant.md)（Machine Learning Models）
-	* **4.6** 🌀🌐🔗 [大語言模型網組合](04-06-llm_webassembly.zh-hant.md)（LLM WebAssembly）
-	* **4.7** 🌀🌌▦ [向量空間](04-07-vector_space.zh-hant.md)（Vector Space）
+	* **4.1** 🌀🎲🌿 [Probabilistic Association](04-01-probabilistic_association.zh-hant.md)
+	* **4.2** 🌀🧞‍♀️🗪 [LLM-based Chatbots](04-02-llm_chatbots.zh-hant.md)
+	* **4.3** 🌀🪢🧠 [Neural Networks](04-03-neural_networks.zh-hant.md)
+	* **4.4** 🌀🛠️🤏 [Feature Engineering](04-04-feature_engineering.zh-hant.md)
+	* **4.5** 🌀🤖📦 [Machine Learning Models](04-05-machine_learning_models.zh-hant.md)
+	* **4.6** 🌀🌐🔗 [LLM WebAssembly](04-06-llm_webassembly.zh-hant.md)
+	* **4.7** 🌀🌌▦ [Vector Space](04-07-vector_space.zh-hant.md)
 * [05 ☸](05----ai_orientations.zh-hant.md) AI Orientations
-	* **5.1** ☸🎯 **[任務導向型](05-01-oriented_task.zh-hant.md)**（Task-oriented AI）
-	* **5.2** ☸🛠 **[工具導向](05-02-oriented_tool.zh-hant.md)**（Tool-oriented AI）
-	* **5.3** ☸🤖 **[智能體／代理人導向](05-03-oriented_agent.zh-hant.md)**（Agent-oriented AI）
-	* **5.4** ☸🤝 **[協作導向／以人為本導向](05-04-oriented_collaborative.zh-hant.md)**（Collaborative AI / Human-Centered AI）
-	* **5.5** ☸⚖️ **[治理導向](05-05-oriented_governance.zh-hant.md)**（Governance-oriented AI）
+	* **5.1** ☸🎯 **[Task-oriented AI](05-01-oriented_task.zh-hant.md)**
+	* **5.2** ☸🛠 **[Tool-oriented AI](05-02-oriented_tool.zh-hant.md)**
+	* **5.3** ☸🤖 **[Agent-oriented AI](05-03-oriented_agent.zh-hant.md)**
+	* **5.4** ☸🤝 **[Collaborative AI / Human-Centered AI](05-04-oriented_collaborative.zh-hant.md)**
+	* **5.5** ☸⚖️ **[Governance-oriented AI](05-05-oriented_governance.zh-hant.md)**
 * [06 ❖](06----analytics_decisions.zh-hant.md) Analytics & Decisions
-	* **6.1** 🟡😷🩺 [診斷型分析](06-01-analysis_diagnostic.zh-hant.md)（Diagnostic Analysis）
-	* **6.2** 🟠🤠🔮 [預測型分析](06-02-analysis_predictive.zh-hant.md)（Predictive Analysis）
-	* **6.3** 🔴🧐🧭 [指導型分析](06-03-analysis_prescriptive.zh-hant.md)（Prescriptive Analysis）
-	* **6.4** 🔵🤓📘 [描述型分析](06-04-analysis_descriptive.zh-hant.md)（Descriptive Analysis）
-	* **6.5** 🟣🙀🎨 [生成式 AI](06-05-analysis_generative.zh-hant.md)（Generative AI）
-	* **6.6** 🔁😽🪄  [決策演算法](06-06-decision_making_algorithm.zh-hant.md)（Decision-making Algorithm）
+	* **6.1** 🟡😷🩺 [Diagnostic Analysis](06-01-analysis_diagnostic.zh-hant.md)
+	* **6.2** 🟠🤠🔮 [Predictive Analysis](06-02-analysis_predictive.zh-hant.md)
+	* **6.3** 🔴🧐🧭 [Prescriptive Analysis](06-03-analysis_prescriptive.zh-hant.md)
+	* **6.4** 🔵🤓📘 [Descriptive Analysis](06-04-analysis_descriptive.zh-hant.md)
+	* **6.5** 🟣🙀🎨 [Generative AI](06-05-analysis_generative.zh-hant.md)
+	* **6.6** 🔁😽🪄  [Decision-making Algorithm](06-06-decision_making_algorithm.zh-hant.md)
 * [07 🏆](07----game_ai.zh-hant.md) Game AI
-	* **7.1** 🏆🐭🗺️ [IEEE電子老鼠走迷宮](07-01-ieee_micromouse.zh-hant.md)（IEEE Micromouse）  
-	* **7.2** 🏆🕹️👾 [Atari DQN](07-02-atari_dqn.zh-hant.md)（Atari DQN）  
-	* **7.3** 🏆⚪⚫ [AlphaGo 圍棋](07-03-alphago.zh-hant.md)（AlphaGo）  
-	* **7.4** 🏆🃏💰 [撲克 AI](07-04-poker_ai.zh-hant.md)（Libratus / Pluribus）  
-	* **7.5** 🏆🧙‍♂🥷 [OpenAI Five](07-05-openai_five.zh-hant.md)（Dota 2）  
-	* **7.6** 🏆🐺🧑‍🌾 [狼人殺 AI](07-06-werewolf_ai.zh-hant.md)（Werewolf AI）  
-	* **7.7** 🏆🪖⚔️ [複雜戰略模擬](07-07-complex_strategic_simulation.zh-hant.md)（Battlefield Simulation）
+	* **7.1** 🏆🐭🗺️ [IEEE Micromouse](07-01-ieee_micromouse.zh-hant.md)  
+	* **7.2** 🏆🕹️👾 [Atari DQN](07-02-atari_dqn.zh-hant.md)
+	* **7.3** 🏆⚪⚫ [AlphaGo](07-03-alphago.zh-hant.md)
+	* **7.4** 🏆🃏💰 [Poker AI](07-04-poker_ai.zh-hant.md)
+	* **7.5** 🏆🧙‍♂🥷 [OpenAI Five](07-05-openai_five.zh-hant.md)
+	* **7.6** 🏆🐺🧑‍🌾 [Werewolf AI](07-06-werewolf_ai.zh-hant.md)
+	* **7.7** 🏆🪖⚔️ [Battlefield Simulation](07-07-complex_strategic_simulation.zh-hant.md)
 * [08 🦾](08----embodied_ai.zh-hant.md) Embodied AI
-	* **8.1** 🦾🎬🔋 [機器人學與實體驅動](08-01-robotics_and_physical_actuation.zh-hant.md)（Robotics & Physical Actuation）
-	* **8.2** 🦾📡🌡️ [感知與環境](08-02-perception_and_environment.zh-hant.md)（Perception & Environment）
-	* **8.3** 🦾🔄🖼️ [自適應機器人](08-03-adaptive_robotics.zh-hant.md)（Adaptive Robotics）
-	* **8.4** 🦾🤝💪 [人機互動](08-04-human_robot_interaction.zh-hant.md)（Human-Robot Interaction, HRI）
-	* **8.5** 🦾🛡️🚨 [機器人安全與穩健性](08-05-robot_safety_and_robustness.zh-hant.md)（Robot Safety & Robustness）
-	* **8.6** 🦾🧭🎯 [任務與目標規劃](08-06-robot_tasks_and_goals.zh-hant.md)（Task & Goal Planning）
+	* **8.1** 🦾🎬🔋 [Robotics & Physical Actuation](08-01-robotics_and_physical_actuation.zh-hant.md)（Robotics & Physical Actuation）
+	* **8.2** 🦾📡🌡️ [Perception & Environment](08-02-perception_and_environment.zh-hant.md)
+	* **8.3** 🦾🔄🖼️ [Adaptive Robotics](08-03-adaptive_robotics.zh-hant.md)
+	* **8.4** 🦾🤝💪 [Human-Robot Interaction, HRI](08-04-human_robot_interaction.zh-hant.md)
+	* **8.5** 🦾🛡️🚨 [Robot Safety & Robustness](08-05-robot_safety_and_robustness.zh-hant.md)
+	* **8.6** 🦾🧭🎯 [Task & Goal Planning](08-06-robot_tasks_and_goals.zh-hant.md)
 * [09 📐](09----ai_math.zh-hant.md) Maths for AI
 	* **9.1** 🤝🚿 [Collaborative Filtering](09-01-collaborative_filtering.zh-hant.md)
 	* **9.2** 📉⛰️ [Steepest Descent Method](09-02-steepest_descent_method.zh-hant.md)
