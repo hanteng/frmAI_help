@@ -16,13 +16,13 @@ jobs:
     permissions:
       contents: write # Needed to publish the site
     steps:
-      # 1. Checkout the source code
+      # 0.A Checkout the source code
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0 # Needed for proper git history access by Quarto
           
-      # 2. Setup Quarto Environment
+      # 0.B Setup Quarto Environment
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         #with:
@@ -35,28 +35,27 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com" 
           
-      # 3. Install Pandoc/LaTeX (if you plan to render PDFs)
+      # 0.? Install Pandoc/LaTeX (if you plan to render PDFs)
       # - name: Setup Pandoc/LaTeX
       #   uses: quarto-dev/quarto-actions/tinytex@v2
       #   if: always() # Runs even if previous steps fail
 
-      # 3a. EXPLICITLY COPY ROOT FILES (This is guaranteed to work)
-      - name: Copy Critical Root Files
-        run: |
-          mkdir -p _book 
-          cp CNAME _book/
-          cp cover.png _book/  
-          cp root-redirect.html _book/index.html 
-
-      # 4. Render the English version (output to _book/en)
+      # 1. Render the English version (output to _book/en)
       - name: Render English Profile (EN)
         run: quarto render --profile en
 
-      # 5. Render the Chinese version (output to _book/zht)
+      # 2. Render the Chinese version (output to _book/zht)
       - name: Render Chinese Profile (ZHT)
         run: quarto render --profile zh-hant
-      
-      # 6. Deploy the entire _book directory
+
+      # 3. EXPLICITLY COPY ROOT FILES (Done AFTER rendering)
+      - name: Copy Critical Root Files to Output
+        run: |
+          cp CNAME _book/
+          cp cover.png _book/  
+          cp root-redirect.html _book/index.html
+
+      # 5. Deploy the entire _book directory
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
