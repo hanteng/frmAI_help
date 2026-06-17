@@ -1,5 +1,20 @@
 /*-- scss:defaults --*/
 
-// Default Bootstrap/Quarto sidebar is usually around 250px-280px.
-// You can bump this up to comfortably fit your technical English titles.
-$sidebar-width: 340px;
+// 1. 定義 Bootstrap 的側邊欄預設寬度變數（覆蓋 Quarto 內建預設值）
+$sidebar-width: 360px; 
+
+
+/*-- scss:rules --*/
+
+// 2. 強制設定左側邊欄元素的實體寬度
+#quarto-sidebar {
+  width: 360px !important;
+}
+
+// 3. 調整中間主要內容區塊的網格佈局（當螢幕寬度大於 992px 桌面版時生效）
+// 確保主內文會從 360px 之後才開始渲染，避免文字重疊
+@media (min-width: 992px) {
+  #quarto-content.quarto-container {
+    grid-template-columns: 360px 1fr;
+  }
+}
