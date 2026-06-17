@@ -11,7 +11,7 @@ book:
   title: "Harnessing Intelligence:<br/><small>AI Game Playbook</small>"
   author: "Han-Teng Liao"
   chapters:
-    #- file: index.zh-hant.md
+    - file: index.en.md
     #- file: notes-mental_fill-in.zh-hant.md
     #- file: notes-constructive_fill-in.zh-hant.md
     - file: toc.en.md         # This page will display the full TOC/Listings
