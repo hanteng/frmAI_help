@@ -1,4 +1,4 @@
-# ⸻📖Table of Contents📑⸻ {.unnumbered}
+# —📖Table of Contents📑— {.unnumbered}
 * 🤗Preface 〜  🙩 [《Harnessing Intelligence: AI Game Playbook for Cognitive Scaffolding](index.zh-hant.md)
 * 💬Introduction ~  [❝Mental Fill-ins❞: Cognitive Shortcuts](notes-mental_fill-in.zh-hant.md)
 * 📑Notes ~  [❝Constructive Fill-ins❞: Cognitive Unity of Knowledge and Action](notes-constructive_fill-in.zh-hant)
