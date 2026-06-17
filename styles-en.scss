@@ -1,53 +1,10 @@
 /*-- scss:defaults --*/
 
-// 1. 同步放寬 Bootstrap 與 Quarto 左側邊欄的基礎物理寬度變數
-$sidebar-width: 330px; 
+// 1. 這是 Quarto 官方專門用來控制左側書本目錄欄 (Sidebar) 寬度的原生變數 
+// #quarto-sidebar 的寬度完全由 $sidebar-width 決定。
+$sidebar-width: 340px; 
 
+// 2. 這是 Quarto 官方專門用來控制右側頁面章節 (TOC / Margin) 寬度的原生變數
+// #quarto-margin-sidebar（也就是包住 #TOC 的右側容器）的寬度完全由 $toc-width 決定。
+$toc-width: 260px;
 
-/*-- scss:rules --*/
-
-// 2. 當螢幕寬度達到桌面版（>= 992px）時，強制重分配 Quarto 容器的三欄網格 (Grid Layout)
-@media (min-width: 992px) {
-  
-  #quarto-content.quarto-container {
-    // [左側目錄: 330px]  [中間主內文: 自動填滿(1fr)]  [右側 TOC: 放寬到 260px]
-    grid-template-columns: 330px 1fr 260px !important;
-    
-    // 增加三欄之間的水平間距，確保長英文術語不會跨欄黏在一起
-    column-gap: 35px !important; 
-  }
-
-  // 強制左側目錄欄 (Sidebar) 實體拉寬至 330px 并固定比例
-  #quarto-sidebar {
-    width: 330px !important;
-    flex: 0 0 330px !important;
-  }
-
-  // 強制右側頁面目錄欄 (Right TOC) 實體拉寬至 260px
-  #quarto-margin-sidebar {
-    width: 260px !important;
-    flex: 0 0 260px !important;
-  }
-  
-  // 讓右側真正的 TOC 導覽選單同步填滿 260px 的容器空間
-  #TOC {
-    width: 100% !important;
-    max-width: 260px !important;
-  }
-}
-
-// 3. 英文排版優化：修正了先前的空格與拼寫筆誤 (.quarto-title)
-.quarto-title, h1.title {
-  font-size: 2.35rem !important;
-  line-height: 1.2 !important;
-  font-weight: 700;
-  margin-bottom: 0.75rem;
-}
-
-// 處理您的 <small> 副標題（AI Game Playbook），讓它漂亮地另起一行
-h1.title small {
-  font-size: 1.35rem !important;
-  color: #555555;
-  display: block; 
-  margin-top: 0.35rem;
-}
