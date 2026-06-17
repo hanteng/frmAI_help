@@ -4,218 +4,220 @@ tags:
 number-sections: false 
 ---
 
-# 💬導論~❝腦補❞知行捷徑 {.unnumbered}
+# 💬 Introduction ~ ❝Mental Fill-ins❞: Cognitive Shortcuts {.unnumbered}
 
-> 🥶🥵 看到「**水**深**火**熱」，你想到什麼？
+> 🥶🥵 When you see the Chinese idiom **「水深火熱」 (*Shui-Shen-Huo-Re* — literally "deep water and scorching fire")**, what instantly comes to your mind? 
 > 
-> 🌬️🌞 看到「**水火**不容」，你想到什麼？
+> 🌬️🌞 When you see **「水火不容」 (*Shui-Huo-Bu-Rong* — literally "water and fire are incompatible")**, what comes to your mind?
 > 
-> 💧🔥 「**水**」與「**火**」是可比的事嗎？
+> ⚔️🐉 If we pivot to Western pop culture and you hear the phrase **"A Song of Ice and Fire,"** what intricate plots, looming battles, and epic character arcs does your brain immediately start reconstructing out of thin air?
+> 
+> 💧🔥 Ultimately, are "**water**" and "**fire**" (or **"ice"** and **"fire"**) even comparable things?
 
-以上三個看似「常識性」的問題，實則已有多重（且不同的）心智能力交織。
+These seemingly "common-sense" questions actually involve multiple intertwined cognitive capacities.
 
-準備好，以水火為例，展開心智能力的旅程，見證人類如何 ❝[腦補](glossary.zh-hant.md#def-mental-fill-in)❞。
+Get ready to embark on a journey of cognitive capacities using these primal elements as our guide, and witness how humans naturally perform ❝[Mental Fill-ins](glossary.zh-hant.md#def-mental-fill-in)❞.
 
-## 💧🔥關於水火
+## 💧🔥 About Water and Fire
 
-關於「**水**」與「**火**」：
+Regarding "**water**" and "**fire**":
 
-* 🥶🥵 你的「反應型」身體感覺是啥？
-* 🌬️🌞 你的「情緒－關係」情緒記憶是啥？
-* 💧🔥 你的（化學知識）「反思－符號」告訴你，「**水**」與「**火**」又是什麼？
+* 🥶🥵 What is your "reactive" physical sensation when encountering extreme heat or biting cold?
+* 🌬️🌞 What is your "emotional-relational" memory when evaluating idioms like 「水火不容」 or stories of warring factions in *A Song of Ice and Fire*?
+* 💧🔥 What does your "reflective-symbolic" (scientific knowledge) tell you about what "**water**" and "**fire**" actually are?
 
-再想想人類社會演化中：
-* 🪵🔥 會**用**「火」的神話故事與實際技能？
-* 🌊🏗️ 想**治**「水」的神話故事與當代工程？
-* 🚂💨 「水火交融」的**工業革命**，怎麼構建現代都市文明？
+Furthermore, consider the evolution of human society:
+* 🪵🔥 The mythological stories and practical skills of **using** "fire"?
+* 🌊🏗️ The mythological stories and contemporary engineering of **controlling** "water"?
+* 🚂💨 How did the **Industrial Revolution**—literally a technological blend of "water and fire" (steam)—construct modern urban civilization?
 
-思考並做筆記一下，以上六個問題，你能❝[腦補](glossary.zh-hant.md#def-mental-fill-in)❞出什麼答案呢？
+Reflect on these questions and take some notes: what kind of ❝[Mental Fill-ins](glossary.zh-hant.md#def-mental-fill-in)❞ can you conjure up as answers?
 
-## 🧠心智能力🐸🐘🧘
+## 🧠 Cognitive Capacity 🐸🐘🧘
 
-看到「水」與「火」的不同面向，我們已經在不知不覺間調動了多層次的心智資源——從**本能反應**，到**情感記憶**，再到**符號化**的**知識推理**。
+By observing the different facets of "water" and "fire," we have unconsciously mobilized multiple levels of cognitive resources—ranging from **instinctive reactions** to **emotional memories**, and finally to **symbolic** **knowledge reasoning**.
 
-* 🐸⚡ 🙶反應型🙷心智：對「水」的觸感與溫度變化、對「火」的熱與光的本能避讓，屬於快速、無需深思的生理反射。
-* 🐘💞 🙶情緒~關係🙷心智：「**水火**無情」、「**水**深**火**熱」、「如人飲**水**」、「打的**火**熱」等語言與情境，喚起情感記憶與社會互動經驗。
-* 🧘☸️ 🙶反思⫘符號🙷心智：「水」是 $H_{2}O$，「火」是一種燃燒現象，需氧氣 $O_{2}$，並可進一步推論其物理與化學條件。
+* 🐸⚡ 🙶Reactive🙷 Mind: The tactile sensation and temperature changes of "water," and the instinctive avoidance of the heat and light of "fire." These belong to rapid, thought-free physiological reflexes.
+* 🐘💞 🙶Emotional-Relational🙷 Mind: Idioms and scenarios like "water and fire are merciless," "in deep water and scorching fire," "like a person drinking water (knowing its temperature naturally)," or "getting along like a house on fire" evoke emotional memories and social interaction experiences.
+* 🧘☸️ 🙶Reflective-Symbolic🙷 Mind: Recognizing that "water" is $H_{2}O$ and "fire" is a phenomenon of combustion requiring oxygen $O_{2}$, allowing for further deductions of their physical and chemical conditions.
 
-這些層次並非彼此孤立，而是交織成一套協同運作的心智能力系統。
+These levels do not operate in isolation; instead, they intertwine into a collaborative cognitive capacity system.
 
-為了更清楚地分析與應用這些能力，我們可以將其抽象化、分類化，形成一個可對照人類與人工智慧的認知框架。
+To analyze and apply these capacities more clearly, we can abstract and categorize them to form a cognitive framework that compares human intelligence with artificial intelligence.
 
-正是這些認知框架，讓❝[腦補](glossary.zh-hant.md#def-mental-fill-in)❞的經驗法則，提升到更高層次的認知能力。
+It is precisely these cognitive frameworks that elevate the empirical rules of thumb of ❝[Mental Fill-ins](glossary.zh-hant.md#def-mental-fill-in)❞ into higher-level cognitive capacities.
 
-::: {.callout-important #imp-tri-cognitive-model title="🧠 ⟨**三重心智**⟩ " collapse=false open=true } 
-本書原創整合的**心智能力分類**，提供了較細化的名詞«選項»分類起點：
+::: {.callout-important #imp-tri-cognitive-model title="🧠 ⟨**Tri-Cognitive Model**⟩ " collapse=false open=true } 
+The **cognitive capacity classification** originally integrated in this book provides a refined starting point for classifying noun <<options>>:
 
-* 🐸⚡ 🙶反應型🙷心智：**即時感知與快速反應模組**為主。
-* 🐘💞 🙶情緒~關係🙷心智 ：**人機互動、情感計算與社會模擬**為主。
-* 🧘☸️ 🙶反思⫘符號🙷心智 ：**高階推理、規劃、倫理與對齊**為主。
+* 🐸⚡ 🙶Reactive🙷 Mind: Dominated by **real-time perception and rapid response modules**.
+* 🐘💞 🙶Emotional-Relational🙷 Mind: Centered around **human-computer interaction, affective computing, and social simulation**.
+* 🧘☸️ 🙶Reflective-Symbolic🙷 Mind: Focused on **high-level reasoning, planning, ethics, and alignment**.
 
-反思人類的心智活動，依其**處理速度**、**社會功能**與**符號能力**，區分自己和機器的認知能力。
+Reflecting on human mental activities based on their **processing speed**, **social functions**, and **symbolic capabilities** allows us to distinguish our own cognitive capacities from those of machines.
 
-詳細見**🔖附錄** B. 🧠[心智〜 三重心智整合](appendix-brain.zh-hant.md#sec-tri-cognitive-model)。
+For details, see **🔖 Appendix** B. 🧠 [Brain: Tri-Cognitive Model Integration](appendix-brain.zh-hant.md#sec-tri-cognitive-model).
 
 ⚡💞☸️
 ::: 
 
-## 🤯 ❝腦補❞ 知行捷徑
+## 🤯 ❝Mental Fill-ins❞: Cognitive Shortcuts
 
-❝[腦補](glossary.zh-hant.md#def-mental-fill-in)❞（Mental Fill-in），指人類在資訊不完整時，**依賴經驗與想像，自動在腦中填補出完整「情節」或「事實」**的行為。
+❝[Mental Fill-ins](glossary.zh-hant.md#def-mental-fill-in)❞ (Mental Fill-in) refers to the human behavior of **automatically filling in complete "plots" or "facts" in the mind using experience and imagination when information is incomplete**.
 
-它可能是生活中的無數個瞬間：
+It manifests in countless daily moments:
 
-- 💌 伴侶發來一句語氣不明的短信，你心裡已上演：**「他是不是生氣了？是不是在暗示什麼？還是我做錯了什麼？」**    
-- 📺 當新聞背景音樂襯上旁白提到兩個國家，你情緒已滿：**「啊，又是衝突！一定是那一方挑釁在先，另一方被迫反擊。」**「誰對誰錯，責任在誰」早已有定論。    
-- 🎭 當追劇時演到關鍵時刻，你已有期待反轉再反轉：**「這角色一定會背叛！不對，他其實是臥底！等等，難道導演還要再翻一次？」**    
+- 💌 Your partner sends a text message with an ambiguous tone, and your mind immediately stages a drama: **"Is he angry? Is she implying something? Did I do something wrong?"** 
+- 📺 When the news mentions two countries over background music, your emotions overflow: **"Ah, another conflict! One side must have provoked first, forcing the other to retaliate."** "Who is right and who is wrong" is already decided in your mind.    
+- 🎭 When watching a drama at a critical climax, you eagerly anticipate twist after twist: **"This character is definitely going to betray them! No, wait, he's actually an undercover agent! Hold on, is the director going to pull off another twist?"** 
 
-這些❝[腦補](glossary.zh-hant.md#def-mental-fill-in)❞的心智活動，既是我們的本能，也可能是誤讀現實的源頭。**情緒**、**立場**、**故事**……一切都能補。
+These mental activities of ❝[Mental Fill-ins](glossary.zh-hant.md#def-mental-fill-in)❞ are both our instincts and potential sources of misreading reality. **Emotions**, **stances**, **stories**... anything can be filled in.
 
-正是這，可以為我們解鎖「人工智慧」（Artificial Intelligence, AI）的理解及創新之鑰：
+It is this very mechanism that unlocks the key to understanding and innovating in Artificial Intelligence (AI):
 
->❝[腦補](glossary.zh-hant.md#def-mental-fill-in)❞本能是人類的「**知行捷徑**」（Cognitive shortcuts for actions），依賴經驗與想像，我們在不完整的資訊中填補空缺，勾勒出「事實」，驅使我們「行動」。
+> The instinct for ❝[Mental Fill-ins](glossary.zh-hant.md#def-mental-fill-in)❞ is the human **"cognitive shortcut for actions."** Relying on experience and imagination, we fill in the blanks within incomplete information, sketch out a "fact," and drive ourselves to "take action."
 
-## 🖼️🙶應對🙷 AI 問題㉄
+## 🖼️ Addressing AI Problematics ㉄
 
-❝[腦補](glossary.zh-hant.md#def-mental-fill-in)❞勾勒「事實」，驅使「行動」，如此關照「水」與「火」的心智能力分層，在構建人工智慧系統時，可以用來：
+By sketching "facts" and driving "actions," this structured view of cognitive capacities regarding "water" and "fire" can be utilized when building artificial intelligence systems to:
 
-* 應對 **[框架問題](01-04-Frame_Problem.zh-hant.md)**：
-	* 界定 「**感知—決策—行動**」 模式或模組，如
-		* 太暗時要？🔥
-		* 太渴時要？💧
-* 應對 **[完形心理](01-05-Gestalt_Psychology.zh-hant.md)** 
-	  提供「**腦補**」的認知捷徑及經驗法則，如
-		* 🍏🤤「**望梅止渴**」是什麼「**腦補**」？
-			* ——透過想像與記憶觸發生理反應，彌補當下資源不足的情境。
-		* 🧨🔥「**星火燎原**」是什麼「**腦補**」？
-			* ——從微小跡象推測出即將爆發的巨大變化。 
-		* 🌬️👤「**補風捉影**」是什麼「**腦補**」？
-			* ——在資訊不足時，憑空構建情節與因果。
-* 應對 **[符碼紮根問題](01-03-Symbol_Grounding_Problem.zh-hant.md)**，
-	* 依據反應時間尺度，規劃系統的「**資訊需求**及**資源配置**」，如
-		* 引發🚂💨**工業革命** 的「水」與「火」機制是要為啥及如何配置可燃物資源？	
-		* 支持 🌡️☁️ **超大規模數據中心** 的「水」與「火」，則是指**電力消耗**（火）與**散熱冷卻**（水）的平衡，數據中心如何平衡**算力**（火）與**冷卻**（水）的需求，規劃其**極致規模部署**時**計算資源**與**能源消耗**，確保穩定性與永續性？
-		* 支撐 🏭🤖 [暗工廠](08----embodied_ai.zh-hant.md) 的「水」與「火」，分別指**自動化運行**（水般持續流動）及**能源供應**（火）與的協同，實現**高度自主化**、**無需人類干預**的閉環生產 ？
-		* 展望 🌐 **具身 AI 與智慧城市** 的「水」與「火」，則將延伸到**能源網格**（火）與**社會基礎設施**（水代表的循環資源）的整合，要如何協同配置資源？
-* 應對 **[對齊與控制問題](01-06-Alignment_Control_Problem.zh-hant.md)** 
-	* 設計**倫理或行為約束**，以維持可控性與可預測性。
-		* 🥸🤖 智能**國師** 真能檢視一國的**能源組合**（energy mix），控制$CO_{2}$排放，改變**國運**嗎？
-		* 🥳👨‍👩‍👧‍👦 智能**紅娘** 真能改變**人生**，甚至改變一國或一社群的出生率？
+* Address the **[Frame Problem](01-04-Frame_Problem.zh-hant.md)**:
+	* Define "**perception-decision-action**" patterns or modules, such as:
+		* What to do when it's too dark? 🔥
+		* What to do when too thirsty? 💧
+* Address **[Gestalt Psychology](01-05-Gestalt_Psychology.zh-hant.md)**:
+	  Provide cognitive shortcuts and heuristics for "mental fill-ins," such as:
+		* What kind of "mental fill-in" is 🍏🤤 "slaking thirst by thinking of plums"?
+			* —— Triggering physiological responses through imagination and memory to compensate for a lack of current resources.
+		* What kind of "mental fill-in" is 🧨🔥 "a single spark starting a prairie fire"?
+			* —— Inferring an imminent massive disruption from minute signs.
+		* What kind of "mental fill-in" is 🌬️👤 "catching at shadows and chasing the wind"?
+			* —— Constructing elaborate plots and causal relationships out of thin air when information is scarce.
+* Address the **[Symbol Grounding Problem](01-03-Symbol_Grounding_Problem.zh-hant.md)**:
+	* Plan the system's "**information needs and resource allocation**" based on response time scales, such as:
+		* Why and how should combustible resources be allocated to support the "water and fire" mechanism that sparked the 🚂💨 **Industrial Revolution**?	
+		* For 🌡️☁️ **hyperscale data centers**, "water and fire" refers to the balance between **power consumption** (fire) and **cooling systems** (water). How can a data center balance computing power (fire) with cooling (water) needs to plan its **extreme-scale deployment** of computing resources and energy consumption, ensuring stability and sustainability?
+		* For 🏭🤖 [Dark Factories](08----embodied_ai.zh-hant.md), "water and fire" denotes the synergy between **automated operations** (flowing continuously like water) and **energy supply** (fire) to achieve a **highly autonomous**, human-free closed-loop production system.
+		* Looking ahead to 🌐 **Embodied AI and Smart Cities**, "water and fire" will extend to the integration of the **energy grid** (fire) and **social infrastructure** (water representing circular resources). How should these resources be collaboratively allocated?
+* Address the **[AI Alignment & Control Problem](01-06-Alignment_Control_Problem.zh-hant.md)**:
+	* Design **ethical or behavioral constraints** to maintain controllability and predictability.
+		* 🥸🤖 Can an AI **State Grandmaster** truly audit a nation's **energy mix**, control $CO_{2}$ emissions, and alter the country's destiny?
+		* 🥳👨‍👩‍👧‍👦 Can an AI **Matchmaker** truly transform lives or even alter the birth rate of a nation or a community?
 
-以上應對 [AI 問題意識](01----problematics.zh-hant.md) 時，關於如 **時間空間尺度** 及 人類 **社會-技術**規模化尺度 等等問題已浮現。
+When addressing these [AI Problematics](01----problematics.zh-hant.md), issues regarding **temporal and spatial scales**, as well as human **socio-technical** scaling, naturally surface.
 
-人類的❝腦補❞心智能力，可以說是一種有用的「**知行捷徑**」，還可以靠經驗及學習打磨，而「人工智慧」的基礎問題，如上述的 **[框架問題](01-04-Frame_Problem.zh-hant.md)**、**[完形心理](01-05-Gestalt_Psychology.zh-hant.md)**、**[符碼紮根問題](01-03-Symbol_Grounding_Problem.zh-hant.md)** 等等，正是這理解並仿擬人類❝腦補❞經驗的經驗與工程學科。
+While human ❝mental fill-in❞ capacity is a useful "cognitive shortcut" that can be polished through experience and learning, the foundational issues of artificial intelligence—such as the **[Frame Problem](01-04-Frame_Problem.zh-hant.md)**, **[Gestalt Psychology](01-05-Gestalt_Psychology.zh-hant.md)**, and the **[Symbol Grounding Problem](01-03-Symbol_Grounding_Problem.zh-hant.md)**—constitute the empirical and engineering discipline focused on understanding and simulating these human "fill-in" experiences.
 
-## ㉄問題還是學科🤖
+## ㉄ A Problem Set or a Discipline? 🤖
 
-人工智慧（AI）是個獨立學科，也像是**吸引跨領域的一組問題**——類似於**核子工程**——需要各領域知識的源頭活水，儘管 AI 在電機及電腦領域也被視為一門獨立學科領域，而 AI 工程則以業界**落地實踐**為核心。
+Artificial Intelligence (AI) is an independent discipline, yet it also resembles **a collection of problems that attract cross-disciplinary efforts**—much like **Nuclear Engineering**—requiring fresh insights from various fields. Although AI is viewed as an independent field within electrical engineering and computer science, AI Engineering centers strictly on industry **real-world implementation**.
 
-|    類別    |                     領域                      |                              核心焦點                              | 應用焦點                                                                                  |
-| :------: | :-----------------------------------------: | :------------------------------------------------------------: | ------------------------------------------------------------------------------------- |
-| **應用領域** |     **核子工程<br/> (Nuclear Engineering)**     |             核分裂和核融合過程應用，常用於發電。<br>（💡 專注於高風險應用領域。）             | 問題是**現實世界中的系統**（例如：設計安全的反應爐、管理廢料、確保核不擴散），這需要物理學、化學、材料科學、機械工程和國際政策方面的專業知識。             |
-| **基礎學科** | **人工智慧<br/> (Artificial Intelligence, AI)** |     建立能夠執行通常需要人類智慧才能完成任務的系統。<br>（📚 專注於理論與演算法的通用性，跨越應用領域。）     | 問題是**廣泛的現實應用**（例如：醫療診斷、自動駕駛車輛、語言處理、戰略穩定性），這需要電腦科學、倫理學、認知科學、政治學和領域特定知識（如醫學或法律）方面的專業知識。 |
-| **應用學科** |       **AI 工程<br/> (AI Engineering)**       | 設計、開發和部署 AI 系統，以可靠、可擴展和倫理方式解決實際問題。<br>（🛠️ 從實驗室到市場的工程化、運營化挑戰。） | 問題是**將 AI 投入運作**（例如：模型版本控制、MLOps、穩健評估、管理延遲、確保數據品質），需要結合電腦科學、軟體工程和機器學習的原理。             |
+| Category | Field | Core Focus | Application Focus |
+| :---: | :---: | :---: | :---: |
+| **Application Field** | **Nuclear Engineering** | Applications of nuclear fission and fusion processes, commonly used for power generation.<br>(💡 Focuses on high-risk application domains.) | Problems are **real-world systems** (e.g., designing safe reactors, managing waste, ensuring non-proliferation), requiring expertise in physics, chemistry, materials science, mechanical engineering, and international policy. |
+| **Foundational Discipline** | **Artificial Intelligence (AI)** | Building systems capable of performing tasks that typically require human intelligence.<br>(📚 Focuses on the universality of theories and algorithms, transcending specific application fields.) | Problems are **broad real-world applications** (e.g., medical diagnosis, autonomous vehicles, language processing, strategic stability), requiring expertise in computer science, ethics, cognitive science, political science, and domain-specific knowledge (such as medicine or law). |
+| **Applied Discipline** | **AI Engineering** | Designing, developing, and deploying AI systems to solve practical problems in a reliable, scalable, and ethical manner.<br>(🛠️ Focuses on engineering and operationalization challenges from lab to market.) | Problems lie in **operationalizing AI** (e.g., model version control, MLOps, robust evaluation, latency management, ensuring data quality), combining principles of computer science, software engineering, and machine learning. |
 
-在學術和產業界，AI 同時是：
+In both academia and industry, AI is simultaneously:
 
-1. 專注於理論的**基礎學科**。    
-2. 🧭 應用於**跨領域問題集**的高風險**多學科應用**跨領域，類似於核子工程。強調 AI 的關鍵挑戰（認知能力、安全性、倫理、監管）的解決必須是多學科的合作。**
-3. 🏗️「**AI 工程**」的出現強化「跨領域問題集」的觀點，但重點在於**系統可靠性**和**運營化**，如同時理解 ML 模型的工作方式（資料科學）和大規模軟體系統的運營挑戰（軟體工程）。
+1. A **foundational discipline** focused on theory.    
+2. 🧭 A high-risk, **multidisciplinary application** arena spanning a **cross-disciplinary problem set**, similar to nuclear engineering. This highlights that solving AI's critical challenges (cognitive capacity, safety, ethics, regulation) must be a multidisciplinary effort.
+3. 🏗️ The emergence of "**AI Engineering**" reinforces this "cross-disciplinary problem set" view, but shifts the focus to **system reliability** and **operationalization**, requiring a concurrent understanding of how ML models function (data science) and the operational challenges of large-scale software systems (software engineering).
 
-因此，本書 [第壹篇 ㉄](01----problematics.zh-hant.md) 以 AI 問題意識開始。
+Therefore, this book initiates its journey with [01 ㉄ AI Problematics](01----problematics.zh-hant.md).
 
-## 🌌拆用本書📑
+## 🌌 Deconstructing the Book 📑
 
-在進入各篇章之前，本書提供一個「拆用」導引，幫助讀者理解如何靈活運用全書。
+Before diving into the chapters, this book provides a "deconstruction" guide to help readers understand how to flexibly utilize the entire text.
 
-這裡的「拆用」有兩層意涵：一方面是把書本視為一張知識地圖，可以依經緯等方式來定位與導航（本書🌌[心智圖](appendix-mindmap.zh-hant.qmd) «AI 知識鷹架»）；另一方面則是把書本當作一套可組裝的工具箱，讀者可以依需求拆解、重組，形成自己的知行鷹架（💪[行動](appendix-action.zh-hant.qmd) 🧠[心智](appendix-brain.zh-hant.md)🪜[能力](appendix-cognitive_capacity.zh-hant.md) «知行鷹架»[操練手冊](notes-constructive_fill-in.zh-hant)）。
+"Deconstruction" carries a dual meaning here: on one hand, the book serves as a knowledge map that can be oriented and navigated via longitudes and latitudes (the book's 🌌 [Mindmap](appendix-mindmap.zh-hant.qmd) «AI Knowledge Scaffolding»); on the other hand, the book functions as a reassemblable toolbox. Readers can dismantle and recombine it according to their needs to form their own personal scaffolding for knowledge and action (The 💪 [Action](appendix-action.zh-hant.qmd), 🧠 [Brain](appendix-brain.zh-hant.md), and 🪜 [Cognitive Capacity](appendix-cognitive_capacity.zh-hant.md) «Knowledge-Action Scaffolding» [Practice Manual](notes-constructive_fill-in.zh-hant)).
 
-以下「經度和緯度」，將分別提供不同的閱讀與應用視角。
+The following "longitudes and latitudes" offer distinct reading and application perspectives.
 
-::: {.callout-important #imp-book-navigation title="🌐🧭 本書 **經緯** 導航 "  collapse=false open=true }
+::: {.callout-important #imp-book-navigation title="🌐🧭 Navigating the Book's Longitudes and Latitudes" collapse=false open=true }
 
-本書10**篇**及各**章**，適合讀者按圖拆解應用。
+The 10 **parts** and individual **chapters** of this book are perfectly suited for readers to dismantle and apply.
 
-* **X** 軸 **經度**：《[分析與決策 6 點](06----analytics_decisions.zh-hant.md)》<sup>📍[@fig-mindmap-06]</sup>
-	* 含有融合『**[生成式 AI](06-05-analysis_generative.zh-hant.md)**』及『**[決策演算法](06-06-decision_making_algorithm.zh-hant.md)**』的創新發散及收歛 **迴圈和弧線** 
-* **Y** 軸 **緯度**：分選《[☸ AI 5 大導向](05----ai_orientations.zh-hant.md)》<sup>📍 [@fig-mindmap-05]</sup>
-	* 還有《[AI 問題意識](01----problematics.zh-hant.md) 》<sup>📍[@fig-mindmap-01] </sup>、《[流派與主義](02----schools_paradigms.zh-hant.md) 》<sup>📍 [@fig-mindmap-02]</sup> 、等切入點；
-* **Z** + 軸 **能力階梯**、歷史發展等：助力讀者從能力逐級提升。
-
-:::
-
-## 🧭經度和緯度🔗
-
-快速掌握本書主要知識點，可從本書🌌[心智圖](appendix-mindmap.zh-hant.qmd) 開始，縱向（«數據驅動決策»過程）與橫向（不同問題意識、流派與主義、導向等等）開展定位：
-
-* **X** 軸 **經度**~說明«數據驅動決策»過程，見《[第陸篇 ❖](06----analytics_decisions.zh-hant.md) 分析與決策 6 點》<sup>📍[@fig-mindmap-06]</sup> 結合 ✍️💡 布魯姆 6 能力：
-	* 🤓📘 從大千世界中，進行『**[描述型分析](06-04-analysis_descriptive.zh-hant.md)**』，以求**當下**相關之«**記憶**»框定；
-	* 😷🩺 在相關記憶中，進行『**[診斷型分析](06-01-analysis_diagnostic.zh-hant.md)**』，以求**因子**相關之«**理解**»匡謬；
-	* 🤠🔮 在相關因子中，進行『**[預測型分析](06-02-analysis_predictive.zh-hant.md)**』，以求**模型**知識之«**應用**»匡助；
-	* 🧐🧭 在知識模型中，進行『**[指導型分析](06-03-analysis_prescriptive.zh-hant.md)**』，以求**系統**智能之«**評估**»及«**創造**»；
-	* 除了以上 4 點 分析學核心主軸，有創新的發散及收歛輔線：
-		* 🙀🎨 從眾智大模型中，利用『**[生成式 AI](06-05-analysis_generative.zh-hant.md)**』，以求«**選項**»的各種可能的創新發散；
-		* 😽🪄 從發散各選項中，利用『**[決策演算法](06-06-decision_making_algorithm.zh-hant.md)**』，以求«**選擇**»的自主決策判斷的創新收歛；
-* **Y** 軸 **緯度**~說明不同問題意識、流派等，有多篇進入點，見：
-	* 《[第壹篇 ㉄](01----problematics.zh-hant.md) AI 問題意識》<sup>📍[@fig-mindmap-01]</sup>
-	* 《[第伍篇 ☸](05----ai_orientations.zh-hant.md) 區分 AI 5 大導向》 <sup>📍[@fig-mindmap-05]</sup>
-	* 《[第貳篇 🎏🏮](02----schools_paradigms.zh-hant.md) 流派與主義》 <sup>📍[@fig-mindmap-02]</sup>
-	* 《[第參篇 🏛️](03----symbolic_ai.zh-hant.md) 「符號流」AI》 <sup>📍[@fig-mindmap-03]</sup>
-	* 《[第肆篇 🌀](04----statistical_ai.zh-hant.md) 「統計流」AI》 <sup>📍[@fig-mindmap-04]</sup>
-
-餘下 6 篇，包括以下內容，見：
-
-* 《[第柒篇 🏆](07----game_ai.zh-hant.md) 「博弈派」AI》 <sup>📍[@fig-mindmap-07]</sup>
-* 《[第捌篇 🦾](08----embodied_ai.zh-hant.md) 「具身派」AI》 <sup>📍[@fig-mindmap-08]</sup>
-* 《[第玖篇 📐](09----ai_math.zh-hant.md) AI用到的數學》 <sup>📍[@fig-mindmap-09]</sup>
-* 《[第拾篇 🌉](10----ai_engineering.zh-hant.md) AI工程》 <sup>📍[@fig-mindmap-10]</sup>
-
-可以說本書🌌[心智圖](appendix-mindmap.zh-hant.qmd)與📖[目錄](toc.zh-hant.md)是作者為讀者搭建的«AI 知識鷹架»初稿，旨在幫助讀者快速掌握學習方向。
-
-::: {.callout-important #imp-mindmap-fill-in title="🧭 心智圖 **導航** 交互功能" }
-
-本書🌌[心智圖](appendix-mindmap.zh-hant.qmd) 精簡龐雜知識為網格，不僅為讀者🧭 **導航** 智能生成過程，也幫助區分不同技術與應用場景：
-
-* 各知識點**節點**方塊的則內嵌🔗**超鏈結**，讀者可藉此快速跳轉、比對和進行交叉參照，
-* 各**連線**說明知識點間的關係；
-* 其中部份條目還有歷史回顧的時間尺度。
+* **X-Axis (Longitude)**: 《[Analytics & Decisions](06----analytics_decisions.zh-hant.md)》<sup>📍[@fig-mindmap-06]</sup>
+	* Features innovative, divergent, and convergent **loops and arcs** that fuse 『**[Generative AI](06-05-analysis_generative.zh-hant.md)**』 and 『**[Decision-making Algorithms](06-06-decision_making_algorithm.zh-hant.md)**』.
+* **Y-Axis (Latitude)**: Categorized under 《[☸ AI Orientations](05----ai_orientations.zh-hant.md)》<sup>📍 [@fig-mindmap-05]</sup>
+	* Includes entry points like 《[AI Problematics](01----problematics.zh-hant.md)》<sup>📍[@fig-mindmap-01]</sup>, 《[Schools & Paradigms](02----schools_paradigms.zh-hant.md)》<sup>📍 [@fig-mindmap-02]</sup>, etc.
+* **Z+ Axis (Capacity Ladder)**: Charts historical evolution and development, helping readers step up their capacities grade by grade.
 
 :::
 
-## 🎍發散及收歛🎋
+## 🧭 Longitudes and Latitudes 🔗
 
-經度與緯度的定位，為的是**化 AI 知識為創新行動**：如何拆解知識、發散思路、在有限資源下收歛創新想法？
+To quickly master the primary knowledge points of this book, you can start with the 🌌 [Mindmap](appendix-mindmap.zh-hant.qmd) and map out your coordinates along the vertical axis (the «data-driven decision» process) and the horizontal axis (various problematics, schools, paradigms, orientations, etc.):
 
-- 🔗 **探究概念關聯**：透過🌌心智圖瀏覽（其中各節點皆有可點擊的超鏈結），以及各條目的文內／文後超鏈結，讀者能快速跳轉、比對，建立跨章節的知識脈絡。
-- 📚 **學習整套系統**：依循十篇總述，按心智圖的經緯來瀏覽，逐步區辨不同的問題意識、流派、導向與應用，為未來的整合奠基。
-- 🛠️ **創造智能系統**：讀者可依需求構建自己的「**知行鷹架**」🟰 動詞 ➕ 名詞，先列出「**行動**」動詞（要做、可做、不必做），再分類「**知識**」名詞（需知、可知、暫不知），如此交織成欄例，開始🙶補全🙷並逐步鍛鍊。 
+* **X-Axis (Longitude)** ~ Illustrates the «data-driven decision» process, detailed in 《[06 ❖ Analytics & Decisions](06----analytics_decisions.zh-hant.md)》<sup>📍[@fig-mindmap-06]</sup>, mapped to ✍️💡 Bloom's 6 Cognitive Capacities:
+	* 🤓📘 From the vast world, perform 『**[Descriptive Analysis](06-04-analysis_descriptive.zh-hant.md)**』 to establish a context-bound «**Memory**» of the **present**.
+	* 😷🩺 Within relevant memories, perform 『**[Diagnostic Analysis](06-01-analysis_diagnostic.zh-hant.md)**』 to correct fallacies through factor-related «**Understanding**».
+	* 🤠🔮 Among relevant factors, perform 『**[Predictive Analysis](06-02-analysis_predictive.zh-hant.md)**』 to aid the «**Application**» of model-based knowledge.
+	* 🧐🧭 Within knowledge models, perform 『**[Prescriptive Analysis](06-03-analysis_prescriptive.zh-hant.md)**』 to gauge the «**Evaluation**» and «**Creation**» of system intelligence.
+	* Alongside these 4 core pillars of analytics, there are innovative divergent and convergent auxiliary paths:
+		* 🙀🎨 Utilizing collective large models, leverage 『**[Generative AI](06-05-analysis_generative.zh-hant.md)**』 to generate a diverse, divergent pool of possible «**Options**».
+		* 😽🪄 Out of these divergent options, utilize 『**[Decision-making Algorithms](06-06-decision_making_algorithm.zh-hant.md)**』 to achieve a convergent, autonomous selection for the ultimate «**Choice**».
+* **Y-Axis (Latitude)** ~ Outlines various problem sets and schools across multiple entry chapters:
+	* 《[01 ㉄ AI Problematics](01----problematics.zh-hant.md)》<sup>📍[@fig-mindmap-01]</sup>
+	* 《[05 ☸ AI Orientations](05----ai_orientations.zh-hant.md)》 <sup>📍[@fig-mindmap-05]</sup>
+	* 《[02 🎏🏮 Schools & Paradigms](02----schools_paradigms.zh-hant.md)》 <sup>📍[@fig-mindmap-02]</sup>
+	* 《[03 🏛️ Symbolic AI](03----symbolic_ai.zh-hant.md)》 <sup>📍[@fig-mindmap-03]</sup>
+	* 《[04 🌀 Statistical AI](04----statistical_ai.zh-hant.md)》 <sup>📍[@fig-mindmap-04]</sup>
 
-🌱 總之，這一小節的任務是讓讀者把「導航」與「操練」結合起來：
-- 經度與緯度 → 幫助定位； 
-- 拆用、發散、及收歛 → 幫助行動。
+The remaining 6 parts cover the following contents:
+
+* 《[07 🏆 Game AI](07----game_ai.zh-hant.md)》 <sup>📍[@fig-mindmap-07]</sup>
+* 《[08 🦾 Embodied AI](08----embodied_ai.zh-hant.md)》 <sup>📍[@fig-mindmap-08]</sup>
+* 《[09 📐 Maths for AI](09----ai_math.zh-hant.md)》 <sup>📍[@fig-mindmap-09]</sup>
+* 《[10 🌉 AI Engineering](10----ai_engineering.zh-hant.md)》 <sup>📍[@fig-mindmap-10]</sup>
+
+In short, the book's 🌌 [Mindmap](appendix-mindmap.zh-hant.qmd) and 📖 [Table of Contents](toc.zh-hant.md) serve as an initial draft of the «AI Knowledge Scaffolding» designed by the author to help readers rapidly grasp their learning direction.
+
+::: {.callout-important #imp-mindmap-fill-in title="🧭 Mindmap Navigation and Interactive Features" }
+
+The book's 🌌 [Mindmap](appendix-mindmap.zh-hant.qmd) condenses complex knowledge into a neat grid. It not only 🧭 **navigates** the process of intelligent generation but also helps distinguish different technologies and application scenarios:
+
+* Each knowledge point **node** box contains embedded 🔗 **hyperlinks**, allowing readers to jump, compare, and cross-reference instantly.
+* The connecting **lines** define relationships between knowledge points.
+* Select entries also incorporate timelines for historical context.
+
+:::
+
+## 🎍 Divergence and Convergence 🪕
+
+The goal of orienting along longitudes and latitudes is to **transform AI knowledge into innovative action**: how do we break down knowledge, diverge our thinking, and converge on innovative ideas given limited resources?
+
+- 🔗 **Explore Conceptual Connections**: By browsing the 🌌 Mindmap (where each node is a clickable hyperlink) and utilizing the hyperlinks throughout the text, readers can jump between sections, compare concepts, and build a cross-chapter knowledge network.
+- 📚 **Study Whole Systems**: Follow the overviews of the ten parts, browsing them according to the longitudes and latitudes of the mindmap to gradually differentiate and integrate problem sets, schools, paradigms, orientations, and applications.
+- 🛠️ **Create Intelligent Systems**: Readers can construct their own personalized "**Knowledge-Action Scaffolding**" 🟰 Verbs ➕ Nouns. Begin by listing "**Actions**" (verbs: what to do, what can be done, what need not be done), then categorize "**Knowledge**" (nouns: what must be known, what can be known, what is temporarily unknown). Weave these into matrices to initiate your ❝constructive fill-ins❞ and build your capabilities step by step. 
+
+🌱 In short, the mission of this section is to help readers fuse "navigation" with "practice":
+- Longitudes & Latitudes → Assist with orientation; 
+- Dismantling, Divergence, & Convergence → Drive action.
  
-這樣，讀者便能帶著一張知識地圖與一套操練手冊。
+Equipped with these, readers will carry both a knowledge map and a practice manual.
 
-## 🪜從❝腦補❞到🙶補全🙷🌌
+## 🪜 From ❝Mental Fill-ins❞ to ❝Constructive Fill-ins❞ 🌌
 
-本篇導論說明❝腦補❞及AI，介紹這本工具書的使用方式，讀者可以用搜尋、心智圖瀏覽等方式快速查找資訊，本書的系統性編排能提供清晰的知識索引與參照價值。
+This introduction explains the concept of ❝mental fill-ins❞ and AI, and demonstrates how to navigate this toolbook. Readers can quickly find information using search functions and mindmap browsing; the book's systematic arrangement provides distinct indexical and reference value.
 
-下篇📑筆記《[🙶補全🙷 知行合一](notes-constructive_fill-in.zh-hant)》則說明🙶補全🙷的實踐，讀者展開屬於自己的«**知行鷹架**»，即可交織成欄例，開始有«**選項**»«**選擇**»取捨後的自己的操作型知識體係，逐步拓展行動與知識的邊界。
+The next section, 📑 Notes 《[❝Constructive Fill-ins❞: Cognitive Unity of Knowledge and Action](notes-constructive_fill-in.zh-hant)》, shifts focus to the practice of ❝constructive fill-ins.❞ Once readers deploy their own «**Knowledge-Action Scaffolding**» and map out matrices based on processed «**Options**» and «**Choices**», they will begin constructing their own operational knowledge systems, expanding the boundaries of action and knowledge.
 
-然而，若讀者願意投入更多心力，本書更是一套交織的系統：透過一篇導論、一篇筆記、多篇附錄的結構，幫助讀者探究方法。相關附錄的《💪[行動](appendix-action.zh-hant.qmd) 》、《🧠[心智](appendix-brain.zh-hant.md)》、《🪜[能力](appendix-cognitive_capacity.zh-hant.md) 》等篇是作者為讀者整理的«**知行鷹架**»操練手冊！
+If readers are willing to invest more effort, they will find that this book is a highly interconnected system: its structure—consisting of one introduction, one set of notes, and multiple appendices—helps readers explore methodology deeply. The associated appendices on 💪 [Action](appendix-action.zh-hant.qmd), 🧠 [Brain](appendix-brain.zh-hant.md), and 🪜 [Cognitive Capacity](appendix-cognitive_capacity.zh-hant.md) serve as the author's carefully curated practice manual for your personal «**Knowledge-Action Scaffolding**»!
 
-::: {.callout-tip #tip-mental-fill-in title="💬知行捷徑 小貼士：**🌟TLDR**" }
+::: {.callout-tip #tip-mental-fill-in title="💬 Cognitive Shortcuts Tip: 🌟 TLDR" }
 
-**🌟TLDR 言簡意賅**：本書是您在 AI 時代的**知識地圖**與**行動指南**。
+**🌟 TLDR (Too Long; Didn't Read)**: This book is your **knowledge map** and **action guide** for the AI era.
 
-|模式|目的|關鍵操作|
-|---|-------|-----------|
-|**🔍 快速檢索**|查找單點資訊或解釋。|利用🔍**搜尋功能**與📚*左側欄目**快速瀏覽。|
-|**🔗 概念串聯**|建立跨領域的知識脈絡。|透過**🌌心智圖**的**超鏈結節點**進行比對和**交叉參照**。|
-|**📚 系統學習**|掌握 AI 的流派、問題與應用。|依循**十篇**總述，按心智圖🧭**經緯**逐步區辨與整合。|
-|**🏗️ 行動實踐**|構建個人化的 AI 系統 **知行鷹架**。|列出「**行動**」（動詞）與「**知識**」（名詞）並**交織**成欄例，逐步**🙶補全🙷**。|
+| Mode | Objective | Critical Operations |
+|---|---|---|
+| **🔍 Quick Retrieval** | Find isolated pieces of information or definitions. | Use the 🔍 **search function** and browse the 📚 **left sidebar** for rapid scanning. |
+| **🔗 Conceptual Linkage** | Establish cross-domain knowledge networks. | Use the **clickable nodes** on the **🌌 Mindmap** to perform quick comparisons and **cross-referencing**. |
+| **📚 Systematic Learning** | Master AI schools, paradigms, problems, and applications. | Follow the **ten parts** and systematically differentiate and integrate concepts using the mindmap's 🧭 **coordinates**. |
+| **🏗️ Practical Action** | Construct a personalized **Knowledge-Action Scaffolding** for AI systems. | List your "**Actions**" (verbs) and "**Knowledge**" (nouns), **weave** them into custom matrices, and systematically execute **❝constructive fill-ins❞**. |
 
-總之，本書旨在助讀者將人類的❝**腦補**❞心智能力，轉化為**系統性、有意識**的🙶**補全**🙷創新實踐。
+Ultimately, this book aims to help readers transform the human instinct for ❝**mental fill-ins**❞ into a **systematic, deliberate** practice of ❝**constructive fill-ins**❞ for innovation.
 
 🦾💪🔥💧
 :::
