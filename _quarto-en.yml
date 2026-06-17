@@ -13,7 +13,7 @@ book:
   chapters:
     - file: index.en.md
     #- file: notes-mental_fill-in.zh-hant.md
-    #- file: notes-constructive_fill-in.zh-hant.md
+    - file: notes-constructive_fill-in.en.md
     - file: toc.en.md         # This page will display the full TOC/Listings
     - part: "01----problematics.zh-hant.md"
       chapters:
@@ -38,17 +38,18 @@ bibliography: references.bib
 
 format:
   html:
-    lang: zh-Hant
-    css: styles.css
+    lang: en                           # 確保英文配置下 HTML 語系正確
+    theme:
+      - zephyr                         # 或是你原本使用的基礎主題（如 default, slate 等）
+      - styles-en.scss                 # 載入你專為英文版設計的 SCSS 檔案
     toc: true
     toc-location: right
-    toc-title: "〜📖本頁章節📑〜"
+    toc-title: "〜📖 On This Page 📑〜" # 順手將英文版的 TOC 標題中文化改為英文
     number-sections: true
     number-depth: 4
-    section-title-appendices: "🔖附錄與筆記"
-    crossref-nte-prefix: "註釋"
-    crossref-nte-title: "註釋"
-    crossref-tip-prefix: "提示"
-    crossref-tip-title: "提示"
-    callout-important-title: "要點"
-
+    section-title-appendices: "🔖 Appendices & Notes"
+    crossref-nte-prefix: "Note"
+    crossref-nte-title: "Note"
+    crossref-tip-prefix: "Tip"
+    crossref-tip-title: "Tip"
+    callout-important-title: "Important"
