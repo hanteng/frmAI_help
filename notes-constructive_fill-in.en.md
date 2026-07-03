@@ -12,38 +12,40 @@ editor:
 ---
 # 📑❝Constructive Fill-ins❞: Cognitive Unity of Knowledge and Action {.unnumbered}
 
-> ⚡🔥 **一次 ChatGPT 問答 ≈ 0.43 Wh**，算算 2025 年總能耗？  
+> ⚡🔥 **A single ChatGPT exchange ≈ 0.43 Wh** — do the math: what's the total energy bill for 2025, or 2035?
 >  
-> 🌍🤖 **經年使用** AI 問答，將如何改變人生、人際與群體未來？
+> 🌍🤖 **Years of daily of AI Questioning and Answering exchanges** — how will they reshape our lives, our relationships, and our collective future?
 >  
-> 💧⚡預想 2035 年每日 **300 億問答**需求，如何影響城市與國家？
+> 💧⚡Imagine in 2035, with **30 billion queries** a day — how will that reshape our cities and nations?
 
-如同人生在世，性雖相近，習則相遠。
+As in life itself: our natures may be alike, but our habits set us apart.
 
-日日「一盞電、一瓢飲」的 AI 問答，如何填補生命缺口，改寫人生軌跡？
+Day after day, these AI exchanges — "a lamp's worth of power, a ladle's worth of water" — how do they fill the gaps in our lives and rewrite our life trajectories?
 
-月月「數據、能耗」的 AI 互動與交易，如何重塑世界規則與未來？
+Month after month, these AI interactions and transactions, measured in data and energy, how do they reshape the rules of the world and its future?
 
-這些看似「日常」的行為，實則牽動多重「社會技術系統」的交織，包括生命的**習慣積累**與**價值判斷**。
+These seemingly "everyday" behaviors are, in fact, entangled with the interweaving of multiple "socio-technical systems" — including the accumulation of habits and value judgments that shape a life.
 
-承接《[導論](notes-mental_fill-in.zh-hant.md)》，本篇《筆記》邀請讀者共同思索：從 2025 年起，如何預見 2035 年的自己。
+Following on from the ❝[Introduction](notes-mental_fill-in.zh-hant.md)❞, this ❝Note❞ chapter invites readers to reflect together: starting from 2025, how might we foresee our 2035 selves?
 
-設想人類如何從 ❝腦補❞（認知捷徑）走向 🙶補全🙷（按需填補人生與社會空缺），以創建未來。
+Imagine how humanity might move from ❝Mental Fill-in❞  (a cognitive shortcut) toward 🙶Constructive Fill-in🙷 (deliberately filling the gaps in life and society, as needed) — and in doing so, build the future.
 
-## 🔭科技預見價值🦾
+## 🔭The Value of Technological Foresight🦾
 
-🙶補全🙷 是一種「科技預見」未來力（technological forecasting）。  
+🙶Constructive Fill-in🙷 is a form of "technological foresight" — a capacity for technological forecasting.
 
-本書既是 AI 工具書，旨在推廣 AI 工程與教育，也希望讓「科技預見」的能力與好處，不再只是專家或政府的專利，而是人人可培養的心智能力。
 
-「科技預見」的核心在於： 
-- 🔭 **觀察趨勢**：從日常數據、新聞、乃至社群文化，捕捉科技發展的蛛絲馬跡。    
-- 📈 **推演未來**：將這些訊號延伸，想像它們在 5 年、10 年後可能帶來的社會與個人影響。    
-- 🛠 **行動補全**：把想像轉化為具體選擇，投資未來、解決問題、發揮價值。既可能補全個人生命的缺口，也可能補全社會的需求。    
+This book is, at once, an AI toolbook aimed at promoting AI engineering and education, and a change-management manual that hopes to make the capacity and benefits of "technological foresight" no longer the exclusive privilege of experts or governments, but a cognitive capacity anyone can cultivate.
 
+At the core of "technological foresight" are:
+
+- 📈 **推演未來**：將這些訊號延伸，想像它們在 5 年、10 年後可能帶來的社會與個人影響。
+- 🔭 **Observing Trends**: Catching the minute traces of technological development in everyday-life data, news, and even community culture.
+- 🛠 **行動補全**：把想像轉化為具體選擇，投資未來、解決問題、發揮價值。既可能補全個人生命的缺口，也可能補全社會的需求。
+ 
 為什麼要用「補全」？除了聯想到「自動補全」（auto-complete），本書假設讀者有以下需求：
 
-- 👤 **個人層次**：預見 AI 在地與全球發展，如何影響自己「生命機運」的選項與選擇。    
+- 👤 **個人層次**：預見 AI 在地與全球發展，如何影響自己「生命機運」的選項與選擇。
 - 👨‍👩‍👧 **家庭層次**：預想 AI 如何改變日常生活，如何影響自己與家人「生命交織」的關係與照護。 
 - 🌐 **社會層次**：預判 AI 如何改變社會肌理與世界格局，如何推動制度與科技的創新。
 
@@ -114,7 +116,7 @@ editor:
 
 | **時間**      | **AI 未來假說** (主要體現)             | **個人生活** <br/>(我與 AI 的關係)                                  | **工作律動** <br/>(AI 對產能影響)                                  | **家庭日常** <br/>(AI 對關係影響)                                   | **社會互動** <br/>(制度與城市)                                             |
 | :---------- | :----------------------------- | :------------------------------------------------------ | :----------------------------------------------------- | :------------------------------------------------------ | :--------------------------------------------------------------- |
-| **2025 現況** | **AI 公用事業假說** (工具階段)           | 擔任 **....**，每日使用 **...** 進行資訊彙整與創意發想。 <br/>AI 是 **...** 。 | **產能提高 ....%**，但需要人工覆核。 <br/> <br/>與人和 AI 打交道的比例為 **...** 。 | 僅用於娛樂推薦和瑣事提醒。 <br/> <br/>**親密關係未受影響**，但訊息過載。                | **資訊碎片化**嚴重，公眾討論受演算法驅動。 <br/> <br/>城市生活主要受交通 AI 優化。                  |
+| **2025 現況** | **AI 公用事業假說** (工具階段)           | 擔任 **....**，每日使用 **...** 進行資訊彙整與創意發想。 <br/>AI 是 **...** 。 | **產能提高 ....%**，但需要人工覆核。 <br/> <br/>與人和 AI 打交道的比例為 **...** 。 | 僅用於娛樂推薦和瑣事提醒。 <br/> <br/>**親密關係未受影響**，但訊息過載。            | **資訊碎片化**嚴重，公眾討論受演算法驅動。 <br/> <br/>城市生活主要受交通 AI 優化。              |
 | **2030 預測** | **AI 部落化假說** <br/> <br/>(資源/價值觀分化) | 擁有 **專屬個人化 LLM** **...**                                 | 工作任務 80% 由 AI 代理執行...                                  | **家用智慧體**....。 <br/> <br/>親密關係與期待受新考驗，需重新定義世代間的邊界與承諾。 | 社會價值觀趨向分裂，形成由不同 **巨型 AI 生態系** 主導的「AI 部落」。 <br/> <br/>**能源...** 開始成.... |
 | **2035 展望** | **AI 帝國假說**                    | **...**                                                 | **...**                                                | **...**                                                 | **...**                                                          |
 
@@ -298,7 +300,7 @@ editor:
 
 ### 大聖歸來
 
-仿改 葉慈（W.B.Yeats）的詩《**二度降臨**》(The Second Coming)
+仿改 葉慈（W.B.Yeats）的詩❝**二度降臨**❞(The Second Coming)
 
 <!-- **歷史與文明的復仇** -->
 
@@ -435,7 +437,7 @@ editor:
 
 **新詩註解**
 [^鵬鳥]: 
-古典小說《**西遊記**》最著名的鵬鳥，金翅大鵬鳥（或稱大鵬金翅鵰），能力超越孫悟空的有翅膀妖怪。根據如來佛祖的說法，有其創世譜系關係。
+古典小說❝**西遊記**❞最著名的鵬鳥，金翅大鵬鳥（或稱大鵬金翅鵰），能力超越孫悟空的有翅膀妖怪。根據如來佛祖的說法，有其創世譜系關係。
 [^聾龍]: 在民間傳說和部分訓詁學中，為了與**十二生肖**或**「聾」**這個字進行解釋，衍生出了「龍無耳」的說法。如「**十二缺**」說：在一些民間說法中，十二生肖各有「一缺」，其中就有「龍無耳」。
 
 ***

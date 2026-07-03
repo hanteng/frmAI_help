@@ -1,5 +1,8 @@
+# --- Quarto Compilation Artifacts ---
 /.quarto/
-/_book
+/_site/
+/_book/
+
 **/*.quarto_ipynb
 .nojekyll
 
