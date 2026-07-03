@@ -10,7 +10,7 @@ editor:
     references: 
       location: block
 ---
-# 📑❝Constructive Fill-ins❞: Cognitive Unity of Knowledge and Action {.unnumbered}
+# 📑Note: ❝Constructive Fill-ins❞~ Unity of Knowledge and Action {.unnumbered}
 
 > ⚡🔥 **A single ChatGPT exchange ≈ 0.43 Wh** — do the math: what's the total energy bill for 2025, or 2035?
 >  

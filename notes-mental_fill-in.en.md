@@ -1,10 +1,10 @@
 ---
 tags: 
-- #nte-mental_fill-in
+  - #nte-mental_fill-in
 number-sections: false 
 ---
 
-# 💬 Introduction ~ ❝Mental Fill-ins❞: Cognitive Shortcuts {.unnumbered}
+# 💬 Intro: ❝Mental Fill-ins❞~ Cognitive Shortcuts {.unnumbered}
 
 > 🥶🥵 When you see the Chinese idiom **「水深火熱」 (*Shui-Shen-Huo-Re* — literally "deep water and scorching fire")**, what instantly comes to your mind? 
 > 
