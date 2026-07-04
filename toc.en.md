@@ -1,7 +1,7 @@
 # —📖Table of Contents📑— {.unnumbered}
 * 🤗Preface 〜  🙩 [Harnessing Intelligence: AI Game Playbook for Cognitive Scaffolding](index.en.md)
-* 💬Intro ~  [❝Mental Fill-ins❞: Cognitive Shortcuts](notes-mental_fill-in.en.md)
-* 📑Note ~  [❝Constructive Fill-ins❞: Cognitive Unity of Knowledge and Action](notes-constructive_fill-in.en.md)
+* ▘Intro ~  [❝Mental Fill-ins❞: Cognitive Shortcuts](notes-mental_fill-in.en.md)
+* ▚Note ~  [❝Constructive Fill-ins❞: Cognitive Unity of Knowledge and Action](notes-constructive_fill-in.en.md)
 * [01 ㉄](01----problematics.en.md)　AI Problematics
 	* **1.1** 🎭🗪 [Turing Test](01-01-Turing_Test.en.md)
 	* **1.2** 🧱🗣️ [Chinese Room](01-02-Chinese_Room.en.md)
@@ -78,8 +78,8 @@
 	* **10.4** 🌉🔗📒 [Retrieval-Augmented Generation](10-04-retrieval_augmented_generation.en.md)
 	* **10.5** 🌉🪟🧭 [Context Engineering](10-05-context_engineering.en.md)
 	* **10.6** 🎁🌱🚀 [AI Product Management](10-06-AI_PM.en.md)
-* 📚 [Bibliography](references.en.qmd)
-* **🔖 Appendices & Notes**：
+* ▙ [Bibliography](references.en.qmd)
+* **▜ Appendices & Notes**：
 	* A. 💪[Action](appendix-action.en.qmd)："Action Concerto" 〜 Focusing on **Verbs** 
 	* B. 🧠[Brain](appendix-brain.en.md)："Naming Intelligence" 〜 Focusing on **Nouns** 
 	* C. 🪜[Cognitive Capacity](appendix-cognitive_capacity.en.md)："Framing Scaffolding" 〜 Focusing on **Nouns ➕ Verbs** 

@@ -1,7 +1,7 @@
 # ⸻📖目錄📑⸻ {.unnumbered}
 * 🤗序言 〜  🙩 [《框智格局：人工智慧知行鷹架手冊》](index.zh-hant.md)
-* 💬導論 ~  [❝腦補❞ 知行捷徑](notes-mental_fill-in.zh-hant.md)
-* 📑筆記 ~  [🙶補全🙷 知行合一](notes-constructive_fill-in.zh-hant)
+* ▘導論 ~  [❝腦補❞ 知行捷徑](notes-mental_fill-in.zh-hant.md)
+* ▚筆記 ~  [🙶補全🙷 知行合一](notes-constructive_fill-in.zh-hant)
 * [第壹篇 ㉄](01----problematics.zh-hant.md)　AI 問題意識（AI Problematics）
 	* **1.1** 🎭🗪 [圖靈測試](01-01-Turing_Test.zh-hant.md)（Turing Test）
 	* **1.2** 🧱🗣️ [中文房間](01-02-Chinese_Room.zh-hant.md)（Chinese Room）
@@ -78,8 +78,8 @@
 	* **10.4** 🌉🔗📒 [知識驅動生成（RAG）](10-04-retrieval_augmented_generation.zh-hant.md)（Retrieval-Augmented Generation）
 	* **10.5** 🌉🪟🧭 [脈絡工程](10-05-context_engineering.zh-hant.md)（Context Engineering） 
 	* **10.6** 🎁🌱🚀 [AI 產品經理](10-06-AI_PM.zh-hant.md)（AI Product Management）
-* 📚 [參考書目](references.zh-hant.qmd)
-* **🔖附錄與筆記**：
+* ▙ [參考書目](references.zh-hant.qmd)
+* **▜附錄與筆記**：
 	* A. 💪[行動](appendix-action.zh-hant.md)：「行動協奏」〜 聚焦 **動詞** 
 	* B. 🧠[心智](appendix-brain.zh-hant.md)：「道智修行」〜 聚焦 **名詞** 
 	* C. 🪜[能力](appendix-cognitive_capacity.zh-hant.md)：「建補鷹架」〜 聚焦 **名詞➕動詞** 
