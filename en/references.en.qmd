@@ -1,0 +1,10 @@
+---
+citeproc: true
+bibliography: references.bib
+bibliographystyle: apa
+number-sections: false 
+---
+# 📚References {.unnumbered}
+
+::: {#refs}
+:::
