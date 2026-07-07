@@ -26,7 +26,7 @@ Month after month, these AI interactions and transactions, measured in data and 
 
 These seemingly "everyday" behaviors are, in fact, entangled with the interweaving of multiple "socio-technical systems" — including the accumulation of habits and value judgments that shape a life.
 
-Following on from the ❝[Introduction](notes-mental_fill-in.zh-hant.md)❞, this ❝Note❞ chapter invites readers to reflect together: starting from 2025, how might we foresee our 2035 selves?
+Following on from the ❝[Introduction](00-02-notes-mental_fill-in.zh-hant.md)❞, this ❝Note❞ chapter invites readers to reflect together: starting from 2025, how might we foresee our 2035 selves?
 
 Imagine how humanity might move from ❝Mental Fill-in❞  (a cognitive shortcut) toward 🙶Constructive Fill-in🙷 (deliberately filling the gaps in life and society, as needed) — and in doing so, build the future.
 

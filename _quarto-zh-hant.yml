@@ -12,7 +12,7 @@ book:
   author: "廖漢騰"
   chapters:
     - file: 00-01-preface.zh-hant.md
-    - file: notes-mental_fill-in.zh-hant.md
+    - file: 00-02-notes-mental_fill-in.zh-hant.md
     - file: notes-constructive_fill-in.zh-hant.md
     - file: toc.zh-hant.md         # This page will display the full TOC/Listings
     - part: "01----problematics.zh-hant.md"

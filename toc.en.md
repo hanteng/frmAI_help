@@ -1,7 +1,7 @@
 # —📖Table of Contents📑— {.unnumbered}
-* 🤗Preface 〜  🙩 [Harnessing Intelligence: AI Game Playbook for Cognitive Scaffolding](00-01-preface.en.md)
-* ▘Intro ~  [❝Mental Fill-ins❞: Cognitive Shortcuts](notes-mental_fill-in.en.md)
-* ▚Note ~  [🙶Constructive Fill-ins🙷: Cognitive Unity of Knowledge and Action](notes-constructive_fill-in.en.md)
+* 🤗 Preface 〜  🙩 [Harnessing Intelligence: AI Game Playbook for Cognitive Scaffolding](00-01-preface.en.md)
+* ▘ Intro ~  [❝Mental Fill-ins❞: Cognitive Shortcuts](00-02-notes-mental_fill-in.en.md)
+* ▚ Note ~  [🙶Constructive Fill-ins🙷: Cognitive Unity of Knowledge and Action](notes-constructive_fill-in.en.md)
 * [01 ㉄](01----problematics.en.md)　AI Problematics
 	* **1.1** 🎭🗪 [Turing Test](01-01-Turing_Test.en.md)
 	* **1.2** 🧱🗣️ [Chinese Room](01-02-Chinese_Room.en.md)
@@ -88,6 +88,6 @@
 	* F. 📔[Cover, Back Cover, and Spine](cover_back.en.md)
 	* G. 🔖[Glossary](glossary.en.md)
 		* 🧠 [Cognitive Fill-in](notes-constructive_fill-in.en.md) 🐸🐘🧘
-		* 🧠🧞‍♀️ [〜Language Game Mental Fill-in Engines](notes-mental_fill-in.en.html)
+		* 🧠🧞‍♀️ [〜Language Game Mental Fill-in Engines](00-02-notes-mental_fill-in.en.html)
 		* 🪜👨‍👩‍👧‍👦 〜Parent's Edition: Legacy appendix-cognitive_capacity.en.md#parents
 		* 🪜🧘 〜Learner's Edition: Setting Roots appendix-cognitive_capacity.en.md#learners      
