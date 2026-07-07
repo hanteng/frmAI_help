@@ -1,7 +1,7 @@
 # —📖Table of Contents📑— {.unnumbered}
 * 🤗Preface 〜  🙩 [Harnessing Intelligence: AI Game Playbook for Cognitive Scaffolding](index.en.md)
 * ▘Intro ~  [❝Mental Fill-ins❞: Cognitive Shortcuts](notes-mental_fill-in.en.md)
-* ▚Note ~  [❝Constructive Fill-ins❞: Cognitive Unity of Knowledge and Action](notes-constructive_fill-in.en.md)
+* ▚Note ~  [🙶Constructive Fill-ins🙷: Cognitive Unity of Knowledge and Action](notes-constructive_fill-in.en.md)
 * [01 ㉄](01----problematics.en.md)　AI Problematics
 	* **1.1** 🎭🗪 [Turing Test](01-01-Turing_Test.en.md)
 	* **1.2** 🧱🗣️ [Chinese Room](01-02-Chinese_Room.en.md)

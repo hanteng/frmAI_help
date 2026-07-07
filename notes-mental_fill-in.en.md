@@ -198,7 +198,7 @@ The goal of orienting along longitudes and latitudes is to **transform AI knowle
  
 Equipped with these, readers will carry both a knowledge map and a practice manual.
 
-## 🪜 From ❝Mental Fill-ins❞ to ❝Constructive Fill-ins❞ 🌌
+## 🪜 From ❝Mental Fill-ins❞ to 🙶Constructive Fill-ins🙷 🌌
 
 This introduction explains the concept of ❝mental fill-ins❞ and AI, and demonstrates how to navigate this toolbook. Readers can quickly find information using search functions and mindmap browsing; the book's systematic arrangement provides distinct indexical and reference value.
 
