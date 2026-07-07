@@ -1,3 +1,5 @@
+/.git/
+
 # --- Quarto Compilation Artifacts ---
 /.quarto/
 /_site/

@@ -1,5 +1,5 @@
 # —📖Table of Contents📑— {.unnumbered}
-* 🤗Preface 〜  🙩 [Harnessing Intelligence: AI Game Playbook for Cognitive Scaffolding](index.en.md)
+* 🤗Preface 〜  🙩 [Harnessing Intelligence: AI Game Playbook for Cognitive Scaffolding](00-01-preface.en.md)
 * ▘Intro ~  [❝Mental Fill-ins❞: Cognitive Shortcuts](notes-mental_fill-in.en.md)
 * ▚Note ~  [🙶Constructive Fill-ins🙷: Cognitive Unity of Knowledge and Action](notes-constructive_fill-in.en.md)
 * [01 ㉄](01----problematics.en.md)　AI Problematics

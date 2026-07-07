@@ -11,7 +11,7 @@ book:
   title: "框智格局：<br/><small>AI 賽局手冊</small>"
   author: "廖漢騰"
   chapters:
-    - file: index.zh-hant.md
+    - file: 00-01-preface.zh-hant.md
     - file: notes-mental_fill-in.zh-hant.md
     - file: notes-constructive_fill-in.zh-hant.md
     - file: toc.zh-hant.md         # This page will display the full TOC/Listings
