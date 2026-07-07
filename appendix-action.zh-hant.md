@@ -3,7 +3,7 @@
 <!--
 📌 待併入檔案：appendix-action.zh-hant.qmd
 📌 建議插入位置：緊接在「框智力」相關內容之後，作為一個可獨立操作的練習單元
-📌 錨點：#sec-ai-cost-forecasting-worksheet（供 notes-constructive_fill-in_zh-hant.md 反向連結使用）
+📌 錨點：#sec-ai-cost-forecasting-worksheet（供 00-03-notes-constructive_fill-in_zh-hant.md 反向連結使用）
 -->
 
 ## 🏙 AI 代價與未來生活預見練習 {#sec-ai-cost-forecasting-worksheet}
@@ -75,7 +75,7 @@
 
 如同 AI 需要 **世界模型**，需要 **目標函數**，你也需要屬於自己的 **未來**。
 
-👉 完成本練習後，回到 📑 [筆記〈❝補全❞知行合一〉](notes-constructive_fill-in.zh-hant.md) 繼續閱讀「思維定勢」與「框智力」的討論。
+👉 完成本練習後，回到 📑 [筆記〈❝補全❞知行合一〉](00-03-notes-constructive_fill-in.zh-hant.md) 繼續閱讀「思維定勢」與「框智力」的討論。
 
 ***
 

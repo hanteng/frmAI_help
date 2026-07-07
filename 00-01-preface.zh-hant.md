@@ -27,7 +27,7 @@ tags:
 
 ## 🎲《道／盜智格局》<br/>AI賽局手冊
 
-這本手冊紮根於人工智慧底層的**問題意識**（見[第壹篇 ㉄](01----problematics.zh-hant) ），透過嚴謹的 **事實查核** 與 **邏輯追源** ，協助讀者建構個人化的 **[🪜 知行鷹架](notes-constructive_fill-in.zh-hant)** 。
+這本手冊紮根於人工智慧底層的**問題意識**（見[第壹篇 ㉄](01----problematics.zh-hant) ），透過嚴謹的 **事實查核** 與 **邏輯追源** ，協助讀者建構個人化的 **[🪜 知行鷹架](00-03-notes-constructive_fill-in.zh-hant)** 。
 
 這套能「框智」、具「格局」的鷹架，協助讀者檢視現有科技方案，更能啟發創新智能化包括**AI 工程**（見第拾篇 🌉 ）的解決之道。
  
@@ -57,7 +57,7 @@ tags:
 	* [第肆篇 🌀](04----statistical_ai.zh-hant)  「統計流」AI（Statistical AI）
 * 主推系統創新與分析層次，本書系統性總結「智能導向」 5 種（見[第伍篇 ☸](05----ai_orientations.zh-hant) ），以及「分析與決策」 6 點（見[第陸篇 ❖](06----analytics_decisions.zh-hant.md) ）。
 
-以上分章結構，不只勾勒出格局與框架，更鼓勵讀者構架自己的 **[🪜 知行鷹架](notes-constructive_fill-in.zh-hant)**，運用作者創建的新學習分類法，系統地產出關鍵的**動詞－名詞**組合
+以上分章結構，不只勾勒出格局與框架，更鼓勵讀者構架自己的 **[🪜 知行鷹架](00-03-notes-constructive_fill-in.zh-hant)**，運用作者創建的新學習分類法，系統地產出關鍵的**動詞－名詞**組合
 [註釋 @nte-ai-scaffolding]。
 
 

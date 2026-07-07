@@ -130,7 +130,7 @@ Therefore, this book initiates its journey with [01 ㉄ AI Problematics](01----p
 
 Before diving into the chapters, this book provides a "deconstruction" guide to help readers understand how to flexibly utilize the entire text.
 
-"Deconstruction" carries a dual meaning here: on one hand, the book serves as a knowledge map that can be oriented and navigated via longitudes and latitudes (the book's 🌌 [Mindmap](appendix-mindmap.zh-hant.qmd) «AI Knowledge Scaffolding»); on the other hand, the book functions as a reassemblable toolbox. Readers can dismantle and recombine it according to their needs to form their own personal scaffolding for knowledge and action (The 💪 [Action](appendix-action.zh-hant.qmd), 🧠 [Brain](appendix-brain.zh-hant.md), and 🪜 [Cognitive Capacity](appendix-cognitive_capacity.zh-hant.md) «Knowledge-Action Scaffolding» [Practice Manual](notes-constructive_fill-in.zh-hant)).
+"Deconstruction" carries a dual meaning here: on one hand, the book serves as a knowledge map that can be oriented and navigated via longitudes and latitudes (the book's 🌌 [Mindmap](appendix-mindmap.zh-hant.qmd) «AI Knowledge Scaffolding»); on the other hand, the book functions as a reassemblable toolbox. Readers can dismantle and recombine it according to their needs to form their own personal scaffolding for knowledge and action (The 💪 [Action](appendix-action.zh-hant.qmd), 🧠 [Brain](appendix-brain.zh-hant.md), and 🪜 [Cognitive Capacity](appendix-cognitive_capacity.zh-hant.md) «Knowledge-Action Scaffolding» [Practice Manual](00-03-notes-constructive_fill-in.zh-hant)).
 
 The following "longitudes and latitudes" offer distinct reading and application perspectives.
 
@@ -202,7 +202,7 @@ Equipped with these, readers will carry both a knowledge map and a practice manu
 
 This introduction explains the concept of ❝mental fill-ins❞ and AI, and demonstrates how to navigate this toolbook. Readers can quickly find information using search functions and mindmap browsing; the book's systematic arrangement provides distinct indexical and reference value.
 
-The next section, 📑 Notes 《[❝Constructive Fill-ins❞: Cognitive Unity of Knowledge and Action](notes-constructive_fill-in.zh-hant)》, shifts focus to the practice of ❝constructive fill-ins.❞ Once readers deploy their own «**Knowledge-Action Scaffolding**» and map out matrices based on processed «**Options**» and «**Choices**», they will begin constructing their own operational knowledge systems, expanding the boundaries of action and knowledge.
+The next section, 📑 Notes 《[❝Constructive Fill-ins❞: Cognitive Unity of Knowledge and Action](00-03-notes-constructive_fill-in.zh-hant)》, shifts focus to the practice of ❝constructive fill-ins.❞ Once readers deploy their own «**Knowledge-Action Scaffolding**» and map out matrices based on processed «**Options**» and «**Choices**», they will begin constructing their own operational knowledge systems, expanding the boundaries of action and knowledge.
 
 If readers are willing to invest more effort, they will find that this book is a highly interconnected system: its structure—consisting of one introduction, one set of notes, and multiple appendices—helps readers explore methodology deeply. The associated appendices on 💪 [Action](appendix-action.zh-hant.qmd), 🧠 [Brain](appendix-brain.zh-hant.md), and 🪜 [Cognitive Capacity](appendix-cognitive_capacity.zh-hant.md) serve as the author's carefully curated practice manual for your personal «**Knowledge-Action Scaffolding**»!
 

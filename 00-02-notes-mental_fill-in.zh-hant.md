@@ -149,7 +149,7 @@ number-sections: false
 
 在進入各篇章之前，本書提供一個「拆用」導引，幫助讀者理解如何靈活運用全書。
 
-這裡的「拆用」有兩層意涵：一方面是把書本視為一張知識地圖，可以依經緯等方式來定位與導航（本書🌌[心智圖](appendix-mindmap.zh-hant.qmd) «AI 知識鷹架»）；另一方面則是把書本當作一套可組裝的工具箱，讀者可以依需求拆解、重組，形成自己的知行鷹架（💪[行動](appendix-action.zh-hant.qmd) 🧠[心智](appendix-brain.zh-hant.md)🪜[能力](appendix-cognitive_capacity.zh-hant.md) «知行鷹架»[操練手冊](notes-constructive_fill-in.zh-hant)）。
+這裡的「拆用」有兩層意涵：一方面是把書本視為一張知識地圖，可以依經緯等方式來定位與導航（本書🌌[心智圖](appendix-mindmap.zh-hant.qmd) «AI 知識鷹架»）；另一方面則是把書本當作一套可組裝的工具箱，讀者可以依需求拆解、重組，形成自己的知行鷹架（💪[行動](appendix-action.zh-hant.qmd) 🧠[心智](appendix-brain.zh-hant.md)🪜[能力](appendix-cognitive_capacity.zh-hant.md) «知行鷹架»[操練手冊](00-03-notes-constructive_fill-in.zh-hant)）。
 
 以下「經度和緯度」，將分別提供不同的閱讀與應用視角。
 
@@ -221,7 +221,7 @@ number-sections: false
 
 本篇導論說明❝腦補❞及AI，介紹這本工具書的使用方式，讀者可以用搜尋、心智圖瀏覽等方式快速查找資訊，本書的系統性編排能提供清晰的知識索引與參照價值。
 
-下篇▚ 筆記《[🙶補全🙷 知行合一](notes-constructive_fill-in.zh-hant)》則說明🙶補全🙷的實踐，讀者展開屬於自己的«**知行鷹架**»，即可交織成欄例，開始有«**選項**»«**選擇**»取捨後的自己的操作型知識體係，逐步拓展行動與知識的邊界。下篇也會把本篇「❝腦補❞對 VLA，🙶補全🙷對世界模型」的個人心智對照，進一步放大到組織與社會尺度，說明「框智力」如何呼應管理學的「動態能力」與政治學的「模控治理」。
+下篇▚ 筆記《[🙶補全🙷 知行合一](00-03-notes-constructive_fill-in.zh-hant)》則說明🙶補全🙷的實踐，讀者展開屬於自己的«**知行鷹架**»，即可交織成欄例，開始有«**選項**»«**選擇**»取捨後的自己的操作型知識體係，逐步拓展行動與知識的邊界。下篇也會把本篇「❝腦補❞對 VLA，🙶補全🙷對世界模型」的個人心智對照，進一步放大到組織與社會尺度，說明「框智力」如何呼應管理學的「動態能力」與政治學的「模控治理」。
 
 然而，若讀者願意投入更多心力，本書更是一套交織的系統：透過一篇導論、一篇筆記、多篇附錄的結構，幫助讀者探究方法。相關附錄的《💪[行動](appendix-action.zh-hant.qmd) 》、《🧠[心智](appendix-brain.zh-hant.md)》、《🪜[能力](appendix-cognitive_capacity.zh-hant.md) 》等篇是作者為讀者整理的«**知行鷹架**»操練手冊！
 

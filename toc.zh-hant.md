@@ -1,7 +1,7 @@
 # ⸻📖目錄📑⸻ {.unnumbered}
 * 🤗序言 〜  🙩 [《框智格局：人工智慧知行鷹架手冊》](00-01-preface.zh-hant.md)
 * ▘ 導論 ~  [❝腦補❞ 知行捷徑](00-02-notes-mental_fill-in.zh-hant.md)
-* ▚ 筆記 ~  [🙶補全🙷 知行合一](notes-constructive_fill-in.zh-hant)
+* ▚ 筆記 ~  [🙶補全🙷 知行合一](00-03-notes-constructive_fill-in.zh-hant)
 * [第壹篇 ㉄](01----problematics.zh-hant.md)　AI 問題意識（AI Problematics）
 	* **1.1** 🎭🗪 [圖靈測試](01-01-Turing_Test.zh-hant.md)（Turing Test）
 	* **1.2** 🧱🗣️ [中文房間](01-02-Chinese_Room.zh-hant.md)（Chinese Room）
@@ -87,7 +87,7 @@
 	* E. 本書🌌[心智圖](appendix-mindmap.zh-hant.qmd)
 	* F. 📔 [封面封底書脊](cover_back.zh-hant.md)
 	* G. 🔖[詞彙表](glossary.zh-hant.md)
-		* 🧠 [心智能力](notes-constructive_fill-in.zh-hant.md) 🐸🐘🧘
+		* 🧠 [心智能力](00-03-notes-constructive_fill-in.zh-hant.md) 🐸🐘🧘
 		* 🧠🧞‍♀️ [〜語言賽局腦補機](00-02-notes-mental_fill-in.zh-hant.html)
 		* 🪜👨‍👩‍👧‍👦 〜家長篇~傳承 appendix-cognitive_capacity.zh-hant.md#parents
 		* 🪜🧘 〜自學篇~紥根 appendix-cognitive_capacity.zh-hant.md#learners
