@@ -6,11 +6,11 @@ tags:
 - 知識圖譜
 - 多模態學習
 ---
-## 符碼紮根問題🔤㊙ {#sec-symbol-grounding-problem}
+## Symbol Grounding Problem 🔤㊙ {#sec-symbol-grounding-problem}
 
-`符碼紮根問題`（Symbol Grounding Problem）又譯`符號接地問題`，由**認知科學家**斯特凡·哈納德（Stevan Harnad）於 1990 年首次提出，質疑抽象符號如何與真實世界的意義建立連結。
+`Symbol Grounding Problem`, proposed first by **cognitive scientist** Stevan Harnad in 1990, problematizes how abstract symbols connect to the real world meaningfully. 
 
-無紮根，符碼僅是依照規則被操弄的記號。這導致一個符號系統可能具備完美的語法操作能力，卻完全不懂其符碼代表的意義。這個問題與**中文房間**思想實驗一同，挑戰著人工智慧對「理解」的定義。
+Without grounding, symbols are merely 依照規則被操弄的記號。這導致一個符號系統可能具備完美的語法操作能力，卻完全不懂其符碼代表的意義。這個問題與**中文房間**思想實驗一同，挑戰著人工智慧對「理解」的定義。
 
 ## ㉄ 符碼意義：哪來？
 

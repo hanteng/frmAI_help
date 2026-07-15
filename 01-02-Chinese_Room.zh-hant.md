@@ -2,6 +2,8 @@
 tags:
 - 約翰・希爾
 - 思想實驗
+bibliography: references.bib
+csl: apa-single-spaced.csl
 ---
 # 中文房間🧱🗣️ {#sec-chinese-room}
 
