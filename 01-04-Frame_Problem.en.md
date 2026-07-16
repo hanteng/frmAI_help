@@ -22,38 +22,21 @@ At its core, this problem is about how to effectively **"frame" reality** in ord
 
 The **Frame Problem** can be divided into roughly two perspectives: the classic perspective identifies the technical bottleneck of formal logic, while the modern one captures the cognitive and situational challenges facing intelligent systems or beings (limited cognitivie resources when facing limitless possibilities).
 
-### 🏛️ 經典觀點：用符號邏輯定義「不變」{#sec-relevance-classic} 
-
-### 🏛️ Classical: Defining "Invariance" with Symbolic Logic {#sec-relevance-classic}
-
-古典觀點起源於 1969 年，由約翰・麥卡錫（John McCarthy）與弗雷德里克・海耶斯（Frederic Hayes）提出，旨在揭示為什麼讓機器人對一個複雜世界的變化進行推理如此困難。他們指出，最直接的邏輯方法（使用框架公理）會導致一個在計算上無法處理的難題——「公理爆炸」。
+### 🏛️ Classical: Defining Constancy with Symbolic Logic {#sec-relevance-classic}
 
 The classical view originated in 1969, proposed by John McCarthy and Patrick Hayes, aiming to reveal why it is so difficult to get a robot to reason about change in a complex world. They pointed out that the most direct logical approach (using frame axioms) leads to a computationally intractable problem—an "explosion of axioms."
 
-具體用形式邏輯表達世界動態變化時，他們發現，要描述一個行動（如「開燈」）所導致的變化，不僅需要**行動公理**（Action Axioms）來陳述燈會亮，還需要無數條**框架公理**（Frame Axioms）來證明所有其他事物（如房間裡書的位置）都保持不變。這導致了「公理爆炸」的問題，凸顯出單純依賴靜態邏輯來定義世界動態是不可行的。換句話說，機器無法「想太多」。
-
 When expressing the dynamics of the world in formal logic, they found that describing the consequences of an action (such as "turn on the light") requires not only **Action Axioms** to state that the light will turn on, but also countless **Frame Axioms** to prove that everything else (such as the position of a book in the room) remains unchanged. This leads to the problem of "axiom explosion," highlighting that relying purely on static logic to define the dynamics of the world is computationally infeasible. In other words, the machine cannot afford to "think too much."
 
-框架問題經典觀點因此展示了**[符號式人工智慧]()**的計算實現難點，也引導出一些應對的方法，如使用 **環界化**（Circumscription）與 **預設邏輯** （Default Logic）。這些方法在**特定任務或領域**內透過規則和假設進行限縮，有效地迴避了這個問題。然而，這也意謂著以下：
-
-The classical view of the frame problem thus reveals the computational implementation difficulty at the heart of **[symbolic AI]()**, and has also led to some coping mechanisms, such as **Circumscription** and **Default Logic**. These methods effectively sidestep the problem by narrowing things down within a **specific task or domain** using rules and assumptions. However, this also implies the following:
-
-1. **限制範圍**：問題範圍限縮到已知且有限的世界模型。例如，一個已知房間，或一套簡單的機器人任務。
+This revelation, informed by the classical view of the frame problem, exposed a fundamental implementation flaw at the heart of **[symbolic AI]()**, and spurred the development of workarounds, such as **Circumscription** and **Default Logic**. These methods effectively sidestep the problem by establishing a baseline of constancy within a **specific task or domain**, using rules and assumptions.  This, however, also implies the following assumptions:
 
 1. **Restricted scope**: The scope of the problem is narrowed to a known, finite world model—for example, a known room, or a simple set of robotic tasks.
 
-2. **明確定義例外**：為避免「公理爆炸」的困境，若不試圖證明所有事物都保持不變，則需明確定義會改變的例外情況。
-
 2. **Explicitly defined exceptions**: To overcome the issue of "axiom explosion," instead of trying to prove that everything remains unchanged, one must explicitly define the exceptional cases that do change.
-
-3. **封閉世界假設**：假設模型中未被明確陳述的資訊都是假的。
 
 3. **Closed-World Assumption**: Assume that any information not explicitly stated in the model is false.
 
-
-簡言之，框架問題經典觀點表明，在某些「狹窄」的 AI 領域中，框架問題是可控且可被克服的，有效地用符號邏輯定義「不變」及例外。
-
-In short, the classical view of the Frame Problem shows that within certain "narrow" AI domains, the frame problem is manageable and can be overcome, effectively using symbolic logic to define "invariance" and its exceptions.
+In short, the classical view of the Frame Problem shows that within "narrow" AI domains, the computational burden can be managed and can be overcome. By using symbolic logic to define a rigid baseline of "constancy" and only calculating the exceptions, systems can effectively frame their reality to respond and react.
 
 ### 🏙️ 現代觀點：用情境篩選「相關性」{#sec-relevance-modern} 
 
