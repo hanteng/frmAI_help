@@ -8,19 +8,19 @@ tags:
 ---
 ## Frame Problem 🖼️⏱️ {#sec-frame-problem}
 
-`Frame Problem`, a core challenge to both AI and cognitivie science, investigates how an intelligent being or system, when facing changes in the world, distinguishes "the relevant things that change" from "the irrelevant things that stay the same".  Whether it is a classic **symbolic logic** system or a contemporary **Large Language Model** application, the frame problem must be addressed effectively—otherwise the being or system cannot cope with the complexity and uncertainty of the real world:
+The `Frame Problem`, a core challenge in both AI and cognitive science, investigates how an intelligent being or system distinguishes "the relevant things that change" from "the irrelevant things that remain constant" when interacting with a dynamic world. Whether dealing with a classic **symbolic logic** system or a modern **Large Language Model** application, the frame problem must be addressed effectively—otherwise, the system cannot process the sheer complexity and uncertainty of reality:
 
-> 🖼️⏱️ When the external world (or our understanding of it) changes, what must remain stable?
+> 🖼️⏱️ When the external world (or our understanding of it) shifts, what must remain invariant?
 
 ## ㉄ Right now, what actually matters?
 
-"To meet a myriad of changes with constancy," a Chinese proverb suggests the importance to maintain the constant foundation (frame) to cope with all changes, effectively asking the question:
+"To meet a myriad of changes with constancy." This Chinese proverb highlights the necessity of anchoring oneself to foundational principles (the frame) in order to navigate endless variables. It essentially asks a single, operational question:
 
-> *"Right now, what actually matters?"*
+> _"Right now, what actually matters?"_
 
-At its core, this problem is about how to effectively **"frame" reality** in order to handle the pivotal concept of **"relevance."** In short: how do we consistently respond to changes without losing our unchanging frame
+At its core, this problem is about how to effectively **"frame" reality** to master the concept of **"relevance."** In short: how do we respond to dynamic variables without constantly recalculating the foundational axioms that are supposed to remain unchanged?
 
-The **Frame Problem** can be divided into roughly two perspectives: the classic perspective identifies the technical bottleneck of formal logic, while the modern one captures the cognitive and situational challenges facing intelligent systems or beings (limited cognitivie resources when facing limitless possibilities).
+The **Frame Problem** spans two broad perspectives: the classical view, which identifies the technical bottleneck of formal logic, and the modern view, which addresses the cognitive and situational challenge of filtering infinite possibilities with finite processing power.
 
 ### 🏛️ Classical: Defining Constancy with Symbolic Logic {#sec-relevance-classic}
 
