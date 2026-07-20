@@ -43,6 +43,7 @@ Early **hunter-gatherers** needed only a glimpse of a tiger's stripe through the
 **Gestalt Psychology** emphasizes that "recognizing parts, perceiving the whole" is linked to the "sensorimotor system" of **Embodied Cognition**; these "sensorimotor" perceptual patterns are not abstract reasoning.
 
 - The recognition of "figure versus ground" is not merely a visual phenomenon—it is "constructed" through the dynamic adjustment of our eyes, head, and attention.
+
 - Principles such as "proximity," "similarity," and "Gestalt closure" reflect how we move through space, grasp objects, and interact with others.
 
 **Gestalt Psychology** points to a meaning grounded in embodied cognition that does not rely on symbolic reasoning:
