@@ -1,5 +1,3 @@
-# .github/workflows/publish.yml
-
 name: Deploy Quarto Book to GitHub Pages
 
 on:
@@ -19,22 +17,20 @@ permissions:
 concurrency:
   group: "pages"
   cancel-in-progress: true
-  
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    permissions:
-      contents: write # Needed to publish the site
     steps:
       # 1. Checkout
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0 # Needed for proper git history access by Quarto
-          
+
       # 2. Setup Quarto
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
@@ -42,19 +38,12 @@ jobs:
       # 3. Render Profiles
       - name: Render English Profile (EN)
         run: quarto render --profile en
+
       - name: Render Chinese Profile (ZHT)
         run: quarto render --profile zh-hant
 
-      # 3. EXPLICITLY COPY ROOT FILES (Done AFTER rendering)
+      # 4. Copy Critical Root Files
       - name: Copy Critical Root Files to Output
-        run: |
-          cp CNAME _book/
-          cp cover.png _book/  
-          cp root-redirect.html _book/index.html
-
-      # 4. Copy Root Files and Deploy the entire _book directory
-      - name: Deploy to GitHub Pages
-        uses: Copy Critical Root Files to Output
         run: |
           cp CNAME _book/
           cp cover.png _book/  
