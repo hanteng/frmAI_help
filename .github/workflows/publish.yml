@@ -9,42 +9,39 @@ on:
     branches: [main] # Trigger on pull requests (optional)
   workflow_dispatch: {} # Allows manual trigger from the GitHub UI
 
+# Grant permissions needed for official GH Pages deployment
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
+# Allow one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+  
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     permissions:
       contents: write # Needed to publish the site
     steps:
-      # 0.A Checkout the source code
+      # 1. Checkout
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0 # Needed for proper git history access by Quarto
           
-      # 0.B Setup Quarto Environment
+      # 2. Setup Quarto
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
-        #with:
-        #  version: 'latest' # Use the latest stable Quarto version
 
-      # -------------------------------------------------------------
-      # 🌟 CORRECT STEP: Configure Git User Identity with the Bot ID
-      - name: Configure Git User
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com" 
-          
-      # 0.? Install Pandoc/LaTeX (if you plan to render PDFs)
-      # - name: Setup Pandoc/LaTeX
-      #   uses: quarto-dev/quarto-actions/tinytex@v2
-      #   if: always() # Runs even if previous steps fail
-
-      # 1. Render the English version (output to _book/en)
+      # 3. Render Profiles
       - name: Render English Profile (EN)
         run: quarto render --profile en
-
-      # 2. Render the Chinese version (output to _book/zht)
       - name: Render Chinese Profile (ZHT)
         run: quarto render --profile zh-hant
 
@@ -55,15 +52,21 @@ jobs:
           cp cover.png _book/  
           cp root-redirect.html _book/index.html
 
-      # 5. Deploy the entire _book directory
+      # 4. Copy Root Files and Deploy the entire _book directory
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+        uses: Copy Critical Root Files to Output
+        run: |
+          cp CNAME _book/
+          cp cover.png _book/  
+          cp root-redirect.html _book/index.html
+
+      # 5. Upload Artifact (Official GH Pages Step)
+      - name: Upload pages artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          # This deploys the entire rendered output
-          # Including _book/en, _book/zht, CNAME, and .nojekyll
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: _book
-          publish_branch: gh-pages # Or main, depending on your GH Pages config
-          force_orphan: true
-          # The destination folder is set by the GH Pages settings, 
-          # which should be configured to serve from the 'gh-pages' branch or '_book' folder.
+          path: '_book'
+
+      # 6. Deploy Artifact (Official GH Pages Step)
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
