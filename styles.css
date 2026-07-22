@@ -5,13 +5,12 @@ body, h1, h2, h3, h4, h5, h6, .sidebar, .menu-text {
                "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
-/* Hide any baked-in numbers in sidebar and main headings */
+/* Hide any baked-in numbers in sidebar and main headings 
 .sidebar .menu-text,
 h1.title,
 h1,
 h2 {
-  /* We'll overwrite text via JS, so no ::before counters here */
-}
+}*/
 
 .de-emphasize {
   color: hsl(210, 10%, 33%);
