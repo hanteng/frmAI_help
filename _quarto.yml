@@ -15,19 +15,19 @@ book:
   title: "框智格局：<br/><small>AI 賽局手冊</small>"
   author: "廖漢騰"
   chapters:
-    - index.md
-    - 00-02-notes-mental_fill-in.md
-    - 00-03-notes-constructive_fill-in.md
-    - toc.md
-    - part: "01----problematics.md"
+    - index.zh-hant.md
+    - 00-02-notes-mental_fill-in.zh-hant.md
+    - 00-03-notes-constructive_fill-in.zh-hant.md
+    - toc.zh-hant.md
+    - part: "01----problematics.zh-hant.md"
       chapters:
-        - 01-01-Turing_Test.md
-        - 01-02-Chinese_Room.md
-        - 01-03-Symbol_Grounding_Problem.md
-        - 01-04-Frame_Problem.md
-        - 01-05-Gestalt_Psychology.md
-        - 01-06-Alignment_Control_Problem.md
-        - 01-07-Language_Games.md
+        - 01-01-Turing_Test.zh-hant.md
+        - 01-02-Chinese_Room.zh-hant.md
+        - 01-03-Symbol_Grounding_Problem.zh-hant.md
+        - 01-04-Frame_Problem.zh-hant.md
+        - 01-05-Gestalt_Psychology.zh-hant.md
+        - 01-06-Alignment_Control_Problem.zh-hant.md
+        - 01-07-Language_Games.zh-hant.md
 
 page-footer:
   left: |
