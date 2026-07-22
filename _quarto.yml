@@ -4,3 +4,56 @@ project:
   render:
     - "!*.en.md"
     - "!*.zh-hant.md"
+
+# Set Traditional Chinese as main language, English as secondary
+babelquarto:
+  mainlanguage: 'zh-hant'
+  languages: ['en']
+
+# Main book metadata in Traditional Chinese
+book:
+  title: "框智格局：<br/><small>AI 賽局手冊</small>"
+  author: "廖漢騰"
+  chapters:
+    - index.md
+    - 00-02-notes-mental_fill-in.md
+    - 00-03-notes-constructive_fill-in.md
+    - toc.md
+    - part: "01----problematics.md"
+      chapters:
+        - 01-01-Turing_Test.md
+        - 01-02-Chinese_Room.md
+        - 01-03-Symbol_Grounding_Problem.md
+        - 01-04-Frame_Problem.md
+        - 01-05-Gestalt_Psychology.md
+        - 01-06-Alignment_Control_Problem.md
+        - 01-07-Language_Games.md
+
+page-footer:
+  left: |
+    《框智格局：AI 賽局手冊》
+     (預印版) Han-Teng Liao
+  right: |
+    别名《道／盜智格局：AI 賽局手冊》
+    本站使用 <a href="https://quarto.org/">Quarto</a> 製作。
+
+bibliography: references.bib
+
+language: _language-zh-hant.yml 
+
+format:
+  html:
+    lang: zh-Hant
+    css: styles.css
+    toc: true
+    toc-location: right
+    toc-title: "〜📖本頁章節📑〜"
+    number-sections: true
+    number-depth: 4
+    section-title-appendices: "🔖附錄與筆記"
+    crossref-nte-prefix: "註釋"
+    crossref-nte-title: "註釋"
+    crossref-tip-prefix: "提示"
+    crossref-tip-title: "提示"
+    callout-important-title: "要點"
+

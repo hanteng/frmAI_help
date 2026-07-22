@@ -2,18 +2,14 @@ name: Deploy Quarto Book to GitHub Pages
 
 on:
   push:
-    branches: [main] # Trigger on pushes to the main branch
-  pull_request:
-    branches: [main] # Trigger on pull requests (optional)
-  workflow_dispatch: {} # Allows manual trigger from the GitHub UI
+    branches: [main]
+  workflow_dispatch: {}
 
-# Grant permissions needed for official GH Pages deployment
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# Allow one concurrent deployment
 concurrency:
   group: "pages"
   cancel-in-progress: true
@@ -25,37 +21,47 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      # 1. Checkout
+      # 1. Checkout repository
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Needed for proper git history access by Quarto
+          fetch-depth: 0
 
-      # 2. Setup Quarto
+      # 2. Setup Quarto CLI
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      # 3. Render Profiles
-      - name: Render English Profile (EN)
-        run: quarto render --profile en
+      # 3. Setup R environment
+      - name: Setup R
+        uses: r-lib/actions/setup-r@v2
 
-      - name: Render Chinese Profile (ZHT)
-        run: quarto render --profile zh-hant
+      # 4. Install R dependencies (babelquarto and system tools)
+      - name: Install R Dependencies
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: |
+            github::ropensci/babelquarto
 
-      # 4. Copy Critical Root Files
+      # 5. Render Multilingual Book using babelquarto
+      - name: Render Multilingual Book
+        env:
+          BABELQUARTO_CI_URL: "https://<username>.github.io/<repo-name>/" # 👈 Update with your site URL
+        run: |
+          Rscript -e 'babelquarto::render_book()'
+
+      # 6. Copy Root Files (CNAME / custom covers)
       - name: Copy Critical Root Files to Output
         run: |
-          cp CNAME _book/
-          cp cover.png _book/  
-          cp root-redirect.html _book/index.html
+          cp CNAME _book/ 2>/dev/null || true
+          cp cover.png _book/ 2>/dev/null || true
 
-      # 5. Upload Artifact (Official GH Pages Step)
+      # 7. Upload Pages Artifact
       - name: Upload pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: '_book'
 
-      # 6. Deploy Artifact (Official GH Pages Step)
+      # 8. Deploy Artifact to GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

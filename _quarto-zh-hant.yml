@@ -25,29 +25,4 @@ book:
         - 01-06-Alignment_Control_Problem.zh-hant.md
         - 01-07-Language_Games.zh-hant.md
 
-page-footer:
-  left: |
-    《框智格局：AI 賽局手冊》
-     (預印版) Han-Teng Liao
-  right: |
-    别名《道／盜智格局：AI 賽局手冊》
-    本站使用 <a href="https://quarto.org/">Quarto</a> 製作。
 
-
-bibliography: references.bib
-
-format:
-  html:
-    lang: zh-Hant
-    css: styles.css
-    toc: true
-    toc-location: right
-    toc-title: "〜📖本頁章節📑〜"
-    number-sections: true
-    number-depth: 4
-    section-title-appendices: "🔖附錄與筆記"
-    crossref-nte-prefix: "註釋"
-    crossref-nte-title: "註釋"
-    crossref-tip-prefix: "提示"
-    crossref-tip-title: "提示"
-    callout-important-title: "要點"
