@@ -1,3 +1,9 @@
+body, h1, h2, h3, h4, h5, h6, .sidebar, .menu-text {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, 
+               "PingFang SC", "Microsoft YaHei", "Source Han Sans SC", 
+               "Noto Sans CJK SC", sans-serif, 
+               "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
 
 /* Hide any baked-in numbers in sidebar and main headings */
 .sidebar .menu-text,
