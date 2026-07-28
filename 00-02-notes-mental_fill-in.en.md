@@ -172,7 +172,7 @@ The remaining 6 parts cover the following contents:
 * 《[09 📐 Maths for AI](09----ai_math.zh-hant.md)》 <sup>📍[@fig-mindmap-09]</sup>
 * 《[10 🌉 AI Engineering](10----ai_engineering.zh-hant.md)》 <sup>📍[@fig-mindmap-10]</sup>
 
-In short, the book's 🌌 [Mindmap](appendix-mindmap.zh-hant.qmd) and 📖 [Table of Contents](toc.zh-hant.md) serve as an initial draft of the «AI Knowledge Scaffolding» designed by the author to help readers rapidly grasp their learning direction.
+In short, the book's 🌌 [Mindmap](appendix-mindmap.zh-hant.qmd) and 📖 [Table of Contents](toc.md) serve as an initial draft of the «AI Knowledge Scaffolding» designed by the author to help readers rapidly grasp their learning direction.
 
 ::: {.callout-important #imp-mindmap-fill-in title="🧭 Mindmap Navigation and Interactive Features" }
 

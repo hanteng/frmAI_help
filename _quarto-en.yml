@@ -1,29 +1,9 @@
 encoding: "UTF-8"
 lang: en
 
-project:
-  type: book
-  output-dir: _book/en
-
-# language: _language-zh-hant.yml 
-
 book:
   title: "Harnessing Intelligence:<br/><small>AI Game Playbook</small>"
   author: "Han-Teng Liao"
-  chapters:
-    - file: index.en.md
-    - file: 00-02-notes-mental_fill-in.en.md
-    - file: 00-03-notes-constructive_fill-in.en.md
-    - file: toc.en.md         # This page will display the full TOC/Listings
-    - part: "01----problematics.en.md"
-      chapters:
-        - 01-01-Turing_Test.en.md
-        - 01-02-Chinese_Room.en.md
-        - 01-03-Symbol_Grounding_Problem.en.md
-        - 01-04-Frame_Problem.en.md
-        - 01-05-Gestalt_Psychology.en.md
-        - 01-06-Alignment_Control_Problem.en.md
-        - 01-07-Language_Games.en.md
 
 page-footer:
   left: |
