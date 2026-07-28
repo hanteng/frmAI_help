@@ -18,7 +18,7 @@ babelquarto:
 book:
   title: "框智格局"
   subtitle: "<small>AI 賽局手冊</small>"
-  cover-image: images/cover.png
+  cover-image: cover.png
   cover-image-alt: "Book cover showing the Illustrations of Alice and the Dodo from Alice's Adventures in Wonderland, by John Tenniel (1865)"  
   author:
     - name: "廖漢騰 (Han-Teng Liao)"
@@ -26,7 +26,7 @@ book:
       affiliations:
         - name: "Independent Researcher"
   date: "2026-07-23"   # ISO format so it parses/localizes correctly across formats
-  site-url: "https://eco.frmai.help"   # matches CNAME; update if the domain changes
+  site-url: "https://book.frmai.help"   # matches CNAME; update if the domain changes
   sidebar:
     style: docked
     collapse-level: 1

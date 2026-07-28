@@ -4,6 +4,29 @@ lang: en
 book:
   title: "Harnessing Intelligence:<br/><small>AI Game Playbook</small>"
   author: "Han-Teng Liao"
+  cover-image: cover.png
+  cover-image-alt: "Book cover showing the Illustrations of Alice and the Dodo from Alice's Adventures in Wonderland, by John Tenniel (1865)"  
+  author:
+    - name: "廖漢騰 (Han-Teng Liao)"
+      orcid: "0000-0003-1081-5599"   # replace with actual ORCID
+      affiliations:
+        - name: "Independent Researcher"
+  date: "2026-07-23"   # ISO format so it parses/localizes correctly across formats
+  site-url: "https://book.frmai.help"   # matches CNAME; update if the domain changes
+  sidebar:
+    style: docked
+    collapse-level: 1
+  search: true
+  page-navigation: true
+  reader-mode: true
+  chapters:
+    - index.en.md
+    - 00-02-notes-mental_fill-in.en.md
+    - 00-03-notes-constructive_fill-in.en.md
+    - toc.en.md
+    - part: "01----problematics.en.md"
+      chapters:
+        - 01-01-Turing_Test.en.md
 
 page-footer:
   left: |
@@ -13,9 +36,9 @@ page-footer:
     aka  🙶The Tao of Intelligence: AI Game Playbook🙷 
     This book website is built by using <a href="https://quarto.org/">Quarto</a>.
 
-
 bibliography: references.bib
 
+# Main book metadata in Traditional Chinese
 format:
   html:
     lang: en                           # 確保英文配置下 HTML 語系正確
