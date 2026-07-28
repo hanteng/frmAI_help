@@ -34,19 +34,19 @@ book:
   page-navigation: true
   reader-mode: true
   chapters:
-    - index.md
-    - 00-02-notes-mental_fill-in.md
-    - 00-03-notes-constructive_fill-in.md
-    - toc.md
-    - part: "01----problematics.md"
+    - index.qmd
+    - 00-02-notes-mental_fill-in.qmd
+    - 00-03-notes-constructive_fill-in.qmd
+    - toc.qmd
+    - part: "01----problematics.qmd"
       chapters:
-        - 01-01-Turing_Test.md
-        - 01-02-Chinese_Room.md
-        - 01-03-Symbol_Grounding_Problem.md
-        - 01-04-Frame_Problem.md
-        - 01-05-Gestalt_Psychology.md
-        - 01-06-Alignment_Control_Problem.md
-        - 01-07-Language_Games.md
+        - 01-01-Turing_Test.qmd
+        - 01-02-Chinese_Room.qmd
+        - 01-03-Symbol_Grounding_Problem.qmd
+        - 01-04-Frame_Problem.qmd
+        - 01-05-Gestalt_Psychology.qmd
+        - 01-06-Alignment_Control_Problem.qmd
+        - 01-07-Language_Games.qmd
 
 page-footer:
   left: |

@@ -1,5 +1,5 @@
 <!--
-📌 待併入檔案：appendix-mindmap.zh-hant.qmd
+📌 待併入檔案：appendix-mindmap.qmd
 📌 建議插入位置：與心智圖說明相鄰處，或作為「如何使用本心智圖」的補充框
 📌 錨點：#sec-ai-taxonomy-comparison（供 00-03-notes-constructive_fill-in_zh-hant.md 反向連結使用）
 -->

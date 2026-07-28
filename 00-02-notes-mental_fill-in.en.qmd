@@ -130,7 +130,7 @@ Therefore, this book initiates its journey with [01 ㉄ AI Problematics](01----p
 
 Before diving into the chapters, this book provides a "deconstruction" guide to help readers understand how to flexibly utilize the entire text.
 
-"Deconstruction" carries a dual meaning here: on one hand, the book serves as a knowledge map that can be oriented and navigated via longitudes and latitudes (the book's 🌌 [Mindmap](appendix-mindmap.zh-hant.qmd) «AI Knowledge Scaffolding»); on the other hand, the book functions as a reassemblable toolbox. Readers can dismantle and recombine it according to their needs to form their own personal scaffolding for knowledge and action (The 💪 [Action](appendix-action.zh-hant.qmd), 🧠 [Brain](appendix-brain.zh-hant.md), and 🪜 [Cognitive Capacity](appendix-cognitive_capacity.zh-hant.md) «Knowledge-Action Scaffolding» [Practice Manual](00-03-notes-constructive_fill-in.zh-hant)).
+"Deconstruction" carries a dual meaning here: on one hand, the book serves as a knowledge map that can be oriented and navigated via longitudes and latitudes (the book's 🌌 [Mindmap](appendix-mindmap.qmd) «AI Knowledge Scaffolding»); on the other hand, the book functions as a reassemblable toolbox. Readers can dismantle and recombine it according to their needs to form their own personal scaffolding for knowledge and action (The 💪 [Action](appendix-action.qmd), 🧠 [Brain](appendix-brain.zh-hant.md), and 🪜 [Cognitive Capacity](appendix-cognitive_capacity.zh-hant.md) «Knowledge-Action Scaffolding» [Practice Manual](00-03-notes-constructive_fill-in.zh-hant)).
 
 The following "longitudes and latitudes" offer distinct reading and application perspectives.
 
@@ -148,7 +148,7 @@ The 10 **parts** and individual **chapters** of this book are perfectly suited f
 
 ## 🧭 Longitudes and Latitudes 🔗
 
-To quickly master the primary knowledge points of this book, you can start with the 🌌 [Mindmap](appendix-mindmap.zh-hant.qmd) and map out your coordinates along the vertical axis (the «data-driven decision» process) and the horizontal axis (various problematics, schools, paradigms, orientations, etc.):
+To quickly master the primary knowledge points of this book, you can start with the 🌌 [Mindmap](appendix-mindmap.qmd) and map out your coordinates along the vertical axis (the «data-driven decision» process) and the horizontal axis (various problematics, schools, paradigms, orientations, etc.):
 
 * **X-Axis (Longitude)** ~ Illustrates the «data-driven decision» process, detailed in 《[06 ❖ Analytics & Decisions](06----analytics_decisions.zh-hant.md)》<sup>📍[@fig-mindmap-06]</sup>, mapped to ✍️💡 Bloom's 6 Cognitive Capacities:
 	* 🤓📘 From the vast world, perform 『**[Descriptive Analysis](06-04-analysis_descriptive.zh-hant.md)**』 to establish a context-bound «**Memory**» of the **present**.
@@ -172,11 +172,11 @@ The remaining 6 parts cover the following contents:
 * 《[09 📐 Maths for AI](09----ai_math.zh-hant.md)》 <sup>📍[@fig-mindmap-09]</sup>
 * 《[10 🌉 AI Engineering](10----ai_engineering.zh-hant.md)》 <sup>📍[@fig-mindmap-10]</sup>
 
-In short, the book's 🌌 [Mindmap](appendix-mindmap.zh-hant.qmd) and 📖 [Table of Contents](toc.md) serve as an initial draft of the «AI Knowledge Scaffolding» designed by the author to help readers rapidly grasp their learning direction.
+In short, the book's 🌌 [Mindmap](appendix-mindmap.qmd) and 📖 [Table of Contents](toc.md) serve as an initial draft of the «AI Knowledge Scaffolding» designed by the author to help readers rapidly grasp their learning direction.
 
 ::: {.callout-important #imp-mindmap-fill-in title="🧭 Mindmap Navigation and Interactive Features" }
 
-The book's 🌌 [Mindmap](appendix-mindmap.zh-hant.qmd) condenses complex knowledge into a neat grid. It not only 🧭 **navigates** the process of intelligent generation but also helps distinguish different technologies and application scenarios:
+The book's 🌌 [Mindmap](appendix-mindmap.qmd) condenses complex knowledge into a neat grid. It not only 🧭 **navigates** the process of intelligent generation but also helps distinguish different technologies and application scenarios:
 
 * Each knowledge point **node** box contains embedded 🔗 **hyperlinks**, allowing readers to jump, compare, and cross-reference instantly.
 * The connecting **lines** define relationships between knowledge points.
@@ -204,7 +204,7 @@ This introduction explains the concept of ❝mental fill-ins❞ and AI, and demo
 
 The next section, 📑 Notes 《[❝Constructive Fill-ins❞: Cognitive Unity of Knowledge and Action](00-03-notes-constructive_fill-in.zh-hant)》, shifts focus to the practice of ❝constructive fill-ins.❞ Once readers deploy their own «**Knowledge-Action Scaffolding**» and map out matrices based on processed «**Options**» and «**Choices**», they will begin constructing their own operational knowledge systems, expanding the boundaries of action and knowledge.
 
-If readers are willing to invest more effort, they will find that this book is a highly interconnected system: its structure—consisting of one introduction, one set of notes, and multiple appendices—helps readers explore methodology deeply. The associated appendices on 💪 [Action](appendix-action.zh-hant.qmd), 🧠 [Brain](appendix-brain.zh-hant.md), and 🪜 [Cognitive Capacity](appendix-cognitive_capacity.zh-hant.md) serve as the author's carefully curated practice manual for your personal «**Knowledge-Action Scaffolding**»!
+If readers are willing to invest more effort, they will find that this book is a highly interconnected system: its structure—consisting of one introduction, one set of notes, and multiple appendices—helps readers explore methodology deeply. The associated appendices on 💪 [Action](appendix-action.qmd), 🧠 [Brain](appendix-brain.zh-hant.md), and 🪜 [Cognitive Capacity](appendix-cognitive_capacity.zh-hant.md) serve as the author's carefully curated practice manual for your personal «**Knowledge-Action Scaffolding**»!
 
 ::: {.callout-tip #tip-mental-fill-in title="💬 Cognitive Shortcuts Tip: 🌟 TLDR" }
 

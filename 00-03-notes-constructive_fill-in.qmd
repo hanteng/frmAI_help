@@ -74,7 +74,7 @@ editor:
 
 ***
 
-準備好了嗎？在深入探討「思維定勢」與「框智力」之前，不妨先動手做一個小小的科技預見練習——見 🔖附錄A. 💪 [行動](appendix-action.zh-hant.qmd#sec-ai-cost-forecasting-worksheet) 中的《AI 代價與未來生活預見練習》，親手估算一次 AI 問答的能耗代價，並想像自己在 2025、2030、2035 三個時間點的生活樣貌。
+準備好了嗎？在深入探討「思維定勢」與「框智力」之前，不妨先動手做一個小小的科技預見練習——見 🔖附錄A. 💪 [行動](appendix-action.qmd#sec-ai-cost-forecasting-worksheet) 中的《AI 代價與未來生活預見練習》，親手估算一次 AI 問答的能耗代價，並想像自己在 2025、2030、2035 三個時間點的生活樣貌。
 
 ::: {.callout-tip #tip-worksheet-pointer title="🏙 動手練習：AI 代價與未來生活預見" collapse=false open=true }
 
@@ -84,7 +84,7 @@ editor:
 * 🔮 五個 **AI 未來假說**（對齊崩潰、公共財、帝國、部落化、公用事業）待你檢驗
 * 🏙 一張 **AI 個人生活預見表**，邀你填入自己 2025、2030、2035 的想像
 
-完成後，你會更能體會「被補全」與「自補全」之間的抉擇。詳見 🔖附錄A. 💪 [行動](appendix-action.zh-hant.qmd#sec-ai-cost-forecasting-worksheet)。
+完成後，你會更能體會「被補全」與「自補全」之間的抉擇。詳見 🔖附錄A. 💪 [行動](appendix-action.qmd#sec-ai-cost-forecasting-worksheet)。
 
 :::
 
@@ -168,7 +168,7 @@ editor:
 
 **框智力**讓**選項**更清晰，為**選擇**做好準備。  
 
-**擇**其所需、**取**其所長，既能渡己，亦能渡人。更多詳見 🔖附錄A. 💪[行動](appendix-action.zh-hant.qmd) [@imp-aqal-4-quadrants]。  
+**擇**其所需、**取**其所長，既能渡己，亦能渡人。更多詳見 🔖附錄A. 💪[行動](appendix-action.qmd) [@imp-aqal-4-quadrants]。  
 
 ::: {.callout-important #imp-frame-set title="💪🦾 框智力🖼️ " collapse=false open=true } 
 
@@ -185,7 +185,7 @@ editor:
   - **動**  
     - 🎯🛡️ **[@sec-alignment-control-problem]**  
 
-更多詳見 🔖附錄A. 💪[行動](appendix-action.zh-hant.qmd) [@imp-aqal-4-quadrants]。  
+更多詳見 🔖附錄A. 💪[行動](appendix-action.qmd) [@imp-aqal-4-quadrants]。  
 
 💡 結合「**如何思考自己與世界**」與「**在何種脈絡下思考**」，構建全景式行動框架。  
 
@@ -251,8 +251,8 @@ Beer 巧妙地以人類的神經解剖學（Neuroanatomy）作為原型，主張
 
 ::: {.callout-note #nte-next-steps title="🔗 延伸閱讀與練習" collapse=false open=true }
 
-* 🏙 **動手練習**：還沒做過本章開頭提到的《AI 代價與未來生活預見練習》嗎？見 🔖附錄A. 💪 [行動](appendix-action.zh-hant.qmd#sec-ai-cost-forecasting-worksheet)。
-* 🔖 **AI 分類對照**：想知道「AI 導向」與「流派主義」這兩套分類法如何銜接 [第壹篇 ㉄](01----problematics.zh-hant.md) AI 問題意識嗎？見 🔖附錄🌌 [心智圖](appendix-mindmap.zh-hant.qmd#sec-ai-taxonomy-comparison)。
+* 🏙 **動手練習**：還沒做過本章開頭提到的《AI 代價與未來生活預見練習》嗎？見 🔖附錄A. 💪 [行動](appendix-action.qmd#sec-ai-cost-forecasting-worksheet)。
+* 🔖 **AI 分類對照**：想知道「AI 導向」與「流派主義」這兩套分類法如何銜接 [第壹篇 ㉄](01----problematics.zh-hant.md) AI 問題意識嗎？見 🔖附錄🌌 [心智圖](appendix-mindmap.qmd#sec-ai-taxonomy-comparison)。
 * 🙈 **創作示範**：想看看「補全」落實在文學創作上的示範嗎？見 🔖 [大聖歸來：仿葉慈新詩](appendix-poem.zh-hant.md)，一首以《西遊記》意象改寫葉慈《二度降臨》的中文新詩。
 * 🌐🦾 **組織與治理對照**：想更深入理解「框智力」如何對應管理學「動態能力」（Teece）與政治學「模控治理」（Deutsch、Beer）嗎？見本章「🌐🦾 框智力放大：組織的動態能力與模控治理」一節。
 

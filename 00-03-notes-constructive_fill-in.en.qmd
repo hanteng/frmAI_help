@@ -225,7 +225,7 @@ At the core of "technological foresight" are:
 
 **框智力**讓**選項**更清晰，為**選擇**做好準備。  
 
-**擇**其所需、**取**其所長，既能渡己，亦能渡人。更多詳見 🔖附錄A. 💪[行動](appendix-action.zh-hant.qmd) [@imp-aqal-4-quadrants]。  
+**擇**其所需、**取**其所長，既能渡己，亦能渡人。更多詳見 🔖附錄A. 💪[行動](appendix-action.qmd) [@imp-aqal-4-quadrants]。  
 
 ::: {.callout-important #imp-frame-set title="💪🦾 框智力🖼️ " collapse=false open=true } 
 
@@ -242,7 +242,7 @@ At the core of "technological foresight" are:
   - **動**  
     - 🎯🛡️ **[@sec-alignment-control-problem]**  
 
-更多詳見 🔖附錄A. 💪[行動](appendix-action.zh-hant.qmd) [@imp-aqal-4-quadrants]。  
+更多詳見 🔖附錄A. 💪[行動](appendix-action.qmd) [@imp-aqal-4-quadrants]。  
 
 💡 結合「**如何思考自己與世界**」與「**在何種脈絡下思考**」，構建全景式行動框架。  
 
@@ -260,7 +260,7 @@ At the core of "technological foresight" are:
 * **「學界典範流派分類」**：見 [第貳篇 🎏🏮](02----schools_paradigms.zh-hant.md) 流派與主義
 * **「業界經驗法則分類」**：即 [第伍篇 ☸](05----ai_orientations.zh-hant.md) 區分 AI 5 大導向
 
-可參照 **[🔖附錄🌌 心智圖](appendix-mindmap.zh-hant.qmd)**，理解這兩套分類如何銜接 [第壹篇 ㉄](01----problematics.zh-hant.md) AI 問題意識。
+可參照 **[🔖附錄🌌 心智圖](appendix-mindmap.qmd)**，理解這兩套分類如何銜接 [第壹篇 ㉄](01----problematics.zh-hant.md) AI 問題意識。
 
 🪜🆚🔖
 :::

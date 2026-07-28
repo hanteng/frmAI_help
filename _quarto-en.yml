@@ -19,13 +19,13 @@ book:
   page-navigation: true
   reader-mode: true
   chapters:
-    - index.en.md
-    - 00-02-notes-mental_fill-in.en.md
-    - 00-03-notes-constructive_fill-in.en.md
-    - toc.en.md
-    - part: "01----problematics.en.md"
+    - index.en.qmd
+    - 00-02-notes-mental_fill-in.en.qmd
+    - 00-03-notes-constructive_fill-in.en.qmd
+    - toc.en.qmd
+    - part: "01----problematics.en.qmd"
       chapters:
-        - 01-01-Turing_Test.en.md
+        - 01-01-Turing_Test.en.qmd
 
 page-footer:
   left: |
