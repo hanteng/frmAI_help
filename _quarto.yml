@@ -40,13 +40,37 @@ book:
     - toc.qmd
     - part: "01----problematics.qmd"
       chapters:
-        - 01-01-Turing_Test.qmd
-        - 01-02-Chinese_Room.qmd
-        - 01-03-Symbol_Grounding_Problem.qmd
-        - 01-04-Frame_Problem.qmd
-        - 01-05-Gestalt_Psychology.qmd
-        - 01-06-Alignment_Control_Problem.qmd
-        - 01-07-Language_Games.qmd
+        - file: 01-01-Turing_Test.qmd
+          id: sec-turing-test
+        - file: 01-02-Chinese_Room.qmd
+          id: sec-chinese-room
+        - file: 01-03-Symbol_Grounding_Problem.qmd
+          id: sec-symbol-grounding-problem
+        - file: 01-04-Frame_Problem.qmd
+          id: sec-frame-problem
+        - file: 01-05-Gestalt_Psychology.qmd
+          id: sec-gestalt-psychology
+        - file: 01-06-Alignment_Control_Problem.qmd
+          id: sec-alignment-control-problem
+        - file: 01-07-Language_Games.qmd
+          id: sec-language-games
+    - part: 02----schools_paradigms.qmd
+      chapters:
+        - file: 02-01-symbolic_ai.qmd
+          id: sec-symbolic-ai
+        - file: 02-02-statistical_ai.qmd
+          id: sec-statistical-ai
+        - file: 02-03-neurosymbolic_ai.qmd
+          id: sec-neurosymbolic-ai
+        - file: 02-04-agi.qmd
+          id: sec-agi
+        - file: 02-05-connectionism.qmd
+          id: sec-connectionism
+        - file: 02-06-behaviorism.qmd
+          id: sec-behaviorism
+        - file: 02-07-large_language_models.qmd
+          id: sec-large-language-models
+
 
 page-footer:
   left: |
