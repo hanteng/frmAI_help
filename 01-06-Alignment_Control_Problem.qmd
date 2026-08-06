@@ -127,7 +127,7 @@ AI 對齊與控制是一場**持久戰**，需要長期監測與調校：
 
 * ☸⚖️ [治理導向](05-05-oriented_governance.zh-hant)
 * 🌉🤖🚨 [智能體可靠性與評估](10-02-agent_reliability_evaluation.zh-hant)
-* 🌉🪟🧭 [脈絡工程](10-05-context_engineering.zh-hant.md)
+* 🌉🪟🧭 [脈絡工程](10-05-context_engineering.zh-hant.qmd)
 
 ## ✎ 編輯筆記
 

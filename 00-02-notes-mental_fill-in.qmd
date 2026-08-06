@@ -14,7 +14,7 @@ number-sections: false
 
 以上三個看似「常識性」的問題，實則已有多重（且不同的）心智能力交織。
 
-準備好，以水火為例，展開心智能力的旅程，見證人類如何 ❝[腦補](glossary.zh-hant.md#def-mental-fill-in)❞。
+準備好，以水火為例，展開心智能力的旅程，見證人類如何 ❝[腦補](glossary.zh-hant.qmd#def-mental-fill-in)❞。
 
 ## 💧🔥關於水火
 
@@ -29,7 +29,7 @@ number-sections: false
 * 🌊🏗️ 想**治**「水」的神話故事與當代工程？
 * 🚂💨 「水火交融」的**工業革命**，怎麼構建現代都市文明？
 
-思考並做筆記一下，以上六個問題，你能❝[腦補](glossary.zh-hant.md#def-mental-fill-in)❞出什麼答案呢？
+思考並做筆記一下，以上六個問題，你能❝[腦補](glossary.zh-hant.qmd#def-mental-fill-in)❞出什麼答案呢？
 
 ## 🧠心智能力🐸🐘🧘
 
@@ -43,7 +43,7 @@ number-sections: false
 
 為了更清楚地分析與應用這些能力，我們可以將其抽象化、分類化，形成一個可對照人類與人工智慧的認知框架。
 
-正是這些認知框架，讓❝[腦補](glossary.zh-hant.md#def-mental-fill-in)❞的經驗法則，提升到更高層次的認知能力。
+正是這些認知框架，讓❝[腦補](glossary.zh-hant.qmd#def-mental-fill-in)❞的經驗法則，提升到更高層次的認知能力。
 
 ::: {.callout-important #imp-tri-cognitive-model title="🧠 ⟨**三重心智**⟩ " collapse=false open=true } 
 本書原創整合的**心智能力分類**，提供了較細化的名詞«選項»分類起點：
@@ -54,14 +54,14 @@ number-sections: false
 
 反思人類的心智活動，依其**處理速度**、**社會功能**與**符號能力**，區分自己和機器的認知能力。
 
-詳細見**🔖附錄** B. 🧠[心智〜 三重心智整合](appendix-brain.zh-hant.md#sec-tri-cognitive-model)。
+詳細見**🔖附錄** B. 🧠[心智〜 三重心智整合](appendix-brain.zh-hant.qmd#sec-tri-cognitive-model)。
 
 ⚡💞☸️
 ::: 
 
 ## 🤯 ❝腦補❞ 知行捷徑
 
-❝[腦補](glossary.zh-hant.md#def-mental-fill-in)❞（Mental Fill-in），指人類在資訊不完整時，**依賴經驗與想像，自動在腦中填補出完整「情節」或「事實」**的行為。
+❝[腦補](glossary.zh-hant.qmd#def-mental-fill-in)❞（Mental Fill-in），指人類在資訊不完整時，**依賴經驗與想像，自動在腦中填補出完整「情節」或「事實」**的行為。
 
 它可能是生活中的無數個瞬間：
 
@@ -69,21 +69,21 @@ number-sections: false
 - 📺 當新聞背景音樂襯上旁白提到兩個國家，你情緒已滿：**「啊，又是衝突！一定是那一方挑釁在先，另一方被迫反擊。」**「誰對誰錯，責任在誰」早已有定論。    
 - 🎭 當追劇時演到關鍵時刻，你已有期待反轉再反轉：**「這角色一定會背叛！不對，他其實是臥底！等等，難道導演還要再翻一次？」**    
 
-這些❝[腦補](glossary.zh-hant.md#def-mental-fill-in)❞的心智活動，既是我們的本能，也可能是誤讀現實的源頭。**情緒**、**立場**、**故事**……一切都能補。
+這些❝[腦補](glossary.zh-hant.qmd#def-mental-fill-in)❞的心智活動，既是我們的本能，也可能是誤讀現實的源頭。**情緒**、**立場**、**故事**……一切都能補。
 
 正是這，可以為我們解鎖「人工智慧」（Artificial Intelligence, AI）的理解及創新之鑰：
 
->❝[腦補](glossary.zh-hant.md#def-mental-fill-in)❞本能是人類的「**知行捷徑**」（Cognitive shortcuts for actions），依賴經驗與想像，我們在不完整的資訊中填補空缺，勾勒出「事實」，驅使我們「行動」。
+>❝[腦補](glossary.zh-hant.qmd#def-mental-fill-in)❞本能是人類的「**知行捷徑**」（Cognitive shortcuts for actions），依賴經驗與想像，我們在不完整的資訊中填補空缺，勾勒出「事實」，驅使我們「行動」。
 
 ## 🖼️🙶應對🙷 AI 問題㉄
 
-❝[腦補](glossary.zh-hant.md#def-mental-fill-in)❞勾勒「事實」，驅使「行動」，如此關照「水」與「火」的心智能力分層，在構建人工智慧系統時，可以用來：
+❝[腦補](glossary.zh-hant.qmd#def-mental-fill-in)❞勾勒「事實」，驅使「行動」，如此關照「水」與「火」的心智能力分層，在構建人工智慧系統時，可以用來：
 
-* 應對 **[框架問題](01-04-Frame_Problem.zh-hant.md)**：
+* 應對 **[框架問題](01-04-Frame_Problem.zh-hant.qmd)**：
 	* 界定 「**感知—決策—行動**」 模式或模組，如
 		* 太暗時要？🔥
 		* 太渴時要？💧
-* 應對 **[完形心理](01-05-Gestalt_Psychology.zh-hant.md)** 
+* 應對 **[完形心理](01-05-Gestalt_Psychology.zh-hant.qmd)** 
 	  提供「**腦補**」的認知捷徑及經驗法則，如
 		* 🍏🤤「**望梅止渴**」是什麼「**腦補**」？
 			* ——透過想像與記憶觸發生理反應，彌補當下資源不足的情境。
@@ -91,20 +91,20 @@ number-sections: false
 			* ——從微小跡象推測出即將爆發的巨大變化。 
 		* 🌬️👤「**補風捉影**」是什麼「**腦補**」？
 			* ——在資訊不足時，憑空構建情節與因果。
-* 應對 **[符碼紮根問題](01-03-Symbol_Grounding_Problem.zh-hant.md)**，
+* 應對 **[符碼紮根問題](01-03-Symbol_Grounding_Problem.zh-hant.qmd)**，
 	* 依據反應時間尺度，規劃系統的「**資訊需求**及**資源配置**」，如
 		* 引發🚂💨**工業革命** 的「水」與「火」機制是要為啥及如何配置可燃物資源？	
 		* 支持 🌡️☁️ **超大規模數據中心** 的「水」與「火」，則是指**電力消耗**（火）與**散熱冷卻**（水）的平衡，數據中心如何平衡**算力**（火）與**冷卻**（水）的需求，規劃其**極致規模部署**時**計算資源**與**能源消耗**，確保穩定性與永續性？
-		* 支撐 🏭🤖 [暗工廠](08----embodied_ai.zh-hant.md) 的「水」與「火」，分別指**自動化運行**（水般持續流動）及**能源供應**（火）與的協同，實現**高度自主化**、**無需人類干預**的閉環生產 ？
+		* 支撐 🏭🤖 [暗工廠](08----embodied_ai.zh-hant.qmd) 的「水」與「火」，分別指**自動化運行**（水般持續流動）及**能源供應**（火）與的協同，實現**高度自主化**、**無需人類干預**的閉環生產 ？
 		* 展望 🌐 **具身 AI 與智慧城市** 的「水」與「火」，則將延伸到**能源網格**（火）與**社會基礎設施**（水代表的循環資源）的整合，要如何協同配置資源？
-* 應對 **[對齊與控制問題](01-06-Alignment_Control_Problem.zh-hant.md)** 
+* 應對 **[對齊與控制問題](01-06-Alignment_Control_Problem.zh-hant.qmd)** 
 	* 設計**倫理或行為約束**，以維持可控性與可預測性。
 		* 🥸🤖 智能**國師** 真能檢視一國的**能源組合**（energy mix），控制$CO_{2}$排放，改變**國運**嗎？
 		* 🥳👨‍👩‍👧‍👦 智能**紅娘** 真能改變**人生**，甚至改變一國或一社群的出生率？
 
-以上應對 [AI 問題意識](01----problematics.zh-hant.md) 時，關於如 **時間空間尺度** 及 人類 **社會-技術**規模化尺度 等等問題已浮現。
+以上應對 [AI 問題意識](01----problematics.zh-hant.qmd) 時，關於如 **時間空間尺度** 及 人類 **社會-技術**規模化尺度 等等問題已浮現。
 
-人類的❝腦補❞心智能力，可以說是一種有用的「**知行捷徑**」，還可以靠經驗及學習打磨，而「人工智慧」的基礎問題，如上述的 **[框架問題](01-04-Frame_Problem.zh-hant.md)**、**[完形心理](01-05-Gestalt_Psychology.zh-hant.md)**、**[符碼紮根問題](01-03-Symbol_Grounding_Problem.zh-hant.md)** 等等，正是這理解並仿擬人類❝腦補❞經驗的經驗與工程學科。
+人類的❝腦補❞心智能力，可以說是一種有用的「**知行捷徑**」，還可以靠經驗及學習打磨，而「人工智慧」的基礎問題，如上述的 **[框架問題](01-04-Frame_Problem.zh-hant.qmd)**、**[完形心理](01-05-Gestalt_Psychology.zh-hant.qmd)**、**[符碼紮根問題](01-03-Symbol_Grounding_Problem.zh-hant.qmd)** 等等，正是這理解並仿擬人類❝腦補❞經驗的經驗與工程學科。
 
 ## 🦾⚡ 印證：❝腦補❞與 VLA 機器人
 
@@ -143,13 +143,13 @@ number-sections: false
 2. 🧭 應用於**跨領域問題集**的高風險**多學科應用**跨領域，類似於核子工程。強調 AI 的關鍵挑戰（認知能力、安全性、倫理、監管）的解決必須是多學科的合作。**
 3. 🏗️「**AI 工程**」的出現強化「跨領域問題集」的觀點，但重點在於**系統可靠性**和**運營化**，如同時理解 ML 模型的工作方式（資料科學）和大規模軟體系統的運營挑戰（軟體工程）。
 
-因此，本書 [第壹篇 ㉄](01----problematics.zh-hant.md) 以 AI 問題意識開始。
+因此，本書 [第壹篇 ㉄](01----problematics.zh-hant.qmd) 以 AI 問題意識開始。
 
 ## 🌌拆用本書📑
 
 在進入各篇章之前，本書提供一個「拆用」導引，幫助讀者理解如何靈活運用全書。
 
-這裡的「拆用」有兩層意涵：一方面是把書本視為一張知識地圖，可以依經緯等方式來定位與導航（本書🌌[心智圖](appendix-mindmap.qmd) «AI 知識鷹架»）；另一方面則是把書本當作一套可組裝的工具箱，讀者可以依需求拆解、重組，形成自己的知行鷹架（💪[行動](appendix-action.qmd) 🧠[心智](appendix-brain.zh-hant.md)🪜[能力](appendix-cognitive_capacity.zh-hant.md) «知行鷹架»[操練手冊](00-03-notes-constructive_fill-in.zh-hant)）。
+這裡的「拆用」有兩層意涵：一方面是把書本視為一張知識地圖，可以依經緯等方式來定位與導航（本書🌌[心智圖](appendix-mindmap.qmd) «AI 知識鷹架»）；另一方面則是把書本當作一套可組裝的工具箱，讀者可以依需求拆解、重組，形成自己的知行鷹架（💪[行動](appendix-action.qmd) 🧠[心智](appendix-brain.zh-hant.qmd)🪜[能力](appendix-cognitive_capacity.zh-hant.qmd) «知行鷹架»[操練手冊](00-03-notes-constructive_fill-in.zh-hant)）。
 
 以下「經度和緯度」，將分別提供不同的閱讀與應用視角。
 
@@ -157,10 +157,10 @@ number-sections: false
 
 本書10**篇**及各**章**，適合讀者按圖拆解應用。
 
-* **X** 軸 **經度**：《[分析與決策 6 點](06----analytics_decisions.zh-hant.md)》<sup>📍[@fig-mindmap-06]</sup>
-	* 含有融合『**[生成式 AI](06-05-analysis_generative.zh-hant.md)**』及『**[決策演算法](06-06-decision_making_algorithm.zh-hant.md)**』的創新發散及收歛 **迴圈和弧線** 
-* **Y** 軸 **緯度**：分選《[☸ AI 5 大導向](05----ai_orientations.zh-hant.md)》<sup>📍 [@fig-mindmap-05]</sup>
-	* 還有《[AI 問題意識](01----problematics.zh-hant.md) 》<sup>📍[@fig-mindmap-01] </sup>、《[流派與主義](02----schools_paradigms.zh-hant.md) 》<sup>📍 [@fig-mindmap-02]</sup> 、等切入點；
+* **X** 軸 **經度**：《[分析與決策 6 點](06----analytics_decisions.zh-hant.qmd)》<sup>📍[@fig-mindmap-06]</sup>
+	* 含有融合『**[生成式 AI](06-05-analysis_generative.zh-hant.qmd)**』及『**[決策演算法](06-06-decision_making_algorithm.zh-hant.qmd)**』的創新發散及收歛 **迴圈和弧線** 
+* **Y** 軸 **緯度**：分選《[☸ AI 5 大導向](05----ai_orientations.zh-hant.qmd)》<sup>📍 [@fig-mindmap-05]</sup>
+	* 還有《[AI 問題意識](01----problematics.zh-hant.qmd) 》<sup>📍[@fig-mindmap-01] </sup>、《[流派與主義](02----schools_paradigms.zh-hant.qmd) 》<sup>📍 [@fig-mindmap-02]</sup> 、等切入點；
 * **Z** + 軸 **能力階梯**、歷史發展等：助力讀者從能力逐級提升。
 
 :::
@@ -169,29 +169,29 @@ number-sections: false
 
 快速掌握本書主要知識點，可從本書🌌[心智圖](appendix-mindmap.qmd) 開始，縱向（«數據驅動決策»過程）與橫向（不同問題意識、流派與主義、導向等等）開展定位：
 
-* **X** 軸 **經度**~說明«數據驅動決策»過程，見《[第陸篇 ❖](06----analytics_decisions.zh-hant.md) 分析與決策 6 點》<sup>📍[@fig-mindmap-06]</sup> 結合 ✍️💡 布魯姆 6 能力：
-	* 🤓📘 從大千世界中，進行『**[描述型分析](06-04-analysis_descriptive.zh-hant.md)**』，以求**當下**相關之«**記憶**»框定；
-	* 😷🩺 在相關記憶中，進行『**[診斷型分析](06-01-analysis_diagnostic.zh-hant.md)**』，以求**因子**相關之«**理解**»匡謬；
-	* 🤠🔮 在相關因子中，進行『**[預測型分析](06-02-analysis_predictive.zh-hant.md)**』，以求**模型**知識之«**應用**»匡助；
-	* 🧐🧭 在知識模型中，進行『**[指導型分析](06-03-analysis_prescriptive.zh-hant.md)**』，以求**系統**智能之«**評估**»及«**創造**»；
+* **X** 軸 **經度**~說明«數據驅動決策»過程，見《[第陸篇 ❖](06----analytics_decisions.zh-hant.qmd) 分析與決策 6 點》<sup>📍[@fig-mindmap-06]</sup> 結合 ✍️💡 布魯姆 6 能力：
+	* 🤓📘 從大千世界中，進行『**[描述型分析](06-04-analysis_descriptive.zh-hant.qmd)**』，以求**當下**相關之«**記憶**»框定；
+	* 😷🩺 在相關記憶中，進行『**[診斷型分析](06-01-analysis_diagnostic.zh-hant.qmd)**』，以求**因子**相關之«**理解**»匡謬；
+	* 🤠🔮 在相關因子中，進行『**[預測型分析](06-02-analysis_predictive.zh-hant.qmd)**』，以求**模型**知識之«**應用**»匡助；
+	* 🧐🧭 在知識模型中，進行『**[指導型分析](06-03-analysis_prescriptive.zh-hant.qmd)**』，以求**系統**智能之«**評估**»及«**創造**»；
 	* 除了以上 4 點 分析學核心主軸，有創新的發散及收歛輔線：
-		* 🙀🎨 從眾智大模型中，利用『**[生成式 AI](06-05-analysis_generative.zh-hant.md)**』，以求«**選項**»的各種可能的創新發散；
-		* 😽🪄 從發散各選項中，利用『**[決策演算法](06-06-decision_making_algorithm.zh-hant.md)**』，以求«**選擇**»的自主決策判斷的創新收歛；
+		* 🙀🎨 從眾智大模型中，利用『**[生成式 AI](06-05-analysis_generative.zh-hant.qmd)**』，以求«**選項**»的各種可能的創新發散；
+		* 😽🪄 從發散各選項中，利用『**[決策演算法](06-06-decision_making_algorithm.zh-hant.qmd)**』，以求«**選擇**»的自主決策判斷的創新收歛；
 * **Y** 軸 **緯度**~說明不同問題意識、流派等，有多篇進入點，見：
-	* 《[第壹篇 ㉄](01----problematics.zh-hant.md) AI 問題意識》<sup>📍[@fig-mindmap-01]</sup>
-	* 《[第伍篇 ☸](05----ai_orientations.zh-hant.md) 區分 AI 5 大導向》 <sup>📍[@fig-mindmap-05]</sup>
-	* 《[第貳篇 🎏🏮](02----schools_paradigms.zh-hant.md) 流派與主義》 <sup>📍[@fig-mindmap-02]</sup>
-	* 《[第參篇 🏛️](03----symbolic_ai.zh-hant.md) 「符號流」AI》 <sup>📍[@fig-mindmap-03]</sup>
-	* 《[第肆篇 🌀](04----statistical_ai.zh-hant.md) 「統計流」AI》 <sup>📍[@fig-mindmap-04]</sup>
+	* 《[第壹篇 ㉄](01----problematics.zh-hant.qmd) AI 問題意識》<sup>📍[@fig-mindmap-01]</sup>
+	* 《[第伍篇 ☸](05----ai_orientations.zh-hant.qmd) 區分 AI 5 大導向》 <sup>📍[@fig-mindmap-05]</sup>
+	* 《[第貳篇 🎏🏮](02----schools_paradigms.zh-hant.qmd) 流派與主義》 <sup>📍[@fig-mindmap-02]</sup>
+	* 《[第參篇 🏛️](03----symbolic_ai.zh-hant.qmd) 「符號流」AI》 <sup>📍[@fig-mindmap-03]</sup>
+	* 《[第肆篇 🌀](04----statistical_ai.zh-hant.qmd) 「統計流」AI》 <sup>📍[@fig-mindmap-04]</sup>
 
 餘下 6 篇，包括以下內容，見：
 
-* 《[第柒篇 🏆](07----game_ai.zh-hant.md) 「博弈派」AI》 <sup>📍[@fig-mindmap-07]</sup>
-* 《[第捌篇 🦾](08----embodied_ai.zh-hant.md) 「具身派」AI》 <sup>📍[@fig-mindmap-08]</sup>
-* 《[第玖篇 📐](09----ai_math.zh-hant.md) AI用到的數學》 <sup>📍[@fig-mindmap-09]</sup>
-* 《[第拾篇 🌉](10----ai_engineering.zh-hant.md) AI工程》 <sup>📍[@fig-mindmap-10]</sup>
+* 《[第柒篇 🏆](07----game_ai.zh-hant.qmd) 「博弈派」AI》 <sup>📍[@fig-mindmap-07]</sup>
+* 《[第捌篇 🦾](08----embodied_ai.zh-hant.qmd) 「具身派」AI》 <sup>📍[@fig-mindmap-08]</sup>
+* 《[第玖篇 📐](09----ai_math.zh-hant.qmd) AI用到的數學》 <sup>📍[@fig-mindmap-09]</sup>
+* 《[第拾篇 🌉](10----ai_engineering.zh-hant.qmd) AI工程》 <sup>📍[@fig-mindmap-10]</sup>
 
-可以說本書🌌[心智圖](appendix-mindmap.qmd)與📖[目錄](toc.zh-hant.md)是作者為讀者搭建的«AI 知識鷹架»初稿，旨在幫助讀者快速掌握學習方向。
+可以說本書🌌[心智圖](appendix-mindmap.qmd)與📖[目錄](toc.zh-hant.qmd)是作者為讀者搭建的«AI 知識鷹架»初稿，旨在幫助讀者快速掌握學習方向。
 
 ::: {.callout-important #imp-mindmap-fill-in title="🧭 心智圖 **導航** 交互功能" }
 
@@ -223,7 +223,7 @@ number-sections: false
 
 下篇▚ 筆記《[🙶補全🙷 知行合一](00-03-notes-constructive_fill-in.zh-hant)》則說明🙶補全🙷的實踐，讀者展開屬於自己的«**知行鷹架**»，即可交織成欄例，開始有«**選項**»«**選擇**»取捨後的自己的操作型知識體係，逐步拓展行動與知識的邊界。下篇也會把本篇「❝腦補❞對 VLA，🙶補全🙷對世界模型」的個人心智對照，進一步放大到組織與社會尺度，說明「框智力」如何呼應管理學的「動態能力」與政治學的「模控治理」。
 
-然而，若讀者願意投入更多心力，本書更是一套交織的系統：透過一篇導論、一篇筆記、多篇附錄的結構，幫助讀者探究方法。相關附錄的《💪[行動](appendix-action.qmd) 》、《🧠[心智](appendix-brain.zh-hant.md)》、《🪜[能力](appendix-cognitive_capacity.zh-hant.md) 》等篇是作者為讀者整理的«**知行鷹架**»操練手冊！
+然而，若讀者願意投入更多心力，本書更是一套交織的系統：透過一篇導論、一篇筆記、多篇附錄的結構，幫助讀者探究方法。相關附錄的《💪[行動](appendix-action.qmd) 》、《🧠[心智](appendix-brain.zh-hant.qmd)》、《🪜[能力](appendix-cognitive_capacity.zh-hant.qmd) 》等篇是作者為讀者整理的«**知行鷹架**»操練手冊！
 
 ::: {.callout-tip #tip-mental-fill-in title="💬知行捷徑 小貼士：**🌟TLDR**" }
 

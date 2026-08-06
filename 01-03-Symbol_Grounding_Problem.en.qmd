@@ -12,7 +12,7 @@ csl: apa-single-spaced.csl
 
 The `Symbol Grounding Problem`, proposed first by **cognitive scientist** Stevan Harnad in 1990 [@harnad1990grounding], problematizes how abstract symbols connect to the real world meaningfully.
 
-Without grounding, symbols are merely symbolic notations or tokens manipulated according to rules. This means a symbol system may possess flawless syntactic operation while having no grasp whatsoever of what they actually mean. Together with the **[Chinese Room](01-02-Chinese_Room.en.md)** thought experiment, this problem challenges the very definition of "understanding" in artificial intelligence.
+Without grounding, symbols are merely symbolic notations or tokens manipulated according to rules. This means a symbol system may possess flawless syntactic operation while having no grasp whatsoever of what they actually mean. Together with the **[Chinese Room](01-02-Chinese_Room.en.qmd)** thought experiment, this problem challenges the very definition of "understanding" in artificial intelligence.
 
 ## ㉄ Where Does the Meaning of a Symbol Come From?
 

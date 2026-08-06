@@ -26,7 +26,7 @@ Month after month, these AI interactions and transactions, measured in data and 
 
 These seemingly "everyday" behaviors are, in fact, entangled with the interweaving of multiple "socio-technical systems" — including the accumulation of habits and value judgments that shape a life.
 
-Following on from the ❝[Introduction](00-02-notes-mental_fill-in.zh-hant.md)❞, this ❝Note❞ chapter invites readers to reflect together: starting from 2025, how might we foresee our 2035 selves?
+Following on from the ❝[Introduction](00-02-notes-mental_fill-in.zh-hant.qmd)❞, this ❝Note❞ chapter invites readers to reflect together: starting from 2025, how might we foresee our 2035 selves?
 
 Imagine how humanity might move from ❝Mental Fill-in❞  (a cognitive shortcut) toward 🙶Constructive Fill-in🙷 (deliberately filling the gaps in life and society, as needed) — and in doing so, build the future.
 
@@ -102,11 +102,11 @@ At the core of "technological foresight" are:
 
 依上述預見為背景，請做一下筆記，檢驗以下 **AI 未來假說**：
 
-* 💥 **[AI 對齊崩潰假說](glossary.zh-hant.md#ai-alignment-collapse)**
-* 🌐 **[AI 公共財假說](glossary.zh-hant.md#ai-commons-hypothesis)**
-* 👑 **[AI 帝國假說](glossary.zh-hant.md#ai-empire-hypothesis)**
-* ⚔️ **[AI 部落化／碎片化假說](glossary.zh-hant.md#ai-tribalization-fragmentation)**
-* 🚰 **[AI 公用事業假說](glossary.zh-hant.md#ai-utilities-hypothesis)**
+* 💥 **[AI 對齊崩潰假說](glossary.zh-hant.qmd#ai-alignment-collapse)**
+* 🌐 **[AI 公共財假說](glossary.zh-hant.qmd#ai-commons-hypothesis)**
+* 👑 **[AI 帝國假說](glossary.zh-hant.qmd#ai-empire-hypothesis)**
+* ⚔️ **[AI 部落化／碎片化假說](glossary.zh-hant.qmd#ai-tribalization-fragmentation)**
+* 🚰 **[AI 公用事業假說](glossary.zh-hant.qmd#ai-utilities-hypothesis)**
 
 試著寫下自己在 **2025 現況**、**2030 預測**、**2035 展望** 三個時間點的想像： 
 
@@ -149,21 +149,21 @@ At the core of "technological foresight" are:
 
 本書自始即定位為工具書，不在於宣揚哪個世界更好、哪個目標更妙，而在於提供一套可用的工具，讓讀者在設計或使用智能系統、安排自己與智能社會的關係時，能有所依循。
 
-❝[腦補](glossary.zh-hant.md#def-mental-fill-in)❞ 與 🙶補全🙷 之間，其實還有「**思維定勢**」或譯「**心理定勢**」（mental set）的概念。它指人類在解題或思考時，習慣使用「套路」（即過去成功的方法）來處理新問題。這能快速套用經驗、節省思考成本，但也容易導致「認知僵化」。這種取捨，正與「快思慢想」[@sec-dual-process-theory] 的二元模式相呼應。
+❝[腦補](glossary.zh-hant.qmd#def-mental-fill-in)❞ 與 🙶補全🙷 之間，其實還有「**思維定勢**」或譯「**心理定勢**」（mental set）的概念。它指人類在解題或思考時，習慣使用「套路」（即過去成功的方法）來處理新問題。這能快速套用經驗、節省思考成本，但也容易導致「認知僵化」。這種取捨，正與「快思慢想」[@sec-dual-process-theory] 的二元模式相呼應。
 
-的確 ❝[腦補](glossary.zh-hant.md#def-mental-fill-in)❞ 本能是勾勒出經驗與想像「事實」，驅使我們「行動」的「**知行捷徑**」，這包括演化出來生下來就可能有的 [完形心理](01-05-Gestalt_Psychology.zh-hant.md)，也包括後來環境及社會習慣學得的「套路」，或較符合教育或心理學的說法，「經驗法則」（heuristics）。
+的確 ❝[腦補](glossary.zh-hant.qmd#def-mental-fill-in)❞ 本能是勾勒出經驗與想像「事實」，驅使我們「行動」的「**知行捷徑**」，這包括演化出來生下來就可能有的 [完形心理](01-05-Gestalt_Psychology.zh-hant.qmd)，也包括後來環境及社會習慣學得的「套路」，或較符合教育或心理學的說法，「經驗法則」（heuristics）。
 
 這些經驗法則的範圍極廣，從古代的甲骨占卜、占星術，到現代的魔術、厚黑學、甚至兩性話術，都帶有人類作為生物本能的 ❝腦補❞ 面向，伴有人類社會學習模仿的「套路」與「**思維定勢**」。「**思維定勢**」可視為「經驗法則」(heuristics) 的一種具體表現。
 
 就連啟蒙及科學理性的前期基礎，似乎脫離不了「經驗法則」的捷徑省腦思維。（當然，如可證偽、理論建構、等等更具有打破「套路」的嚴謹科學或哲學方法等等，是想擺脫這種「快思捷想」的。）
 
-所以這本工具書的目標就能比較清楚且謙和的說明：介紹 AI 如何建構出不同的❝[腦補](glossary.zh-hant.md#def-mental-fill-in)❞套路，以及說明幾種較具科學或實踐意義的「經驗法則」，在這一點上可能和占星、魔術、厚黑、把妹等等書籍差不多。差比較多的可能是說破這些「套路」的同時，突出其本質上要應對的 [AI 問題意識](01----problematics.zh-hant.md)，這樣子就把改變及創新的責任又還給讀者。
+所以這本工具書的目標就能比較清楚且謙和的說明：介紹 AI 如何建構出不同的❝[腦補](glossary.zh-hant.qmd#def-mental-fill-in)❞套路，以及說明幾種較具科學或實踐意義的「經驗法則」，在這一點上可能和占星、魔術、厚黑、把妹等等書籍差不多。差比較多的可能是說破這些「套路」的同時，突出其本質上要應對的 [AI 問題意識](01----problematics.zh-hant.qmd)，這樣子就把改變及創新的責任又還給讀者。
 
 換句話說，這本書不像套路書籍，不蛇油化或萬金油化 AI 。（這也說明，我為什麼每次聽到某專業院長說自己的專業是「萬金油專業」時，會不舒服。）
 
 從中文日常語言的「套路」，可以連結到許多知識的習慣，如「**SOP**」（強調某組織或文化已訂的標準化或制式化流程）、**老梗**（強調缺乏創意或了無新意）、**話術**（強調語言上的技巧與欺騙性）等等，這反而證明其引導自己或他人行為的「知行合一」。
 
-如此，讀者即可較容易理解 [框架問題](01-04-Frame_Problem.zh-hant.md) 為何是 AI 問題意識的核心「套路」問題，而 [符碼紮根問題](01-03-Symbol_Grounding_Problem.zh-hant.md) 為何可以看成某一「套路」在某一場景的有效性檢驗問題。
+如此，讀者即可較容易理解 [框架問題](01-04-Frame_Problem.zh-hant.qmd) 為何是 AI 問題意識的核心「套路」問題，而 [符碼紮根問題](01-03-Symbol_Grounding_Problem.zh-hant.qmd) 為何可以看成某一「套路」在某一場景的有效性檢驗問題。
 
 - **心理定勢**：人類的「思考慣性」，會限制我們在解題時的靈活度。
 - **框架問題**：「資訊過載或不足」的問題，AI 必須決定哪些因素要納入推理，若不加限制，會陷入「無窮考慮」，若過度簡化，又可能忽略關鍵因素。
@@ -186,7 +186,7 @@ At the core of "technological foresight" are:
 
 > **框智力**：指在大千世局中，如何依**脈絡**情境，「謀**定**而後**動**」。
 
-它呼應了[第壹篇](01----problematics.zh-hant.md) [@#nte-problematics]中的核心議題：
+它呼應了[第壹篇](01----problematics.zh-hant.qmd) [@#nte-problematics]中的核心議題：
 
 - **脈絡**  
 	- 👁️⯊ **[@sec-gestalt-psychology]**  
@@ -255,12 +255,12 @@ At the core of "technological foresight" are:
 
 ::: {.callout-note #tip-note-ai-taxonomy title="🔖AI 分類雙維度對照：學界典範🆚業界經驗ℹ"}
 
-`AI 導向` 可以視為 🪜 [知行鷹架](00-03-notes-constructive_fill-in.zh-hant.md) 的一種 「**業界經驗法則分類**」維度。讀者可藉此對照 AI 領域的兩種主要分類方法：
+`AI 導向` 可以視為 🪜 [知行鷹架](00-03-notes-constructive_fill-in.zh-hant.qmd) 的一種 「**業界經驗法則分類**」維度。讀者可藉此對照 AI 領域的兩種主要分類方法：
 
-* **「學界典範流派分類」**：見 [第貳篇 🎏🏮](02----schools_paradigms.zh-hant.md) 流派與主義
-* **「業界經驗法則分類」**：即 [第伍篇 ☸](05----ai_orientations.zh-hant.md) 區分 AI 5 大導向
+* **「學界典範流派分類」**：見 [第貳篇 🎏🏮](02----schools_paradigms.zh-hant.qmd) 流派與主義
+* **「業界經驗法則分類」**：即 [第伍篇 ☸](05----ai_orientations.zh-hant.qmd) 區分 AI 5 大導向
 
-可參照 **[🔖附錄🌌 心智圖](appendix-mindmap.qmd)**，理解這兩套分類如何銜接 [第壹篇 ㉄](01----problematics.zh-hant.md) AI 問題意識。
+可參照 **[🔖附錄🌌 心智圖](appendix-mindmap.qmd)**，理解這兩套分類如何銜接 [第壹篇 ㉄](01----problematics.zh-hant.qmd) AI 問題意識。
 
 🪜🆚🔖
 :::
