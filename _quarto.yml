@@ -34,10 +34,11 @@ book:
   page-navigation: true
   reader-mode: true
   chapters:
-    - index.qmd
-    - 00-02-notes-mental_fill-in.qmd
-    - 00-03-notes-constructive_fill-in.qmd
-    - toc.qmd
+    - file: index.qmd
+    - file: 00-02-notes-mental_fill-in.qmd
+    - file: 00-03-notes-constructive_fill-in.qmd
+    - file: toc.qmd  # This page will display the full TOC/Listings
+      id: part-toc
     - part: "01----problematics.qmd"
       chapters:
         - file: 01-01-Turing_Test.qmd
@@ -99,3 +100,4 @@ format:
     crossref-tip-prefix: "提示"
     crossref-tip-title: "提示"
     callout-important-title: "要點"
+    
