@@ -83,10 +83,10 @@
 	* A. 💪[行動](appendix-action.qmd)：「行動協奏」〜 聚焦 **動詞** 
 	* B. 🧠[心智](appendix-brain.qmd)：「道智修行」〜 聚焦 **名詞** 
 	* C. 🪜[能力](appendix-cognitive_capacity.qmd)：「建補鷹架」〜 聚焦 **名詞➕動詞** 
-	* D. ⚙[API分類](appendix-MCP_API.qmd)
-	* E. 本書🌌[心智圖](appendix-mindmap.qmd)
-	* F. 📔 [封面封底書脊](cover_back.qmd)
-	* G. 🔖[詞彙表](glossary.qmd)
+	* D. ⚙[API分類](appendix-differentiating_API-MCP.qmd)
+	* E. 本書🌌[心智圖](appendix-evolving_mindmap.qmd)
+	* F. 📔 [封面封底書脊](appendix-framing_cover_back.qmd)
+	* G. 🔖[詞彙表](appendix-glossary.qmd)
 		* 🧠 [心智能力](00-03-notes-constructive_fill-in.qmd) 🐸🐘🧘
 		* 🧠🧞‍♀️ [〜語言賽局腦補機](00-02-notes-mental_fill-in.qmd)
 		* 🪜👨‍👩‍👧‍👦 〜家長篇~傳承 appendix-cognitive_capacity.qmd#parents

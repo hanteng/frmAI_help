@@ -23,7 +23,7 @@ editor:
 
 These seemingly "common-sense" questions actually involve multiple intertwined cognitive capacities.
 
-Get ready to embark on a journey of cognitive capacities using these primal elements as our guide, and witness how humans naturally perform ❝[Mental Fill-ins](glossary.qmd#def-mental-fill-in)❞.
+Get ready to embark on a journey of cognitive capacities using these primal elements as our guide, and witness how humans naturally perform ❝[Mental Fill-ins](appendix-glossary.qmd#def-mental-fill-in)❞.
 
 ## 💧🔥 About Water and Fire
 
@@ -38,7 +38,7 @@ Furthermore, consider the evolution of human society:
 * 🌊🏗️ The mythological stories and contemporary engineering of **controlling** "water"?
 * 🚂💨 How did the **Industrial Revolution**—literally a technological blend of "water and fire" (steam)—construct modern urban civilization?
 
-Reflect on these questions and take some notes: what kind of ❝[Mental Fill-ins](glossary.qmd#def-mental-fill-in)❞ can you conjure up as answers?
+Reflect on these questions and take some notes: what kind of ❝[Mental Fill-ins](appendix-glossary.qmd#def-mental-fill-in)❞ can you conjure up as answers?
 
 ## 🧠 Cognitive Capacity 🐸🐘🧘
 
@@ -52,7 +52,7 @@ These levels do not operate in isolation; instead, they intertwine into a collab
 
 To analyze and apply these capacities more clearly, we can abstract and categorize them to form a cognitive framework that compares human intelligence with artificial intelligence.
 
-It is precisely these cognitive frameworks that elevate the empirical rules of thumb of ❝[Mental Fill-ins](glossary.qmd#def-mental-fill-in)❞ into higher-level cognitive capacities.
+It is precisely these cognitive frameworks that elevate the empirical rules of thumb of ❝[Mental Fill-ins](appendix-glossary.qmd#def-mental-fill-in)❞ into higher-level cognitive capacities.
 
 ::: {.callout-important #imp-tri-cognitive-model title="🧠 ⟨**Tri-Cognitive Model**⟩ " collapse=false open=true } 
 The **cognitive capacity classification** originally integrated in this book provides a refined starting point for classifying noun <<options>>:
@@ -70,7 +70,7 @@ For details, see **🔖 Appendix** B. 🧠 [Brain: Tri-Cognitive Model Integrati
 
 ## 🤯 ❝Mental Fill-ins❞: Cognitive Shortcuts
 
-❝[Mental Fill-ins](glossary.qmd#def-mental-fill-in)❞ (Mental Fill-in) refers to the human behavior of **automatically filling in complete "plots" or "facts" in the mind using experience and imagination when information is incomplete**.
+❝[Mental Fill-ins](appendix-glossary.qmd#def-mental-fill-in)❞ (Mental Fill-in) refers to the human behavior of **automatically filling in complete "plots" or "facts" in the mind using experience and imagination when information is incomplete**.
 
 It manifests in countless daily moments:
 
@@ -78,11 +78,11 @@ It manifests in countless daily moments:
 - 📺 When the news mentions two countries over background music, your emotions overflow: **"Ah, another conflict! One side must have provoked first, forcing the other to retaliate."** "Who is right and who is wrong" is already decided in your mind.    
 - 🎭 When watching a drama at a critical climax, you eagerly anticipate twist after twist: **"This character is definitely going to betray them! No, wait, he's actually an undercover agent! Hold on, is the director going to pull off another twist?"** 
 
-These mental activities of ❝[Mental Fill-ins](glossary.qmd#def-mental-fill-in)❞ are both our instincts and potential sources of misreading reality. **Emotions**, **stances**, **stories**... anything can be filled in.
+These mental activities of ❝[Mental Fill-ins](appendix-glossary.qmd#def-mental-fill-in)❞ are both our instincts and potential sources of misreading reality. **Emotions**, **stances**, **stories**... anything can be filled in.
 
 It is this very mechanism that unlocks the key to understanding and innovating in Artificial Intelligence (AI):
 
-> The instinct for ❝[Mental Fill-ins](glossary.qmd#def-mental-fill-in)❞ is the human **"cognitive shortcut for actions."** Relying on experience and imagination, we fill in the blanks within incomplete information, sketch out a "fact," and drive ourselves to "take action."
+> The instinct for ❝[Mental Fill-ins](appendix-glossary.qmd#def-mental-fill-in)❞ is the human **"cognitive shortcut for actions."** Relying on experience and imagination, we fill in the blanks within incomplete information, sketch out a "fact," and drive ourselves to "take action."
 
 ## 🖼️ Addressing AI Problematics ㉄
 
@@ -137,7 +137,7 @@ Therefore, this book initiates its journey with [01 ㉄ AI Problematics](01----p
 
 Before diving into the chapters, this book provides a "deconstruction" guide to help readers understand how to flexibly utilize the entire text.
 
-"Deconstruction" carries a dual meaning here: on one hand, the book serves as a knowledge map that can be oriented and navigated via longitudes and latitudes (the book's 🌌 [Mindmap](appendix-mindmap.qmd) «AI Knowledge Scaffolding»); on the other hand, the book functions as a reassemblable toolbox. Readers can dismantle and recombine it according to their needs to form their own personal scaffolding for knowledge and action (The 💪 [Action](appendix-action.qmd), 🧠 [Brain](appendix-brain.qmd), and 🪜 [Cognitive Capacity](appendix-cognitive_capacity.qmd) «Knowledge-Action Scaffolding» [Practice Manual](00-03-notes-constructive_fill-in.zh-hant)).
+"Deconstruction" carries a dual meaning here: on one hand, the book serves as a knowledge map that can be oriented and navigated via longitudes and latitudes (the book's 🌌 [Mindmap](appendix-evolving_mindmap.qmd) «AI Knowledge Scaffolding»); on the other hand, the book functions as a reassemblable toolbox. Readers can dismantle and recombine it according to their needs to form their own personal scaffolding for knowledge and action (The 💪 [Action](appendix-action.qmd), 🧠 [Brain](appendix-brain.qmd), and 🪜 [Cognitive Capacity](appendix-cognitive_capacity.qmd) «Knowledge-Action Scaffolding» [Practice Manual](00-03-notes-constructive_fill-in.zh-hant)).
 
 The following "longitudes and latitudes" offer distinct reading and application perspectives.
 
@@ -155,7 +155,7 @@ The 10 **parts** and individual **chapters** of this book are perfectly suited f
 
 ## 🧭 Longitudes and Latitudes 🔗
 
-To quickly master the primary knowledge points of this book, you can start with the 🌌 [Mindmap](appendix-mindmap.qmd) and map out your coordinates along the vertical axis (the «data-driven decision» process) and the horizontal axis (various problematics, schools, paradigms, orientations, etc.):
+To quickly master the primary knowledge points of this book, you can start with the 🌌 [Mindmap](appendix-evolving_mindmap.qmd) and map out your coordinates along the vertical axis (the «data-driven decision» process) and the horizontal axis (various problematics, schools, paradigms, orientations, etc.):
 
 * **X-Axis (Longitude)** ~ Illustrates the «data-driven decision» process, detailed in 《[06 ❖ Analytics & Decisions](06----analytics_decisions.qmd)》<sup>📍[@fig-mindmap-06]</sup>, mapped to ✍️💡 Bloom's 6 Cognitive Capacities:
 	* 🤓📘 From the vast world, perform 『**[Descriptive Analysis](06-04-analysis_descriptive.qmd)**』 to establish a context-bound «**Memory**» of the **present**.
@@ -179,11 +179,11 @@ The remaining 6 parts cover the following contents:
 * 《[09 📐 Maths for AI](09----ai_math.qmd)》 <sup>📍[@fig-mindmap-09]</sup>
 * 《[10 🌉 AI Engineering](10----ai_engineering.qmd)》 <sup>📍[@fig-mindmap-10]</sup>
 
-In short, the book's 🌌 [Mindmap](appendix-mindmap.qmd) and 📖 [Table of Contents](toc.md) serve as an initial draft of the «AI Knowledge Scaffolding» designed by the author to help readers rapidly grasp their learning direction.
+In short, the book's 🌌 [Mindmap](appendix-evolving_mindmap.qmd) and 📖 [Table of Contents](toc.md) serve as an initial draft of the «AI Knowledge Scaffolding» designed by the author to help readers rapidly grasp their learning direction.
 
 ::: {.callout-important #imp-mindmap-fill-in title="🧭 Mindmap Navigation and Interactive Features" }
 
-The book's 🌌 [Mindmap](appendix-mindmap.qmd) condenses complex knowledge into a neat grid. It not only 🧭 **navigates** the process of intelligent generation but also helps distinguish different technologies and application scenarios:
+The book's 🌌 [Mindmap](appendix-evolving_mindmap.qmd) condenses complex knowledge into a neat grid. It not only 🧭 **navigates** the process of intelligent generation but also helps distinguish different technologies and application scenarios:
 
 * Each knowledge point **node** box contains embedded 🔗 **hyperlinks**, allowing readers to jump, compare, and cross-reference instantly.
 * The connecting **lines** define relationships between knowledge points.

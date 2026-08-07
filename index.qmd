@@ -8,7 +8,7 @@ tags:
 
 > 「心累ChatGPT求拍拍」👨‍👩‍👧‍👦 智能**紅娘**能改變**人生**嗎？
 
-從**甲骨**到**大語言模型**，人類不斷尋求 ❝[腦補](glossary.qmd#def-mental-fill-in)❞ 來擴展心智、解決問題。 
+從**甲骨**到**大語言模型**，人類不斷尋求 ❝[腦補](appendix-glossary.qmd#def-mental-fill-in)❞ 來擴展心智、解決問題。 
 
 怎麼理解並掌握最新的腦補科技，人工智慧 （AI）呢？
 

@@ -86,7 +86,7 @@
 	* D. ⚙[MCP/API Classification](appendix-MCP_API.en.qmd)
 	* E. 🌌[Mindmap](appendix-mindmap.en.qmd)
 	* F. 📔[Cover, Back Cover, and Spine](cover_back.en.qmd)
-	* G. 🔖[Glossary](glossary.en.qmd)
+	* G. 🔖[Glossary](appendix-glossary.en.qmd)
 		* 🧠 [Cognitive Fill-in](00-03-notes-constructive_fill-in.en.qmd) 🐸🐘🧘
 		* 🧠🧞‍♀️ [〜Language Game Mental Fill-in Engines](00-02-notes-mental_fill-in.en.qmd)
 		* 🪜👨‍👩‍👧‍👦 〜Parent's Edition: Legacy appendix-cognitive_capacity.en.qmd#parents
