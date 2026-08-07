@@ -8,7 +8,7 @@ tags:
 
 > 「心累ChatGPT求拍拍」👨‍👩‍👧‍👦 智能**紅娘**能改變**人生**嗎？
 
-從**甲骨**到**大語言模型**，人類不斷尋求 ❝[腦補](glossary.zh-hant.qmd#def-mental-fill-in)❞ 來擴展心智、解決問題。 
+從**甲骨**到**大語言模型**，人類不斷尋求 ❝[腦補](glossary.qmd#def-mental-fill-in)❞ 來擴展心智、解決問題。 
 
 怎麼理解並掌握最新的腦補科技，人工智慧 （AI）呢？
 
@@ -55,7 +55,7 @@ tags:
         * **2.6** 🏮💪 [行為主義](02-06-behaviorism.zh-hant)（Behaviorism）
     * [第參篇 🏛️](03----symbolic_ai.zh-hant)  「符號流」AI（Symbolic AI）
     * [第肆篇 🌀](04----statistical_ai.zh-hant)  「統計流」AI（Statistical AI）
-* 主推系統創新與分析層次，本書系統性總結「智能導向」 5 種（見[第伍篇 ☸](05----ai_orientations.zh-hant) ），以及「分析與決策」 6 點（見[第陸篇 ❖](06----analytics_decisions.zh-hant.qmd) ）。
+* 主推系統創新與分析層次，本書系統性總結「智能導向」 5 種（見[第伍篇 ☸](05----ai_orientations.zh-hant) ），以及「分析與決策」 6 點（見[第陸篇 ❖](06----analytics_decisions.qmd) ）。
 
 以上分章結構，不只勾勒出格局與框架，更鼓勵讀者構架自己的 **[🪜 知行鷹架](00-03-notes-constructive_fill-in.zh-hant)**，運用作者創建的新學習分類法，系統地產出關鍵的**動詞－名詞**組合
 [註釋 @nte-ai-scaffolding]。
@@ -63,12 +63,12 @@ tags:
 
 建議讀者可以從兩章選一做為入口開始探索：
 
-* [第貳篇 🎏🏮](02----schools_paradigms.zh-hant.qmd)　流派與主義
-* [第伍篇 ☸](05----ai_orientations.zh-hant.qmd)　區分 AI 5 大導向 [提示 @tip-ai-orientations]
+* [第貳篇 🎏🏮](02----schools_paradigms.qmd)　流派與主義
+* [第伍篇 ☸](05----ai_orientations.qmd)　區分 AI 5 大導向 [提示 @tip-ai-orientations]
 
 ::: {#tip-book-zen .callout-tip title="禪意長偈：🎲賽局 vs 🏁格局"}
 
-本書取名為《框智格局》又名《道／盜智格局》，除了強調 AI 問題意識 [框架問題](01-04-Frame_Problem.zh-hant.qmd) 之外，還妄想有點禪意點綴當代人工智慧的賽局困境：
+本書取名為《框智格局》又名《道／盜智格局》，除了強調 AI 問題意識 [框架問題](01-04-Frame_Problem.qmd) 之外，還妄想有點禪意點綴當代人工智慧的賽局困境：
 
 - 🏆 「**身處賽局，勝負如實**」 〜 （賽）局內之境，勝負雖真切，卻只是相對現象。    
 - 🧭 「**智觀格局，安頓為真**」 〜 超越（賽局）局限，觀照全體（格局），方能開始取得安頓。    

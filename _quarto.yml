@@ -4,15 +4,7 @@ project:
     - CNAME               # Added to ensure your domain file is kept during rendering
   output-dir: _book
 
-# Set Traditional Chinese as main language, English as secondary
-babelquarto:
-  mainlanguage: 'zh-hant'
-  languages: ['zh-hant']
-  languagecodes:
-    - name: zh-hant
-      text: "繁體中文"
-    - name: en
-      text: "English"
+title-en: "Harnessing Intelligence:<br/><small>AI Game Playbook</small>"
 
 # Main book metadata in Traditional Chinese
 book:
@@ -34,44 +26,28 @@ book:
   page-navigation: true
   reader-mode: true
   chapters:
-    - file: index.qmd
-    - file: 00-02-notes-mental_fill-in.qmd
-    - file: 00-03-notes-constructive_fill-in.qmd
-    - file: toc.qmd  # This page will display the full TOC/Listings
-      id: part-toc
+    - index.qmd
+    - 00-02-notes-mental_fill-in.qmd
+    - 00-03-notes-constructive_fill-in.qmd
+    - toc.qmd  # This page will display the full TOC/Listings
     - part: "01----problematics.qmd"
       chapters:
-        - file: 01-01-Turing_Test.qmd
-          id: sec-turing-test
-        - file: 01-02-Chinese_Room.qmd
-          id: sec-chinese-room
-        - file: 01-03-Symbol_Grounding_Problem.qmd
-          id: sec-symbol-grounding-problem
-        - file: 01-04-Frame_Problem.qmd
-          id: sec-frame-problem
-        - file: 01-05-Gestalt_Psychology.qmd
-          id: sec-gestalt-psychology
-        - file: 01-06-Alignment_Control_Problem.qmd
-          id: sec-alignment-control-problem
-        - file: 01-07-Language_Games.qmd
-          id: sec-language-games
+        - 01-01-Turing_Test.qmd # id: sec-turing-test
+        - 01-02-Chinese_Room.qmd # id: sec-chinese-room
+        - 01-03-Symbol_Grounding_Problem.qmd # id: sec-symbol-grounding-problem
+        - 01-04-Frame_Problem.qmd # id: sec-frame-problem
+        - 01-05-Gestalt_Psychology.qmd # id: sec-gestalt-psychology
+        - 01-06-Alignment_Control_Problem.qmd # id: sec-alignment-control-problem
+        - 01-07-Language_Games.qmd # id: sec-language-games
     - part: 02----schools_paradigms.qmd
       chapters:
-        - file: 02-01-symbolic_ai.qmd
-          id: sec-symbolic-ai
-        - file: 02-02-statistical_ai.qmd
-          id: sec-statistical-ai
-        - file: 02-03-neurosymbolic_ai.qmd
-          id: sec-neurosymbolic-ai
-        - file: 02-04-agi.qmd
-          id: sec-agi
-        - file: 02-05-connectionism.qmd
-          id: sec-connectionism
-        - file: 02-06-behaviorism.qmd
-          id: sec-behaviorism
-        - file: 02-07-large_language_models.qmd
-          id: sec-large-language-models
-
+        - 02-01-symbolic_ai.qmd # id: sec-symbolic-ai
+        - 02-02-statistical_ai.qmd # id: sec-statistical-ai
+        - 02-03-neurosymbolic_ai.qmd # id: sec-neurosymbolic-ai
+        - 02-04-agi.qmd # id: sec-agi
+        - 02-05-connectionism.qmd # id: sec-connectionism
+        - 02-06-behaviorism.qmd # id: sec-behaviorism
+        - 02-07-large_language_models.qmd # id: sec-large-language-models
 
 page-footer:
   left: |
@@ -80,23 +56,46 @@ page-footer:
   right: |
     别名《道／盜智格局：AI 賽局手冊》
     本站使用 <a href="https://quarto.org/">Quarto</a> 製作。
+page-footer-en:
+  left: |
+     🙶Harnessing Intelligence: AI Game Playbook🙷 
+     © Han-Teng Liao
+  right: |
+    aka  🙶The Tao of Intelligence: AI Game Playbook🙷 
+    This book website is built by using <a href="https://quarto.org/">Quarto</a>.
+
+
 
 bibliography: references.bib
 
+# Set Traditional Chinese as main language, English as secondary
+babelquarto:
+  mainlanguage: 'zh-hant'
+  languages: ['en']
+  languagecodes:
+    - name: zh-hant
+      text: "繁體中文"
+    - name: en
+      text: "English"
+
+lang: zh-hant
 language: _language-zh-hant.yml 
 
+# Main book metadata in Traditional Chinese
 format:
   html:
     lang: zh-hant
     css: styles.css
+    theme:
+      - zephyr                         # 或是你原本使用的基礎主題（如 default, slate 等）
+      - styles-en.scss                 # 載入你專為英文版設計的 SCSS 檔案
     toc: true
     toc-location: right
-    toc-title: "〜📖本頁章節📑〜"
     number-sections: true
     number-depth: 4
-    section-title-appendices: "🔖附錄與筆記"
-    crossref-nte-prefix: "註釋"
-    crossref-nte-title: "註釋"
-    crossref-tip-prefix: "提示"
-    crossref-tip-title: "提示"
-    callout-important-title: "要點"
+    grid:
+      sidebar-width: 280px    # Widened to give long English chapter titles room
+      body-width: 9000px       # Comfortable reading area for technical prose
+      margin-width: 260px     # Keeps the Right TOC perfectly stable and distinct
+      gutter-width: 1.5rem    # The air/padding between your three columns
+

@@ -1,59 +1,23 @@
 encoding: "UTF-8"
 lang: en
 
-book:
-  title: "Harnessing Intelligence:<br/><small>AI Game Playbook</small>"
-  cover-image: cover.png
-  cover-image-alt: "Book cover showing the Illustrations of Alice and the Dodo from Alice's Adventures in Wonderland, by John Tenniel (1865)"  
-  author:
-    - name: "廖漢騰 (Han-Teng Liao)"
-      orcid: "0000-0003-1081-5599"   # replace with actual ORCID
-      affiliations:
-        - name: "Independent Researcher"
-  date: "2026-07-23"   # ISO format so it parses/localizes correctly across formats
-  site-url: "https://book.frmai.help"   # matches CNAME; update if the domain changes
-  sidebar:
-    style: docked
-    collapse-level: 1
-  search: true
-  page-navigation: true
-  reader-mode: true
-  chapters:
-    - index.en.qmd
-    - 00-02-notes-mental_fill-in.en.qmd
-    - 00-03-notes-constructive_fill-in.en.qmd
-    - toc.en.qmd
-    - part: "01----problematics.en.qmd"
-      chapters:
-        - 01-01-Turing_Test.en.qmd
-
-page-footer:
-  left: |
-     🙶Harnessing Intelligence: AI Game Playbook🙷 
-     © Han-Teng Liao
-  right: |
-    aka  🙶The Tao of Intelligence: AI Game Playbook🙷 
-    This book website is built by using <a href="https://quarto.org/">Quarto</a>.
-
-bibliography: references.bib
-
-# Main book metadata in Traditional Chinese
 format:
   html:
     lang: en                           # 確保英文配置下 HTML 語系正確
+    css: styles.css
     theme:
-      - zephyr                         # 或是你原本使用的基礎主題（如 default, slate 等）
-      - styles-en.scss                 # 載入你專為英文版設計的 SCSS 檔案
+      - zephyr
+      - styles-en.scss
     toc: true
     toc-location: right
-    toc-title: "〜📖 On This Page 📑〜" # 順手將英文版的 TOC 標題中文化改為英文
-    grid:
-      sidebar-width: 330px    # Widened to give long English chapter titles room
-      body-width: 850px       # Comfortable reading area for technical prose
-      margin-width: 260px     # Keeps the Right TOC perfectly stable and distinct
-      gutter-width: 1.5rem    # The air/padding between your three columns
     number-sections: true
     number-depth: 4
+    grid:
+      sidebar-width: 330px
+      body-width: 850px
+      margin-width: 260px
+      gutter-width: 1.5rem
+    toc-title: "〜📖 On This Page 📑〜"
     section-title-appendices: "🔖 Appendices & Notes"
     crossref-nte-prefix: "Note"
     crossref-nte-title: "Note"

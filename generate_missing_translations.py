@@ -8,7 +8,7 @@ TARGET_LANGS = ["en"]  # Suffixes to check, e.g., '.en.qmd'
 
 # Banner to insert after YAML header
 CALLOUT_BANNER = """::: {.callout-note}
-## 🚧 Under Construction / 建設中
+### 🚧 Under Construction / 建設中  {.under-construction .unnumbered}
 
 This page is not yet fully translated into English. Below is the original content for reference.
 :::
@@ -29,7 +29,7 @@ def find_main_qmd_files():
         ):
             continue
 
-        # Check if file is already localized (e.g., ends with .en.qmd or .zh-hant.qmd)
+        # Check if file is already localized (e.g., ends with .en.qmd or .qmd)
         filename = os.path.basename(filepath)
         is_localized = any(
             filename.endswith(f".{lang}.qmd") for lang in TARGET_LANGS

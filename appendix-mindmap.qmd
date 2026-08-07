@@ -6,12 +6,12 @@
 
 ::: {.callout-note #tip-note-ai-taxonomy title="🔖AI 分類雙維度對照：學界典範🆚業界經驗ℹ" }
 
-`AI 導向` 可以視為 🪜 [知行鷹架](00-03-notes-constructive_fill-in.zh-hant.qmd) 的一種 「**業界經驗法則分類**」維度。讀者可藉此對照 AI 領域的兩種主要分類方法：
+`AI 導向` 可以視為 🪜 [知行鷹架](00-03-notes-constructive_fill-in.qmd) 的一種 「**業界經驗法則分類**」維度。讀者可藉此對照 AI 領域的兩種主要分類方法：
 
-* **「學界典範流派分類」**：見 [第貳篇 🎏🏮](02----schools_paradigms.zh-hant.qmd) 流派與主義
-* **「業界經驗法則分類」**：即 [第伍篇 ☸](05----ai_orientations.zh-hant.qmd) 區分 AI 5 大導向
+* **「學界典範流派分類」**：見 [第貳篇 🎏🏮](02----schools_paradigms.qmd) 流派與主義
+* **「業界經驗法則分類」**：即 [第伍篇 ☸](05----ai_orientations.qmd) 區分 AI 5 大導向
 
-可參照本頁 🌌 心智圖，理解這兩套分類如何銜接 [第壹篇 ㉄](01----problematics.zh-hant.qmd) AI 問題意識。
+可參照本頁 🌌 心智圖，理解這兩套分類如何銜接 [第壹篇 ㉄](01----problematics.qmd) AI 問題意識。
 
 🪜🆚🔖
 :::

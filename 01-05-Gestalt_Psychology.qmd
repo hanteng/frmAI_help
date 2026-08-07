@@ -100,7 +100,7 @@ keywords:
 
 「完形心理」與「框架問題」共同點出人工智慧對「認知過濾有用信息」的需求，以紮根現實世界做出行動。前者著重於如何將片段資訊組織成有意義的整體，後者則探討如何篩選出與當前情境相關的資訊。
 
-接下來，我們將討論更具複雜程度的 AI 問題意識： **[AI 對齊與控制問題](01-06-Alignment_Control_Problem.zh-hant.qmd)**（AI Alignment and Control Problem）以及 **[語言賽局](01-07-Language_Games.zh-hant)** （Language Games）。理解這些問題將有助於掌握利用人工智慧解決問題的核心知識。
+接下來，我們將討論更具複雜程度的 AI 問題意識： **[AI 對齊與控制問題](01-06-Alignment_Control_Problem.qmd)**（AI Alignment and Control Problem）以及 **[語言賽局](01-07-Language_Games.zh-hant)** （Language Games）。理解這些問題將有助於掌握利用人工智慧解決問題的核心知識。
 
 ## 🪸請參閱
 
