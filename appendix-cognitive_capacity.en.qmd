@@ -29,7 +29,7 @@ number-sections: false
 > 設計**智能系統**以「建補鷹架」，以值**世界能源**之「智能代價」。[^白話]
 :::
 
-以接續前篇《💪[行動](appendix-action.zh-hant.qmd)》**動詞**«選項»與《🧠[心智](appendix-brain.qmd)》**名詞**«選項»，本篇附錄集《🪜能力》總結與分類**名詞**➕**動詞**的「**[建補鷹架](#sec-cc-formula)**」，並以雙鑽模型展示智能體系統的「能力構建」階段。
+以接續前篇《💪[行動](appendix-action.qmd)》**動詞**«選項»與《🧠[心智](appendix-brain.qmd)》**名詞**«選項»，本篇附錄集《🪜能力》總結與分類**名詞**➕**動詞**的「**[建補鷹架](#sec-cc-formula)**」，並以雙鑽模型展示智能體系統的「能力構建」階段。
 
 ::: {.callout-tip #tip-cognitive-capacity title="🪜能力 小貼士：«附錄三連»「行動~ 心智 ~能力」" collapse=false open=true}
 
@@ -147,7 +147,7 @@ number-sections: false
 
 在人工智慧與設計領域，「動詞＋名詞」組合成為人機互動的語法基礎。AI 有「**[任務導向型](05-01-oriented_task.qmd)**」；介面設計常以「點擊按鈕」「拖曳檔案」等結構定義功能，而 [生成式 AI](06-05-analysis_generative.qmd) 的 [提示工程](10-03-prompt_engineering.qmd) 則依賴「生成圖片」「翻譯文本」等指令，既符合人類直覺，也便於模型解析。
 
-接續前篇《💪[行動](appendix-action.zh-hant.qmd)》**動詞**«選項»中的[@tbl-actions-10]，下[@tbl-actions-10-nouns] 展示了搭配名詞後的可操作性，產出層次不同，領域各異的**世界片段**"。
+接續前篇《💪[行動](appendix-action.qmd)》**動詞**«選項»中的[@tbl-actions-10]，下[@tbl-actions-10-nouns] 展示了搭配名詞後的可操作性，產出層次不同，領域各異的**世界片段**"。
 
 ::: {.callout-note #nte-actions-10-nouns title="🌊名➕🏄🏼動 跨領域的可操作**世界片段**" collapse=false open=true .note}
 

@@ -1,4 +1,10 @@
-# References {.unnumbered}
+---
+citeproc: true
+bibliography: references.bib
+bibliographystyle: apa
+number-sections: false 
+---
+# ▙參考書目 {.unnumbered}
 
 ::: {#refs}
 :::

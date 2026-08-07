@@ -1,5 +1,5 @@
 # —📖Table of Contents📑— {.unnumbered}
-* 🤗 Preface 〜  🙩 [Harnessing Intelligence: AI Game Playbook for Cognitive Scaffolding](00-01-preface.en.qmd)
+* 🤗 Preface 〜  🙩 [Harnessing Intelligence: AI Game Playbook for Cognitive Scaffolding](index.en.qmd)
 * ▘ Intro ~  [❝Mental Fill-ins❞: Cognitive Shortcuts](00-02-notes-mental_fill-in.en.qmd)
 * ▚ Note ~  [🙶Constructive Fill-ins🙷: Cognitive Unity of Knowledge and Action](00-03-notes-constructive_fill-in.en.qmd)
 * [01 ㉄](01----problematics.en.qmd)　AI Problematics
@@ -83,9 +83,9 @@
 	* A. 💪[Action](appendix-action.en.qmd)："Action Concerto" 〜 Focusing on **Verbs** 
 	* B. 🧠[Brain](appendix-brain.en.qmd)："Naming Intelligence" 〜 Focusing on **Nouns** 
 	* C. 🪜[Cognitive Capacity](appendix-cognitive_capacity.en.qmd)："Framing Scaffolding" 〜 Focusing on **Nouns ➕ Verbs** 
-	* D. ⚙[MCP/API Classification](appendix-MCP_API.en.qmd)
+	* D. ⚙[MCP/API Classification](appendix-differentiating_API-MCP.en.qmd)
 	* E. 🌌[Mindmap](appendix-mindmap.en.qmd)
-	* F. 📔[Cover, Back Cover, and Spine](cover_back.en.qmd)
+	* F. 📔[Cover, Back Cover, and Spine](appendix-framing_cover_back.en.qmd)
 	* G. 🔖[Glossary](appendix-glossary.en.qmd)
 		* 🧠 [Cognitive Fill-in](00-03-notes-constructive_fill-in.en.qmd) 🐸🐘🧘
 		* 🧠🧞‍♀️ [〜Language Game Mental Fill-in Engines](00-02-notes-mental_fill-in.en.qmd)

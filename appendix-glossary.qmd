@@ -78,7 +78,7 @@ tags:
 
 `分析學`（analytics）指透過**系統化的方法**，對資料進行**收集、處理、建模與解釋**，以發現模式、生成洞見並支援決策的學科與實務。常見的分支如 **商業分析**（business analytics），著重於企業營運與策略決策；以及 **資料分析**（data analytics），專注於資料的探索、統計建模與可視化。分析學是**數據科學**（data science）的重要組成部分，連結了理論、技術與應用。
 
-本書  [第陸篇 ❖](06----analytics_decisions.zh-hant.md）分析與決策 6 點（Analytics & Decisions）專門進行了說明，並介紹了和 [生成式 AI](06-05-analysis_generative.zh-hant.md）及  [決策演算法](06-06-decision_making_algorithm.zh-hant.md）整合，以有效推動人機智能體系的創新。
+本書  [第陸篇 ❖](06----analytics_decisions.qmd）分析與決策 6 點（Analytics & Decisions）專門進行了說明，並介紹了和 [生成式 AI](06-05-analysis_generative.qmd）及  [決策演算法](06-06-decision_making_algorithm.qmd）整合，以有效推動人機智能體系的創新。
 
 
 ## B 
@@ -230,7 +230,7 @@ tags:
 
 🙶補全🙷 或 `知行鷹架`（constructive fill-in）是本書新創的操作型概念，泛指利用人與機器任何廣義的 `認知鷹架` 的「支撐**理解**與**推理**」行為系統或體系方法，以克服「潛在發展水準」與「實際發展水準」之間的差距。因此這需要更具體對人類參與者及機器的[腦補](#def-mental-fill-in)現象的系統理解及創新。詳細內容及整合方法見本書三篇附錄：
 
-* 💪 **[行動](appendix-action.zh-hant.qmd)**：「行動協奏」〜 編排 **AI 與人** ❝腦補❞的行動
+* 💪 **[行動](appendix-action.qmd)**：「行動協奏」〜 編排 **AI 與人** ❝腦補❞的行動
 * 🧠 **[心智](appendix-brain.qmd)**：「道智修行」〜 逐級❝鍛練❞有意識的心智行動]
 * 🪜 **[能力](appendix-cognitive_capacity.md)**：「建補鷹架」〜 逐級昇華🙶補全🙷的能力]
 

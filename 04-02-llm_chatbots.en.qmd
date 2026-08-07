@@ -13,7 +13,7 @@ tags:
 This page is not yet fully translated into English. Below is the original content for reference.
 :::
 
-# 🧞‍♀️🗪LLM 聊天機器人 {#sec-llm-chatbots}
+# 🧞‍♀️🗪LLM Chatbots {#sec-llm-chatbots-en}
 * @sec-turing-test
 * app-api 
 * app-action

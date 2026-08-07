@@ -32,11 +32,11 @@
 
 依上述預見為背景，請做一下筆記，檢驗以下 **AI 未來假說**：
 
-* 💥 **[AI 對齊崩潰假說](appendix-glossary.qmd#ai-alignment-collapse)**
-* 🌐 **[AI 公共財假說](appendix-glossary.qmd#ai-commons-hypothesis)**
-* 👑 **[AI 帝國假說](appendix-glossary.qmd#ai-empire-hypothesis)**
-* ⚔️ **[AI 部落化／碎片化假說](appendix-glossary.qmd#ai-tribalization-fragmentation)**
-* 🚰 **[AI 公用事業假說](appendix-glossary.qmd#ai-utilities-hypothesis)**
+* 💥 **[AI 對齊崩潰假說](appendix-appendix-glossary.qmd#ai-alignment-collapse)**
+* 🌐 **[AI 公共財假說](appendix-appendix-glossary.qmd#ai-commons-hypothesis)**
+* 👑 **[AI 帝國假說](appendix-appendix-glossary.qmd#ai-empire-hypothesis)**
+* ⚔️ **[AI 部落化／碎片化假說](appendix-appendix-glossary.qmd#ai-tribalization-fragmentation)**
+* 🚰 **[AI 公用事業假說](appendix-appendix-glossary.qmd#ai-utilities-hypothesis)**
 
 試著寫下自己在 **2025 現況**、**2030 預測**、**2035 展望** 三個時間點的想像： 
 
