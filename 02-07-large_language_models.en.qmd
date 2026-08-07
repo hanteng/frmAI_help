@@ -5,14 +5,13 @@ tags:
   - 湧現能力
   - RLHF
 ---
+## 😵‍💫Large Language Models🧞‍♀️ {#sec-large-language-models}
 
 ::: {.callout-note}
 ### 🚧 Under Construction / 建設中  {.under-construction .unnumbered}
 
 This page is not yet fully translated into English. Below is the original content for reference.
 :::
-
-# 😵‍💫大語言模型🧞‍♀️ {#sec-large-language-models}
 
 `大語言模型`（Large Language Models, LLMs）因為 2022 年底代表性案例 [LLM聊天機器人](04-02-llm_chatbots.zh-hant) **ChatGPT**的迅速普及，不僅重燃了人們對人工智慧（AI）的熱情，甚至引發了對通用人工智慧（[AGI](02-04-agi.zh-hant)）的遐想。
 

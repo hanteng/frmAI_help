@@ -11,7 +11,7 @@ tags:
   - 刺激-反應模型
   - 深度強化學習
 ---
-# 💪行為主義🏮 {#sec-behaviorism}
+## 💪行為主義🏮 {#sec-behaviorism}
 
 <a id="強化學習"></a>
 ### 🏮💪 行為主義貢獻

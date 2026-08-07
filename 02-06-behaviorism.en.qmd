@@ -11,14 +11,13 @@ tags:
   - 刺激-反應模型
   - 深度強化學習
 ---
+## 💪Behaviorism🏮 {#sec-behaviorism}
 
 ::: {.callout-note}
 ### 🚧 Under Construction / 建設中  {.under-construction .unnumbered}
 
 This page is not yet fully translated into English. Below is the original content for reference.
 :::
-
-# 💪行為主義🏮 {#sec-behaviorism}
 
 <a id="強化學習"></a>
 ### 🏮💪 行為主義貢獻
