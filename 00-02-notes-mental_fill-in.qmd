@@ -1,10 +1,17 @@
 ---
 tags: 
-- #nte-mental_fill-in
+  - mental_fill-in
+  - 腦補
+  - cognitive_shortcuts_for_actions
+  - 知行捷徑
 number-sections: false 
+editor: 
+  markdown: 
+    references: 
+      location: block
 ---
 
-# ▘ 導論~❝腦補❞知行捷徑 {.unnumbered}
+# ▘ 導論~❝腦補❞知行捷徑  {.unnumbered #nte-mental_fill-in}
 
 > 🥶🥵 看到「**水**深**火**熱」，你想到什麼？
 > 

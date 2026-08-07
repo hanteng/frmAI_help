@@ -5,9 +5,7 @@ crossref:
   chapters: true
 number-sections: true
 tags:
-  - #important-problematics
-  - #tip-problematics
-  - #warning-problematics 
+  - problematics
 ---
 ::: {#fig-mindmap-01 caption="Mindmap: AI ❝Problematics❞" }
 <svg aria-roledescription="flowchart-v2" role="graphics-document document" class="flowchart mermaid-js" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="100%" id="mermaid-1" xmlns:ev="http://www.w3.org/2001/xml-events">

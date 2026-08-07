@@ -7,7 +7,7 @@ project:
 # Set Traditional Chinese as main language, English as secondary
 babelquarto:
   mainlanguage: 'zh-hant'
-  languages: ['en']
+  languages: ['zh-hant']
   languagecodes:
     - name: zh-hant
       text: "繁體中文"
@@ -87,7 +87,7 @@ language: _language-zh-hant.yml
 
 format:
   html:
-    lang: zh-Hant
+    lang: zh-hant
     css: styles.css
     toc: true
     toc-location: right
@@ -100,4 +100,3 @@ format:
     crossref-tip-prefix: "提示"
     crossref-tip-title: "提示"
     callout-important-title: "要點"
-    

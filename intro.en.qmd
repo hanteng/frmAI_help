@@ -1,0 +1,11 @@
+::: {.callout-note}
+## 🚧 Under Construction / 建設中
+
+This page is not yet fully translated into English. Below is the original content for reference.
+:::
+
+# Introduction
+
+This is a book created from markdown and executable code.
+
+See @MiyakeYouichiro2017-68-concepts-AI for additional discussion of literate programming.
