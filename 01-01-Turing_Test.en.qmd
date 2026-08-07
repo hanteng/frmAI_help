@@ -54,8 +54,8 @@ Although Turing proactively anticipated and systematically refuted several conte
 
 To explore how alternative paradigms address or challenge this behavioral definition of intelligence, the reader may proceed along two distinct lines of inquiry within this volume:
 
-1. **The Semantic Critique:** John Searle’s **[Chinese Room](https://www.google.com/search?q=%4001-02-Chinese_Room.zh-hant)** thought experiment, alongside Ludwig Wittgenstein’s concept of **[Language Games](https://www.google.com/search?q=01-07-Language_Games.zh-hant)**, both of which challenge whether statistical fluency constitutes actual conscious mind or symbolic grounding.
-2. **The Structural Paradigms:** **[Part II: Schools & Paradigms](https://www.google.com/search?q=02----schools_paradigms.zh-hant)**, which details how the empirical methodology of **[Behaviorism](https://www.google.com/search?q=02-06-behaviorism.zh-hant)** diverges from the rule-based approach of **[Symbolic AI](https://www.google.com/search?q=03----symbolic_ai.zh-hant)**.
+1. **The Semantic Critique:** John Searle’s **[Chinese Room](https://www.google.com/search?q=%4001-02-Chinese_Room.qmd)** thought experiment, alongside Ludwig Wittgenstein’s concept of **[Language Games](https://www.google.com/search?q=01-07-Language_Games.qmd)**, both of which challenge whether statistical fluency constitutes actual conscious mind or symbolic grounding.
+2. **The Structural Paradigms:** **[Part II: Schools & Paradigms](https://www.google.com/search?q=02----schools_paradigms.qmd)**, which details how the empirical methodology of **[Behaviorism](https://www.google.com/search?q=02-06-behaviorism.qmd)** diverges from the rule-based approach of **[Symbolic AI](https://www.google.com/search?q=03----symbolic_ai.qmd)**.
 
 ## 🪸 See Also
 

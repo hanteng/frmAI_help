@@ -8,7 +8,7 @@ TARGET_LANGS = ["en"]  # Suffixes to check, e.g., '.en.qmd'
 
 # Banner to insert after YAML header
 CALLOUT_BANNER = """::: {.callout-note}
-### 🚧 Under Construction / 建設中  {.under-construction .unnumbered}
+🚧 Under Construction / 建設中  {.fs-3 .under-construction .unnumbered}
 
 This page is not yet fully translated into English. Below is the original content for reference.
 :::

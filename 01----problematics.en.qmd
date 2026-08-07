@@ -147,8 +147,8 @@ AI 核心問題意識（AI problematics）涉及一套 **框架尋找**（frame-
 
 ### 🎋 延伸內容
 
-* ﹝未完稿﹞🎭🎲 [模仿遊戲 🆚 語言賽局](01v07-Imitation_Game_vs_Language_Games.zh-hant) 
-* ﹝未完稿﹞🔤🖼️ [框架問題 🆚 符碼紮根問題](01v03-Frame_Problem_vs_Symbol_Grounding_Problem.zh-hant)
+* ﹝未完稿﹞🎭🎲 [模仿遊戲 🆚 語言賽局](01v07-Imitation_Game_vs_Language_Games.qmd) 
+* ﹝未完稿﹞🔤🖼️ [框架問題 🆚 符碼紮根問題](01v03-Frame_Problem_vs_Symbol_Grounding_Problem.qmd)
 
 ## 📦 延伸：AI 發展假說
 

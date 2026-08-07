@@ -117,16 +117,16 @@ AI 對齊與控制是一場**持久戰**，需要長期監測與調校：
 
 ## 🪸請參閱
 
-  - **延伸對照：**[第參篇：符號流 AI](03----symbolic_ai.zh-hant) 的可解釋性與規範可驗證性優勢，如何在安全策設中提供可審計的設計面。
+  - **延伸對照：**[第參篇：符號流 AI](03----symbolic_ai.qmd) 的可解釋性與規範可驗證性優勢，如何在安全策設中提供可審計的設計面。
 
 ## 👉接下來
 
-「AI 對齊與控制問題」與「完形心理」相互呼應：前者維持價值一致性，後者揭示人類快速補全意義的心智捷徑。接下來探討 **[語言賽局](01-07-Language_Games.zh-hant)** ，理解 AI 如何在語境互動中生成與操控意義。
+「AI 對齊與控制問題」與「完形心理」相互呼應：前者維持價值一致性，後者揭示人類快速補全意義的心智捷徑。接下來探討 **[語言賽局](01-07-Language_Games.qmd)** ，理解 AI 如何在語境互動中生成與操控意義。
 
-此外，讀者亦可以要處理及克服**AI 對齊與控制問題**的相關條目內容，特別是🌉 [AI 工程](10----ai_engineering.zh-hant) 及 ☸ [AI 導向](05----ai_orientations.zh-hant)，如：
+此外，讀者亦可以要處理及克服**AI 對齊與控制問題**的相關條目內容，特別是🌉 [AI 工程](10----ai_engineering.qmd) 及 ☸ [AI 導向](05----ai_orientations.qmd)，如：
 
-* ☸⚖️ [治理導向](05-05-oriented_governance.zh-hant)
-* 🌉🤖🚨 [智能體可靠性與評估](10-02-agent_reliability_evaluation.zh-hant)
+* ☸⚖️ [治理導向](05-05-oriented_governance.qmd)
+* 🌉🤖🚨 [智能體可靠性與評估](10-02-agent_reliability_evaluation.qmd)
 * 🌉🪟🧭 [脈絡工程](10-05-context_engineering.qmd)
 
 ## ✎ 編輯筆記
