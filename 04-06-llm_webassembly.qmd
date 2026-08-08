@@ -128,8 +128,8 @@ tags:
 ## 👉接下來🪸
 
 - ⮦🚥 思考 [第伍篇 ☸](05----ai_orientations.qmd) AI 5 大導向（AI Orientations）的各種系統／設計思維視角，是如何運用 `大語言模型網組合`，去構成有用的 **應用架構** 與 **問題解決策略**。
-    - 接續 ☸🌀 [數據導向](05-02-oriented_data.qmd)
-    - 對比 ☸🏛️ [知識導向](05-01-oriented_knowledge.qmd)
+    - 接續 ☸🛠 [工具導向](05-02-oriented_tool.qmd)
+    - 對比 ☸🎯 [任務導向型](05-01-oriented_task.qmd)
 - ⮦🚦 探究 [第肆篇 🌀](04----statistical_ai.qmd) **「統計流」AI**（Statistical AI）的其它條目，試試自己能不能說明 `大語言模型網組合` 和它們的關係：
 	- **🌀🎲🌿 [機率性關聯](04-01-probabilistic_association.qmd)**：`大語言模型網組合` 的核心 LLM 是基於機率性關聯原理運作，透過大量語料學習詞與詞、句與句之間的統計關係，並在瀏覽器端即時生成最可能的回應或內容。  
 	- **🌀🧞‍♀️🗪 [LLM聊天機器人](04-02-llm_chatbots.qmd)**：在 WebAssembly 環境中部署 LLM，可直接在網頁中構建可離線運行的**LLM聊天機器人**，提供即時互動、隱私保護與跨平台體驗，無需依賴雲端 API。

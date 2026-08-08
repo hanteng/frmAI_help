@@ -86,8 +86,8 @@ tags:
 讀者可以繼續：
 - ⮤🚥回顧 [問題意識](01----problematics.qmd)，思考「統計流」AI 如何以**資料驅動**與**機率性推理**應對「[符碼紮根問題](01-03-Symbol_Grounding_Problem.qmd)」、「[框定](01-04-Frame_Problem.qmd)」、「[對齊](01-06-Alignment_Control_Problem.qmd)」等關鍵挑戰。
 - ⮦🚦探索 AI 5 大導向中的🌀「統計流」AI 影響：
-    - ☸🌀 [數據導向](05-02-oriented_data.qmd)
-	    -  對比 ☸🏛️ [知識導向](05-01-oriented_knowledge.qmd)
+    - ☸🛠 [工具導向](05-02-oriented_tool.qmd)
+	    -  對比 ☸🎯 [任務導向型](05-01-oriented_task.qmd)
     - ☸🤖 [智能體／代理人導向](05-03-oriented_agent.qmd)
     - ☸🛠 [任務導向型](05-01-oriented_task.qmd)        
     - ☸⚖️ [治理導向](05-05-oriented_governance.qmd)

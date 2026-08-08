@@ -144,8 +144,8 @@ tags:
 ## 👉接下來🪸
 
 - ⮦🚥思考 [第伍篇 ☸](05----ai_orientations.qmd) AI 5 大導向（AI Orientations）的各種系統／設計思維視角，是如何運用 **本體論**，去構成有用的 **知識組織方式** 與 **問題解決策略**。
-	- 接續 ☸🌀 [數據導向](05-02-oriented_data.qmd)
-	- 對比 ☸🏛️ [知識導向](05-01-oriented_knowledge.qmd)
+	- 接續 ☸🛠 [工具導向](05-02-oriented_tool.qmd)
+	- 對比 ☸🎯 [任務導向型](05-01-oriented_task.qmd)
 - ⮦🚦 回憶**統計流 AI**（Statistical AI）[第肆篇 🌀](04----statistical_ai.qmd)的其它條目，評估自己可不可以說明**向量空間**和它們的關係，如下所述：
     - **🌀🎲 [機率性關聯](04-01-probabilistic_association.qmd)**：**向量空間**是**機率性關聯**的數學體現。它將語言符號轉換為數值向量，並透過向量間的距離來表示它們之間的**關聯性**。
         

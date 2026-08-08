@@ -147,7 +147,7 @@ number-sections: false
 
 在人工智慧與設計領域，「動詞＋名詞」組合成為人機互動的語法基礎。AI 有「**[任務導向型](05-01-oriented_task.qmd)**」；介面設計常以「點擊按鈕」「拖曳檔案」等結構定義功能，而 [生成式 AI](06-05-analysis_generative.qmd) 的 [提示工程](10-03-prompt_engineering.qmd) 則依賴「生成圖片」「翻譯文本」等指令，既符合人類直覺，也便於模型解析。
 
-接續前篇《💪[行動](appendix-action.qmd)》**動詞**«選項»中的[@tbl-actions-10]，下[@tbl-actions-10-nouns] 展示了搭配名詞後的可操作性，產出層次不同，領域各異的**世界片段**"。
+接續前篇《💪[行動](appendix-action.qmd)》**動詞**«選項»中的[@tbl-actions-10]，下[@nte-actions-10-nouns] 展示了搭配名詞後的可操作性，產出層次不同，領域各異的**世界片段**"。
 
 ::: {.callout-note #nte-actions-10-nouns title="🌊名➕🏄🏼動 跨領域的可操作**世界片段**" collapse=false open=true .note}
 
@@ -163,7 +163,7 @@ number-sections: false
 | **3**  | 💪☸ 掌控 | 掌控數據流 | 掌控系統運行 | 掌控 AI 行為 | 掌控文本生成 | 掌控社會權力 |
 | **2**  | 🤝💞 連結 | 連結數據集 | 連結實驗模組 | 連結 AI 網路 | 連結語境 | 連結社群 |
 | **1**  | 🥗🚰 生存 | 數據保存 | 系統維持 | AI 存活 | 語言延續 | 社會生存 |
-: ⟨**布魯姆+全宇層10類**⟩ 🌊名➕🏄🏼動 跨領域實例 {#tbl-actions-10-nouns .table-small-print"}
+: ⟨**布魯姆+全宇層10類**⟩ 🌊名➕🏄🏼動 跨領域實例 {#nte-actions-10-nouns .table-small-print"}
 :::
 
 ## 🔀雙鑽模型

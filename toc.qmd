@@ -86,7 +86,7 @@
 	* D. ⚙[API分類](appendix-differentiating_API-MCP.qmd)
 	* E. 本書🌌[心智圖](appendix-evolving_mindmap.qmd)
 	* F. 📔 [封面封底書脊](appendix-framing_appendix-framing_cover_back.qmd)
-	* G. 🔖[詞彙表](appendix-appendix-glossary.qmd)
+	* G. 🔖[詞彙表](appendix-glossary.qmd)
 		* 🧠 [心智能力](00-03-notes-constructive_fill-in.qmd) 🐸🐘🧘
 		* 🧠🧞‍♀️ [〜語言賽局腦補機](00-02-notes-mental_fill-in.qmd)
 		* 🪜👨‍👩‍👧‍👦 〜家長篇~傳承 appendix-cognitive_capacity.qmd#parents

@@ -21,7 +21,7 @@ editor:
 
 以上三個看似「常識性」的問題，實則已有多重（且不同的）心智能力交織。
 
-準備好，以水火為例，展開心智能力的旅程，見證人類如何 ❝[腦補](appendix-appendix-glossary.qmd#def-mental-fill-in)❞。
+準備好，以水火為例，展開心智能力的旅程，見證人類如何 ❝[腦補](appendix-glossary.qmd#def-mental-fill-in)❞。
 
 ## 💧🔥關於水火
 
@@ -36,7 +36,7 @@ editor:
 * 🌊🏗️ 想**治**「水」的神話故事與當代工程？
 * 🚂💨 「水火交融」的**工業革命**，怎麼構建現代都市文明？
 
-思考並做筆記一下，以上六個問題，你能❝[腦補](appendix-appendix-glossary.qmd#def-mental-fill-in)❞出什麼答案呢？
+思考並做筆記一下，以上六個問題，你能❝[腦補](appendix-glossary.qmd#def-mental-fill-in)❞出什麼答案呢？
 
 ## 🧠心智能力🐸🐘🧘
 
@@ -50,7 +50,7 @@ editor:
 
 為了更清楚地分析與應用這些能力，我們可以將其抽象化、分類化，形成一個可對照人類與人工智慧的認知框架。
 
-正是這些認知框架，讓❝[腦補](appendix-appendix-glossary.qmd#def-mental-fill-in)❞的經驗法則，提升到更高層次的認知能力。
+正是這些認知框架，讓❝[腦補](appendix-glossary.qmd#def-mental-fill-in)❞的經驗法則，提升到更高層次的認知能力。
 
 ::: {.callout-important #imp-tri-cognitive-model title="🧠 ⟨**三重心智**⟩ " collapse=false open=true } 
 本書原創整合的**心智能力分類**，提供了較細化的名詞«選項»分類起點：
@@ -68,7 +68,7 @@ editor:
 
 ## 🤯 ❝腦補❞ 知行捷徑
 
-❝[腦補](appendix-appendix-glossary.qmd#def-mental-fill-in)❞（Mental Fill-in），指人類在資訊不完整時，**依賴經驗與想像，自動在腦中填補出完整「情節」或「事實」**的行為。
+❝[腦補](appendix-glossary.qmd#def-mental-fill-in)❞（Mental Fill-in），指人類在資訊不完整時，**依賴經驗與想像，自動在腦中填補出完整「情節」或「事實」**的行為。
 
 它可能是生活中的無數個瞬間：
 
@@ -76,15 +76,15 @@ editor:
 - 📺 當新聞背景音樂襯上旁白提到兩個國家，你情緒已滿：**「啊，又是衝突！一定是那一方挑釁在先，另一方被迫反擊。」**「誰對誰錯，責任在誰」早已有定論。    
 - 🎭 當追劇時演到關鍵時刻，你已有期待反轉再反轉：**「這角色一定會背叛！不對，他其實是臥底！等等，難道導演還要再翻一次？」**    
 
-這些❝[腦補](appendix-appendix-glossary.qmd#def-mental-fill-in)❞的心智活動，既是我們的本能，也可能是誤讀現實的源頭。**情緒**、**立場**、**故事**……一切都能補。
+這些❝[腦補](appendix-glossary.qmd#def-mental-fill-in)❞的心智活動，既是我們的本能，也可能是誤讀現實的源頭。**情緒**、**立場**、**故事**……一切都能補。
 
 正是這，可以為我們解鎖「人工智慧」（Artificial Intelligence, AI）的理解及創新之鑰：
 
->❝[腦補](appendix-appendix-glossary.qmd#def-mental-fill-in)❞本能是人類的「**知行捷徑**」（Cognitive shortcuts for actions），依賴經驗與想像，我們在不完整的資訊中填補空缺，勾勒出「事實」，驅使我們「行動」。
+>❝[腦補](appendix-glossary.qmd#def-mental-fill-in)❞本能是人類的「**知行捷徑**」（Cognitive shortcuts for actions），依賴經驗與想像，我們在不完整的資訊中填補空缺，勾勒出「事實」，驅使我們「行動」。
 
 ## 🖼️🙶應對🙷 AI 問題㉄
 
-❝[腦補](appendix-appendix-glossary.qmd#def-mental-fill-in)❞勾勒「事實」，驅使「行動」，如此關照「水」與「火」的心智能力分層，在構建人工智慧系統時，可以用來：
+❝[腦補](appendix-glossary.qmd#def-mental-fill-in)❞勾勒「事實」，驅使「行動」，如此關照「水」與「火」的心智能力分層，在構建人工智慧系統時，可以用來：
 
 * 應對 **[框架問題](01-04-Frame_Problem.qmd)**：
 	* 界定 「**感知—決策—行動**」 模式或模組，如

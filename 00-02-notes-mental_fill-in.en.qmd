@@ -23,7 +23,7 @@ editor:
 
 These seemingly "common-sense" questions actually involve multiple intertwined cognitive capacities.
 
-Get ready to embark on a journey of cognitive capacities using these primal elements as our guide, and witness how humans naturally perform ❝[Mental Fill-ins](appendix-appendix-glossary.qmd#def-mental-fill-in)❞.
+Get ready to embark on a journey of cognitive capacities using these primal elements as our guide, and witness how humans naturally perform ❝[Mental Fill-ins](appendix-glossary.qmd#def-mental-fill-in)❞.
 
 ## 💧🔥 About Water and Fire
 
@@ -38,7 +38,7 @@ Furthermore, consider the evolution of human society:
 * 🌊🏗️ The mythological stories and contemporary engineering of **controlling** "water"?
 * 🚂💨 How did the **Industrial Revolution**—literally a technological blend of "water and fire" (steam)—construct modern urban civilization?
 
-Reflect on these questions and take some notes: what kind of ❝[Mental Fill-ins](appendix-appendix-glossary.qmd#def-mental-fill-in)❞ can you conjure up as answers?
+Reflect on these questions and take some notes: what kind of ❝[Mental Fill-ins](appendix-glossary.qmd#def-mental-fill-in)❞ can you conjure up as answers?
 
 ## 🧠 Cognitive Capacity 🐸🐘🧘
 
@@ -52,7 +52,7 @@ These levels do not operate in isolation; instead, they intertwine into a collab
 
 To analyze and apply these capacities more clearly, we can abstract and categorize them to form a cognitive framework that compares human intelligence with artificial intelligence.
 
-It is precisely these cognitive frameworks that elevate the empirical rules of thumb of ❝[Mental Fill-ins](appendix-appendix-glossary.qmd#def-mental-fill-in)❞ into higher-level cognitive capacities.
+It is precisely these cognitive frameworks that elevate the empirical rules of thumb of ❝[Mental Fill-ins](appendix-glossary.qmd#def-mental-fill-in)❞ into higher-level cognitive capacities.
 
 ::: {.callout-important #imp-tri-cognitive-model title="🧠 ⟨**Tri-Cognitive Model**⟩ " collapse=false open=true } 
 The **cognitive capacity classification** originally integrated in this book provides a refined starting point for classifying noun <<options>>:
@@ -70,7 +70,7 @@ For details, see **🔖 Appendix** B. 🧠 [Brain: Tri-Cognitive Model Integrati
 
 ## 🤯 ❝Mental Fill-ins❞: Cognitive Shortcuts
 
-❝[Mental Fill-ins](appendix-appendix-glossary.qmd#def-mental-fill-in)❞ (Mental Fill-in) refers to the human behavior of **automatically filling in complete "plots" or "facts" in the mind using experience and imagination when information is incomplete**.
+❝[Mental Fill-ins](appendix-glossary.qmd#def-mental-fill-in)❞ (Mental Fill-in) refers to the human behavior of **automatically filling in complete "plots" or "facts" in the mind using experience and imagination when information is incomplete**.
 
 It manifests in countless daily moments:
 
@@ -78,11 +78,11 @@ It manifests in countless daily moments:
 - 📺 When the news mentions two countries over background music, your emotions overflow: **"Ah, another conflict! One side must have provoked first, forcing the other to retaliate."** "Who is right and who is wrong" is already decided in your mind.    
 - 🎭 When watching a drama at a critical climax, you eagerly anticipate twist after twist: **"This character is definitely going to betray them! No, wait, he's actually an undercover agent! Hold on, is the director going to pull off another twist?"** 
 
-These mental activities of ❝[Mental Fill-ins](appendix-appendix-glossary.qmd#def-mental-fill-in)❞ are both our instincts and potential sources of misreading reality. **Emotions**, **stances**, **stories**... anything can be filled in.
+These mental activities of ❝[Mental Fill-ins](appendix-glossary.qmd#def-mental-fill-in)❞ are both our instincts and potential sources of misreading reality. **Emotions**, **stances**, **stories**... anything can be filled in.
 
 It is this very mechanism that unlocks the key to understanding and innovating in Artificial Intelligence (AI):
 
-> The instinct for ❝[Mental Fill-ins](appendix-appendix-glossary.qmd#def-mental-fill-in)❞ is the human **"cognitive shortcut for actions."** Relying on experience and imagination, we fill in the blanks within incomplete information, sketch out a "fact," and drive ourselves to "take action."
+> The instinct for ❝[Mental Fill-ins](appendix-glossary.qmd#def-mental-fill-in)❞ is the human **"cognitive shortcut for actions."** Relying on experience and imagination, we fill in the blanks within incomplete information, sketch out a "fact," and drive ourselves to "take action."
 
 ## 🖼️ Addressing AI Problematics ㉄
 

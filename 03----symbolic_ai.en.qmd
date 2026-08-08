@@ -86,8 +86,8 @@ This page is not yet fully translated into English. Below is the original conten
 讀者可以繼續：
 - ⮤🚥回顧 [問題意識](01----problematics.qmd)，本章聚焦「符號流」AI 如何以顯式表示回應「理解」「框定」「對齊」等關鍵挑戰。 
 - ⮦🚦探索 [AI 5 大導向](05----ai_orientations.qmd) 中的🏛️「符號流」AI 影響：
-	- ☸🏛️ [知識導向](05-01-oriented_knowledge.qmd)
-		- 對比 ☸🌀 [數據導向](05-02-oriented_data.qmd)
+	- ☸� [任務導向型](05-01-oriented_task.qmd)
+		- 對比 ☸🛠 [工具導向](05-02-oriented_tool.qmd)
 	- ☸🤖 [智能體／代理人導向](05-03-oriented_agent.qmd)
 	- ☸🛠 [任務導向型](05-01-oriented_task.qmd)
 	- ☸⚖️ [治理導向](05-05-oriented_governance.qmd)
