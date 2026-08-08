@@ -78,7 +78,7 @@ tags:
 
 * **[完形心理學](01-05-Gestalt_Psychology.qmd)** （Gestalt Psychology）介紹人類生存本能擁有的認知捷思的經驗法則，是有什麼樣的**即時篩選**與**創造適應**的特性，同時也有其偏差與偏見。
 
-* **[AI 對齊問題](05-02-AI_alignment.qmd)**（AI Alignment Problem），這個問題探問 AI 系統的使用目標是否與人類的價值觀一致。
+* **[AI 對齊問題](01-06-Alignment_Control_Problem.qmd)**（AI Alignment Problem），這個問題探問 AI 系統的使用目標是否與人類的價值觀一致。
 
 ## 🪸請參閱
 

@@ -54,7 +54,7 @@ To analyze and apply these capacities more clearly, we can abstract and categori
 
 It is precisely these cognitive frameworks that elevate the empirical rules of thumb of ❝[Mental Fill-ins](appendix-glossary.qmd#def-mental-fill-in)❞ into higher-level cognitive capacities.
 
-::: {.callout-important #imp-tri-cognitive-model title="🧠 ⟨**Tri-Cognitive Model**⟩ " collapse=false open=true } 
+::: {.callout-important #imp-tri-aspect-cognitive title="🧠 ⟨**Tri-Cognitive Model**⟩ " collapse=false open=true } 
 The **cognitive capacity classification** originally integrated in this book provides a refined starting point for classifying noun <<options>>:
 
 * 🐸⚡ 🙶Reactive🙷 Mind: Dominated by **real-time perception and rapid response modules**.
@@ -63,7 +63,7 @@ The **cognitive capacity classification** originally integrated in this book pro
 
 Reflecting on human mental activities based on their **processing speed**, **social functions**, and **symbolic capabilities** allows us to distinguish our own cognitive capacities from those of machines.
 
-For details, see **🔖 Appendix** B. 🧠 [Brain: Tri-Cognitive Model Integration](appendix-brain.qmd#sec-tri-cognitive-model).
+For details, see **🔖 Appendix** B. 🧠 [Brain: Tri-Cognitive Model Integration](appendix-brain.qmd#sec-tri-aspect-cognitive).
 
 ⚡💞☸️
 ::: 
@@ -179,7 +179,7 @@ The remaining 6 parts cover the following contents:
 * 《[09 📐 Maths for AI](09----ai_math.qmd)》 <sup>📍[@fig-mindmap-09]</sup>
 * 《[10 🌉 AI Engineering](10----ai_engineering.qmd)》 <sup>📍[@fig-mindmap-10]</sup>
 
-In short, the book's 🌌 [Mindmap](appendix-evolving_mindmap.qmd) and 📖 [Table of Contents](toc.md) serve as an initial draft of the «AI Knowledge Scaffolding» designed by the author to help readers rapidly grasp their learning direction.
+In short, the book's 🌌 [Mindmap](appendix-evolving_mindmap.qmd) and 📖 [Table of Contents](toc.qmd) serve as an initial draft of the «AI Knowledge Scaffolding» designed by the author to help readers rapidly grasp their learning direction.
 
 ::: {.callout-important #imp-mindmap-fill-in title="🧭 Mindmap Navigation and Interactive Features" }
 

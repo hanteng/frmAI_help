@@ -52,7 +52,7 @@ editor:
 
 正是這些認知框架，讓❝[腦補](appendix-glossary.qmd#def-mental-fill-in)❞的經驗法則，提升到更高層次的認知能力。
 
-::: {.callout-important #imp-tri-cognitive-model title="🧠 ⟨**三重心智**⟩ " collapse=false open=true } 
+::: {.callout-important #imp-tri-aspect-cognitive title="🧠 ⟨**三重心智**⟩ " collapse=false open=true } 
 本書原創整合的**心智能力分類**，提供了較細化的名詞«選項»分類起點：
 
 * 🐸⚡ 🙶反應型🙷心智：**即時感知與快速反應模組**為主。
@@ -61,7 +61,7 @@ editor:
 
 反思人類的心智活動，依其**處理速度**、**社會功能**與**符號能力**，區分自己和機器的認知能力。
 
-詳細見**🔖附錄** B. 🧠[心智〜 三重心智整合](appendix-brain.qmd#sec-tri-cognitive-model)。
+詳細見**🔖附錄** B. 🧠[心智〜 三重心智整合](appendix-brain.qmd#sec-tri-aspect-cognitive)。
 
 ⚡💞☸️
 ::: 

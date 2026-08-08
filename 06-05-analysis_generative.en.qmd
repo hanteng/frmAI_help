@@ -307,10 +307,10 @@ This page is not yet fully translated into English. Below is the original conten
 參照 **[🔖附錄🌌 心智圖](appendix-evolving_mindmap.qmd)**，將`生成式分析`與下述概念對比，檢視其是否可歸類到「決策認知」或「認知決策」的範疇，並思考其在決策鏈前後兩端的加值角色：
 
 - 💬導論 〜
-    - 🧠 [心智能力](notes-constructive_fill-in.qmd) 🐸🐘🧘
+    - 🧠 [心智能力](00-03-notes-constructive_fill-in.qmd) 🐸🐘🧘
     - 🧠🧞‍♀️ [〜語言賽局腦補機](notes-mental_fill-in.zh-hant.html)
 - 📑筆記 〜
-    - 🪜 [知行鷹架](notes-constructive_fill-in.qmd)
+    - 🪜 [知行鷹架](00-03-notes-constructive_fill-in.qmd)
     - **🔖附錄💪**：[學習行動](appendix-action.qmd)
 - [第壹篇 ㉄](01----problematics.qmd)　AI 問題意識（AI Problematics）
     - **1.3** 🔤⚓ [符碼紮根問題](01-03-Symbol_Grounding_Problem.qmd)（Symbol Grounding Problem）
