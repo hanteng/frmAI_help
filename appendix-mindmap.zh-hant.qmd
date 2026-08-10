@@ -1,8 +1,11 @@
 # 🌌心智圖：經緯  {.appendix}
 
-## Mermaid 版
+## SVG 版
+![Mind Map SVG](mind_map.svg){#fig-mindmap}
 
-::: {#fig-mindmap  caption="🌌心智圖"} 
+## Mermaid 版 {caption="🌌心智圖"} 
+
+::: 
 ```{mermaid}
 
 %%{ init: { 'flowchart': { 'curve': 'bumpX' }, 'theme': 'redux', 'themeVariables': { 'lineColor': '#000', 'nodeBorder': '#000' } } }%%
