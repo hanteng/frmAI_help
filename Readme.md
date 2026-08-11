@@ -7,3 +7,7 @@
 - 🪜👨‍👩‍👧‍👦 [〜家長篇 ~ 傳承](appendix-cognitive_capacity_parents.qmd) （🚧未完成） 
 - 🪜🧘 [〜自學篇 ~ 紥根](appendix-cognitive_capacity.qmd) （🚧未完成） 
 ```
+
+## To do 
+
+_quarto-en.yml 有 section-title-appendices、crossref-nte-*、crossref-tip-*、callout-important-title 等本地化設定，中文版 _quarto.yml 卻沒有對應設定（因為中文是預設語言不需要覆寫，但仍建議確認 callout-note/callout-tip 等中文顯示文字是否已由 _language-zh-hant.yml 涵蓋，避免中英版 callout 標籤不對稱）。

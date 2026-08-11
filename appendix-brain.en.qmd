@@ -1,7 +1,6 @@
 ---
 number-sections: false 
 tags:
-- #tip-brain-practice-mindful
 - 心智能力 
 - 三重心智
 - 腦補與補全

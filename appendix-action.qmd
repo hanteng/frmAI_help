@@ -1,14 +1,16 @@
 ---
 number-sections: false 
 tags:
-- #app-action
-- #tbl-actions-10
 - 階段動詞
 - 布魯姆分類
 - AQAL分類
 - 知行合一
 - 實踐協奏
 ---
+<!--
+- #app-action
+- #tbl-actions-10
+-->
 ::: {.callout-warning #nte--ed-index title="✎ 編輯筆記" collapse=true open=false}
 - [x] 逐句**事實查核**
 - [x] 檢視**邏輯流程** 

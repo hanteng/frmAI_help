@@ -120,6 +120,8 @@ book:
     - appendix-action.qmd # id: app-action
     - appendix-brain.qmd # id: app-brain
     - appendix-cognitive_capacity.qmd # id: app-cognitive-capacity
+    - appendix-cognitive_capacity-define.qmd # id: sec-cc-define-module
+    - appendix-cognitive_capacity-mvp.qmd # id: sec-cc-mvp-module
     - appendix-differentiating_API-MCP.qmd # id: app-api
     - appendix-evolving_mindmap.qmd # id: fig-mindmap
     - appendix-framing_cover_back.qmd # id: sec-cover-back
@@ -175,4 +177,3 @@ format:
       body-width: 9000px       # Comfortable reading area for technical prose
       margin-width: 260px     # Keeps the Right TOC perfectly stable and distinct
       gutter-width: 1.5rem    # The air/padding between your three columns
-

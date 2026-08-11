@@ -253,7 +253,7 @@ Beer 巧妙地以人類的神經解剖學（Neuroanatomy）作為原型，主張
 
 * 🏙 **動手練習**：還沒做過本章開頭提到的《AI 代價與未來生活預見練習》嗎？見 🔖附錄A. 💪 [行動](appendix-action.qmd#sec-ai-cost-forecasting-worksheet)。
 * 🔖 **AI 分類對照**：想知道「AI 導向」與「流派主義」這兩套分類法如何銜接 [第壹篇 ㉄](01----problematics.qmd) AI 問題意識嗎？見 🔖附錄🌌 [心智圖](appendix-evolving_mindmap.qmd#sec-ai-taxonomy-comparison)。
-* 🙈 **創作示範**：想看看「補全」落實在文學創作上的示範嗎？見 🔖 [大聖歸來：仿葉慈新詩](appendix-poem.qmd)，一首以《西遊記》意象改寫葉慈《二度降臨》的中文新詩。
+<!--* 🙈 **創作示範**：想看看「補全」落實在文學創作上的示範嗎？見 🔖 [大聖歸來：仿葉慈新詩](appendix-poem.qmd)，一首以《西遊記》意象改寫葉慈《二度降臨》的中文新詩。-->
 * 🌐🦾 **組織與治理對照**：想更深入理解「框智力」如何對應管理學「動態能力」（Teece）與政治學「模控治理」（Deutsch、Beer）嗎？見本章「🌐🦾 框智力放大：組織的動態能力與模控治理」一節。
 
 :::
