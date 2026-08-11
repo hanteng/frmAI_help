@@ -10,7 +10,7 @@ number-sections: false
 
 [附錄C 總覽：能力](appendix-cognitive_capacity.qmd) → **模組一：探索與定義** → [模組二：建構與交付](appendix-cognitive_capacity-mvp.qmd)
 
-本頁承接總覽頁的 **[🔀雙鑽模型](appendix-cognitive_capacity.qmd#sec-cc-formula)** 與 **[建補鷹架公式](appendix-cognitive_capacity.qmd#sec-cc-formula)**（🌊[名詞](appendix-brain.qmd#sec-world-in-nouns) ➕ 🏄🏼[動詞](appendix-action.qmd#sec-cc-verbs)），示範雙鑽石模型第一鑽石「探索 → 定義」的具體操作。
+本頁承接總覽頁的 **[🔀雙鑽模型](appendix-cognitive_capacity.qmd#sec-cc-formula)** 與 **[建補鷹架公式](appendix-cognitive_capacity.qmd#sec-cc-formula)**（🌊[名詞](appendix-brain.qmd#sec-world-in-nouns) ➕ 🏄🏼[動詞](appendix-action.qmd#sec-verbs-in-world)），示範雙鑽石模型第一鑽石「探索 → 定義」的具體操作。
 
 :::
 
