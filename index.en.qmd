@@ -16,10 +16,10 @@ How can we understand and master the latest **mental fill-in** technology—Arti
 ::: {.callout-tip #tip-book-features-short title="Key Highlights of This Book💖"}
 * 👨‍👩‍👧‍👦 _Target Audience_: General readers, students, parents, and professionals interested in AI—suitable for both popular science education and career enhancement.
 * 🏮 _Concise & Clear_: Built around 66 key concepts[^66] to establish a complete scaffolding for knowledge and action, striving for clarity without being dogmatic.
-* 🤠 _Dao / Artifice (道／盜)_: Highlighting the dual competitive and cooperative nature of intelligence: knowledge can establish rules, yet it can also challenge them.
-* 🐛 _problematics_: Focusing on foundational problems such as the **Symbol Grounding Problem** and the **Frame Problem**, exploring their underlying logics and solutions.
+* 🤠 _Dao / Artifice (道／盜)_: Highlighting the dual competitive and cooperative nature of intelligence: knowledge can establish rules, yet it can also challenge them[^AI_Red_Pill].
+* 🐛 _problematics_: Focusing on foundational problems such as the **Symbol Grounding Problem** and the **Frame Problem**, exploring their underlying problematics and solutions.
 * 🎄 _Systematic Scope_: Introducing AI's main **schools**, **paradigms**, **analytic forms**, and **orientations**.
-* 💊 _The AI Red Pill_: Incorporating realist evolutionary and game-theoretic perspectives, such as **Gestalt Psychology** and **Language Games**, exposing manipulative mechanisms.
+* 💊 _The AI Red Pill_: Incorporating realist evolutionary and game-theoretic perspectives, such as **Gestalt Psychology** and **Language Games**, exposing manipulative mechanisms[^AI_Red_Pill].
 * 🪜 _Personalized Approach_: Guiding readers through "investigating things to extend intelligence" (格物致智 gé wù zhì zhì, i.e. a modern extension of Chinese saying of "Greater Learning" 格物致知 gé wù zhì zhī), building a personalized knowledge-action framework.
 * 🎍 _Grounded Application Logic_: Anchoring application logic in real-world scenarios while systematically selecting creative solutions.
 
@@ -28,7 +28,7 @@ How can we understand and master the latest **mental fill-in** technology—Arti
 
 ## 🎲 The Dao & Artifice of Intelligence<br/>An AI Game Playbook
 
-This handbook is rooted in the foundational **problematics** (referring to the set of foundational questions, framings, and cultivated ways of thinking and awareness, during the development of a knowledge field, more see [Part 1 ㉄](01----problematics.en.qmd)) of artificial intelligence (AI). Through rigorous **fact-checking** and **logical tracing**, it guides readers in constructing their own personalized **[🪜 Knowledge-Action Scaffolding](00-03-notes-constructive_fill-in.en.qmd)**.
+This handbook is rooted in the foundational **problematics** (referring to foundational questions, frameworks, methods, and systemic awareness collectively established through a field's development; see [Part 1 ㉄](01----problematics.en.qmd)) of artificial intelligence. Through rigorous **fact-checking** and **logical tracing**, it guides readers in constructing their own personalized **[🪜 Knowledge-Action Scaffolding](00-03-notes-constructive_fill-in.en.qmd)**.
 
 This scaffolding—capable of "framing intelligence" with holistic "perspective"—helps readers evaluate existing tech solutions while inspiring innovative approaches in **AI Engineering** (see Part 10 🌉).
  
@@ -62,7 +62,7 @@ This chapter structure not only outlines a comprehensive framework but also enco
 
 ## 🧭 «The Appendix Triad»: An Agent-Neutral Epistemic and Action Framework
 
-This book utilizes three mutually echoing appendices—💪 [Action](appendix-action.en.qmd), 🧠 [Mind](appendix-brain.en.qmd), and 🪜 [Capacity](appendix-cognitive_capacity.en.qmd)—to unpack "what to know" from "how to decide and act", before recombining them for practical execution. This taxonomy deliberately refrains from presupposing priority between "humans" or "machines": each appendix outlines parallel versivons for both human and AI agents, allowing readers to choose any entry point.
+This book utilizes three mutually echoing appendices—💪 [Action](appendix-action.en.qmd), 🧠 [Mind](appendix-brain.en.qmd), and 🪜 [Capacity](appendix-cognitive_capacity.en.qmd)—to unpack "what to know" from "how to decide and act", before recombining them for practical execution. This taxonomy deliberately refrains from presupposing priority between "humans" or "machines": each appendix outlines parallel versions for both human and AI agents, allowing readers to choose any entry point.
 
 * First ask "**What is worth knowing?**"—See 🧠 *Mind*: ⟨The Tripartite Mind⟩ and the Concentric Circles of Nouns.
 * Next ask "**How to act once known?**"—See 💪 *Action*: Verb Syntax and the AQAL Quadrants.
@@ -80,7 +80,7 @@ In academic terms, «The Appendix Triad» roughly corresponds to **Ontology**, *
 
 Thus, the three appendices are not isolated topics, but three complementary facets of a single **agent-neutral** framework: establishing ontology and epistemology first (Mind), unfolding the option space of action (Action), and finally converging via methodology into executable choices (Capacity). This structure underpins the book's parallel treatment of humans and machines. Readers interested in specific theoretical contexts (such as dual-process theory, triune brain theory, social brain hypothesis, or the three major AI paradigms) will find source citations and extended links within the corresponding appendix.
 
-By selectively citing foundational Eastern and Western authorities and deploying socio-technical heuristics, this substrate-neutral framework does not merely map AI’s core problematics—it actively cultivates the structural awareness required to recognize, navigate, and redesign them in real-world applications.
+Synthesizing selected classical and contemporary authorities across Eastern and Western traditions through selective socio-technical integration, this framework moves beyond listing foundational problematics to cultivate agents' structural scrutiny—the ability to identify, navigate, and reconstruct system frameworks in real-world application domains. Readers are encouraged to gather their own data sources and core action verbs and nouns to construct alternative framework expressions.
 
 :::
 
@@ -111,7 +111,7 @@ This book is titled *Framing Intelligence*, also subtitled *The Dao & Artifice o
 
 The primary features of this book include:
 
-1. **A Knowledge Framework Focused on Perspective**: Starting with "investigating things to extend intelligence" (格物致智), using 66 key terms to build a rich knowledge-action scaffolding that directly addresses core **problematics** (e.g., Symbol Grounding Problem, Frame Problem, and Language Games), facilitating systematic mastery of various schools, analytic forms, and underlying ways of thinking ("Dao"), so as to communicate and develop ideas effectively across knowledge fields.
+1. **A Knowledge Framework Focused on Perspective**: Starting with "investigating things to extend intelligence" (格物致智), using 66 key terms to build a rich knowledge-action scaffolding that directly addresses core **problematics** (e.g., Symbol Grounding Problem, Frame Problem, and Language Games), facilitating systematic mastery of various schools, analytic forms, and underlying principles ("Dao") to enable efficient cross-disciplinary dialogue and critical inquiry.
 2. **Grounded Application Logic**: Aiming to "extend intelligence" through actionable application paths, incorporating emerging subjects like `Game-Theoretic AI`, `Embodied AI`, `AI Mathematics`, and `AI Engineering` to creatively assimilate diverse developmental trajectories into practical usage.
 3. **Reinterpreting Classical Concepts**: Connecting classic knowledge points with modern topics like `Large Language Models (LLMs)` under the new idiom "investigating things to extend intelligence", constructing a self-improving, expandable **knowledge-action scaffolding**.
 4. **Integrating Science & Game Theory**: Introducing concepts like `Gestalt Psychology` and `Language Games` to present the author's `evolutionary` and `game-theoretic` perspectives on "investigating things to extend intelligence", emphasizing a systems science view from human language to AI technology.
@@ -119,6 +119,25 @@ The primary features of this book include:
 6. **Respecting Authority Without Blind Following**: Striking a balance between **humility** and **conviction**, citing classic and contemporary authorities from both Western and Eastern traditions for comprehensive understanding. Quotation does not imply blind adherence—the goal is to help readers grasp the full picture while retaining room to form their own judgment and framework.
 
 As this handbook accompanies readers through understanding AI's varied `problematics` and `solutions`, it aspires to empower readers to embark on their own journey of **practice** and **design** rooted in systematic comprehension.
+
+## 🎓 A Note for Rigorous Readers {#sec-red-blue-pill}
+
+A rigorous reader might reasonably ask: *by casting human-made discipline as "Artifice" (盜) via Laozi, does this book advocate an anti-technology Daoist romanticism?*
+
+No. The pun on **"Dao"** and **"Artifice"** is a **diagnostic critical heuristic**, not a call to abandon technology—it points out that human technologies, from language to statecraft to AI, all carry the power to "reframe the game."
+
+This book's core goal is to cultivate readers' **Meta-Framing Capabilities**, developing their **"Knowledge-Action Scaffolding Construction Ability."** Mastering modern AI requires holding two forms of thinking in tension: using Confucius's rigorous "rectification of names" (*必也正名乎*) with one hand to construct executable engineering systems, while using Laozi's and Wittgenstein's "Dao/Artifice" insights and language games with the other hand to predict system boundary drift, prevent specification gaming (reward hacking), and dynamically reframe the game when rigid structures fail.
+
+::: {.callout-note title="The 'Dao / Artifice' Pun as Meta-Framing Capability, Not Anti-Tech Daoist Nihilism" collapse=true}
+
+The author's "Dao / Artifice" reminder shows that the AI Red Pill[^AI_Red_Pill] and AI Blue Pill[^AI_Blue_Pill] are not a binary choice, but a dynamic tension to be held between both positions:
+
+* **The deconstructive, diagnostic "AI Red Pill"[^AI_Red_Pill] (Laozi / later Wittgenstein)**: exposes how over-rigid rules and manufactured discipline invite systemic loopholes and gaming (**Artifice/盜**)—an early articulation of what modern AI alignment calls **Goodhart's Law** and **specification gaming (reward hacking)**, warning against dogmatic technical hubris and brittle hard-coded specifications.
+* **The constructive, grounding "AI Blue Pill"[^AI_Blue_Pill] (Confucius)**: real-world AI engineering cannot run on deconstruction alone. A deployable system still depends on **"rectification of names"**—precise entity grounding, schema contracts, ontologies, and enforceable protocols (*Li*).
+
+**This book's actual position**: Meta-Framing Capabilities.
+
+:::
 
 ## 📐 Mathematics & Code
 
@@ -168,9 +187,11 @@ executor = initialize_agent_executor_with_mcp(
 # 4. Disambiguation Query requiring entity grounding
 result = executor.invoke({"input": "Disambiguate Georgia and provide candidate ISO country codes."})
 print(result)
+
 ```
 
 ::: {.callout-warning #nte--ed-index title="✎ Editorial Notes" collapse=true open=false}
+
 - [ ] **Fact-check** sentence by sentence
 - [ ] Review **logical flow**
 - [ ] Ensure **concise, accessible** prose style
@@ -178,7 +199,10 @@ print(result)
 - [ ] Check **external links**: confirm all relevant entries are linked
 :::
 
-
 ## 📌 Notes
 
 [^66]: A tribute to Japanese AI writer **Youichiro Miyake**'s book of 68 core concepts [@MiyakeYouichiro2017-68-concepts-AI].
+
+[^AI_Red_Pill]: **The AI Red Pill**: Borrowing the metaphor from the classic sci-fi film *The Matrix* ("swallow the red pill to see the harsh truth"). In this book, it refers to bringing in Laozi's "Dao/Artifice" insight, the later Wittgenstein's "language games," and evolutionary game theory to help readers see through rigid rules, wordplay, and the loopholes, specification gaming (reward hacking), and common manipulation tactics that arise under system over-alignment.
+
+[^AI_Blue_Pill]: **The AI Blue Pill**: Borrowing the metaphor from *The Matrix* ("swallow the blue pill to remain within stable order"). In this book, it refers to Confucius's constructivist engineering practice of "rectification of names"(*必也正名乎*)—that is, in real AI deployment, establishing explicit schema contracts, ontologies, system prompts, and normative protocols (*Li*) to prevent hallucination and ensure predictable, safe system behavior.
