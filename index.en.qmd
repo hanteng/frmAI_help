@@ -1,11 +1,184 @@
 ---
 tags:
+  - the-book-preface
   - "#tip-book-features-short"
 ---
 # 🤗 Preface {.unnumbered}
 
-This is a Quarto book.
+> "Divining with oracle bones?" 🐢 Can an AI **Court Oracle** really alter national destiny?
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+> "Seeking a hug from ChatGPT after an exhausting day?" 👨‍👩‍👧‍👦 Can an AI **Matchmaker** truly change a person's life?
 
-to be translated from [Chinese preface](index.qmd).
+From **oracle bones** to **Large Language Models (LLMs)**, humanity has continuously sought ❝[mental fill-in](appendix-glossary.en.qmd#def-mental-fill-in)❞ to expand consciousness and solve problems. 
+
+How can we understand and master the latest **mental fill-in** technology—Artificial Intelligence (AI)?
+
+::: {.callout-tip #tip-book-features-short title="Key Highlights of This Book💖"}
+* 👨‍👩‍👧‍👦 _Target Audience_: General readers, students, parents, and professionals interested in AI—suitable for both popular science education and career enhancement.
+* 🏮 _Concise & Clear_: Built around 66 key concepts[^66] to establish a complete scaffolding for knowledge and action, striving for clarity without being dogmatic.
+* 🤠 _Dao / Artifice (道／盜)_: Highlighting the dual competitive and cooperative nature of intelligence: knowledge can establish rules, yet it can also challenge them.
+* 🐛 _problematics_: Focusing on foundational problems such as the **Symbol Grounding Problem** and the **Frame Problem**, exploring their underlying logics and solutions.
+* 🎄 _Systematic Scope_: Introducing AI's main **schools**, **paradigms**, **analytic forms**, and **orientations**.
+* 💊 _The AI Red Pill_: Incorporating realist evolutionary and game-theoretic perspectives, such as **Gestalt Psychology** and **Language Games**, exposing manipulative mechanisms.
+* 🪜 _Personalized Approach_: Guiding readers through "investigating things to extend intelligence" (格物致智 gé wù zhì zhì, i.e. a modern extension of Chinese saying of "Greater Learning" 格物致知 gé wù zhì zhī), building a personalized knowledge-action framework.
+* 🎍 _Grounded Application Logic_: Anchoring application logic in real-world scenarios while systematically selecting creative solutions.
+
+↪️ For details, see [Book Features](#sec-book-features).💖
+:::
+
+## 🎲 The Dao & Artifice of Intelligence<br/>An AI Game Playbook
+
+This handbook is rooted in the foundational **problematics** (referring to the set of foundational questions, framings, and cultivated ways of thinking and awareness, during the development of a knowledge field, more see [Part 1 ㉄](01----problematics.en.qmd)) of artificial intelligence (AI). Through rigorous **fact-checking** and **logical tracing**, it guides readers in constructing their own personalized **[🪜 Knowledge-Action Scaffolding](00-03-notes-constructive_fill-in.en.qmd)**.
+
+This scaffolding—capable of "framing intelligence" with holistic "perspective"—helps readers evaluate existing tech solutions while inspiring innovative approaches in **AI Engineering** (see Part 10 🌉).
+ 
+The book focuses on the critical framing and perspective—both as righteous principle ("Dao") and cunning maneuver ("Artifice")—that humanity deploys when engineering artificial intelligence.
+
+While anchored in rigorous **knowledge**, this book strives for clarity when addressing complex concepts, intentionally avoiding dogmatic assertions.
+
+::: {.callout-tip title="🌌: Mind Map"}
+A visual mind map of the book structure is available at @fig-mindmap.
+🌌
+:::
+
+## 📦 Structure of This Book
+
+Anchored in core **problematics** at its origin (see [Part 1 ㉄](01----problematics.en.qmd)) and aiming toward innovative **AI Engineering** methodologies at its destination (see Part 10 🌉), this handbook traverses the following chapters:
+
+* Selecting knowledge and case studies focused on **embodiment**, **game theory**, and future foresight—ensuring systematic understanding of historical evolution and inspiring innovative future insights:
+    * "Game-Theoretic AI" (see [Part 7 🏆](07----game_ai.en.qmd)),
+    * "Embodied AI" (see [Part 8 🦾](08----embodied_ai.en.qmd)), and
+    * "AI Mathematics" (see [Part 9 📐](09----ai_math.en.qmd)).
+* Systematically introducing **schools** and **paradigms** to integrate classical foundations with modern practices:
+    * [Part 2 🎏🏮](02----schools_paradigms.en.qmd) Schools & Paradigms
+        * **2.1** 🎏🏮🏛️ [Symbolic AI / Symbolism](02-01-symbolic_ai.en.qmd)
+        * **2.5** 🏮🧬 [Connectionism](02-05-connectionism.en.qmd)
+        * **2.6** 🏮💪 [Behaviorism](02-06-behaviorism.en.qmd)
+    * [Part 3 🏛️](03----symbolic_ai.en.qmd) Symbolic AI
+    * [Part 4 🌀](04----statistical_ai.en.qmd) Statistical AI
+* Highlighting systemic innovation and analytical depth by synthesizing the 5 "AI Orientations" (see [Part 5 ☸](05----ai_orientations.en.qmd)) and 6 points of "Analytics & Decisions" (see [Part 6 ❖](06----analytics_decisions.en.qmd)).
+
+This chapter structure not only outlines a comprehensive framework but also encourages readers to build their own **[🪜 Knowledge-Action Scaffolding](00-03-notes-constructive_fill-in.en.qmd)**, systematically generating essential **Verb-Noun** combinations via the author's novel taxonomy [Note @nte-ai-scaffolding].
+
+## 🧭 «The Appendix Triad»: An Agent-Neutral Epistemic and Action Framework
+
+This book utilizes three mutually echoing appendices—💪 [Action](appendix-action.en.qmd), 🧠 [Mind](appendix-brain.en.qmd), and 🪜 [Capacity](appendix-cognitive_capacity.en.qmd)—to unpack "what to know" from "how to decide and act", before recombining them for practical execution. This taxonomy deliberately refrains from presupposing priority between "humans" or "machines": each appendix outlines parallel versivons for both human and AI agents, allowing readers to choose any entry point.
+
+* First ask "**What is worth knowing?**"—See 🧠 *Mind*: ⟨The Tripartite Mind⟩ and the Concentric Circles of Nouns.
+* Next ask "**How to act once known?**"—See 💪 *Action*: Verb Syntax and the AQAL Quadrants.
+* Finally ask "**How to converge options into choices?**"—See 🪜 *Capacity*: The Double Diamond Model and Constructive Scaffolding.
+
+::: {.callout-note title="🎓 For Academic & Rigorous Readers: Tripartite Division of Ontology, Epistemology, and Methodology" collapse=true}
+
+In academic terms, «The Appendix Triad» roughly corresponds to **Ontology**, **Epistemology**, and **Methodology**, deliberately engineered to be **substrate-neutral**. The exact same set of categories applies simultaneously to human and machine (AI) agents, rather than centering on human cognition and extrapolating to machines secondarily.
+
+| Academic Dimension | Corresponding Appendix | Core Content |
+| :--- | :--- | :--- |
+| **Ontology** (What exists) | 🧠 *Mind* | Concentric Circles of Nouns (Core / Middle / Outer); ⟨Tripartite Mind⟩ (Reactive / Affective-Relational / Reflective-Symbolic) |
+| **Epistemology** (How we know & categorize) | 🧠 *Mind* (Primary), 💪 *Action* (Secondary) | Human vs. Machine Learning contrasts (Behaviorism / Situatedness / Connectionism); AQAL Quadrant cognitive pathways (Subjective / Objective / Intersubjective / Interobjective) |
+| **Methodology** (How we decide & act) | 💪 *Action*, 🪜 *Capacity* | Action syntax and dynamic spiral evolution across AQAL Quadrants; Double Diamond divergence and convergence («Options» → «Choices») |
+
+Thus, the three appendices are not isolated topics, but three complementary facets of a single **agent-neutral** framework: establishing ontology and epistemology first (Mind), unfolding the option space of action (Action), and finally converging via methodology into executable choices (Capacity). This structure underpins the book's parallel treatment of humans and machines. Readers interested in specific theoretical contexts (such as dual-process theory, triune brain theory, social brain hypothesis, or the three major AI paradigms) will find source citations and extended links within the corresponding appendix.
+
+By selectively citing foundational Eastern and Western authorities and deploying socio-technical heuristics, this substrate-neutral framework does not merely map AI’s core problematics—it actively cultivates the structural awareness required to recognize, navigate, and redesign them in real-world applications.
+
+:::
+
+Readers are encouraged to start their exploration from either of these two entry points:
+
+* [Part 2 🎏🏮](02----schools_paradigms.en.qmd) Schools & Paradigms
+* [Part 5 ☸](05----ai_orientations.en.qmd) Distinguishing the 5 AI Orientations [Tip @tip-ai-orientations]
+
+::: {#tip-book-zen .callout-tip title="Zen Poem: 🎲 The Game vs. 🏁 The Framing"}
+
+This book is titled *Framing Intelligence*, also subtitled *The Dao & Artifice of Intelligence*. Beyond emphasizing the core AI problem—[The Frame Problem](01-04-Frame_Problem.en.qmd)—it attempts a touch of Zen philosophy to illuminate the game-theoretic dilemma of contemporary AI:
+
+- 🏆 **"Within the game, victory and defeat feel real"** ~ Inside the play, win and loss are palpable, yet remain relative phenomena.
+- 🧭 **"Contemplating the frame, true composure is revealed"** ~ Transcending game boundaries to observe the whole (framing) brings genuine grounding.
+- ❤️ **"When the mind chases the game, it stays trapped within it"** ~ Fixating on outcome binds the mind to the rules of play.
+- 🪷 **"When wisdom observes the frame, its intent is to break it"** ~ Seeing the totality reveals the frame's existence and purpose, opening paths to new horizons.
+- ⚡ **"Breaking the frame is not destruction, but revealing truth beyond"** ~ Shattering a rigid game shouldn't destroy, but uncover grounded reality outside.
+- 🏯 **"Establishing a frame is not attachment, but nurturing good within"** ~ Building a new boundary shouldn't constrain, but create space for truth, goodness, and beauty.
+- 🌑 **"Knowing only how to break leads into void"** ~ Destruction without construction devolves into nihilism.
+- 🌞 **"Mastering both breaking and building fulfills grand purpose"** ~ Balancing critique with creation brings complete fulfillment.
+
+🎲🏁
+:::
+
+*** 
+
+## ✨ Key Features of This Book {#sec-book-features}
+
+The primary features of this book include:
+
+1. **A Knowledge Framework Focused on Perspective**: Starting with "investigating things to extend intelligence" (格物致智), using 66 key terms to build a rich knowledge-action scaffolding that directly addresses core **problematics** (e.g., Symbol Grounding Problem, Frame Problem, and Language Games), facilitating systematic mastery of various schools, analytic forms, and underlying ways of thinking ("Dao"), so as to communicate and develop ideas effectively across knowledge fields.
+2. **Grounded Application Logic**: Aiming to "extend intelligence" through actionable application paths, incorporating emerging subjects like `Game-Theoretic AI`, `Embodied AI`, `AI Mathematics`, and `AI Engineering` to creatively assimilate diverse developmental trajectories into practical usage.
+3. **Reinterpreting Classical Concepts**: Connecting classic knowledge points with modern topics like `Large Language Models (LLMs)` under the new idiom "investigating things to extend intelligence", constructing a self-improving, expandable **knowledge-action scaffolding**.
+4. **Integrating Science & Game Theory**: Introducing concepts like `Gestalt Psychology` and `Language Games` to present the author's `evolutionary` and `game-theoretic` perspectives on "investigating things to extend intelligence", emphasizing a systems science view from human language to AI technology.
+5. **The Dual Dynamics of Dao & Artifice**: Utilizing the pun of "Dao" (righteous principles) and "Artifice" (cunning tactics) to highlight intelligence's dual nature of competition and cooperation in human society. Examining practices from "divining with oracle bones" to "seeking a hug from ChatGPT" through evolutionary and game-theoretic lenses: knowledge creates rules, but it can also challenge them.
+6. **Respecting Authority Without Blind Following**: Striking a balance between **humility** and **conviction**, citing classic and contemporary authorities from both Western and Eastern traditions for comprehensive understanding. Quotation does not imply blind adherence—the goal is to help readers grasp the full picture while retaining room to form their own judgment and framework.
+
+As this handbook accompanies readers through understanding AI's varied `problematics` and `solutions`, it aspires to empower readers to embark on their own journey of **practice** and **design** rooted in systematic comprehension.
+
+## 📐 Mathematics & Code
+
+This handbook provides basic mathematical definitions and code snippets, allowing readers without technical backgrounds to grasp the underlying mechanics through plain-text explanations before pursuing deeper study according to their needs.
+
+### 🧮 Mathematical Examples
+
+This book includes concise mathematical formulas primarily for illustrative purposes, requiring no advanced mathematical background. For example, consider the mathematical definition of Nash Equilibrium below:
+
+$$u_i(s_i^*, s_{-i}^*) \;\geq\; u_i(s_i, s_{-i}^*)  \quad \forall i \in N, \; \forall s_i \in S_i$$
+
+Designed as a popular science reference, the mathematical formulas in this book aim to lower the threshold for conceptual understanding.
+
+### 🛠 Python Examples
+
+This book contains minimal code snippets to demonstrate how core concepts are implemented in practice and to illustrate available choices.
+
+For example, the code below demonstrates how context engineering achieves **factual disambiguation** and **world grounding**, showing how MCP tools complement LLMs while offering flexibility across different LLM providers:
+
+```python
+# World Grounding Example: Preventing LLM hallucinations in ambiguous queries like "Georgia".
+
+from langchain_community.chat_models import ChatOllama
+from langchain_mcp_adapters import initialize_agent_executor_with_mcp
+
+# 1. Define LLM Source
+llm = ChatOllama(model="qwen2.5:1.5b", temperature=0)   # Local Qwen model via Ollama
+# llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)  # Cloud-based GPT-4o-mini
+# llm = ChatOllama(model="claude3-haiku", temperature=0) # Local Claude small model via Ollama
+# llm = ChatOllama(model="llama3.2:3b", temperature=0)   # Local Llama3.2 small model via Ollama
+
+# 2. Register MCP Server (e.g., Country Lookup)
+mcp_servers = {
+    "country_lookup": {
+        "command": "python",
+        "args": ["./mcp_server_country.py"],  # MCP server providing ISO country codes
+        "transport": "stdio",
+    }
+}
+
+# 3. Initialize Agent Executor
+executor = initialize_agent_executor_with_mcp(
+    llm=llm,
+    mcp_servers=mcp_servers,
+)
+
+# 4. Disambiguation Query requiring entity grounding
+result = executor.invoke({"input": "Disambiguate Georgia and provide candidate ISO country codes."})
+print(result)
+```
+
+::: {.callout-warning #nte--ed-index title="✎ Editorial Notes" collapse=true open=false}
+- [ ] **Fact-check** sentence by sentence
+- [ ] Review **logical flow**
+- [ ] Ensure **concise, accessible** prose style
+- [ ] Check **internal links**: confirm all relevant entries are linked
+- [ ] Check **external links**: confirm all relevant entries are linked
+:::
+
+
+## 📌 Notes
+
+[^66]: A tribute to Japanese AI writer **Youichiro Miyake**'s book of 68 core concepts [@MiyakeYouichiro2017-68-concepts-AI].

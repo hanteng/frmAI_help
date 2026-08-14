@@ -90,4 +90,4 @@
 		* 🧠 [心智能力](00-03-notes-constructive_fill-in.qmd) 🐸🐘🧘
 		* 🧠🧞‍♀️ [〜語言賽局腦補機](00-02-notes-mental_fill-in.qmd)
 		* 🪜👨‍👩‍👧‍👦 〜家長篇~傳承 appendix-cognitive_capacity.qmd#parents
-		* 🪜🧘 〜自學篇~紥根 appendix-cognitive_capacity.qmd#learners
+		* 🪜🧘 〜自學篇~紮根 appendix-cognitive_capacity.qmd#learners
