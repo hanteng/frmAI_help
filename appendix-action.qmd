@@ -19,17 +19,19 @@ tags:
 - [ ] 檢查**外部連結**：所有相關條目是否已連結
 - [ ] 確認導航區塊：.callout-tip .callout-imp .callout-nte .callout-warning
 :::
-# 💪行動：動❝腦補❞  {.appendix #app-action}
+# 💪行動：«響» 行動協奏 {.appendix #app-action}
 
+::: {.small}
 > 「知而**不行**，是為**不知**。」 ~王陽明《傳習錄》
 > 
 > 「天**行健**，君子以**自強不息**。」~《周易·乾卦·象傳》
+:::
 
 本篇附錄集《💪行動》專注於智能**動詞**«選項»，旨在如何**拆解並整合**各類行動，以融入具體**智能**。可以說，這些**動詞**«選項»構成了我們理解「智能行動」的字典，理解自身與世界的「**動詞化**實踐」。
 
 本書 «附錄三連» 「**行動**~心智~能力」是原創的**隱喻**，融合 **AI 工程** 及 **發展心理學** 的一套實踐及教育流程工具，主要價值在**跨領域轉化**，把 AI 技術知識點轉化為創新及教育的「補全」實踐。
 
-::: {.callout-tip #tip-action-orchestration title="💪行動 小貼士：«附錄三連»「**行動**~心智~能力」" collapse=false open=false }
+::: {.callout-tip #tip-action-orchestration title="💪行動 小貼士：«附錄三連»「**行動**~心智~能力」" collapse=false open=true }
 
 - ➜《💪行動》：聚焦 **動詞** 的「行動協奏」
 	- 〜 動態編排 **人與 AI** ❝腦補❞ 行動的能力
@@ -56,6 +58,19 @@ tags:
 它們是人類學習的**實踐詞**、人工智慧的**操作詞**，更是**人機共構未來**的**協作詞**。
 
 下篇《🧠[心智](appendix-brain.qmd)》描述的**名詞**«選項»，是接續本篇的**動詞**«選項»。
+
+::: {.callout-note #nte-action-taxonomy-map title="🗺️ 本章核心概念導覽 (Core Taxonomy)" collapse=true}
+1. **分類層 (Taxonomy)**：
+   - **🏄🏼動詞«選項»10類**：本篇整合的十大動詞分類，涵蓋人類與機器行動的基本詞彙，詳見 [@sec-verbs-in-world]。
+   - **⟨布魯姆6類⟩**：認知教育學的六層次動詞分類法，回答「**如何學習**」，詳見 [@sec-blooms-taxonomy]。
+
+2. **脈絡層 (Context)**：
+   - **⟨全宇層8類⟩ / AQAL 四象限**：回答「**在何種世界與情境脈絡下**」行動，涵蓋主體、客體、主體間、客體間四大面向，詳見 [@sec-aqal-8-taxonomy]。
+   - **AQAL 9 類**：進一步結合生命歷程與人口結構的動態演化視角，詳見 [@sec-aqal-9-taxonomy]。
+
+3. **編排層 (Orchestration)**：
+   - **💪AI 行動主客體**：將上述分類應用於 AI 系統的動態模型編排、自主目標設定與人機協作管線，詳見 [@sec-action-orchestration]。
+:::
 
 ## 💛實踐行動的編排🧱 {#sec-verbs-in-world}
 
