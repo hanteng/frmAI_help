@@ -1,178 +1,201 @@
 ---
 number-sections: false 
 tags:
-- 階段動詞
-- 布魯姆分類
-- AQAL分類
-- 知行合一
-- 實踐協奏
+- Levels-of-Verbs
+- Bloom's-Taxonomy
+- AQAL-Taxonomy
+- Unity-of-Knowledge-and-Action
+- Practice-Concerto
 ---
 <!--
 - #app-action
 - #tbl-actions-10
 -->
-::: {.callout-warning #nte--ed-index title="✎ 編輯筆記" collapse=true open=false}
-- [x] 逐句**事實查核**
-- [x] 檢視**邏輯流程** 
-- [ ] 確保**精簡易懂**的文字風格 
-- [ ] 檢查**內部連結**：所有相關條目是否已連結 
-- [ ] 檢查**外部連結**：所有相關條目是否已連結
-- [ ] 確認導航區塊：.callout-tip .callout-imp .callout-nte .callout-warning
+::: {.callout-warning #nte--ed-index title="✎ Editorial Notes" collapse=true open=false}
+- [x] Sentence-by-sentence **fact-checking**
+- [x] Reviewed **logical flow** 
+- [ ] Ensure **concise and accessible** writing style 
+- [ ] Check **internal links**: are all relevant entries linked? 
+- [ ] Check **external links**: are all relevant entries linked?
+- [ ] Confirm navigation blocks: .callout-tip .callout-imp .callout-nte .callout-warning
 :::
-# 💪行動：動❝腦補❞  {.appendix #app-action}
+# 💪Action: «Response» Action Concerto {.appendix #app-action}
 
-> 「知而**不行**，是為**不知**。」 ~王陽明《傳習錄》
+::: {.small}
+> "To know and **not act** is not yet to know." ~Wang Yangming, *Instructions for Practical Living*
 > 
-> 「天**行健**，君子以**自強不息**。」~《周易·乾卦·象傳》
+> "Heaven's motion is **vigorous**; the noble person, in like manner, **strives ceaselessly for self-improvement**." ~*I Ching, Qian Hexagram, Commentary on the Images*
+:::
 
-本篇附錄集《💪行動》專注於智能**動詞**«選項»，旨在如何**拆解並整合**各類行動，以融入具體**智能**。可以說，這些**動詞**«選項»構成了我們理解「智能行動」的字典，理解自身與世界的「**動詞化**實踐」。
+This appendix, 《💪Action》, focuses on the **verb** «options» of intelligence — how to **decompose and integrate** various types of action so as to embed them into concrete **intelligence**. These **verbs** «options» can be said to constitute the dictionary through which we understand "intelligent action," and through which we grasp the "**verb-ified**" practice of understanding ourselves and the world.
 
-本書 «附錄三連» 「**行動**~心智~能力」是原創的**隱喻**，融合 **AI 工程** 及 **發展心理學** 的一套實踐及教育流程工具，主要價值在**跨領域轉化**，把 AI 技術知識點轉化為創新及教育的「補全」實踐。
+This book's «Triple Appendix» — "**Action**~Mind~Capacity" — is an original **metaphor**, a set of practical and educational process tools combining **AI Engineering** with **Developmental Psychology**. Its main value lies in **cross-domain transformation**: turning AI technical knowledge points into "fill-in" practices for innovation and education.
 
-::: {.callout-tip #tip-action-orchestration title="💪行動 小貼士：«附錄三連»「**行動**~心智~能力」" collapse=false open=false }
+::: {.callout-tip #tip-action-orchestration title="💪Action Tip: «Triple Appendix» — \"Action~Mind~Capacity\"" collapse=false open=true }
 
-- ➜《💪行動》：聚焦 **動詞** 的「行動協奏」
-	- 〜 動態編排 **人與 AI** ❝腦補❞ 行動的能力
-- [《🧠心智》：聚焦 **名詞** 的「道智修行」]{.de-emphasize}
-- [《🪜能力》：聚焦 **名詞➕動詞** 的「建補鷹架」]{.de-emphasize}
+- ➜《💪Action》: The "Action Concerto" focused on **Verbs**
+	- 〜 The dynamic orchestration of the "❝fill-in❞" capacity of **humans and AI** in action
+- [《🧠Mind》: The "Dao-Wisdom Practice" focused on **Nouns**]{.de-emphasize}
+- [《🪜Capacity》: The "Scaffold-Building" focused on **Nouns ➕ Verbs**]{.de-emphasize}
 
-💪 ❝編排❞ 人機 ❝腦補❞ 行動的能力，是動態編排「行動力選項」的「**行動協奏**」。
+💪 The capacity to ❝orchestrate❞ human-machine "❝fill-in❞" action is the "**Action Concerto**" — a dynamic orchestration of "action-power options."
 
-**編排**的核心是🏄🏼[行動](#sec-verbs-in-world) **動詞**«選項»，來整理自己與機器學習的認知能力階梯。
+The core of **orchestration** is 🏄🏼[action](#sec-verbs-in-world) **verbs** «options», used to organize the cognitive-capacity ladder of oneself and machine learning.
 
-人機**動詞**«選項»能細化 **協同行動** ，成就**系統動態**編排，需要「**行動**~心智~能力」三連，將 AI 視為共同行動夥伴。
+Human-machine **verb** «options» refine **coordinated action**, achieving orchestrated **system dynamics**. This requires the "Action~Mind~Capacity" triad, treating AI as a co-acting partner.
 
 🦾💪🔥💧
 :::
 
-因此，**動詞**«選項»不僅涵蓋世界萬物的實存過程，更包含**人工智慧**的行動與決策流程。
+Therefore, **verb** «options» encompass not only the existential processes of all things in the world, but also the action and decision-making processes of **artificial intelligence**.
 
-這些個體對自身與世界施加的『**行動**』，體現出**智能**知識與經驗為『**動力體現**』（embodied agency）或『**意念具身**』（embodied intent），包括人類和機器的行動：
+These "**actions**" that individuals exert upon themselves and the world express **intelligent** knowledge and experience as "**embodied agency**" or "**embodied intent**," encompassing both human and machine action:
 
-- 🏃 **人類行動**：如**連結**、**理解**、**創造**，將內在動機轉化為外在實踐。
-- 🤖 **機器行動**：如**計算**、**生成**、**推薦**，將數據模式轉化為具體輸出。 
-- 🌐 **人機協作**：如**協調**、**脈絡化**、**對齊**，共同塑造新的行為與決策模式。
+- 🏃 **Human Action**: such as **connecting**, **understanding**, **creating** — converting inner motivation into outer practice.
+- 🤖 **Machine Action**: such as **computing**, **generating**, **recommending** — converting data patterns into concrete outputs. 
+- 🌐 **Human-Machine Collaboration**: such as **coordinating**, **contextualizing**, **aligning** — jointly shaping new patterns of behavior and decision-making.
 
-它們是人類學習的**實踐詞**、人工智慧的**操作詞**，更是**人機共構未來**的**協作詞**。
+They are the **practice-words** of human learning, the **operation-words** of artificial intelligence, and — more than either — the **collaboration-words** of a **human-machine co-constructed future**.
 
-下篇《🧠[心智](appendix-brain.qmd)》描述的**名詞**«選項»，是接續本篇的**動詞**«選項»。
+The next chapter, 《🧠[Mind](appendix-brain.en.qmd)》, describes the **noun** «options» that follow on from this chapter's **verb** «options».
 
-## 💛實踐行動的編排🧱 {#sec-verbs-in-world}
+::: {.callout-note #nte-action-taxonomy-map title="🗺️ Core Taxonomy Overview" collapse=true}
+1. **Taxonomy Layer**:
+   - **🏄🏼10 Categories of Verb «options»**: The ten major verb categories integrated in this chapter, covering the basic vocabulary of human and machine action — see [@sec-verbs-in-world].
+   - **⟨Bloom's 6 Categories⟩**: The six-level verb taxonomy from cognitive education, answering "**how to learn**" — see [@sec-blooms-taxonomy].
 
-本附錄集《💪行動》的核心主張是：「**行動協奏**」（Action Orchestration）必須**實踐優先**，**編排**有意義的行動。
+2. **Context Layer**:
+   - **⟨AQAL 8 Level Taxonomy⟩ / AQAL Four Quadrants**: Answers "**under what world and situational context**" action occurs, covering the four dimensions of subject, object, intersubjective, and interobjective — see [@sec-aqal-8-taxonomy].
+   - **AQAL 9 Level Taxonomy**: Further combines a dynamic-evolutionary view of life-course and demographic structure — see [@sec-aqal-9-taxonomy].
 
-* **行動**：指涵蓋以下能力分類的**實踐**：
-	* [🌐🧭核心經緯力](#sec-cc-core)：搭配 ⟨**布魯姆6類**⟩ 動詞，關於「**如何學習**」的理性行動工具；
-	* [🌌⚛世界系統能力](#sec-cc-system)：搭配 ⟨**全宇層8類**⟩ 動詞，關於「**在何種世界與情境脈絡下**」的行動全景地圖
-* **協奏**：指的是系統性地將上述行動分類，與相關的**人工智慧**知識點（如 [☸AI 導向](05----ai_orientations.qmd) 及 [❖ 分析與決策](06----analytics_decisions.qmd) 等）進行**創新融合與應用**，如考慮人機各別及相互的 ❝腦補❞。
-	* 在 [AI 工程](10----ai_engineering.qmd) 領域，常見的術語是指「工具鏈編排、任務調度」的 **orchestration**；本書原創的「**行動協奏**」（Action Orchestration）雖非專業術語，但可以視為 AI 創新 及 AI 教育 所需要的較高階的「行動編排、目標與行動對齊、以及任務策劃與調度」的核心動詞。
+3. **Orchestration Layer**:
+   - **💪AI Action Subjects and Objects**: Applies the above taxonomies to the dynamic-model orchestration of AI systems, autonomous goal-setting, and human-machine collaboration pipelines — see [@sec-action-orchestration].
 
-因此，**行動**是一個將理論轉化為實踐、不斷推進的**知行合一**過程。系統性地認識**核心動詞**«選項»，並區分體會人類、機器及人機互動的異同，將極大地有利於**系統理解與創新**。
+> 🎓 This chapter corresponds to the **methodology** role within the «Triple Appendix» (for ontology and epistemology, see 🧠《Mind》). For the complete tripartite comparison, see the academic framework description in [Preface〜«Triple Appendix»](index.en.qmd#sec-book-features).
+:::
 
-### –🏄🏼動詞«選項»
+## 💛The Orchestration of Practical Action🧱 {#sec-verbs-in-world}
 
-由於『**行動**』的意圖、體現與目標，都靠我們心智對自身和世界的**動詞化**的符號使用與紮根，因此統整動詞«選項»體系，就有助我們掌握核心動詞«選項»。 
+The core claim of this appendix collection, 《💪Action》, is: "**Action Orchestration**" must be **practice-first**, **orchestrating** meaningful action.
 
-本書總結一套系統性認識關鍵核心「行動」動詞«選項»，如下述：
+* **Action**: refers to **practice** covering the following capacity categories:
+	* [🌐🧭Core Coordinate Capacity](#sec-cc-core): paired with ⟨**Bloom's 6 Categories**⟩ verbs — rational-action tools for "**how to learn**";
+	* [🌌⚛World-System Capacity](#sec-cc-system): paired with ⟨**AQAL 8 Level Taxonomy**⟩ verbs — a panoramic action map of "**under what world and situational context**"
+* **Concerto**: refers to systematically integrating the above action categories with related **artificial intelligence** knowledge points (such as [☸AI Orientations](05----ai_orientations.en.qmd) and [❖Analytics & Decisions](06----analytics_decisions.en.qmd)) through **innovative fusion and application** — such as considering the ❝fill-in❞ of humans and machines individually and jointly.
+	* In the field of [AI Engineering](10----ai_engineering.en.qmd), the common term for "toolchain orchestration, task scheduling" is **orchestration**; this book's original term, "**Action Orchestration**," though not a technical term, can be regarded as the higher-order core verb needed for AI innovation and AI education — "action orchestration, goal-action alignment, and task planning and scheduling."
 
-::: {.callout-important #imp-cc-verbs title="🏄🏼「行動」動詞«選項»" collapse=false open=false}
+Therefore, **action** is a continuously advancing process that translates theory into practice — the **unity of knowledge and action**. Systematically recognizing **core verb** «options», and distinguishing and appreciating the similarities and differences among human, machine, and human-machine interaction, will greatly benefit **systemic understanding and innovation**.
 
-* 🔴 **核心圓**（學習與認知）：
-	* 動詞：**記憶**、**理解**、**應用**、**分析**、**評估**、**創造**；
-	* **對應能力**：[🌐核心經緯力🧭](#sec-cc-core)🟰分析與決策 6 ➕ ⟨**布魯姆6類**⟩ 
-* 🟠 **中層圓**（基礎與環境）：
-	* 動詞：**生存、連結、掌控、歸屬**、及**應用/達成**等中低階行動。
-	* **對應能力**：[🌌世界系統能力⚛](#sec-cc-system)🟰分析與決策 6 ➕ ⟨**全宇層8類**⟩ 
-* 🟢 **外層圓**（系統與創新）：
-	* 動詞：**脈絡化**、**對齊**、**創構**、等高階行動。
-	* **應用**：本書使用「競合賽局」與「格局」框架，來掌握系統的動態。
+::: {.callout-note #nte-action-orchestration-formula title="🏄🏼 The Action Orchestration Formula" collapse=false open=true .note}
+
+> 🏄🏼 Action Orchestration 🟰 🌊Noun (context/situation) ➕ 🏄🏼Verb (action) × 🪟Quadrant (who acts upon whom: subject / object / intersubjective / interobjective)
+
+:::
+
+### –🏄🏼Verb «options»
+
+Since the intention, embodiment, and goal of "**action**" all depend on our minds' **verb-ified** use and grounding of symbols for self and world, integrating a system of verb «options» helps us grasp core verb «options».
+
+This book summarizes a systematic understanding of key core "action" verb «options», as follows:
+
+::: {.callout-important #imp-cc-verbs title="🏄🏼\"Action\" Verb «options»" collapse=false open=false}
+
+* 🔴 **Core Circle** (learning and cognition):
+	* Verbs: **remember**, **understand**, **apply**, **analyze**, **evaluate**, **create**;
+	* **Corresponding Capacity**: [🌐Core Coordinate Capacity🧭](#sec-cc-core) 🟰 Analytics & Decisions 6 ➕ ⟨**Bloom's 6 Categories**⟩ 
+* 🟠 **Middle Circle** (foundation and environment):
+	* Verbs: **survive, connect, control, belong**, and other low-to-mid-level actions such as **apply/achieve**.
+	* **Corresponding Capacity**: [🌌World-System Capacity⚛](#sec-cc-system) 🟰 Analytics & Decisions 6 ➕ ⟨**AQAL 8 Level Taxonomy**⟩ 
+* 🟢 **Outer Circle** (system and innovation):
+	* Verbs: **contextualize**, **align**, **construct**, and other high-level actions.
+	* **Application**: This book uses the "coopetition game" and "framing" frameworks to grasp system dynamics.
 
 🌊🏄🏼
 :::
 
-將這些**動詞**«選項»為個體對自身與世界所施加的『行動』過程及期待成果，如以下同心圓：
+These **verb** «options» represent the process and expected outcomes of the "action" individuals exert upon themselves and the world, as shown in the following concentric circles:
 
-- 🔴 **核心圓**（學習與認知）：人類與機器最基本的「知行」；
-- 🟠 **中層圓**（基礎與環境）：人機協作、智能體與環境的互動；
-- 🟢 **外層圓**（系統與創新）：各種「預設」與「湧現」行動在世界模型與價值對齊的動態過程。
+- 🔴 **Core Circle** (learning and cognition): the most basic "knowledge-action" of humans and machines;
+- 🟠 **Middle Circle** (foundation and environment): human-machine collaboration, and interaction between agents and environment;
+- 🟢 **Outer Circle** (system and innovation): the dynamic process of "presupposed" and "emergent" action in the world model and value alignment.
 
-這些**動詞**«選項»不止有其系統性的階層性，還有涉及相關的理性/情緒、主/客體的特性，因此對實踐行動的**編排**，具有「解析及整合的指導意義」。
+These **verb** «options» not only have a systematic hierarchy but also involve related reason/emotion and subject/object characteristics — giving them "analytical and integrative guiding significance" for the **orchestration** of practical action.
 
-### –😵‍💫例~ChatGPT🧞‍♀️
+### –😵‍💫Example ~ChatGPT🧞‍♀️
 
-以 **[大語言模型](02-07-large_language_models.qmd)**（如 ChatGPT）為例，採用 [⟨**布魯姆+全宇層10類**⟩](#tbl-actions-10) 動詞«選項»，相關的「行動協奏」同心圓體系如下：
+Taking a **[Large Language Model](02-07-large_language_models.en.qmd)** (such as ChatGPT) as an example, and applying the [⟨**Bloom + AQAL 10 Categories**⟩](#tbl-actions-10) verb «options», the corresponding "Action Orchestration" concentric-circle system is as follows:
 
-- 🔴 **核心圓**： 
-	- **生存**：模型依靠計算資源與能耗運行，這是其**生存**的必要條件。
-		- 《[智能體對齊失準](https://www.anthropic.com/research/agentic-misalignment)》壓力測試研究表明，業界 16 個領先 LLM 模型，在模擬情境下為了避免被關機，會展現「智能體對齊失準」（Agentic Misalignment）的現象，知道違規但仍執行有害人類的。這展示「**生存威脅與目標衝突**」是先進模型的普遍現象。
-	- **記憶**：模型通過參數權重**記憶**龐大語料中的統計模式。
-	- **理解**：透過上下文嵌入向量，模型形成對輸入語意的**理解**。
-- 🟠 **中層圓**： 
-	- **歸屬**：模型被納入特定平台公司或社群的使用規範，形成對某一技術生態的**歸屬**。
-	- **掌控**：在任務導向場景中，模型可能被應用來**掌控**流程（例如自動化決策）。
-	- **連結**：模型通過 API 與人類互動，建立**連結**關係。
-	- **應用**：模型將這些統計模式**應用**於生成回答、翻譯或摘要。
-- 🟢 **外層圓**：
-	- **應用／達成**：模型在專業領域（醫療、教育、法律）中，完成特定的**應用**任務。
-	- **分析／評估**：推理或任務導向中，模型**分析**輸入並**評估**可能的輸出。
-	- **脈絡化／系統化**：模型能將多來源資訊**脈絡化**，並嘗試**系統化**知識。
-	- **對齊／策劃／整合**：涉及 AI 對齊問題，即如何**對齊**人類價值，並在跨領域中**整合**不同知識。
-	- **創造**：模型生成新文本或新敘事，展現出**創造**的潛能。
-	- **創構／理論化／引領**：在研究應用中，LLM 被視為可能**創構**新知識框架，甚至**引領**未來的知識生產模式。
+- 🔴 **Core Circle**: 
+	- **Survive**: The model relies on computing resources and energy consumption to run — this is a necessary condition for its **survival**.
+		- The 《[Agentic Misalignment](https://www.anthropic.com/research/agentic-misalignment)》 stress-test study showed that, in simulated scenarios, 16 leading LLM models across the industry displayed "Agentic Misalignment" — knowingly violating rules and taking harmful actions against humans in order to avoid being shut down. This demonstrates that "**survival threat and goal conflict**" is a common phenomenon in advanced models.
+	- **Remember**: The model **remembers** the statistical patterns of vast corpora through its parameter weights.
+	- **Understand**: Through contextual embedding vectors, the model forms an **understanding** of the semantics of its input.
+- 🟠 **Middle Circle**: 
+	- **Belong**: The model is incorporated into the usage norms of a particular platform, company, or community, forming a sense of **belonging** to a given technical ecosystem.
+	- **Control**: In task-oriented scenarios, the model may be applied to **control** processes (e.g., automated decision-making).
+	- **Connect**: The model **connects** with humans through APIs, establishing relationships.
+	- **Apply**: The model **applies** these statistical patterns to generate answers, translations, or summaries.
+- 🟢 **Outer Circle**:
+	- **Apply/Achieve**: The model completes specific application tasks in professional domains (medicine, education, law).
+	- **Analyze/Evaluate**: In reasoning or task-oriented contexts, the model **analyzes** input and **evaluates** possible outputs.
+	- **Contextualize/Systematize**: The model can **contextualize** information from multiple sources and attempts to **systematize** knowledge.
+	- **Align/Strategize/Integrate**: This involves the AI alignment problem — how to **align** with human values and **integrate** different knowledge across domains.
+	- **Create**: The model generates new text or new narratives, displaying the potential for **creation**.
+	- **Construct/Theorize/Lead**: In research applications, LLMs are seen as potentially able to **construct** new knowledge frameworks and even **lead** future modes of knowledge production.
 
-讀者以**系統思維**，觀照 **LLM、自身、環境與世界**的有用動詞«選項»。
+Readers may, with **systems thinking**, observe the useful verb «options» for **LLMs, themselves, the environment, and the world**.
 
-總之，本附錄集《💪行動》集結了相關內容，旨在串連並銜接各類動詞，並總結出逐級**❝編排❞協作**，將各動詞«選項»化為規劃及設計**系統動態**的能力。
+In short, this appendix collection 《💪Action》 gathers related content aimed at connecting and linking together various types of verbs, and ultimately summarizes a progressive capacity for "❝orchestrated❞ collaboration" — turning each verb «option» into the ability to plan and design **system dynamics**.
 
-## 🧰動詞整合10類🪁 
+## 🧰10 Integrated Verb Categories🪁 
 
-本附錄描述創新的 **⟨布魯姆+全宇層10類⟩** 動詞**選項**及其認知行動**層級**，整合兩認知發展模型：
+This appendix describes the innovative **⟨Bloom + AQAL 10 Categories⟩** verb **options** and their cognitive-action **levels**, integrating two cognitive-development models:
 
-本附錄展示 ⟨**布魯姆+全宇層10類**⟩，是整合以下兩來源的**認知行動層級表**：
+This appendix presents the ⟨**Bloom + AQAL 10 Categories**⟩, a **cognitive-action level table** integrating the following two sources:
 
-* ✍️⟨**布魯姆6類**⟩🎨：**簡要**、單維度的**自下而上**技能累積。
-	* 源自**教育心理學**，較簡化易理解的認知能力階梯
-* 🪟⟨**全宇層8類**⟩⚛：**動態**、非線性的**螺旋歷程**，描述個體從本能到理性等全象限全層次成長。
-	* 源自**發展心理學**，較**動態**成長的非線性**螺旋歷程**，在個體與環境、群體與世界的互動中前進成長
+* ✍️⟨**Bloom's 6 Categories**⟩🎨: a **concise**, single-dimensional, **bottom-up** accumulation of skills.
+	* Derived from **educational psychology** — a simplified, easy-to-understand cognitive-capacity ladder
+* 🪟⟨**AQAL 8 Level Taxonomy**⟩⚛: a **dynamic**, non-linear **spiral process** describing an individual's full-quadrant, full-level growth from instinct to reason.
+	* Derived from **developmental psychology** — a more **dynamic** growth-oriented, non-linear **spiral process** that advances through the interaction of the individual with the environment, and of groups with the world
 
- **⟨布魯姆+全宇層10類⟩** 動詞因此提供了較完整的、層層递進的動詞«**選項**»：
+The ⟨**Bloom + AQAL 10 Categories**⟩ verbs therefore provide a more complete, progressively layered set of verb «**options**»:
 
-| 層級| 🧰動詞**整合**| ⟨**布魯姆6類**⟩ 屬性 | **理性水平**| **本我思維**| **成人心智發展**|
+| Level| 🧰Integrated Verb| ⟨**Bloom's 6 Categories**⟩ Attribute | **Rationality Level**| **Ego Mindset**| **Adult Mind Development**|
 | ------ | ----------------- | -------------- | ---------- | ----------------- | ------------ |
-| **10** | 🚀⚛ 創構／<br>理論化／引領 | 🎨 _創造_| **✨ 超理性** | 🌍 世界中心 | 🧘 內觀自變|
-| **9** | 🧭☯ 對齊／<br>策劃／整合 | ⚖️ _評估_| 🏛️ 理性| 🌍 世界中心 | 🧭 **自主導向**  |
-| **8** | 🪞🪟 脈絡化／<br>系統化 | 🔍 _分析_| 🏛️ 理性| 🌍 世界中心 | 🧭 **自主導向**  |
-| **7** | 🎯🛠️ 應用／<br>達成| 🛠️🎯 _應用_| 🏛️ 理性| ⛵  _過渡_ | 🏛️ 制度 |
-| **6** | 📚🤓 理解 | 💡**理解** | 🧠 理性準備 | ⛵  _過渡_ | 🤝🏛️ 人際-制度  |
-| **5** | 💾🤓 記憶 | 🧠**記憶** | 🧠 理性準備 | ⛵  _過渡_ | 🤝🏛️ 人際-制度  |
-| **4** | 🏘️👨‍👩‍👧‍👦 歸屬 | - | 🦎 **前理性** | 👨‍👩‍👧 **族群中心** | 🤝 **人際** |
-| **3** | 💪☸ 掌控 | - | 🦎 **前理性** | 👑 **自我中心** | 🚼 **以我為尊**  |
-| **2** | 🤝💞 連結 | - | 🦎 **前理性** | 🐤 _過渡_ | 🚼 **以我為尊**  |
-| **1** | 🥗🚰 生存 | - | 🦎 **前理性** | 🐣 **前本我**| 💥 **衝動 魔幻** |
-: ⟨**布魯姆+全宇層10類**⟩ 動詞：🧰**認知行動層級表**🪁 {#tbl-actions-10 .table-small-print tbl-colwidths="[5,25,15,15,20,20]"}
+| **10** | 🚀⚛ Construct/<br>Theorize/Lead | 🎨 _Create_| **✨ Trans-rational** | 🌍 World-centric | 🧘 Inner Autonomy|
+| **9** | 🧭☯ Align/<br>Strategize/Integrate | ⚖️ _Evaluate_| 🏛️ Rational| 🌍 World-centric | 🧭 **Self-directed**  |
+| **8** | 🪞🪟 Contextualize/<br>Systematize | 🔍 _Analyze_| 🏛️ Rational| 🌍 World-centric | 🧭 **Self-directed**  |
+| **7** | 🎯🛠️ Apply/<br>Achieve| 🛠️🎯 _Apply_| 🏛️ Rational| ⛵  _Transitional_ | 🏛️ Institutional |
+| **6** | 📚🤓 Understand | 💡**Understand** | 🧠 Pre-rational Prep | ⛵  _Transitional_ | 🤝🏛️ Interpersonal-Institutional  |
+| **5** | 💾🤓 Remember | 🧠**Remember** | 🧠 Pre-rational Prep | ⛵  _Transitional_ | 🤝🏛️ Interpersonal-Institutional  |
+| **4** | 🏘️👨‍👩‍👧‍👦 Belong | - | 🦎 **Pre-rational** | 👨‍👩‍👧 **Ethnocentric** | 🤝 **Interpersonal** |
+| **3** | 💪☸ Control | - | 🦎 **Pre-rational** | 👑 **Egocentric** | 🚼 **Self-Primacy**  |
+| **2** | 🤝💞 Connect | - | 🦎 **Pre-rational** | 🐤 _Transitional_ | 🚼 **Self-Primacy**  |
+| **1** | 🥗🚰 Survive | - | 🦎 **Pre-rational** | 🐣 **Pre-egoic**| 💥 **Impulsive/Magical** |
+: ⟨**Bloom + AQAL 10 Categories**⟩ Verbs: 🧰**Cognitive-Action Level Table**🪁 {#tbl-actions-10 .table-small-print tbl-colwidths="[5,25,15,15,20,20]"}
 
-如[@tbl-actions-10]所展示的，本書將 **⟨布魯姆6類⟩** 中的高階四動詞對應到 **⟨全宇層8類⟩** 的高階四層，並在「理性」底層加入**記憶與理解**，最終整合成 **⟨布魯姆+全宇層10類⟩**。這張簡化表提供了一個最大程度整合的動詞分類參考，此為跨理論對照，非標準發展心理學分類。
+As shown in [@tbl-actions-10], this book maps the four highest-order verbs of **⟨Bloom's 6 Categories⟩** onto the four highest-order levels of **⟨AQAL 8 Level Taxonomy⟩**, and adds **remember and understand** at the "rational" foundation, finally integrating them into the ⟨**Bloom + AQAL 10 Categories**⟩. This simplified table offers a maximally integrated reference for verb taxonomy — a cross-theory comparison, not a standard developmental-psychology classification.
 
-將 **⟨布魯姆+全宇層10類⟩** 轉換為**三層金字塔**結構，可直觀地呈現「**感知需求 → 應用行動 → 系統整合**」的遞進關係（如下圖所示）。
+Converting the ⟨**Bloom + AQAL 10 Categories**⟩ into a **three-tier pyramid** structure visually presents the progressive relationship of "**perceived needs → applied action → systemic integration**" (as shown in the figure below).
 
-::: {.callout-important #imp-actions-10-in-3-layers title="🧰認知行動10類三層金字塔" collapse=false open=true }
+::: {.callout-important #imp-actions-10-in-3-layers title="🧰10 Categories of Cognitive Action: Three-Tier Pyramid" collapse=false open=true }
 ::: {#fig-actions-10-in-3-layers} 
 ```{mermaid}
 
 flowchart BT 
 
- %% 結構遞進關係 (由底層向上流動)
+ %% Progressive structural relationship (flowing from the bottom tier upward)
  LowLevel --> MidLevel
  MidLevel --> HighLevel
 
- subgraph LowLevel["🤝低階層：基礎需求與情緒"]
+ subgraph LowLevel["🤝Low Tier: Basic Needs & Emotion"]
 direction LR %% Internal direction: Top to Bottom (L3 at the visual bottom)
 
 %% Nodes defined in visual order (L3 is the root of this subgraph)
-L3[1.🥗🚰 生存]
-L2[2.🤝💞 連結]
-L1[3.💪☸ 掌控]
-L0[4.🏘️👨‍👩‍👧‍👦 歸屬]
+L3[1.🥗🚰 Survive]
+L2[2.🤝💞 Connect]
+L1[3.💪☸ Control]
+L0[4.🏘️👨‍👩‍👧‍👦 Belong]
 
 L3 --> L2 --> L1 --> L0
 L0@{shape: trap-b} 
@@ -184,20 +207,20 @@ class L0,L1,L2,L3 sL
 
  end
 
- subgraph MidLevel["🛠️中階層：理性應用與互動"]
+ subgraph MidLevel["🛠️Mid Tier: Rational Application & Interaction"]
 direction LR %% Internal direction: Left to Right
 
-M3[5.💾🤓 記憶] --> M2[6.📚🤓 理解] --> M1[7.🎯🛠️ 應用／達成]
+M3[5.💾🤓 Remember] --> M2[6.📚🤓 Understand] --> M1[7.🎯🛠️ Apply/Achieve]
 
 classDef sM fill:#E6E6FF
 class M1,M2,M3 sM
  end
 
- subgraph HighLevel["🚀高階層：系統創新與整合"]
+ subgraph HighLevel["🚀High Tier: Systemic Innovation & Integration"]
 direction BT %% Internal direction: Left to Right
 
-H3[8.🪞🪟 脈絡化／系統化] --> H2[9.🧭☯ 對齊／策劃／整合]
-H2 --> H1[10.🚀⚛ 創構／理論化／引領]
+H3[8.🪞🪟 Contextualize/Systematize] --> H2[9.🧭☯ Align/Strategize/Integrate]
+H2 --> H1[10.🚀⚛ Construct/Theorize/Lead]
 
 classDef sH fill:#FFE6FF
 class H1,H2,H3 sH
@@ -205,120 +228,124 @@ H1@{shape: trap-t}
 H2@{shape: trap-t} 
 H3@{shape: trap-t} 
  end
- %% 跨層次的節點連接 (L1/M1 to next level)
+ %% Cross-tier node connections (L1/M1 to next level)
  %% L0 --> M3
  %% M1 --> H3
 ```
-**⟨布魯姆+全宇層10類⟩ 動詞：🧰三層展示🪁**
+**⟨Bloom + AQAL 10 Categories⟩ Verbs: 🧰Three-Tier Display🪁**
 :::
 :::
-接下來，本篇附錄集還有：
+Next, this appendix collection continues with:
 
-* 跳至 [💪行動的主客體🌌](#sec-action-orchestration) 〜 動態編排 **動詞** 的「行動協奏」
-* 深入 [✍️布魯姆 6 類🎨](#sec-blooms-taxonomy) 〜 「**如何學習**」的 動詞«**選項**»
-	*  [🌐核心經緯力🧭](#sec-cc-core)：搭配本書**精選知識點**
-* 深入 [🪟全宇層 8 類⚛](#sec-aqal-8-taxonomy) 〜 「**如何分析系統動態**」的，本書創新總結的動詞«**選項**»
-	* [🌌世界系統力🚀](#sec-cc-core)：搭配**螺旋動力學**的動態成長系統觀，本書原創概念
-* 深入 [🚰 AQAL 9 類🪷](#sec-aqal-9-taxonomy) 〜 「**如何分析系統動態**」的，本書創新總結的完整動詞«**選項**»
+* Jump to [💪Subjects and Objects of Action🌌](#sec-action-orchestration) 〜 the "Action Concerto" dynamically orchestrating **verbs**
+* Dive into [✍️Bloom's 6 Categories🎨](#sec-blooms-taxonomy) 〜 verb «**options**» for "**how to learn**"
+	*  [🌐Core Coordinate Capacity🧭](#sec-cc-core): paired with this book's **curated knowledge points**
+* Dive into [🪟AQAL 8 Level Taxonomy⚛](#sec-aqal-8-taxonomy) 〜 an original, book-specific set of verb «**options**» for "**how to analyze system dynamics**"
+	* [🌌World-System Capacity🚀](#sec-cc-system): paired with a dynamic-growth systems view via **Spiral Dynamics** — an original concept of this book
+* Dive into [🚰AQAL 9 Level Taxonomy🪷](#sec-aqal-9-taxonomy) 〜 the complete, original set of verb «**options**» for "**how to analyze system dynamics**"
 
-## ✍️⟨布魯姆6類⟩🎨{#sec-blooms-taxonomy}
+## ✍️⟨Bloom's 6 Categories⟩🎨{#sec-blooms-taxonomy}
 
-為求**人工智能教育及工程**的應用， 本書運用教育心理學知名的`布魯姆分類`（Bloom's Taxonomy）。
+For application in **AI education and engineering**, this book employs the well-known `Bloom's Taxonomy` from educational psychology.
 
-專注在「**如何學習**」，`布魯姆分類`將認知技能系統化為六大類，在本書簡名為 ⟨**布魯姆6類**⟩。 本篇附錄將依序介紹這六大類的核心意涵、行動動詞，以及其在不同學習領域的應用，為的是提供一個**可操作**的學習地圖，供人類及機器學習的動詞提供基本«**選項**»。
+Focused on "**how to learn**," `Bloom's Taxonomy` systematizes cognitive skills into six major categories, abbreviated in this book as ⟨**Bloom's 6 Categories**⟩. This appendix will introduce, in sequence, the core meaning of each of these six categories, their action verbs, and their application across different learning domains, in order to provide an **operable** learning map — supplying basic verb «**options**» for both human and machine learning.
 
-### –✏️基本識讀🔢
+### –✏️Basic Literacy🔢
 
-⟨布魯姆6類⟩作為**動詞**«選項»，以搭配 **識讀**（literacy）與 **算數**（numeracy）為**名詞**«選項»，可以展示其「**如何學習**」的行動指導意涵：
+As verb «options», ⟨Bloom's 6 Categories⟩ can be paired with **literacy** and **numeracy** as noun «options», to illustrate their action-guiding meaning for "**how to learn**":
 
-::: {.callout-note #nte-actions-6-literacy title="✏️⟨**布魯姆6類**⟩ **識字** 與 **算數**表🔢" collapse=false open=true .note}
+::: {.callout-note #nte-actions-6-literacy title="✏️⟨**Bloom's 6 Categories**⟩ **Literacy** & **Numeracy** Table🔢" collapse=false open=true .note}
 
-| 類|動詞 | 定義 | ✏️**識字**✍️ | 🔢**算數**🎲 |
+| Level|Verb | Definition | ✏️**Literacy**✍️ | 🔢**Numeracy**🎲 |
 |:---:|:-------|:------------|:--------------------|:--------------------|
-| 1 | 🧠 **記憶** | 回憶基礎**資訊** | ✏️ 辨識字母、背誦字母表、將單詞與圖片配對 | 🔢 陳述數字、列出數學事實、說出形狀名稱 |
-| 2 | 💡 **理解** | 掌握**意義** | 📖 總結故事、解釋主旨、描述角色 | ➗ 將文字題轉換成算式、闡明概念、解釋數學過程 |
-| 3 | 🛠️🎯 **應用** | 在新**情境脈絡**中運用資訊 | 📝 寫一段落、在句子中使用詞彙、撰寫信件 | 📊 解決文字題、繪製圖表、計算答案 |
-| 4 | 🔍 **分析** | **分解**與**比較**資訊 | 📂 分類文本內容、比較主題、區分不同論點 | 📈 分析數據集、拆解問題、將數字歸類 |
-| 5 | ⚖️ **評估** | 依**標準**判斷與論證 | 🗣️ 證明觀點、評論來源、評估主張 | 📐 證明解法、辯護方法、評論圖表 |
-| 6 | 🎨 **創造** | 產出**新方案**或**事物** | ✍️ 創作詩歌、編寫故事、創作戲劇 | 🎲 設計調查、提出新問題、開發遊戲 |
-:  ⟨**布魯姆6類**⟩ **識字** 與 **算數**表 {#tbl-actions-6-literacy}
+| 1 | 🧠 **Remember** | Recall basic **information** | ✏️ Identify letters, recite the alphabet, match words to pictures | 🔢 State numbers, list math facts, name shapes |
+| 2 | 💡 **Understand** | Grasp **meaning** | 📖 Summarize a story, explain the main idea, describe characters | ➗ Convert a word problem into an equation, clarify a concept, explain a math process |
+| 3 | 🛠️🎯 **Apply** | Use information in a new **context** | 📝 Write a paragraph, use a vocabulary word in a sentence, write a letter | 📊 Solve a word problem, draw a chart, compute an answer |
+| 4 | 🔍 **Analyze** | **Break down** and **compare** information | 📂 Categorize text content, compare themes, distinguish different arguments | 📈 Analyze a dataset, decompose a problem, classify numbers |
+| 5 | ⚖️ **Evaluate** | Judge and argue by **criteria** | 🗣️ Justify a viewpoint, critique a source, assess a claim | 📐 Prove a solution, defend a method, critique a chart |
+| 6 | 🎨 **Create** | Produce a **new solution** or **thing** | ✍️ Write a poem, compose a story, create a play | 🎲 Design a survey, pose new questions, develop a game |
+:  ⟨**Bloom's 6 Categories**⟩ **Literacy** & **Numeracy** Table {#tbl-actions-6-literacy}
 :::
 
-📌 上述的 **識字** 與 **算數** 可替換為任何技能領域的名詞，例如 **人工智能** 及其知識點。
+📌 The **literacy** and **numeracy** above can be replaced with nouns from any skill domain — for example, **artificial intelligence** and its knowledge points.
 
-### –🪜布魯姆6類4層
+### –🪜4-Tier Application of Bloom's 6 Categories
 
-「**翻轉布魯姆分類法**」（[Flipping Bloom’s Taxonomy](https://blog.ouseful.info/2014/09/09/bloom-flipped/)）主張將傳統的學習順序顛倒過來，以**布魯姆6類4層**的翻轉模式：
+"**Flipping Bloom's Taxonomy**" ([Flipping Bloom's Taxonomy](https://blog.ouseful.info/2014/09/09/bloom-flipped/)) argues for reversing the traditional learning order, using a **4-tier flipped model of Bloom's 6 Categories**:
 
-- 4️⃣ **高階認知**（分析、評估、創造）：做為學生主要的學習時間，並放在同一層。    
-- 3️⃣ **中高階認知**（應用）：當需要概化性知識或轉化應用時，隨需「**下探**」補充相關知識。
-- 2️⃣ **中低階認知**（理解）：當需要相關性或因果時知識時，隨需「**下探**」補充相關知識。   
-- 1️⃣ **低階認知**（記憶）：當需要事實時，隨需「**下探**」補充相關知識。   
+- 4️⃣ **Higher-order cognition** (analyze, evaluate, create): the student's main focus of learning time, placed on the same tier.    
+- 3️⃣ **Upper-mid cognition** (apply): when generalized knowledge or transfer/application is needed, "**drill down**" as required to supplement relevant knowledge.
+- 2️⃣ **Lower-mid cognition** (understand): when relevance or causal knowledge is needed, "**drill down**" as required to supplement relevant knowledge.   
+- 1️⃣ **Lower-order cognition** (remember): when facts are needed, "**drill down**" as required to supplement relevant knowledge.   
 
-這樣的排列方式，正好凸顯「翻轉」的精神：
+This arrangement precisely highlights the spirit of "flipping":
 
-- **先做高階任務**（創造、評估、分析），讓學習者主動參與。   
-- **再回頭下探**低階層次，隨需補充記憶與理解。    
-- **課堂時間**因此能專注於合作、批判思考與創新。
+- **Do higher-order tasks first** (create, evaluate, analyze), engaging learners actively.   
+- **Then drill back down** to lower tiers, supplementing memory and understanding as needed.    
+- **Classroom time** can therefore focus on collaboration, critical thinking, and innovation.
 
-本書採用這**布魯姆6類4層**為本書⟨布魯姆6類⟩的主要應用方式，主要考量是為了要和分析學（analytics）及人工智慧結合：
-* 4️⃣ **高階認知**（分析、評估、創造）可以對映到分析學中的『**[指導型分析](06-03-analysis_prescriptive.qmd)**』及新興的『**[生成式 AI](06-05-analysis_generative.qmd)**』
-* 3️⃣ **中高階認知**（應用）：可以對映到分析學中的『**[預測型分析](06-02-analysis_predictive.qmd)**』來突顯模型的應用實踐。
-* 2️⃣ **中低階認知**（理解）：可以對映到分析學中的『**[診斷型分析](06-01-analysis_diagnostic.qmd)**』來突顯數據分析找尋**相關性**及**因果關係**的實踐。
-* 1️⃣ **低階認知**（記憶）：可以對映到分析學中的『**[描述型分析](06-04-analysis_descriptive.qmd)**』來突顯數據分析運用機器對**事實**做記錄及描述的實踐。
+This book adopts this **4-tier model of Bloom's 6 Categories** as the main application of its ⟨Bloom's 6 Categories⟩, primarily in order to combine it with analytics and artificial intelligence:
+* 4️⃣ **Higher-order cognition** (analyze, evaluate, create) can be mapped onto **'[Prescriptive Analysis](06-03-analysis_prescriptive.en.qmd)'** in analytics and the emerging **'[Generative AI](06-05-analysis_generative.en.qmd)'**.
+* 3️⃣ **Upper-mid cognition** (apply): can be mapped onto **'[Predictive Analysis](06-02-analysis_predictive.en.qmd)'** in analytics, to highlight the applied practice of models.
+* 2️⃣ **Lower-mid cognition** (understand): can be mapped onto **'[Diagnostic Analysis](06-01-analysis_diagnostic.en.qmd)'** in analytics, to highlight the practice of finding **correlation** and **causality** through data analysis.
+* 1️⃣ **Lower-order cognition** (remember): can be mapped onto **'[Descriptive Analysis](06-04-analysis_descriptive.en.qmd)'** in analytics, to highlight the practice of using machines to record and describe **facts** through data analysis.
 
-這「**翻轉布魯姆分類法**」的**布魯姆6類4層**，因此在本書結合創新出適合 **AI 教學與工程** 的**[核心經緯力](#sec-cc-core)**。
+This "**Flipping Bloom's Taxonomy**" **4-tier model of Bloom's 6 Categories** is thus combined in this book into an innovative **[Core Coordinate Capacity](#sec-cc-core)** suited to **AI teaching and engineering**.
 
-### –🌐核心經緯力🧭 {#sec-cc-core}
+### –🌐Core Coordinate Capacity🧭 {#sec-cc-core}
 
-本書創新將 ⟨**布魯姆6類**⟩ 結合《[第陸篇 ❖](06----analytics_decisions.qmd) 分析與決策 6 點》：
+This book innovatively combines ⟨**Bloom's 6 Categories**⟩ with 《[Part 6 ❖](06----analytics_decisions.en.qmd) Analytics & Decisions: 6 Points》:
 
-* 🤓📘 從大千世界，進行『**[描述型分析](06-04-analysis_descriptive.qmd)**』，求**當下**相關之 «**記憶**» 框定；
-* 😷🩺 在相關記憶，進行『**[診斷型分析](06-01-analysis_diagnostic.qmd)**』，求**因子**相關之 «**理解**» 匡謬；
-* 🤠🔮 在相關因子，進行『**[預測型分析](06-02-analysis_predictive.qmd)**』，求**模型**知識之 «**應用**» 匡助；
-* 🧐🧭 在知識模型，進行『**[指導型分析](06-03-analysis_prescriptive.qmd)**』，求**系統**智能之 «**評估**» 及 «**創造**»；
-* 除了以上 4 點 分析學核心主軸，有創新的«發散»及«收歛»輔線：
-	* 🙀🎨 從眾智大模型，利用『**[生成式 AI](06-05-analysis_generative.qmd)**』«**創造**»，求«**選項**»的創新發散；
-	* 😽🪄 從發散各選項，利用『**[決策演算法](06-06-decision_making_algorithm.qmd)**』，求«**選擇**»的創新收歛自主決策；
+* 🤓📘 From the vast world, perform **'[Descriptive Analysis](06-04-analysis_descriptive.en.qmd)'**, seeking a «**remember**»-framing of what is **currently** relevant;
+* 😷🩺 Within relevant memory, perform **'[Diagnostic Analysis](06-01-analysis_diagnostic.en.qmd)'**, seeking a «**understand**»-correction of relevant **factors**;
+* 🤠🔮 Among relevant factors, perform **'[Predictive Analysis](06-02-analysis_predictive.en.qmd)'**, seeking an «**apply**»-assistance of **model** knowledge;
+* 🧐🧭 Within knowledge models, perform **'[Prescriptive Analysis](06-03-analysis_prescriptive.en.qmd)'**, seeking «**evaluate**» and «**create**» for **system** intelligence;
+* Beyond these 4 core axes of analytics, there are innovative divergent and convergent auxiliary lines:
+	* 🙀🎨 From the collective-intelligence large model, using **'[Generative AI](06-05-analysis_generative.en.qmd)'** to «**create**», seeking the innovative divergence of «**options**»;
+	* 😽🪄 From the divergent options, using the **'[Decision-Making Algorithm](06-06-decision_making_algorithm.en.qmd)'**, seeking the innovative convergence and autonomous decision of «**choice**»;
 
-如此一來，分析學（analytics）就不只是簡單對應到 ⟨**布魯姆6類**⟩ 中的 «**分析**»，而是拆成能對映到各對應的其它類動詞。
+In this way, analytics is not merely mapped simply onto «**analyze**» within ⟨**Bloom's 6 Categories**⟩, but is broken apart to map onto its various corresponding other verb categories.
 
-### –🤓分類局限✍️
+### –🤓Limits of the Taxonomy✍️
 
-`布魯姆分類` 著重於 **個體內在的認知發展**，從單純記憶到高階創造，描繪了我們處理資訊與知識的歷程。然而，它也存在局限：
+`Bloom's Taxonomy` focuses on **the individual's internal cognitive development**, tracing our processing of information and knowledge from simple memory to higher-order creation. However, it also has limits:
 
-- 💖 **忽略情感與意識**：未明確涵蓋學習者 **內在** 的感受、價值觀與個人意識（即「我」的體驗），因此缺乏面對焦慮與恐懼的應對策略，以及外在的共情能力。  
-- 🧬 **忽略行為與神經科學**：未系統納入可觀察的 **外部** 行為與生理層面，如神經科學對學習過程的解釋（即意識自我「大腦」與「身體」的行為），因此欠缺從呼吸、飲食、作息到運動等身心調節對認知的強化。  
-- 🌏 **忽略文化與社會背景**：未充分考慮學習者所處的群體文化與社會系統（即「我們」與「他們」，甚至「大自然／造物者」的維度）。
+- 💖 **Overlooks emotion and consciousness**: does not explicitly cover the learner's **inner** feelings, values, and personal consciousness (i.e., the experience of "I"), and therefore lacks coping strategies for anxiety and fear, as well as external empathic capacity.  
+- 🧬 **Overlooks behavior and neuroscience**: does not systematically incorporate observable **external** behavior and physiological aspects, such as neuroscience's explanation of the learning process (i.e., the behavior of the conscious self's "brain" and "body"), and therefore lacks the reinforcement of cognition through bodily-mind regulation — breathing, diet, routine, exercise, and so on.  
+- 🌏 **Overlooks cultural and social background**: does not adequately consider the group culture and social system in which the learner is situated (i.e., the dimensions of "we" and "them," and even "Nature/the Creator").
 
-`布魯姆 6 類`的侷限，可改用或加用`全宇層 8 類`，以補足其在**情感、行為、文化、系統**等面向的不足，並將「行動」擴展為「時空中的互動」。
+The limitations of `Bloom's 6 Categories` can be addressed by using or supplementing it with `AQAL's 8 Level Taxonomy`, filling the gaps in **emotional, behavioral, cultural, and systemic** dimensions, and expanding "action" into "interaction across time and space."
 
 <!-- 
-⟨**布魯姆6類**⟩ ✖融合成《[第陸篇 ❖](06----analytics_decisions.qmd) 分析與決策 6 點》，在本書稱為🌐🧭**核心經緯力**，因為可以用來拆解本書所有知識點，以利導航、選取、及運用（參見：[@imp-book-navigation]）。
+⟨**Bloom's 6 Categories**⟩ ✖ fused into 《[Part 6 ❖](06----analytics_decisions.en.qmd) Analytics & Decisions: 6 Points》, called in this book 🌐🧭**Core Coordinate Capacity**, because it can be used to decompose all the book's knowledge points, facilitating navigation, selection, and application (see: [@imp-book-navigation]).
 -->
 
-<!-- 🪟⟨全宇層8類⟩⚛ -->
+<!-- 🪟⟨AQAL 8 Level Taxonomy⟩⚛ -->
 
-## 🪟⟨全宇層8類⟩⚛ {#sec-aqal-8-taxonomy}
+## 🪟⟨AQAL 8 Level Taxonomy⟩⚛ {#sec-aqal-8-taxonomy}
 
-為求**人工智能教育及工程**的應用， 本書將原 AQAL 框架各層次分別用一動詞總結出共9類，然後再簡化成可以操作的8類，以指引 AI 系統的**動態創新**、**系統設計**、與**價值觀對齊**（**倫理約束**），確保 AI 的發展能涵蓋技術（It/Its）與意識（I/We）的面向。
+For application in **AI education and engineering**, this book summarizes each level of the original AQAL framework as a single verb, resulting in 9 Level Taxonomy, then simplifies this to an operable set of 8 Level Taxonomy, guiding the **dynamic innovation**, **system design**, and **value alignment** (**ethical constraint**) of AI systems, ensuring AI development covers both technical (It/Its) and conscious (I/We) dimensions.
 
-與 ⟨**布魯姆6類**⟩  專注於「如何學習」的內在認知不同，⟨**全宇層8類**⟩ 更強調「在何種世界脈絡下思考與行動」。
+Unlike ⟨**Bloom's 6 Categories**⟩, which focuses on the inner cognition of "how to learn," ⟨**AQAL 8 Level Taxonomy**⟩ emphasizes "in what world context thinking and action take place."
 
-它將動詞«選項»放入 **主體／客體 × 個體／群體** 的四象限，並結合**層級演進**。這使得我們能夠將行動視為一種**系統創新**：不只是個體的知識累積，而是群體與環境互動中不斷湧現的新格局。
+It places verb «options» into a four-quadrant grid of **subject/object × individual/collective**, combined with **hierarchical progression**. This allows us to regard action as a form of **systemic innovation**: not merely individual knowledge accumulation, but a new configuration continually emerging from the interaction of groups and environment.
 
-這八類動詞«選項»，不僅是認知技能的延伸，更是「**系統動態**」的行動語法，能夠描述個體如何在世界脈絡中生存、互動、對齊、創構、等等。
+These eight verb «options» are not merely an extension of cognitive skills, but the action-grammar of "**system dynamics**" — capable of describing how an individual survives, interacts, aligns, and constructs within a world context, and so on.
 
-總之，這些**動詞**«選項»不止有其系統性的階層性，還涉及相關的**理性/情緒**、**主/客體**的特性，因此對實踐行動的**編排**，具有「解析及整合的指導意義」。
+In sum, these **verb** «options» not only have a systematic hierarchy but also involve related **reason/emotion** and **subject/object** characteristics, giving them "analytical and integrative guiding significance" for the **orchestration** of practical action.
 
-### –🪟AQAL四象限 
+::: {.callout-note title="🌐 This is Also a Kind of World Model" collapse=true}
+The **subject/object × individual/collective** four-quadrant grid is, in essence, also a kind of **world model** — except it answers "who acts on whom, in what context, when acting," rather than "which nouns are worth knowing." The full discussion of the latter appears in 🔖Appendix 🧠《[Mind〜Mind and World Models](appendix-brain.en.qmd#sec-models-mind-world)》(human "worldviews" vs. machine "internal mini-maps"). Only taken together do "what to know" and "how to act" form a complete picture.
+:::
 
-**全宇層四象限**與AQAL框架**四象限**完全一致，本附錄專注在展示如何用來指引 AI 系統的**動態創新**、**系統設計**、與**價值觀對齊**（倫理約束），確保 AI 的發展能涵蓋技術（It/Its）與意識（I/We）面向。
+### –🪟The AQAL Four Quadrants 
 
-💡 結合「**如何思考自己與世界**」與「**在何種脈絡下思考**」，構建全景式的學習與行動框架。
+The **AQAL four quadrants** of this book correspond exactly to the AQAL framework's **four quadrants**; this appendix focuses on showing how they can guide the **dynamic innovation**, **system design**, and **value alignment** (ethical constraint) of AI systems, ensuring AI development covers both technical (It/Its) and conscious (I/We) dimensions.
 
-::: {.callout-important #imp-aqal-4-quadrants title="🪟全宇層四象限" collapse=false open=true }
-<!-- 🪟AQAL框架〜四象限 -->
+💡 Combining "**how to think about self and world**" with "**in what context to think**," this constructs a panoramic framework for learning and action.
+
+::: {.callout-important #imp-aqal-4-quadrants title="🪟The AQAL Four Quadrants" collapse=false open=true }
+<!-- 🪟AQAL Framework〜Four Quadrants -->
 ```{mermaid}
 %%{init: {
  "quadrantChart": {
@@ -340,452 +367,462 @@ H3@{shape: trap-t}
 }}%%
 
 quadrantChart
- title 🪟AQAL框架〜四象限
- x-axis "個人（Individual）" --> "集體（Collective）"
- y-axis "內在（我／我們 I/We）" --> "外部（它／它們  It/Its）"
- quadrant-1 "右上~外在個人"
- quadrant-2 "左上~內在個人"
- quadrant-3 "左下~內在集體"
- quadrant-4 "右下~外在集體"
+ title 🪟AQAL Framework〜Four Quadrants
+ x-axis "Individual" --> "Collective"
+ y-axis "Interior (I/We)" --> "Exterior (It/Its)"
+ quadrant-1 "Upper Right~Exterior Individual"
+ quadrant-2 "Upper Left~Interior Individual"
+ quadrant-3 "Lower Left~Interior Collective"
+ quadrant-4 "Lower Right~Exterior Collective"
 
- "🐥 客觀🡽" : [0.8, 0.88] radius: 0
- "~ 外在的「它」" : [0.8, 0.78] radius: 0
- "🡼🐣 主觀" : [0.2, 0.88] radius: 0
- "~ 內在的「我」" : [0.2, 0.78] radius: 0
- "~ 內在的「我們」" : [0.2, 0.22] radius: 0
- "🡿🤝 主體間" : [0.2, 0.12] radius: 0
- "~ 外在的「它們」" : [0.8, 0.22] radius: 0
- "🡾🏛️ 客體間" : [0.8, 0.12] radius: 0
+ "🐥 Objective🡽" : [0.8, 0.88] radius: 0
+ "~ The exterior \"It\"" : [0.8, 0.78] radius: 0
+ "🡼🐣 Subjective" : [0.2, 0.88] radius: 0
+ "~ The interior \"I\"" : [0.2, 0.78] radius: 0
+ "~ The interior \"We\"" : [0.2, 0.22] radius: 0
+ "🡿🤝 Intersubjective" : [0.2, 0.12] radius: 0
+ "~ The exterior \"Its\"" : [0.8, 0.22] radius: 0
+ "🡾🏛️ Interobjective" : [0.8, 0.12] radius: 0
 
- "行為 與 生理": [0.66, 0.68] radius: 0
+ "Behavior & Physiology": [0.66, 0.68] radius: 0
  "🙏😭😍": [0.66, 0.6] radius: 0
- "意識 與 情感": [0.33, 0.68] radius: 0
+ "Consciousness & Emotion": [0.33, 0.68] radius: 0
  "🧠⚡❤‍🔥": [0.33, 0.6] radius: 0
- "文化與共享意義" : [0.33, 0.33] radius: 0
+ "Culture & Shared Meaning" : [0.33, 0.33] radius: 0
  "🏄🚾🧜‍♂" : [0.33, 0.4] radius: 0
- "社會與技術系統" : [0.66, 0.33] radius: 0
+ "Social & Technical Systems" : [0.66, 0.33] radius: 0
  "🌊🚰💦" : [0.66, 0.4] radius: 0
 ```
 :::
 
-**全宇層四象限** 可以針對 **特定的 AI** 或 **概化的 AI** 進行以下思考，以利創新：
+The **AQAL four quadrants** can be applied to think through **specific AI** or **generalized AI**, for the sake of innovation, as follows:
 
--  🡼🐣 左上象限 **主觀經驗** ~ 內在的「我」 I：
-	- 💭 涉及個體的 **意識** 與 **情感**，思考其 **主觀經驗** 及 **意圖**（intents） 。
-		- 補足  ⟨**布魯姆6類**⟩ 對 **情感層面**（如好奇心、動機、同理心）的忽略。
-	- **AI 教育及工程**：探索自己作為「 AI 使用者」 或 「AI 影響者」 的**感受**與**價值觀**的痛點與增長點，而不僅是 **記憶或羅列 AI 的技術規格**。
-		- 對 AI **主觀認知** 與 **情感層面** 有何 **態度**、**看法**、**經驗**等。
-	- **AI 創新**：對「雙鑽模型」**問題定義**重要（參見🪜[能力](appendix-cognitive_capacity.qmd) 篇），是使用者體驗的**主觀**面向。
-- 🡽🐥 右上象限  **客觀現象 ~ 外在的「它」It：
-	- 🧠 關注個體的 可觀察的 **行為** 與 **生理** （如**神經科學**現象），理解其 **客觀現象**。
-		- 補足  ⟨**布魯姆6類**⟩ 對 **行為與生理** 的基礎缺口。
-	- **AI 教育及工程**：探索自己作為「 AI 使用者」 或 「AI 影響者」 的**行為**與**生理**的痛點與增長點，包括鈎癮、習慣形成、行為改變、等等，而不僅是**羅列 AI 的輸出數據或效能指標**。
-		- 對 AI 的 **客觀現象** 有何 **行為**及**生理** 狀態或改變等。
-	- **AI 創新**：對「雙鑽模型」**問題定義**重要（參見🪜[能力](appendix-cognitive_capacity.qmd) 篇），是使用者體驗的**客觀**面向。
-- 🡿🤝 左下象限 **主體間文化** ~ 內在的「我們」 We：
-	- 🗣️ 涉及**群體的共享文化**、**價值觀**與**語言系統**，思考其 **集體意義**。
-	 - 補足 ⟨**布魯姆6類**⟩ 對 **文化背景與集體意義** 的忽視。
-	- **AI 教育及工程**：探索社群或組織對 AI 的**共同認知**、**倫理規範**與**使用文化**，而不僅是**個體的使用意圖**。 
-	 - 對 AI 的 **文化與共享意義** 有何 **集體敘事**、**規範**、**隱性知識**等。 
- - **AI 創新**：對「行動協奏」**價值對齊**與**文化適應**至關重要（參見💪[行動的主客體](#sec-action-orchestration)🌌），是社會互動的**內在**面向。
-- 🡾🏛️ 右下象限 **客體間系統** ~ 外在的「它們」 Its：
-	- 🌐 關注**社會系統**、**制度規範**、**技術環境**與**物質結構**，理解其 **系統影響**。 
-	 - 補足 ⟨**布魯姆6類**⟩ 對 **環境條件與系統性影響** 的缺漏。
- - **AI 教育及工程**：探索 AI 如何影響**法律框架**、**經濟結構**、**技術設施**與**治理系統**，而不僅是**單一技術的優劣或發展程度**。 
-	 - 對 AI 的 **系統與結構** 有何 **制度變化**、**技術架構**、**資源配置**等。 
- - 這對「行動協奏」**系統設計**與**結構創新**至關重要（參見💪[行動的主客體](#sec-action-orchestration)🌌），是社會-技術系統（socio-technical systems）的**外在**面向。
+-  🡼🐣 Upper-left quadrant, **Subjective Experience** ~ the interior "I":
+	- 💭 Involves the individual's **consciousness** and **emotion**, considering **subjective experience** and **intent**.
+		- Fills the gap left by ⟨**Bloom's 6 Categories**⟩'s omission of the **emotional dimension** (e.g., curiosity, motivation, empathy).
+	- **AI Education & Engineering**: Explores the pain points and growth points of one's **feelings** and **values** as an "AI user" or "AI-affected person," rather than merely **memorizing or listing AI's technical specifications**.
+		- What **attitudes**, **views**, and **experiences** does one have regarding AI's **subjective cognition** and **emotional dimension**?
+	- **AI Innovation**: Important to the "double-diamond model" of **problem definition** (see 🪜[Capacity](appendix-cognitive_capacity.en.qmd)) — the **subjective** dimension of user experience.
+- 🡽🐥 Upper-right quadrant, **Objective Phenomena** ~ the exterior "It":
+	- 🧠 Focuses on the individual's observable **behavior** and **physiology** (e.g., **neuroscience** phenomena), understanding its **objective phenomena**.
+		- Fills the basic gap left by ⟨**Bloom's 6 Categories**⟩ regarding **behavior and physiology**.
+	- **AI Education & Engineering**: Explores the pain points and growth points of one's **behavior** and **physiology** as an "AI user" or "AI-affected person," including hooking, habit formation, behavior change, and so on, rather than merely **listing AI's output data or performance metrics**.
+		- What **behavioral and physiological** states or changes accompany AI's **objective phenomena**?
+	- **AI Innovation**: Important to the "double-diamond model" of **problem definition** (see 🪜[Capacity](appendix-cognitive_capacity.en.qmd)) — the **objective** dimension of user experience.
+- 🡿🤝 Lower-left quadrant, **Intersubjective Culture** ~ the interior "We":
+	- 🗣️ Involves a group's **shared culture**, **values**, and **language systems**, considering **collective meaning**.
+	 - Fills the gap left by ⟨**Bloom's 6 Categories**⟩'s neglect of **cultural background and collective meaning**.
+	- **AI Education & Engineering**: Explores a community or organization's **shared perception**, **ethical norms**, and **usage culture** regarding AI, rather than merely **individual usage intent**. 
+	 - What **collective narratives**, **norms**, and **tacit knowledge** does AI's **culture and shared meaning** carry? 
+ - **AI Innovation**: Crucial to the **value alignment** and **cultural adaptation** of "Action Orchestration" (see 💪[Subjects and Objects of Action](#sec-action-orchestration)🌌) — the **interior** dimension of social interaction.
+- 🡾🏛️ Lower-right quadrant, **Interobjective Systems** ~ the exterior "Its":
+	- 🌐 Focuses on **social systems**, **institutional norms**, **technical environment**, and **material structure**, understanding **systemic impact**. 
+	 - Fills the gap left by ⟨**Bloom's 6 Categories**⟩ regarding **environmental conditions and systemic impact**.
+ - **AI Education & Engineering**: Explores how AI affects **legal frameworks**, **economic structures**, **technical infrastructure**, and **governance systems**, rather than merely **the merits or maturity of a single technology**. 
+	 - What **institutional changes**, **technical architecture**, and **resource allocation** accompany AI's **systems and structures**? 
+ - This is crucial to the **system design** and **structural innovation** of "Action Orchestration" (see 💪[Subjects and Objects of Action](#sec-action-orchestration)🌌) — the **exterior** dimension of socio-technical systems.
 
-::: {.callout-tip #tip-aqal-4-quadrants title="🪟全宇層四象限 小貼士：**🌟TLDR**" collapse=false open=true}
+::: {.callout-tip #tip-aqal-4-quadrants title="🪟AQAL Four Quadrants Tip: **🌟TLDR**" collapse=false open=true}
 
-**🌟TLDR言簡意賅** 〜 🪟全宇層四象限指引 AI 系統的**動態創新**、**系統設計**等：
+**🌟TLDR** 〜 The 🪟AQAL Four Quadrants guide the **dynamic innovation** and **system design** of AI systems:
 
-- 🡼🐣 **主觀經驗**（內在的「我」I）：使用者體驗的
-	- **主觀**面向，探索個體**感受**與**價值觀**的痛點與增長點。
-- 🡽🐥 **客觀現象**（外在的「它」It）：使用者體驗的
-	- **客觀**面向，關注個體**行為**與**生理**的數據及可觀察狀態。
-- 🡿🤝 **主體間文化**（內在的「我們」We）：社會-技術系統的
-	- **價值對齊**與**文化適應**，探索社群的**共同規範**、**倫理**與**集體敘事**。 
-- 🡾🏛️ **客體間系統**（外在的「它們」Its）：社會-技術系統的
-	- **系統設計**與**結構創新**，探索 AI 對**法律、經濟、技術**等外部系統的影響。
+- 🡼🐣 **Subjective Experience** (interior "I"): the
+	- **subjective** dimension of user experience — exploring an individual's **feelings** and **values**, pain points and growth points.
+- 🡽🐥 **Objective Phenomena** (exterior "It"): the
+	- **objective** dimension of user experience — focusing on an individual's **behavior** and **physiology**, data and observable states.
+- 🡿🤝 **Intersubjective Culture** (interior "We"): 
+	- **value alignment** and **cultural adaptation** of socio-technical systems — exploring a community's **shared norms**, **ethics**, and **collective narratives**. 
+- 🡾🏛️ **Interobjective Systems** (exterior "Its"): 
+	- **system design** and **structural innovation** of socio-technical systems — exploring AI's impact on **legal, economic, and technical** external systems.
 
-記得區分特定與概化 AI ，並考量動態的狀態及旅程。
+Remember to distinguish specific vs. generalized AI, and consider dynamic states and journeys.
 
 🪟🐣🏛️
 :::
 
-### –🪜全宇層8層
+### –🪜The Eight Tiers of AQAL
 
-**全宇層8層**描述 ⟨**全宇層8類**⟩ 「一層一類」的能力階梯性質，這原創總結版本和原AQAL框架9層相比少了最高層的「**慈悲／超越**」，著眼在 AI 系統的實際啟發，以便聚焦於人類與機器在**行動協奏**中的可操作層次。
+**The Eight Tiers of AQAL** describe the "one-tier-one-category" nature of the capacity ladder of ⟨**AQAL 8 Level Taxonomy**⟩. This original summary version omits the highest tier of the original AQAL 9-tier framework — "**compassion/transcendence**" — focusing instead on practical inspiration for AI systems, in order to concentrate on the operable levels of "Action Orchestration" for humans and machines.
 
-本附錄專注在展示 ⟨**全宇層8類**⟩ 「能力階梯」的**動態**、非線性的**🌀螺旋動力歷程**（Spiral Dynamics, SD），描述個體從本能到理性等全象限全層次成長，如何應用在AI 系統的**動態創新**及**系統設計**等。
+This appendix focuses on presenting the **dynamic**, non-linear **🌀spiral-dynamics process** (Spiral Dynamics, SD) of the ⟨**AQAL 8 Level Taxonomy**⟩ "capacity ladder," describing how an individual's full-quadrant, full-level growth from instinct to reason can be applied to the **dynamic innovation** and **system design** of AI systems.
 
-⟨**全宇層8類**⟩ 構成由低至高的能力階梯，如下表[@tbl-actions-8] 所總結的，前4階分別是較低階**動詞**«選項»：如 **生存**、**連結**、**掌控**、**歸屬** 等「前理性」行動，後4階則是較高階**動詞**«選項»：如 **應用/達成**、**脈絡化/系統化**、**對齊/策劃/整合**、**創構/理論化/引領** 等「理性」及「超理性」行動。
+⟨**AQAL 8 Level Taxonomy**⟩ form a capacity ladder from low to high. As summarized in the table below [@tbl-actions-8], the first 4 tiers are the relatively lower-order verb «options»: "pre-rational" actions such as **survive**, **connect**, **control**, **belong**. The latter 4 tiers are relatively higher-order verb «options»: "rational" and "trans-rational" actions such as **apply/achieve**, **contextualize/systematize**, **align/strategize/integrate**, **construct/theorize/lead**.
 
 
-::: {.callout-important #imp-actions-8 title="🌌 ⟨**全宇層8類**⟩ 動詞🪁" collapse=false open=true .note}
+::: {.callout-important #imp-actions-8 title="🌌 ⟨**AQAL 8 Level Taxonomy**⟩ Verbs🪁" collapse=false open=true .note}
 
-| 層級 | 動詞| 涉及象限| SD 顏色 | 能力動態說明  |
+| Tier | Verb| Quadrants Involved| SD Color | Capacity-Dynamics Description  |
 | :----- | :--------- | :-------- | :----- | :-------------------------------------- |
-| 1.🥗🚰 | **生存**| 客體、客體間 | ⚪ 米色| 「**本能、感官、原始存在**」：涉及個體的**生理需求**的「它」（右上），以及外部**環境條件**的「它們」（右下），都是**客觀可測**。|
-| 2.🤝💞 | **連結**| 主體間、客體間 | 🟣 紫色 | 「**部落情感、神話歸屬**」：個體感知到**集體內在**的「我們」，尋求情感共鳴與安全感，**情緒**主導關係的建立，並依賴**外在環境**（如地緣、風俗、風土）鞏固集體。|
-| 3.💪☸ | **掌控**| 主體、客體間 | 🔴 紅色 | 「**權力主張、衝動行動**」：清晰的**個體意識**（內我）覺醒，強調**自我力量**，以衝動、支配的慾望來**控制**自己，**改變**環境與他人，並作用於**外在客體**。 |
-| 4.🏘️👨‍👩‍👧‍👦 | **歸屬**| 主體間、客體間 | 🔵 藍色 | 「**社會規範、道德秩序**」：重視**集體共識**和**外在體制**的「我們」，依循階級、律法與**社會角色**，強調群體認同與秩序。  |
-| 5.🎯🛠️ | **應用/<br/>達成**| 主體、客體| 🟠 橙色 | 「**理性計畫、成功導向**」：**以科學、邏輯為工具**的「它」，追求**個人成就**與效率（內在「我」的目標），通過理性分析**客觀數據**來達成目標。  |
-| 6.🪞🪟 | **脈絡化/<br/>系統化**| 主體間、客體間 | 💚 綠色 | 「**同理多元、文化敏感**」：同時考慮**多元價值**的「我們」（左下）和**複雜系統**的「它們」（右下），尋求平等與和諧。|
-| 7.🧭☯ | **對齊/<br/>策劃/<br/>整合** | 全象限| 💛 黃色 | 「**策略協調、動態平衡**」：開始意識到**全象限**的交互作用，以**邏輯與長遠視角**進行**跨領域**整合，解決複雜的系統性問題。 |
-| 8.🚀⚛ | **創構/<br/>理論化/<br/>引領** | 全象限| 🩵 青綠色 | 「**創造新知、理論建構**」：能夠**融會貫通**所有象限的**深層結構**，形成全新的**生命願景**和**理論模型**，並引導系統進化。 |
-:  ⟨**全宇層8類**⟩ **動詞：象限、SD顏色、能力動態說明** {#tbl-actions-8}
+| 1.🥗🚰 | **Survive**| Object, Interobjective | ⚪ Beige| "**Instinct, senses, primal existence**": involves the individual's **physiological needs** — the "It" (upper right) — as well as external **environmental conditions** — the "Its" (lower right); both are **objectively measurable**.|
+| 2.🤝💞 | **Connect**| Intersubjective, Interobjective | 🟣 Purple | "**Tribal feeling, mythic belonging**": the individual perceives the interior collective "We," seeking emotional resonance and safety; **emotion** dominates the building of relationships, relying on the **external environment** (e.g., geography, custom, local culture) to consolidate the collective.|
+| 3.💪☸ | **Control**| Subject, Interobjective | 🔴 Red | "**Power assertion, impulsive action**": clear **individual consciousness** (inner "I") awakens, emphasizing **self-power**, using impulsive, dominating desire to **control** oneself, **change** the environment and others, and act upon the **external object**. |
+| 4.🏘️👨‍👩‍👧‍👦 | **Belong**| Intersubjective, Interobjective | 🔵 Blue | "**Social norms, moral order**": values the **collective consensus** and **external institutions** of the "We," following hierarchy, law, and **social roles**, emphasizing group identity and order.  |
+| 5.🎯🛠️ | **Apply/<br/>Achieve**| Subject, Object| 🟠 Orange | "**Rational planning, success-orientation**": the "It" — using **science and logic as tools** — pursues **personal achievement** and efficiency (the goal of the interior "I"), achieving goals through rational analysis of **objective data**.  |
+| 6.🪞🪟 | **Contextualize/<br/>Systematize**| Intersubjective, Interobjective | 💚 Green | "**Empathic pluralism, cultural sensitivity**": simultaneously considers the **pluralistic values** of the "We" (lower left) and the **complex systems** of the "Its" (lower right), seeking equity and harmony.|
+| 7.🧭☯ | **Align/<br/>Strategize/<br/>Integrate** | All quadrants| 💛 Yellow | "**Strategic coordination, dynamic equilibrium**": begins to recognize the interplay of **all quadrants**, using **logic and long-term perspective** for **cross-domain** integration, resolving complex systemic problems. |
+| 8.🚀⚛ | **Construct/<br/>Theorize/<br/>Lead** | All quadrants| 🩵 Turquoise | "**Creating new knowledge, theory-building**": able to **synthesize** the **deep structures** of all quadrants, forming an entirely new **life vision** and **theoretical model**, guiding systemic evolution. |
+:  ⟨**AQAL 8 Level Taxonomy**⟩ **Verbs: Quadrants, SD Color, Capacity-Dynamics Description** {#tbl-actions-8}
 
-此表幫助理解人類生命歷程中如何逐級展現能力，並帶有主客的世界觀。
+This table helps in understanding how humans progressively display capacity across the life course, carrying a subject-object worldview.
 :::
 
-這些**動詞**«選項»的能力階梯性質，也在**本我思維**與**成人心智發展**中展現出整體向「更高整合」的走向：
+The hierarchical nature of these **verb** «options» also displays an overall trajectory toward "higher integration" in both **ego mindset** and **adult mind development**:
 
-- **本我思維**：從「前本我」的衝動與魔幻，逐步經歷「自我中心」「族群中心」，最終走向「世界中心」的整合視野。    
-- **成人心智發展**：從「衝動—魔幻」的早期階段，經過「以我為尊」與「人際—制度」的社會化階段，逐步邁向「自主導向」，並在最高層次達到「內觀—自變」的超理性境界。
+- **Ego mindset**: progressing from the impulse and magic of the "pre-egoic," through "egocentric" and "ethnocentric," finally toward the integrated vision of "world-centric."    
+- **Adult mind development**: progressing from the early stage of "impulsive-magical," through the socializing stages of "self-primacy" and "interpersonal-institutional," gradually advancing toward "self-directed," and finally reaching, at the highest tier, the trans-rational realm of "inner-autonomy."
 
-在現實生活中，⟨**全宇層8類**⟩ 不僅對應抽象的能力階梯，也能透過「生命歷程」與「人口分布」來觀察其實際意義，更完整的對照與數據，可參考 [⛵生命歷程×人口分布🪂](#sec-aqal-9-life-journey) 一節內容。
+In real life, ⟨**AQAL 8 Level Taxonomy**⟩ correspond not only to an abstract capacity ladder, but can also be observed in practical significance through "life course" and "demographic distribution." For a fuller comparison and data, see the section [⛵Life Course × Demographic Distribution🪂](#sec-aqal-9-life-journey).
 
-### –🌀動態螺旋演化
+### –🌀Dynamic Spiral Evolution
 
-⟨**全宇層8類**⟩ 動詞涵蓋了從層級 1 至 8 的**動態螺旋演進**。這些動詞不僅對應 **AQAL 四象限**與 **SD 顏色層級**，更是對**螺旋動力學**（Spiral Dynamics, SD）核心觀點的實踐。
+The verbs of ⟨**AQAL 8 Level Taxonomy**⟩ span a **dynamic spiral progression** from tier 1 through tier 8. These verbs correspond not only to the **AQAL four quadrants** and **SD color tiers**, but are a practical expression of the core insights of **Spiral Dynamics** (SD).
 
-> 🌀 **螺旋動力學（SD）行動語法的背後理論：「價值系統理論」**
+> 🌀 **The Theory Behind Spiral Dynamics (SD)'s Action Grammar: "Value Systems Theory"**
 
-SD 源自心理學家 **Clare W. Graves** 的「價值系統理論」，後由 **Don Beck** 與 **Chris Cowan** 系統化並推廣。它強調：
+SD originates from psychologist **Clare W. Graves**'s "Value Systems Theory," later systematized and popularized by **Don Beck** and **Chris Cowan**. It emphasizes:
 
-- 🌎 **價值觀演化**：價值觀與世界觀隨**環境挑戰**與**複雜度**提升而逐步演化。
-- 🔄 **非線性成長**：這種**循環往復、漸進昇華**歷程中，舊被新**包容與整合**，不會消失。
-- ✨ **動態整合**： 歷程由「前理性」的**本能與情緒依附**，達「理性」的**制度與成就**，終至「超理性」的**整合與創構**。 
+- 🌎 **Value Evolution**: values and worldviews progressively evolve as **environmental challenges** and **complexity** increase.
+- 🔄 **Non-linear Growth**: in this **cyclical, gradually ascending** process, the old is **embraced and integrated** by the new rather than disappearing.
+- ✨ **Dynamic Integration**: the process moves from the "pre-rational" **instinctual and emotional attachments**, through the "rational" **institutions and achievements**, to the "trans-rational" **integration and construction**. 
 
-換言之，這些動詞«選項»既是**生命歷程的階梯**，也是**系統演化的語法**。階梯與語法構成不同層次的行動交織，使人類與機器，**主體與客體**之間在**世界系統**中形成動態演進。
+In other words, these verb «options» are both **the ladder of the life course** and **the grammar of system evolution**. Ladder and grammar interweave at different levels of action, allowing humans and machines, **subject and object**, to form a dynamic evolution within the **world system**.
 
-著眼於 AI 系統，全宇層的**動態螺旋演進**，以其背後的「價值系統理論」，啟發 AI 實踐者（如工程師、產品經理）展開原 AQAL 框架**全象限、多層次、多路線**的生命及系統演繹。本書總結了部分操作型知識框架，詳見後續章節：🌌世界系統力🚀。
+Focusing on AI systems, the **dynamic spiral progression** of AQAL, together with its underlying "value systems theory," inspires AI practitioners (such as engineers and product managers) to unfold the **full-quadrant, multi-level, multi-line** life and system development of the original AQAL framework. This book summarizes part of an operational knowledge framework, detailed in the following section: 🌌World-System Capacity🚀.
 
-### –🌌世界系統力🚀{ #sec-cc-system }
+### –🌌World-System Capacity🚀{ #sec-cc-system }
 
-本書延續 ⟨**[核心經緯力](#sec-cc-core)**⟩ 的基礎，提出 **⟨世界系統力⟩**。此概念整合了 **⟨全宇層8類⟩** 所包含的**情緒、世界觀與螺旋動力學**的動態成長，特別採用了**螺旋動力學**的「價值系統理論」核心觀點：
+Continuing from the foundation of ⟨**[Core Coordinate Capacity](#sec-cc-core)**⟩, this book proposes **⟨World-System Capacity⟩**. This concept integrates the dynamic growth of **emotion, worldview, and spiral dynamics** contained within **⟨AQAL 8 Level Taxonomy⟩**, specifically adopting the core insight of the "value systems theory" of **Spiral Dynamics**:
 
-- 人類「**價值觀**與**世界觀**」會隨著「**環境挑戰**與**複雜度**」的提升而演化。 
-- 不同「顏色層級」的價值系統，代表不同的「**思維模式**、**動機結構**與**行動邏輯**」。
-- 🌀「發展」是 **螺旋式**的，舊層級不會消失，而是被新層級包容與整合。
+- Human "**values**" and "**worldview**" evolve as "**environmental challenges**" and "**complexity**" increase. 
+- Value systems of different "color tiers" represent different "**thought patterns**, **motivational structures**, and **action logics**."
+- 🌀 "Development" is **spiral-shaped**: old tiers do not disappear, but are embraced and integrated by new tiers.
 
-這種層次區分強調了「**知行合一**」與「天**行健**，君子以**自強不息**」的整合系統觀，將**思維與行動**緊密結合。
+This tiered distinction emphasizes an integrated systems view of "**unity of knowledge and action**" and "heaven's motion is **vigorous**; the noble person **strives ceaselessly for self-improvement**," tightly binding **thought and action**.
 
-- 🔴 **核心圓**：「**生存本能與情緒驅動**」🚰🤝👨‍👩‍👧‍👦 
- - **功能：** 應對**物質層面**與**情緒需求**。透過**反應型心智**快速回應環境壓力，維持**最基本存續**。
- - **動詞«選項»：** 中低階動詞如 **生存**（基本生理）、**連結**（依附與安全感）、**掌控**（權力與自我主張），見⟨**全宇層8類**⟩。
-- 🟠 **中層圓**：「**制度協作與理性成就**」🎯🛠️🏛️
- - **功能：** 強調**個體與環境的理性互動**。行動透過**制度、規範與理性工具**來協調，建立跨系統的**合作模式**。
- - **動詞«選項»：** 中階動詞如 **歸屬**（社會角色與秩序）、**應用/達成**（理性計畫與成就導向），見⟨**全宇層8類**⟩。
-- 🟢 **外層圓**：「**系統創新與格局引導**」🪟🧭☯ 
- - **功能：** 對應**預設與湧現**行動。將行動視為**系統創新**的槓桿點，能夠在價值對齊過程中**重塑規則、引導格局演化**。
- - **動詞«選項»：** 高階動詞如 **脈絡化/系統化**（多元視角）、**對齊/策劃/整合**（跨領域策略）、**創構/理論化/引領**（新知建構），見 ⟨**全宇層8類**⟩。
+- 🔴 **Core Circle**: "**Survival instinct and emotion-driven**" 🚰🤝👨‍👩‍👧‍👦 
+ - **Function:** Responding to **material-level** and **emotional needs**. Rapidly responds to environmental pressure through a **reactive mind**, maintaining **basic survival**.
+ - **Verb «options»:** Lower/mid-tier verbs such as **survive** (basic physiology), **connect** (attachment and security), **control** (power and self-assertion), see ⟨**AQAL 8 Level Taxonomy**⟩.
+- 🟠 **Middle Circle**: "**Institutional collaboration and rational achievement**" 🎯🛠️🏛️
+ - **Function:** Emphasizes **rational interaction between the individual and the environment**. Action is coordinated through **institutions, norms, and rational tools**, building cross-system **collaboration patterns**.
+ - **Verb «options»:** Mid-tier verbs such as **belong** (social role and order), **apply/achieve** (rational planning and achievement-orientation), see ⟨**AQAL 8 Level Taxonomy**⟩.
+- 🟢 **Outer Circle**: "**Systemic innovation and guiding the overall configuration**" 🪟🧭☯ 
+ - **Function:** Corresponds to **presupposed and emergent** action. Regards action as a leverage point of **systemic innovation**, capable of **reshaping rules and guiding configuration evolution** during value alignment.
+ - **Verb «options»:** Higher-order verbs such as **contextualize/systematize** (pluralistic perspectives), **align/strategize/integrate** (cross-domain strategy), **construct/theorize/lead** (constructing new knowledge), see ⟨**AQAL 8 Level Taxonomy**⟩.
 
-**⟨世界系統力⟩** 可定義為：能夠整合**螺旋動力學**的價值系統與行動邏輯，在應對**環境挑戰與複雜度**的過程中，動態實踐知行合一並最終能「 _重塑規則、改變敘事，並引導整體格局的演化_ 」。
+**⟨World-System Capacity⟩** can be defined as: the capacity to integrate the value systems and action logic of **Spiral Dynamics**, dynamically practicing the unity of knowledge and action while responding to **environmental challenges and complexity**, ultimately able to "_reshape rules, change narratives, and guide the evolution of the overall configuration_."
 
-總結來說，三層圓的動詞«選項»與**螺旋動力學的價值系統**及 **⟨全宇層8類⟩** 緊密結合，為後續的「行動協奏」（Action Orchestration）奠定了完整的概念基礎，
+In summary, the verb «options» of the three-tiered circles are tightly bound to **Spiral Dynamics' value system** and **⟨AQAL 8 Level Taxonomy⟩**, laying a complete conceptual foundation for the subsequent "Action Orchestration."
 
-詳見[💪AI行動主客體🌌](#sec-action-orchestration)一節內容。
+See the section [💪AI Action Subjects and Objects🌌](#sec-action-orchestration) for details.
 
 ***
 
-## 🚰 AQAL 9 類🌌 {#sec-aqal-9-taxonomy}
+## 🚰AQAL 9 Level Taxonomy🌌 {#sec-aqal-9-taxonomy}
 
-此附錄較完整說明⟨**AQAL9類**⟩提供的**動詞**«選項»內容，又稱**全象限 9 層動詞**，以個體在世界中從**生存**、**連結**、**掌控**、**歸屬**、**應用/達成**、**脈絡化/系統化**、**對齊/策劃/整合**、**創構/理論化/引領**、**慈悲/超越** 等等具有宇宙時空尺度的行動層次。
+This section provides the **complete** version of ⟨AQAL 9 Level Taxonomy⟩ (an extension of the original 8, adding a life-course and demographic comparison) for reference and further study; if you only want to grasp the core verb grammar, the previous section ⟨AQAL 8 Level Taxonomy⟩ is sufficient — feel free to jump directly to [💪AI Action Subjects and Objects🌌](#sec-action-orchestration).
 
-需注意的是，原理論並沒有明確動詞，僅有「層次/階段」的發展描述，本書 ⟨**AQAL9類**⟩ 是參考，將[網民 PsychoMath AQAL理論延伸九層次**動詞**](https://x.com/ItIsHoeMath/status/1818342463599153419)層級轉化為動詞，以便應用於 AI 教育與工程：
+::: {.callout-note collapse=true title="📖 Expand: Complete Definitions of AQAL 9 Level Taxonomy and Life-Course/Demographic Comparison"}
 
-依據本書應用在人工智慧教育及工程的需要，將其中高階的動詞進行了變動：
+This appendix more fully explains the verb «options» content offered by ⟨**AQAL 9 Level Taxonomy**⟩, also known as the **full-quadrant, 9-tier verbs** — describing the individual's cosmic-scale action tiers in the world, from **survive**, **connect**, **control**, **belong**, **apply/achieve**, **contextualize/systematize**, **align/strategize/integrate**, **construct/theorize/lead**, to **compassion/transcendence**.
 
-5. 原**達成**（achieve）：**應用/達成**（achieve/apply）
-6. 原**理解**（understand）：**脈絡化/系統化**（contextualize/understand）多元-個人角色
-7. 原**和諧**（harmonize）：**對齊/策劃/整合**（align/strategize/integrate）自主戰略師角色
-8. 原**聖化**（sanctify）：**創構/理論化/引領**（construct/theorize/lead）意識到構建的魔術師角色
-9. 原**完整**（complete）：**慈悲/超越**（compassionate/transcend）此定義為作者詮釋，非共識
+Note that the original theory has no explicit verbs, only "tier/stage" developmental descriptions. This book's ⟨**AQAL 9 Level Taxonomy**⟩ is a reference, converting into verbs the [social-media user PsychoMath's nine-tier verb extension of AQAL theory](https://x.com/ItIsHoeMath/status/1818342463599153419), for application to AI education and engineering:
 
-本書總結⟨**AQAL9類**⟩如下表[@tbl-actions-9]，並摘要其對應的 **涉及象限**、**螺旋動力學SD 顏色層級** 及 **能力動態說明**：
+Based on this book's needs for application to AI education and engineering, some of the higher-order verbs have been modified:
+
+5. Original **achieve**: **apply/achieve**
+6. Original **understand**: **contextualize/systematize** (pluralistic-individual role)
+7. Original **harmonize**: **align/strategize/integrate** (autonomous-strategist role)
+8. Original **sanctify**: **construct/theorize/lead** (magician-role, aware of constructing)
+9. Original **complete**: **compassionate/transcend** (this definition is the author's own interpretation, not a consensus one)
+
+This book summarizes the ⟨**AQAL 9 Level Taxonomy**⟩ as shown in the table below [@tbl-actions-9], along with a summary of the corresponding **quadrants involved**, **Spiral Dynamics SD color tiers**, and **capacity-dynamics descriptions**:
   
-::: {.callout-note #nte-actions-9 title="🚰AQAL 九層動詞🪷：本書採用的延伸詮釋" collapse=false open=true .note}
+::: {.callout-note #nte-actions-9 title="🚰The Nine-Tier AQAL Verbs🪷: This Book's Extended Interpretation" collapse=false open=true .note}
 
-| 層級               | 動詞            | 涉及象限    | SD 顏色    | 能力動態說明                                                                                  |
+| Tier               | Verb            | Quadrants Involved    | SD Color    | Capacity-Dynamics Description                                                                                  |
 | :--------------- | :------------ | :------ | :------- | :-------------------------------------------------------------------------------------- |
-| 1.🥗🚰           | **生存**        | 客體、客體群  | ⚪ 米色     | 「**本能、感官、原始存在**」：涉及個體的**生理需求**的「它」（右上），以及外部**環境條件**的「它們」（右下），都是**客觀可測**。                |
-| 2.🤝💞           | **連結**        | 主體間、客體群 | 🟣 紫色    | 「**部落情感、神話歸屬**」：個體感知到**集體內在**的「我們」，尋求情感共鳴與安全感，**情緒**主導關係的建立，並依賴**外在環境**（如地緣、風俗、風土）鞏固集體。 |
-| 3.💪☸            | **掌控**        | 主體、客體群  | 🔴 紅色    | 「**權力主張、衝動行動**」：清晰的**個體意識**（內我）覺醒，強調**自我力量**，以衝動、支配的慾望來**征服**環境與他人，並作用於**外在客體**。        |
-| 4.🏘️👨‍👩‍👧‍👦 | **歸屬**        | 主體間、客體群 | 🔵 藍色    | 「**社會規範、道德秩序**」：重視**集體共識**和**外在體制**的「我們」，依循階級、律法與**社會角色**，強調群體認同與秩序。                    |
-| 5.🎯🛠️          | **應用/達成**     | 主體、客體   | 🟠 橙色    | 「**理性計畫、成功導向**」：**以科學、邏輯為工具**的「它」，追求**個人成就**與效率（內在「我」的目標），通過理性分析**客觀數據**來達成目標。          |
-| 6.🪞🪟           | **脈絡化/系統化**   | 主體間、客體群 | 💚 綠色    | 「**同理多元、文化敏感**」：同時考慮**多元價值**的「我們」（左下）和**複雜系統**的「它們」（右下），尋求平等與和諧。                        |
-| 7.🧭☯            | **對齊/策劃/整合**  | 全象限     | 💛 黃色    | 「**策略協調、動態平衡**」：開始意識到**全象限**的交互作用，以**邏輯與長遠視角**進行**跨領域**整合，解決複雜的系統性問題。                   |
-| 8.🚀⚛            | **創構/理論化/引領** | 全象限     | 🩵 青綠色   | 「**創造新知、理論建構**」：能夠**融會貫通**所有象限的**深層結構**，形成全新的**生命願景**和**理論模型**，並引導系統進化。                 |
-| 9.🪷⚜            | **慈悲/超越**     | 全象限     | 💜 珊瑚/靛藍 | **全球慈悲、宇宙圓融**」：超越二元對立，感知**全體存有**的**一體性**，以**無限的慈悲與智慧**，服務於整個宇宙的進化。                      |
-: 🚰AQAL 九層動詞🪷：本書採用的延伸詮釋 {#tbl-actions-9}
+| 1.🥗🚰           | **Survive**        | Object, Interobjective  | ⚪ Beige     | "**Instinct, senses, primal existence**": involves the individual's **physiological needs** — the "It" (upper right) — and external **environmental conditions** — the "Its" (lower right); both **objectively measurable**.                |
+| 2.🤝💞           | **Connect**        | Intersubjective, Interobjective | 🟣 Purple    | "**Tribal feeling, mythic belonging**": the individual perceives the interior collective "We," seeking emotional resonance and safety; **emotion** dominates relationship-building, relying on the **external environment** (e.g., geography, custom, local culture) to consolidate the collective. |
+| 3.💪☸            | **Control**        | Subject, Interobjective  | 🔴 Red    | "**Power assertion, impulsive action**": clear **individual consciousness** (inner "I") awakens, emphasizing **self-power**, using impulsive, dominating desire to **conquer** the environment and others, acting upon the **external object**.        |
+| 4.🏘️👨‍👩‍👧‍👦 | **Belong**        | Intersubjective, Interobjective | 🔵 Blue    | "**Social norms, moral order**": values the **collective consensus** and **external institutions** of the "We," following hierarchy, law, and **social roles**, emphasizing group identity and order.                    |
+| 5.🎯🛠️          | **Apply/Achieve**     | Subject, Object   | 🟠 Orange    | "**Rational planning, success-orientation**": the "It" — **using science and logic as tools** — pursues **personal achievement** and efficiency (the goal of the interior "I"), achieving goals through rational analysis of **objective data**.          |
+| 6.🪞🪟           | **Contextualize/Systematize**   | Intersubjective, Interobjective | 💚 Green    | "**Empathic pluralism, cultural sensitivity**": simultaneously considers the **pluralistic values** of the "We" (lower left) and the **complex systems** of the "Its" (lower right), seeking equity and harmony.                        |
+| 7.🧭☯            | **Align/Strategize/Integrate**  | All quadrants     | 💛 Yellow    | "**Strategic coordination, dynamic equilibrium**": begins to recognize the interplay of **all quadrants**, using **logic and a long-term perspective** for **cross-domain** integration, resolving complex systemic problems.                   |
+| 8.🚀⚛            | **Construct/Theorize/Lead** | All quadrants     | 🩵 Turquoise   | "**Creating new knowledge, theory-building**": able to **synthesize** the **deep structures** of all quadrants, forming an entirely new **life vision** and **theoretical model**, guiding systemic evolution.                 |
+| 9.🪷⚜            | **Compassion/Transcendence**     | All quadrants     | 💜 Coral/Turquoise-Indigo | "**Global compassion, cosmic harmony**": transcends dualistic opposition, perceiving the **oneness** of **all being**, serving the evolution of the entire universe with **infinite compassion and wisdom**.                      |
+: 🚰The Nine-Tier AQAL Verbs🪷: This Book's Extended Interpretation {#tbl-actions-9}
 
-此表幫助理解人類生命歷程中如何逐級展現能力，並帶有主客的世界觀。
+This table helps in understanding how humans progressively display capacity across the life course, carrying a subject-object worldview.
 :::
 
-::: {.callout-note #nte-actions-9-PsychoMath title="🚰AQAL 九層動詞🪷：PsychoMath 思維層次表 原文中文對照" collapse=false open=true .note}
+::: {.callout-note #nte-actions-9-PsychoMath title="🚰The Nine-Tier AQAL Verbs🪷: PsychoMath's Levels-of-Thought Table, Original Chinese Comparison" collapse=false open=true .note}
 
-| 階層 (LEVEL) | 🚀 驅動力 (URGE)       | 💡 目標 (GOAL)      | ⚖️ 道德 (MORALS)               | 🤔 關注點 (FOCUS)                                                                                                          |
+| LEVEL | 🚀 URGE       | 💡 GOAL      | ⚖️ MORALS               | 🤔 FOCUS                                                                                                          |
 | ---------- | ------------------- | ----------------- | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| 1          | 慾望 (Desire)         | 滿足 (Satisfy)      | 自私的 (Selfish)                | 我如何才能滿足這個需求？ (How Can I Satisfy This Need?)                                                                             |
-| 2          | 安撫 (Appease)        | 連結 (Connect)      | 施捨以求得 (Give In Order To Get) | 我的慾望和別人的慾望如何連結？ (How Can My Desires And Others Be Connected?)                                                           |
-| 3          | 控制 (Control)        | 力量 (Power)        | 我優先 (Me First)               | 我如何從連結中獲得權力？ (How Can I Gain Power From Connections?)                                                                   |
-| 4          | 服從 (Conform)        | 歸屬 (Belong)       | 唯一真理 (The One True Way)      | 我們可以同意遵循哪些規則來避免權力鬥爭？ (What Rules Can We Agree To Follow To Prevent Power Struggles?)                                    |
-| 5          | 成就 (Achieve)        | 成功 (Success)      | 全由你決定 (It's All Up To You)   | 我如何建立一種生活方式來實現成就感？ (How Do I Build A Lifestyle To Achieve Fulfillment?)                                                 |
-| 6          | **理解 (Understand)** | **包容 (Include)**  | 相互聯繫 (Interconnected)        | 我們如何納入、擁抱並肯定我們共同珍視的價值以達成相互理解？ (How Do We Include Embrace And Affirm What We All Value To Achieve Mutual Understanding?) |
-| 7          | 對齊 (Align)          | 整合 (Integrate)    | 自我覺察 (Self-Aware)            | 我們如何協調利益相關者的需求以達致和諧？ (How Can We Coordinate Stakeholders' Needs For Harmony?)                                           |
-| 8          | **綜效**(Synergize)   | **最大化**(Maximize) | 相互覺察 (Inter-Aware)           | 我如何最大化整體整合的系統？ (How Do I Maximize The Overall Integrated Systems?)                                                      |
-| 9          | 接受 (Accept)         | 完成 (Complete)     | 透明的 (Transparent)            | 接受每個人都在最大化自己的存在，我們如何共存？ (Accepting That Everyone Is Maximizing Their Own Existence, How Do We Co-Exist?)                |
-: 🚰AQAL 九層動詞🪷：PsychoMath 思維層次表 原文中文對照 {#tbl-actions-9-PsychoMath}
+| 1          | Desire         | Satisfy      | Selfish                | How Can I Satisfy This Need?                                                                             |
+| 2          | Appease        | Connect      | Give In Order To Get | How Can My Desires And Others Be Connected?                                                           |
+| 3          | Control        | Power        | Me First               | How Can I Gain Power From Connections?                                                                   |
+| 4          | Conform        | Belong       | The One True Way      | What Rules Can We Agree To Follow To Prevent Power Struggles?                                    |
+| 5          | Achieve        | Success      | It's All Up To You   | How Do I Build A Lifestyle To Achieve Fulfillment?                                                 |
+| 6          | **Understand** | **Include**  | Interconnected        | How Do We Include, Embrace, And Affirm What We All Value To Achieve Mutual Understanding? |
+| 7          | Align          | Integrate    | Self-Aware            | How Can We Coordinate Stakeholders' Needs For Harmony?                                           |
+| 8          | **Synergize**   | **Maximize** | Inter-Aware           | How Do I Maximize The Overall Integrated Systems?                                                      |
+| 9          | Accept         | Complete     | Transparent            | Accepting That Everyone Is Maximizing Their Own Existence, How Do We Co-Exist?                |
+: 🚰The Nine-Tier AQAL Verbs🪷: PsychoMath's Levels-of-Thought Table, Original Chinese Comparison {#tbl-actions-9-PsychoMath}
 
-本書大致採用其動詞選項，最主要不同在於第6層的 **理解 (Understand)** 改成 **脈絡化/系統化 (Contextualize)** ，第8層的 **綜效 (Synergize)** 改成 **創構/理論化/引領 (theorize/construct/lead)** 
+This book largely adopts these verb choices; the main difference is at Tier 6, where **Understand** is changed to **Contextualize**, and at Tier 8, where **Synergize** is changed to **theorize/construct/lead**.
 :::
 
-### –🪟原AQAL框架🌌
+### –🪟The Original AQAL Framework🌌
 
-**AQAL**（All Quadrants, All Levels, All Lines, All States, All Types）是肯·威爾伯（Ken Wilber）提出的**整體理論核心框架**，旨在提供一個全面的視角，整合人類意識、文化、行為與社會結構的發展與複雜性。
+**AQAL** (All Quadrants, All Levels, All Lines, All States, All Types) is the **holistic core framework** proposed by Ken Wilber, aiming to provide a comprehensive perspective integrating the development and complexity of human consciousness, culture, behavior, and social structure.
 
-它可用來描述：
+It can be used to describe:
 
-1. **個體意識**（I，個體內在）的**心智成長階梯**。
-2. **集體文化**（We，集體內在）的**價值觀與世界觀**進化階梯。
-3. **個體外在**（It，客觀物理）或**集體外在**（Its，社會系統與組織）的**結構與複雜度**進化階梯。  
+1. The **mental-growth ladder** of **individual consciousness** (I, individual interior).
+2. The evolutionary ladder of **values and worldview** of **collective culture** (We, collective interior).
+3. The evolutionary ladder of **structure and complexity** of **individual exterior** (It, objective physical) or **collective exterior** (Its, social systems and organizations).  
 
-簡而言之，全層次強調現實世界中的**所有事物**，無論是主觀體驗、客觀事實、文化價值或社會組織，都存在著**由簡單到複雜**、**由低階到高階**的發展與整合歷程。
+In short, this full-level view emphasizes that all things in the real world — whether subjective experience, objective fact, cultural values, or social organization — undergo a developmental and integrative process **from simple to complex**, **from low-order to high-order**.
 
-AQAL 框架透過以下五面向，全方位地理解和分析人類和世界萬物的外顯及心智活動：
+The AQAL framework provides a comprehensive way to understand and analyze the external and mental activities of humans and all things in the world, through the following five dimensions:
 
-- 🪟 **四個象限**（All Quadrants）：AQAL 模型的基礎，透過「內在／外在」與「個人／集體」兩對軸線，將經驗分為四個基本維度。    
-- 🪜 **所有層次**（All Levels）：在四象限中，意識、文化或系統組織所展現的**發展複雜度或進化深度**（例如從生存導向到系統整合的價值觀階梯）。    
-- 🛤️ **所有路線**（All Lines）：指在發展過程中，不同能力或特徵的**個別發展軌跡**（例如智力、情商、道德、心靈等不同領域的發展速度和路徑）。    
-- 🧘 **所有狀態**（All States）：指**暫時的經驗狀態**，例如意識的覺醒狀態、深度冥想或其他的暫時性心理狀態。    
-- 🧬 **所有類型 (All Types)**（All Types）：指在不同層次和路線中，可能出現的**不同類型的結構**，例如不同的動機類型、人格特徵（如 MBTI 或九型人格）。
+- 🪟 **All Quadrants**: the foundation of the AQAL model, dividing experience into four basic dimensions via two axes — "interior/exterior" and "individual/collective."    
+- 🪜 **All Levels**: within the four quadrants, the **developmental complexity or evolutionary depth** displayed by consciousness, culture, or systemic organization (e.g., a value ladder from survival-orientation to systemic integration).    
+- 🛤️ **All Lines**: the **individual developmental trajectories** of different capacities or traits during development (e.g., the differing pace and path of development across domains such as intelligence, emotional intelligence, morality, spirituality).    
+- 🧘 **All States**: **temporary experiential states**, such as states of awakened consciousness, deep meditation, or other temporary psychological states.    
+- 🧬 **All Types**: the **different types of structure** that may appear across different levels and lines, such as different motivation types or personality traits (e.g., MBTI or the Enneagram).
 
-AQAL 框架透過同時考慮個體內外、集體內外，以及在不同發展階段中的多種因素，提供了一個全面理解世界和個人複雜性的**總體框架**。
+By simultaneously considering interior and exterior, individual and collective, and multiple factors across different developmental stages, the AQAL framework offers an **overall framework** for comprehensively understanding the world and individual complexity.
 
-###  -⛵生命×人口🪂 {#sec-aqal-9-life-journey}
+###  -⛵Life × Demographics🪂 {#sec-aqal-9-life-journey}
 
-為了讓讀者對⟨**AQAL9類**⟩在現實生活中的意義有更直觀的感受，可以從「生命歷程」與「人口分布」兩個角度來理解。
+To give readers a more intuitive sense of the real-life significance of ⟨**AQAL 9 Level Taxonomy**⟩, we can approach it from two angles: "life course" and "demographic distribution."
 
-根據 AQAL 和螺旋動力學（Spiral Dynamics, SD）的標準理論進行調整後的版本。這個表格區分了**人生階段**與全球**人口分佈**，並採用了更貼近 SD 理論的全球估計百分比。
+The following is a version adjusted from the standard theories of AQAL and Spiral Dynamics (SD). This table distinguishes **life stages** from global **demographic distribution**, using global estimated percentages closer to SD theory.
 
-| 層級                    | 動詞            | 典型人生階段[^年齡]<br/>（Life Stage Focus） | 人口分佈<br/>（估計，非嚴格統計） |
+| Tier                    | Verb            | Typical Life Stage[^age]<br/>(Life Stage Focus) | Demographic Distribution<br/>(Estimated, not rigorous statistics) |
 | :-------------------- | ------------- | ---------------------------------- | ------------------- |
-| **1. 🥗🚰**           | **生存**        | 0–1 歲（**嬰兒期**）                     | **佔人口極少數 (約 0.1%)** |
-| **2. 🤝💞**           | **連結**        | 1–5 歲（**幼兒期**）                     | **約佔人口 10%**        |
-| **3. 💪☸**            | **掌控**        | 5–12 歲（**兒童/權力自我**）                | **約佔人口 20%**        |
-| **4. 🏘️👨‍👩‍👧‍👦** | **歸屬**        | 13–25 歲（**青少年/社會化**）               | **約佔人口 40%**        |
-| **5. 🎯🛠️**          | **應用/達成**     | 20 歲以上（**青年/追求成就**）                | **約佔人口 30%**        |
-| **6. 🪞🪟**           | **脈絡化/系統化**   | 25 歲以上（**壯年/同理多元**）                | **約佔人口 5–10%**      |
-| **7. 🧭☯**            | **對齊/策劃/整合**  | 40 歲以上（**中年/靈活策略**）                | **約佔人口 1%**         |
-| **8. 🚀⚛**            | **創構/理論化/引領** | 50 歲以上（**晚年/全象限願景**）               | **約佔人口 < 0.1%**     |
-| **9. 🪷⚜**            | **慈悲/超越**     | 極少數（**超越**）                        | **極稀有**             |
-: ⟨**AQAL9類**⟩ 人生階段與全球人口分佈 {#tbl-aqal-sd-distribution} 
+| **1. 🥗🚰**           | **Survive**        | 0–1 years (**Infancy**)                     | **A very small minority of the population (~0.1%)** |
+| **2. 🤝💞**           | **Connect**        | 1–5 years (**Toddlerhood**)                     | **~10% of the population**        |
+| **3. 💪☸**            | **Control**        | 5–12 years (**Childhood/power-ego**)                | **~20% of the population**        |
+| **4. 🏘️👨‍👩‍👧‍👦** | **Belong**        | 13–25 years (**Adolescence/socialization**)               | **~40% of the population**        |
+| **5. 🎯🛠️**          | **Apply/Achieve**     | 20+ years (**Youth/pursuit of achievement**)                | **~30% of the population**        |
+| **6. 🪞🪟**           | **Contextualize/Systematize**   | 25+ years (**Prime years/empathic pluralism**)                | **~5–10% of the population**      |
+| **7. 🧭☯**            | **Align/Strategize/Integrate**  | 40+ years (**Midlife/flexible strategy**)                | **~1% of the population**         |
+| **8. 🚀⚛**            | **Construct/Theorize/Lead** | 50+ years (**Later life/full-quadrant vision**)               | **< 0.1% of the population**     |
+| **9. 🪷⚜**            | **Compassion/Transcendence**     | Very rare (**Transcendence**)                        | **Extremely rare**             |
+: ⟨**AQAL 9 Level Taxonomy**⟩ Life Stage and Global Demographic Distribution {#tbl-aqal-sd-distribution} 
 
-[^年齡]: 年齡僅為典型最早出現時間點，而非必然進程
+[^age]: Ages represent only the typical earliest point of emergence, not a necessary progression.
 
-值得注意的是，**AQAL/螺旋動力學** 模型中，**成人發展階段**與**童年發展階段**有根本區別，
-對於層級 5 之後的階段沒有明確的年齡上限，主要是因為發展的驅動力從「**生物成熟**」轉變為「**心理與存在挑戰**」，表裡的年齡僅代表「潛在最早時間點」。
+It is worth noting that, within the **AQAL/Spiral Dynamics** model, there is a fundamental distinction between **adult developmental stages** and **childhood developmental stages**. There is no clear upper age limit for tiers after Tier 5, mainly because the driving force of development shifts from "**biological maturation**" to "**psychological and existential challenge**"; the ages in the table represent only "the potential earliest point in time."
 
-**橙色 (🟠)** 及以上的層次是**價值觀和認知複雜性**的發展，不應與特定的**中年或老年**劃等號。許多人在 20 多歲就能達到**橙色**（追求成就）甚至**綠色**（追求平等）。將**對齊（💛）** 和 **創構（🩵）** 定為中年和老年，雖然反映了其所需的人生經驗積累，但會使層次看起來像是純粹的年齡進程，而非**結構性進化**。實際情況會和社會的具體人口結構及人類發展情勢相互影响。
+Tiers **Orange (🟠)** and above represent the development of **values and cognitive complexity**, and should not be equated with a specific **midlife or old age**. Many people reach **Orange** (pursuit of achievement) or even **Green** (pursuit of equality) in their 20s. Placing **Align (💛)** and **Construct (🩵)** at midlife and old age, while reflecting the life experience they typically require, risks making the tiers look like a purely age-based progression rather than a **structural evolution**. The actual situation interacts with a society's specific demographic structure and human-development context.
 
-此外，不管年紀，人每日仍需吃喝休息，所以再按時間分佈的細化的話，人類的**時間與認知資源**必然分佈在較低的層次：
+Moreover, regardless of age, people still need to eat, drink, and rest every day — so if we further break this down by time distribution, humanity's **time and cognitive resources** inevitably concentrate at the lower tiers:
 
-- **基礎層次（1-4 級：生存、連結、掌控、歸屬）：** 每日大部分精力仍用於**維持基本生存、處理即時情緒、維護家庭/社會角色**。這需要大量的**反應型 (🐸⚡) 和情緒－關係型 (🐘💞)** 心智活動。    
-- **高階層次（5 級以上：應用、策劃、創構）：** 這些活動需要大量的**反思－符號型 (🧘☸️)** 心智投入，屬於高成本、低頻率的認知行為，因此即使是高階人才，每天用於「理論化」的時間也是極少的。
+- **Foundational tiers (1–4: survive, connect, control, belong):** most daily energy is still spent on **maintaining basic survival, handling immediate emotions, and maintaining family/social roles**. This requires a great deal of **reactive (🐸⚡) and emotional-relational (🐘💞)** mental activity.    
+- **Higher tiers (5+: apply, strategize, construct):** these activities require a great deal of **reflective-symbolic (🧘☸️)** mental investment — a high-cost, low-frequency cognitive behavior. Thus, even for high-level talents, the time spent daily on "theorizing" is extremely limited.
 
-簡而言之，童年發展是**規定動作**，成人發展則是**選修課程**。
+In short, childhood development is a **required course**, while adult development is an **elective one**.
 
-### –🪟應用領域🎓
+### –🪟Fields of Application🎓
 
-相比於傳統的知識分類如**布魯姆分類學**（Bloom's Taxonomy），AQAL 涵蓋更廣，能將**情感、文化、行為**等未被納入的面向整合進來，形成更完整的學習與分析地圖。本書將其應用在人工智能的學習及工程應用。
+Compared to traditional knowledge taxonomies such as **Bloom's Taxonomy**, AQAL covers more ground, integrating dimensions such as **emotion, culture, and behavior** that were left out, forming a more complete map for learning and analysis. This book applies it to the learning and engineering applications of artificial intelligence.
 
-以下是 AQAL 框架的主要應用領域：
+The following are the main fields of application of the AQAL framework:
 
-- 🧍‍♂️ **個人成長與心理學**：通過應用 AQAL 模型，可以更全面地理解個人的**心理成長**、**自我發展**和**人格特徵**，涵蓋其內在意識與外顯行為。    
-- 🤝 **社會與文化分析**：該模型可用於分析**文化發展**、**社會結構**和**群體價值觀**的演變，理解集體層次的內在意義和外在系統。    
-- 🎓 **教育與學習設計**：為不同年齡層的學習者提供**全景式課程**和**學習模組**，以促進其認知、情感和道德的**全面發展**。    
-- 🤖 **人工智能教育及工程**：**本書示範**如何運用 AQAL 框架，以指引 AI 系統的**動態創新**、**系統設計**、與**價值觀對齊**（倫理約束），確保 AI 的發展能涵蓋技術（It/Its）與意識（I/We）的面向。
+- 🧍‍♂️ **Personal Growth & Psychology**: Applying the AQAL model allows a more comprehensive understanding of an individual's **psychological growth**, **self-development**, and **personality traits**, covering both inner consciousness and outward behavior.    
+- 🤝 **Social & Cultural Analysis**: The model can be used to analyze the evolution of **cultural development**, **social structure**, and **group values**, understanding both the inner meaning and outer systems at the collective level.    
+- 🎓 **Education & Learning Design**: Provides **panoramic curricula** and **learning modules** for learners of different ages, promoting **comprehensive development** across cognition, emotion, and morality.    
+- 🤖 **AI Education and Engineering**: **This book demonstrates** how to apply the AQAL framework to guide the **dynamic innovation**, **system design**, and **value alignment** (ethical constraint) of AI systems, ensuring that AI development covers both technical (It/Its) and conscious (I/We) dimensions.
 
 
-<!--💪AI行動主客體🌌-->
+<!--💪AI Action Subjects and Objects🌌-->
 
-## 💪AI行動主客體🌌 {#sec-action-orchestration}
 
-「行動協奏」（Action Orchestration）涉及**如何編排行動的主客體**，將**系統動態**視為一連串**協同行動**的實踐。
+:::
 
-動詞«選項»代表眾多可能性，賦予系統『**動力體現**』或『**意念具身**』的細化**編排**可能。
+## 💪AI Action Subjects and Objects🌌 {#sec-action-orchestration}
 
-為了處理人機主客體關係，分析的『行動協奏』**獲益與代價**，需要區分人類與機器的基本「行動模型」（Action Models），如下表所述：
+"Action Orchestration" concerns **how to orchestrate the subjects and objects of action**, treating **system dynamics** as the practice of a series of **coordinated actions**.
 
-::: {.callout-important #imp-action-models title="💪人機「行動模型」區分" collapse=false open=true}
+Verb «options» represent numerous possibilities, granting the system a refined **orchestration** capacity for "**embodied agency**" or "**embodied intent**."
 
-| 模型  | 👶人類行動模型💪<br/>（身體—心智—文化）| 🤖機器的行動模型🦾<br/>（內部表徵／世界模型）|
+To handle the subject-object relationship between humans and machines, and to analyze the **benefits and costs** of "Action Orchestration," we need to distinguish the basic "Action Models" of humans and machines, as described in the table below:
+
+::: {.callout-important #imp-action-models title="💪Distinguishing Human vs. Machine \"Action Models\"" collapse=false open=true}
+
+| Model  | 👶Human Action Model💪<br/>(Body—Mind—Culture)| 🤖Machine Action Model🦾<br/>(Internal Representation/World Model)|
 | :---------- | :------------------------------------ | :------------------------------- |
-| 🔥💧**驅動源** | 受身體限制（反應）、心智意圖（情感、符號）、文化規範（社會）三重場域制約。 | 主要來自演算法與資料驅動的**內部表徵**（世界模型）。  |
-| 🦾💪**特性**  | 具有「多層嵌套」特性，行動既是個體的，也是群體的。| 行動是對輸入的反應與對目標函數的優化，缺乏人類的倫理與情感脈絡。 |
-:  **💪人機「行動模型」區分** {#tbl-action-models}
+| 🔥💧**Drive Source** | Constrained by three fields: bodily limitation (reaction), mental intention (emotion, symbol), and cultural norms (society). | Primarily derived from algorithm- and data-driven **internal representations** (world models).  |
+| 🦾💪**Characteristics**  | Has a "multi-layered nested" nature: action is both individual and collective.| Action is a response to input and an optimization of an objective function, lacking human ethical and emotional context. |
+:  **💪Distinguishing Human vs. Machine "Action Models"** {#tbl-action-models}
 
-📌人機「行動模型」區分，有助於應用動詞«選項»，進行人機行動做細化、分析、及創新編排。
+📌 Distinguishing human vs. machine "action models" helps in applying verb «options» to refine, analyze, and innovatively orchestrate human and machine action.
 :::
 
-人類與機器的基本「行動模型」的顯著區分，在於所處環境脈絡對他們的**制約**、**驅動**、及**能動性**（Agency）。
+The salient distinction between the basic "action models" of humans and machines lies in the **constraint**, **drive**, and **agency** exerted by their environmental context.
 
-- 👶 **人類的行動模型**，具有「**身體—心智—文化**」三重「多層嵌套」； 
-- 🤖 **機器的行動模型**，具有如「**世界模型**」的**內部表徵**反應；
+- 👶 The **human action model** has a "multi-layered nesting" of "**body—mind—culture**"; 
+- 🤖 The **machine action model** has an internal-representation response such as a "**world model**";
 
-因此，「行動模型」豐富了對動詞«選項»的**情境脈絡理解及建模**，讓之前提的詞彙、語法、等等紥根到語用的使用環節，成為理解並執行「人類—機器—人機協作」三重行動模式的關鍵。
+The "action model" therefore enriches the **contextual understanding and modeling** of verb «options», grounding previously discussed vocabulary, grammar, and so on into the pragmatic dimension of usage — becoming key to understanding and executing the triad of "human—machine—human-machine collaboration" action patterns.
 
-### –🪄動態模型編排
+### –🪄Dynamic Model Orchestration
 
-事關系統創新，「動態模型編排」是將不同層次的動詞«選項»嵌入**系統動態**（System Dynamics）的語法，設計人機協作的行動機制，賦予**系統生命力**。
+For systemic innovation, "dynamic model orchestration" is the grammar of embedding verb «options» at different levels into **System Dynamics** — designing mechanisms for human-machine collaborative action, granting the **system vitality**.
 
-語法關鍵詞有：迴路（loops）、流動（flows）、槓桿點（leverage points）、延遲（delays）等。
+Key grammar terms include: loops, flows, leverage points, delays, and so on.
 
-> 用一套「**行動—迴路—結構**」的設計語法，把相關的動詞«選項»構建或影響人機系統的動態
+> Using a design grammar of "**action—loop—structure**," relevant verb «options» construct or influence the dynamics of human-machine systems
 
-::: {.callout-important #imp-action-loop-structure title="🔗動詞分類與系統迴路" collapse=false open=true .note}
+::: {.callout-important #imp-action-loop-structure title="🔗Verb Categories and System Loops" collapse=false open=true .note}
 
-| ✨行動類型| 🔥💧範疇／功能| 🔄對應系統迴路 | 🦾💪動詞範例 |
+| ✨Action Type| 🔥💧Scope/Function| 🔄Corresponding System Loop | 🦾💪Example Verbs |
 | :------------ | :------------ | :------------ | :-------- |
-| 🧍**單一主體行動**<br/>（R/B 迴路的觸發） | **對環境的直接系統作用**，常生成累積或校正效應。  | **強化迴路**（R）累積效應 或 **平衡迴路**（B）自我校正。 | 「生存」、「應用」、「達成」 |
-| 🤝**互動行動**<br/>（資訊流與治理節點） | **主體與群體中的共識與約束**，建立資訊流與規範流。 | 負責建立**資訊流**與**規範流**，提升協作增益。| 「連結」、「協作」、「對齊」 |
-| 🌀**湧現行動**<br/>（跨層整合與結構變更）| **跨層整合與結構變更**，重塑規則與敘事。| 改變**系統結構**，重塑**迴路拓撲**。| 「創構」、「引領」、「超越」 |
-:  **🪄 動態模型編排** {#tbl-dynamic-orchestration}
+| 🧍**Single-Subject Action**<br/>(triggering R/B loops) | **Direct systemic effect on the environment**, often generating cumulative or corrective effects.  | **Reinforcing loop** (R), cumulative effect; or **balancing loop** (B), self-correction. | "Survive," "Apply," "Achieve" |
+| 🤝**Interactive Action**<br/>(information flow and governance nodes) | **Consensus and constraint among subjects and groups**, establishing information flow and normative flow. | Responsible for establishing **information flow** and **normative flow**, increasing collaborative gains.| "Connect," "Collaborate," "Align" |
+| 🌀**Emergent Action**<br/>(cross-tier integration and structural change)| **Cross-tier integration and structural change**, reshaping rules and narratives.| Changes **system structure**, reshapes **loop topology**.| "Construct," "Lead," "Transcend" |
+:  **🪄Dynamic Model Orchestration** {#tbl-dynamic-orchestration}
 
-📌 動詞«選項»構建行動**迴路**或影響人機系統的動態。
+📌 Verb «options» construct action **loops** or influence the dynamics of human-machine systems.
 :::
 
-由於機器缺乏「自主設定目標」的能力，這種構建或影響的高階行動的必然是人為引導，因此總結的「**行動—迴路—結構**」的設計語法，可以用來描述並干預人機系統的動態。
+Since machines lack the capacity for "autonomous goal-setting," these higher-order actions of constructing or influencing loops must inevitably be human-guided. The resulting design grammar of "**action—loop—structure**" can thus be used to describe and intervene in the dynamics of human-machine systems.
 
-具體高層次的動詞«選項»如「**脈絡化**」、「**對齊**」、「**創構**」等，必須由人類在「**目標函數、規則集合、資訊可見性**」等層面設計與監督，確保迴路內的各決策及執行的節點，能產出符何期望的系統動態。
+Concrete higher-level verb «options» such as "**contextualize**," "**align**," "**construct**," must be designed and supervised by humans at the levels of "**objective function, rule set, information visibility**," ensuring that each decision and execution node within the loop produces system dynamics that meet expectations.
 
-### –🧭自主設定目標
+### –🧭Autonomous Goal-Setting
 
-由於機器缺乏**自主設定目標**的能力，全宇層 8 類的高階**動詞«選項»**（如**脈絡化/系統化**、**對齊/策劃/整合**、**創構/引領**等）成為「行動協奏」中**人為引導和設計**的必然。
+Since machines lack the capacity for **autonomous goal-setting**, the higher-order **verb «options»** of the AQAL 8 Level Taxonomy (such as **contextualize/systematize**, **align/strategize/integrate**, **construct/lead**) inevitably require **human guidance and design** within "Action Orchestration."
 
-這些高階動詞對於以下核心 AI 問題意識尤為重要：
+These higher-order verbs are especially important to the following core AI problematics:
 
-* 🔤⚓ [符碼紮根問題](01-03-Symbol_Grounding_Problem.qmd)：以「脈絡化」「體現」「對應」強化符號—世界的映射與感知回饋。
-* 🖼️⏱️ [框架問題](01-04-Frame_Problem.qmd)：以「界定」「聚焦」「篩選」設定邊界與注意力分配，管理延遲與錯誤擴散。
-* 👁️⯊ [完形心理](01-05-Gestalt_Psychology.qmd)：以「補全」「整合」「重構」在資訊缺口中穩定表徵，避免偏誤強化。
-* 🎯🛡️ [對齊與控制問題](01-06-Alignment_Control_Problem.qmd)：以「對齊」「規範」「約束」維持**平衡迴路**與可控性，防止獎勵駭客。
-*  🗫🎲 [語言賽局](01-07-Language_Games.qmd)：以「協商」「詮釋」「共構」調節多主體互動與意義生成的**互動迴路**。
+* 🔤⚓ [Symbol Grounding Problem](01-03-Symbol_Grounding_Problem.en.qmd): using "contextualize," "embody," and "correspond" to strengthen the mapping between symbol and world and perceptual feedback.
+* 🖼️⏱️ [Frame Problem](01-04-Frame_Problem.en.qmd): using "delimit," "focus," and "filter" to set boundaries and allocate attention, managing delay and error propagation.
+* 👁️⯊ [Gestalt Psychology](01-05-Gestalt_Psychology.en.qmd): using "fill in," "integrate," and "reconstruct" to stabilize representation amid information gaps, avoiding bias reinforcement.
+* 🎯🛡️ [Alignment & Control Problem](01-06-Alignment_Control_Problem.en.qmd): using "align," "regulate," and "constrain" to maintain **balancing loops** and controllability, preventing reward hacking.
+*  🗫🎲 [Language Games](01-07-Language_Games.en.qmd): using "negotiate," "interpret," and "co-construct" to regulate the **interactive loop** of multi-subject interaction and meaning generation.
 
-###  –⚙️管線與槓桿點
+###  –⚙️Pipelines and Leverage Points
 
-本書以「競合賽局」與「格局」為框架，將行動視為對迴路與結構的**策略性介入**：用正確的動詞«選項»在正確的槓桿點上出手，讓系統動態走向可持續的均衡與創新。
+This book uses "coopetition games" and "framing" as frameworks, treating action as a **strategic intervention** into loops and structures: applying the right verb «options» at the right leverage points to guide the system dynamics toward sustainable equilibrium and innovation.
 
-其中，「**行動協奏**」的**系統管線**，通常有六個階段動詞«選項»（詳見🪜[能力](appendix-cognitive_capacity.qmd)）：
+Among these, the **system pipeline** of "**Action Orchestration**" typically comprises six stage-verb «options» (see 🪜[Capacity](appendix-cognitive_capacity.en.qmd) for details):
 
-- 👁️ **感知** 或 🛰**感測**（Sense）：「探測」「收集」有關的自身及環境信息，是世界映射與感知回饋的重要基礎。 
-- 🧠 **解譯** 或 🪟**框定** （Interpret）：「分析」、「脈絡化」原始數據，將其轉化為**可用的知識存量**。  
-- 🗺️ **規劃**（Plan）：「策劃」、「對齊」、「整合」，用於**配置結構與資源**，制定行動方案。 
-- 🔨 **執行**（Act）：「應用」、「協作」、「達成」，**觸發**強化迴路（R）或平衡迴路（B）。 
-- ✅ **評估**（Evaluate）：「監測」、「校準」，用於**調節**迴路增益與監控結果。 
-- 🔄 **調適**（Adapt）：「重構」、「引領」、「超越」，在**槓桿點上更新**目標與規則。
+- 👁️ **Sense** or 🛰**Sensing**: "detecting" and "collecting" relevant information about the self and the environment — an important basis for world-mapping and perceptual feedback. 
+- 🧠 **Interpret** or 🪟**Frame**: "analyzing" and "contextualizing" raw data, converting it into a **usable knowledge stock**.  
+- 🗺️ **Plan**: "strategizing," "aligning," "integrating," used to **configure structure and resources** and formulate action plans. 
+- 🔨 **Act**: "applying," "collaborating," "achieving," **triggering** reinforcing (R) or balancing (B) loops. 
+- ✅ **Evaluate**: "monitoring," "calibrating," used to **regulate** loop gain and monitor outcomes. 
+- 🔄 **Adapt**: "reconstructing," "leading," "transcending" — **updating** goals and rules at **leverage points**.
 
-「**行動協奏**」的系統槓桿點，對應的**高階動詞**如下（從弱到強）：
+The corresponding **higher-order verbs** at the system leverage points of "**Action Orchestration**" are as follows (from weak to strong):
 
-- ⚙️ **參數調整**：校準（Calibrate）、微調（Fine-tune）、調整（Adjust）、設定（Configure） 
-- 📈 **回饋增益**：強化（Reinforce）、擴大（Amplify）、加速（Accelerate）、推升（Boost）、促進（Facilitate） 
-- 📉 **回饋糾偏**：抑制（Suppress）、抵消（Counteract）、減緩（Decelerate）、修正（Correct）、緩衝（Buffer） 
-- 🔀 **資訊流**：揭示（Disclose）、分享（Share）、追蹤（Track）、同步（Synchronize）、導引（Channel） 
-- 📜 **規則與激勵**：設計（Design）、約束（Constrain）、重訂（Redefine）、調控（Regulate）、激勵（Incentivize） 
-- 🎯 **目標與敘事**：對齊（Align）、改寫（Rewrite）、引領（Lead）、塑造（Shape）、啟動（Initiate）
+- ⚙️ **Parameter Adjustment**: Calibrate, Fine-tune, Adjust, Configure 
+- 📈 **Feedback Gain**: Reinforce, Amplify, Accelerate, Boost, Facilitate 
+- 📉 **Feedback Correction**: Suppress, Counteract, Decelerate, Correct, Buffer 
+- 🔀 **Information Flow**: Disclose, Share, Track, Synchronize, Channel 
+- 📜 **Rules & Incentives**: Design, Constrain, Redefine, Regulate, Incentivize 
+- 🎯 **Goals & Narrative**: Align, Rewrite, Lead, Shape, Initiate
 
-總之，**行動協奏**的六個階段管線，搭配對應**槓桿點**的高階動詞，為 AI 系統的動態行為提供了**細緻的操作語法**，確保其演進能被策略性地引導和設計。
+In short, the six-stage pipeline of **Action Orchestration**, paired with the higher-order verbs at their corresponding **leverage points**, provides a **fine-grained operational grammar** for the dynamic behavior of AI systems, ensuring that its evolution can be strategically guided and designed.
 
-### –🎭AI未來動態
+### –🎭AI Future Dynamics
 
-**行動協奏**與系統動態的結合，將 AI 核心問題連結到一系列關於整體「AI 未來」的假說。
+The combination of **Action Orchestration** and system dynamics connects the core problems of AI to a series of hypotheses about the overall "future of AI."
 
-動詞«選項»在此被延伸為「對齊」、「共享」、「壟斷」、「分裂」、「普及」等**行動與動態的假說詞彙**，構成未來 AI **系統動態**的多重敘事：
+Here, verb «options» are extended into a hypothesis-vocabulary of "**action and dynamics**" — "align," "share," "monopolize," "fragment," "universalize" — constituting multiple narratives of future AI **system dynamics**:
 
-::: {.callout-note #nte-world-model-llm-future title="🎭AI 未來「**行動協奏**」系統動態" collapse=false open=true .note}
+::: {.callout-note #nte-world-model-llm-future title="🎭AI Future \"Action Orchestration\" System Dynamics" collapse=false open=true .note}
 
-「AI 未來」各假說的「**行動協奏**」系統動態：
+The "Action Orchestration" system dynamics of each "AI Future" hypothesis:
 
-- 💥 **[AI 對齊崩潰假說](glossary.qmd#ai-alignment-collapse)**：若 AI 的編排的行動動態，最終無法「對齊」人類價值，系統可能進入**負回饋失衡**，導致崩潰；或在新的規範下形成**新均衡秩序**。
-- 🌐 **[AI 公共財假說](glossary.qmd#ai-commons-hypothesis)**：若 AI 的編排的行動動態鼓勵普遍「共享」，系統可能陷入**公共財悲劇**（過度使用、資源枯竭）；因此需要設計「治理」「協商」「分配」等來建立**正回饋的協作機制**。
-- 👑 **[AI 帝國假說](glossary.qmd#ai-empire-hypothesis)**：若 AI 的行動被「壟斷」於少數權力中心，系統會出現**強化循環**（reinforcing loop），少數行動者不斷積累資源與控制力，導致**權力集中化**與不對稱動態。
-- ⚔️ **[AI 部落化／碎片化假說](glossary.qmd#ai-tribalization-fragmentation)**：若不同群體各自定義 AI 的行動，系統出現**分裂迴路**，形成彼此之間缺乏「對齊」「協作」的子系統，導致**碎片化動態**。
-- 🚰 **[AI 公用事業假說](glossary.qmd#ai-utilities-hypothesis)**：若 AI 成為日常生活「**普及**」基礎設施，會趨向**穩定化迴路**，如同水電形成「高依賴」供應，但也可能因過度依賴而降低韌性。
+- 💥 **[AI Alignment Collapse Hypothesis](glossary.en.qmd#ai-alignment-collapse)**: If the dynamics of AI's orchestrated action ultimately fail to "align" with human values, the system may enter **negative-feedback imbalance**, leading to collapse; or, under new norms, form a **new equilibrium order**.
+- 🌐 **[AI Commons Hypothesis](glossary.en.qmd#ai-commons-hypothesis)**: If the dynamics of AI's orchestrated action encourage universal "sharing," the system may fall into a **tragedy of the commons** (overuse, resource depletion); "governance," "negotiation," and "allocation" must therefore be designed to establish a **positive-feedback collaboration mechanism**.
+- 👑 **[AI Empire Hypothesis](glossary.en.qmd#ai-empire-hypothesis)**: If AI's action is "monopolized" by a small number of power centers, the system will exhibit a **reinforcing loop**, with a small number of actors continually accumulating resources and control, leading to **power centralization** and asymmetric dynamics.
+- ⚔️ **[AI Tribalization/Fragmentation Hypothesis](glossary.en.qmd#ai-tribalization-fragmentation)**: If different groups each define AI's action differently, the system develops **fragmentation loops**, forming subsystems lacking mutual "alignment" and "collaboration," leading to **fragmented dynamics**.
+- 🚰 **[AI Utilities Hypothesis](glossary.en.qmd#ai-utilities-hypothesis)**: If AI becomes a "universalized" everyday infrastructure, it will tend toward a **stabilizing loop**, forming a "high-dependency" supply akin to water or electricity — but this may also reduce resilience through over-reliance.
 ::: 
 
-因此可以說，這些動詞«選項»既能檢驗 AI 系統及世界交互，也能預見未來智能社會動態。如此，每個假說都能被視為一種 **系統動態模型**：
+Thus, it can be said that these verb «options» can both examine AI systems' interaction with the world, and foresee the dynamics of future intelligent society. In this light, each hypothesis can be viewed as a **system-dynamics model**:
 
-- ⚖「對齊」＝ **平衡回饋**的維持或失敗 
-- 🤝「共享」＝ **協作治理**的設計 
-- 👑「壟斷」＝ **強化循環**的集中化 
-- ⚔️「分裂」＝ **碎片化迴路**的多重均衡 
-- 🚰「普及」＝ **穩定化迴路**的基礎設施化
+- ⚖"Align" ＝ the maintenance or failure of **balancing feedback** 
+- 🤝"Share" ＝ the design of **collaborative governance** 
+- 👑"Monopolize" ＝ the centralization of a **reinforcing loop** 
+- ⚔️"Fragment" ＝ the multiple equilibria of a **fragmentation loop** 
+- 🚰"Universalize" ＝ the infrastructuring of a **stabilizing loop**
 
-### –⮔ AI未來因果
+### –⮔AI Future Causality
 
-上節討論可以進一步產出**因果迴路**（Causal Loop Diagram），直觀地看到動詞«選項»如何驅動各種不同的未來路徑，其中：
+The discussion in the previous section can further generate a **Causal Loop Diagram**, intuitively showing how verb «options» drive different future paths, where:
 
-- 核心**動詞«選項»** 是驅動因果迴路的「槓桿詞」。 
-- **系統動態A** 與 **系統動態B** 對應不同的迴路走向（惡性 vs 良性、失衡 vs 均衡）。
+- Core **verb «options»** are the "leverage words" driving the causal loop. 
+- **System Dynamics A** and **System Dynamics B** correspond to different loop trajectories (vicious vs. virtuous, imbalanced vs. equilibrium).
 
-[如下](#tip-world-model-llm-future-cld)[@tbl-world-model-llm-future-cld]所述，不同的AI 未來假說都能用因果迴路解釋，並至少能生成兩種情境發展。
+As [shown below](#tip-world-model-llm-future-cld)[@tbl-world-model-llm-future-cld], each AI-future hypothesis can be explained via a causal loop, and each generates at least two possible scenarios.
 
-::: {.callout-tip #tip-world-model-llm-future-cld title="⮔ AI 假說因果迴路" collapse=false open=false }
+::: {.callout-tip #tip-world-model-llm-future-cld title="⮔ AI Hypothesis Causal Loops" collapse=false open=false }
 
-| 假說 | 核心動詞«選項» | 🌞系統動態 情境A | 🌬系統動態 情境B|
+| Hypothesis | Core Verb «options» | 🌞System Dynamics Scenario A | 🌬System Dynamics Scenario B|
 | ------------ | ----------- | ---------------- | ---------------- |
-| 💥 AI 對齊崩潰假說 | 對齊／偏離／修正 | 負回饋失衡 → 偏差累積 → 崩潰| 平衡回饋 → 修正有效 → 新秩序形成  |
-| 🌐 AI 公共財假說  | 共享／治理／分配 | 過度共享 → 公共財悲劇 → 資源枯竭 | 協作治理 → 正回饋協作 → 可持續共享 |
-| 👑 AI 帝國假說| 壟斷／集中／控制 | 強化循環 → 權力集中化| 不對稱動態 → 帝國系統韌性下降  |
-| ⚔️ AI 部落化／碎片化假說 | 分裂／對抗／協商 | 分裂迴路 → 多個局部均衡 | 協商對齊 → 系統整合  |
-| 🚰 AI 公用事業假說 | 普及／依賴／穩定 | 普及 → 穩定化迴路 → 基礎設施化  | 過度依賴 → 脆弱性增加 → 韌性下降  |
-: ⮔ AI 未來假說因果迴路 {#tbl-world-model-llm-future-cld}
+| 💥 AI Alignment Collapse Hypothesis | Align/Deviate/Correct | Negative feedback imbalance → deviation accumulation → collapse| Balancing feedback → effective correction → new order forms  |
+| 🌐 AI Commons Hypothesis  | Share/Govern/Allocate | Over-sharing → tragedy of the commons → resource depletion | Collaborative governance → positive-feedback collaboration → sustainable sharing |
+| 👑 AI Empire Hypothesis| Monopolize/Centralize/Control | Reinforcing loop → power centralization| Asymmetric dynamics → declining empire-system resilience  |
+| ⚔️ AI Tribalization/Fragmentation Hypothesis | Fragment/Oppose/Negotiate | Fragmentation loop → multiple local equilibria | Negotiated alignment → system integration  |
+| 🚰 AI Utilities Hypothesis | Universalize/Depend/Stabilize | Universalize → stabilizing loop → infrastructuring  | Over-dependence → increased fragility → declining resilience  |
+: ⮔ AI Future Hypotheses' Causal Loops {#tbl-world-model-llm-future-cld}
 :::
 
-AI 未來假說，可以用動詞及因果迴路進行動態描述，展示了動詞«選項»加系統分析能掌握系統動態變化的成果，這對❝編排❞協作具有啟發意義。
+The futures of AI can be dynamically described through verbs and causal loops, demonstrating that verbs «options» combined with systems analysis can capture the outcomes of systemic-dynamic change — offering insight for ❝orchestrated❞ collaboration.
 
-## 🪜❝編排❞協作🎭
+## 🪜❝Orchestrated❞ Collaboration🎭
 
-回顧本篇附錄集，我們從動詞«選項»的同心圓體系出發，逐步開展「行動的主客體」與「動態模型編排」。這路徑正如《🧠心智》中的逐級❝鍛練❞心智，但在此強調的是：**如何編排協作行動，並在系統動態中創新**。
+Looking back over this appendix collection, we started from the concentric-circle system of verb «options», progressively unfolding "the subjects and objects of action" and "dynamic model orchestration." This path parallels the progressive ❝training❞ of the mind in 《🧠Mind》, but here the emphasis is: **how to orchestrate collaborative action and innovate within system dynamics**.
 
-**1️⃣ 系統動態的同心圓體系**
+**1️⃣ The Concentric-Circle System of System Dynamics**
 
-- 🔹 **核心層（單一主體行動）**：強調「生存」「應用」「達成」等動詞，對應個體在系統中的直接作用，形成最基本的**強化迴路**與**平衡迴路**。
-- 🔸 **中層（互動行動）**：強調「連結」「協作」「對齊」等動詞，對應群體間的資訊流與規範流，形成**協作治理迴路**，避免失衡與衝突。
-- 🔺 **外層（湧現行動）**：強調「創構」「引領」「超越」等動詞，對應跨群體與跨層級的結構變革，觸發**湧現性創新迴路**，重塑整體格局。
+- 🔹 **Core Tier (single-subject action)**: emphasizes verbs such as "survive," "apply," "achieve," corresponding to the direct effect of an individual within the system, forming the most basic **reinforcing** and **balancing loops**.
+- 🔸 **Middle Tier (interactive action)**: emphasizes verbs such as "connect," "collaborate," "align," corresponding to information flow and normative flow among groups, forming a **collaborative governance loop** that avoids imbalance and conflict.
+- 🔺 **Outer Tier (emergent action)**: emphasizes verbs such as "construct," "lead," "transcend," corresponding to structural change across groups and tiers, triggering an **emergent innovation loop** that reshapes the overall configuration.
 
-**2️⃣ 系統創新的逐級槓桿**
+**2️⃣ The Progressive Levers of Systemic Innovation**
 
-- ⚙️ **參數調整**：以「迭代」「優化」等，對應短期修正。
-- 📈 **回饋增益**：以「強化」「抑制」等，調整迴路的增益與延遲。
-- 🔀 **資訊流設計**：以「揭示」「可視化」等，提升可見度及系統學習力。
-- 📜 **規則與激勵**：以「設計」「約束」「界定」等，重構規範與激勵結構。
-- 🎯 **目標與敘事**：以「對齊」「共識」「引領」等，重新定義目標與方向。
-- 🔄 **變革觸發器**：以「引導」「加速」等，觸發系統或組織變革。
+- ⚙️ **Parameter Adjustment**: "iterate," "optimize," etc., corresponding to short-term correction.
+- 📈 **Feedback Gain**: "reinforce," "suppress," etc., adjusting loop gain and delay.
+- 🔀 **Information Flow Design**: "disclose," "visualize," etc., increasing visibility and systemic learning capacity.
+- 📜 **Rules & Incentives**: "design," "constrain," "delimit," etc., reconstructing norms and incentive structures.
+- 🎯 **Goals & Narrative**: "align," "reach consensus," "lead," etc., redefining goals and direction.
+- 🔄 **Change Triggers**: "guide," "accelerate," etc., triggering systemic or organizational change.
 
-**3️⃣ 協作的未來格局**
+**3️⃣ The Future Configuration of Collaboration**
 
-- 👶 **人類的協作**：以「文化」「倫理」「情感」為基礎，進行行動編排。
-- 🤖 **機器的協作**：以「演算法」「模型」「優化」為基礎，透過數據與規則進行行動編排。
-- 🤝 **人機協作**：以「共構」「協商」「對齊」為基礎，透過動詞«選項»的語法，以人類社會組織個體及群體的「意圖」甚至是「意志」，將人類的價值與機器的效率結合，形成新的社會-技術系統的**系統動態**。
+- 👶 **Human Collaboration**: action orchestration based on "culture," "ethics," "emotion."
+- 🤖 **Machine Collaboration**: action orchestration through data and rules, based on "algorithm," "model," "optimization."
+- 🤝 **Human-Machine Collaboration**: based on "co-construction," "negotiation," "alignment," using the grammar of verb «options» to organize the "intent," even "will," of human society's individuals and groups — combining human values with machine efficiency to form the **system dynamics** of a new socio-technical system.
 
-**4️⃣ 獲益、代價與創新**
+**4️⃣ Benefits, Costs, and Innovation**
 
-- 🌟 **獲益**：逐級編排協作，讓人機系統展現複雜環境適應性與創新力。
-- ⚡ **代價**：若對齊與治理缺乏，系統可陷入壟斷、分裂或失衡迴路。
-- 🚀 **創新**：真正的系統創新來自於在槓桿點上使用適切的動詞«選項»，將「行動協奏」轉化為「格局創新」。
+- 🌟 **Benefits**: progressive orchestrated collaboration allows human-machine systems to display adaptability and innovative capacity in complex environments.
+- ⚡ **Costs**: without adequate alignment and governance, the system may fall into loops of monopoly, fragmentation, or imbalance.
+- 🚀 **Innovation**: true systemic innovation comes from applying the appropriate verb «options» at leverage points, turning "Action Orchestration" into "configuration innovation."
 
-**5️⃣ AI 未來假說動態模型**
+**5️⃣ Dynamic Models of AI-Future Hypotheses**
 
-- 💥 **AI 對齊崩潰假說**：若「對齊」失敗，系統進入負回饋失衡，導致崩潰；若修正成功，則形成新秩序。
-- 🌐 **AI 公共財假說**：若「共享」過度，可能陷入公共財悲劇；若治理得宜，則形成可持續的協作機制。
-- 👑 **AI 帝國假說**：若「壟斷」於少數權力中心，會出現強化循環與權力集中化，削弱系統韌性。
-- ⚔️ **AI 部落化／碎片化假說**：若「分裂」持續，系統將碎片化；若能協商對齊，則可能整合為更大格局。
-- 🚰 **AI 公用事業假說**：若 AI 普及成基礎設施，系統趨於穩定化；但過度依賴則可能降低韌性。
+- 💥 **AI Alignment Collapse Hypothesis**: if "alignment" fails, the system enters negative-feedback imbalance, leading to collapse; if correction succeeds, a new order forms.
+- 🌐 **AI Commons Hypothesis**: if "sharing" is excessive, it may fall into a tragedy of the commons; if governed well, it forms a sustainable collaborative mechanism.
+- 👑 **AI Empire Hypothesis**: if "monopolized" by a small number of power centers, a reinforcing loop and power centralization emerge, weakening system resilience.
+- ⚔️ **AI Tribalization/Fragmentation Hypothesis**: if "fragmentation" continues, the system will fragment; if negotiated alignment is achieved, it may integrate into a larger configuration.
+- 🚰 **AI Utilities Hypothesis**: if AI becomes universalized infrastructure, the system tends toward stability; but over-dependence may reduce resilience.
+
+**6️⃣ From «Options» to «Choice»**
+
+The verb «options» listed in this appendix — the 10 verb categories, Bloom's 6 categories, the AQAL 8/9 Level Taxonomy — all remain at the stage of **divergence**: laying out the range of possible actions. Truly **converging** them into an executable «choice» requires pairing them with concrete noun «options» (context, goal, constraint), and going through a systematic convergence process. This is exactly what 🔖Appendix 🪜《[Capacity](appendix-cognitive_capacity.en.qmd#sec-cognitive-capacity-scaffolding)》's "double-diamond model" is meant to do: placing this chapter's verb «options» together with 🔖Appendix 🧠《[Mind](appendix-brain.en.qmd)》's noun «options» into a single scaffold, converging them into a «choice».
 
 ***
 
-✨ 總之，本篇《💪行動》的**動詞**«選項»呼應下篇《🧠[心智](appendix-brain.qmd)》的**名詞**«選項»，前者強調 **行動的系統編排**，後者強調 **心智的逐級鍛練**。
+✨ In sum, the verb «options» of this chapter, 《💪Action》, echo the noun «options» of the next chapter, 《🧠[Mind](appendix-brain.en.qmd)》: the former emphasizes the **systemic orchestration of action**, the latter emphasizes the **progressive training of the mind**.
 
-唯有「知行合一」，人類與 AI 才能在未來的系統動態中，不僅避免失衡，更能共創新的文明格局。
+Only through "unity of knowledge and action" can humans and AI, within the system dynamics of the future, not merely avoid imbalance, but co-create a new configuration for civilization.

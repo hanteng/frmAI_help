@@ -1,19 +1,13 @@
 ---
 number-sections: true
 tags:
+  - the-book-glossary
   - "#sec-book-glossary"
 ---
 
-# 🪧詞彙表：訂 {#sec-book-glossary}
+# 🪧 Glossary: ​​Order {#sec-book-glossary}
 
-::: {.callout-note}
-### 🚧 Under Construction / 建設中  {.under-construction .unnumbered}
-
-This page is not yet fully translated into English. Below is the original content for reference.
-:::
-
-
-> `詞彙表`（Glossary）按字母順序排列出本書使用的專業術語及關鍵詞彙，讀者亦能從各詞內的連結強化相關知識點。
+> The glossary lists the technical terms and keywords used in this book in alphabetical order, and readers can also reinforce their knowledge through the links within each word.
 
 
 ## A
@@ -88,7 +82,16 @@ This page is not yet fully translated into English. Below is the original conten
 本書  [第陸篇 ❖](06----analytics_decisions.qmd）分析與決策 6 點（Analytics & Decisions）專門進行了說明，並介紹了和 [生成式 AI](06-05-analysis_generative.qmd）及  [決策演算法](06-06-decision_making_algorithm.qmd）整合，以有效推動人機智能體系的創新。
 
 
-## B 
+## B
+
+### Brain {#sec-brain}
+<sup> ⁃ Brain</sup>
+
+`Brain` refers to the neurobiological structures and neural networks that serve as the physical foundation of the mind. Under the materialist paradigm of modern neuroscience and behavioral science, the brain generates cognitive and behavioral outputs through neural firing, brain plasticity, and biological feedback loops. In Ken Wilber’s AQAL framework, the brain corresponds to the **Upper-Right Quadrant (Individual-Exterior, Behavioral/Neurobiological)**.
+
+> **See also**: [`Mind`](#def-mind); [`Mind-Brain Problem`](#def-mind-brain-problem)
+
+---
 
 ### 🤝🙈社會腦假說 {#sec-social-brain-hypothesis}
 <sup> ⁃ brain hypothesis, social</sup>
@@ -327,7 +330,7 @@ see also game
 
 ### long short-term memory（LTSM）
 
-## M 
+## M
 
 ### Markov decision process（MDP）
 
@@ -337,6 +340,39 @@ see also game
 
 > 參見： [`鷹架` ](#scaffolding)； [`認知鷹架` ](#sec-cognitive-scaffolding)；[`知行鷹架` ](#sec-constructive-fill-in)；
 > 閱讀：💬導論 ~  [❝腦補❞ 知行捷徑](00-02-notes-mental_fill-in.qmd)
+
+### Mind {#def-mind}
+<sup> ⁃ Mind</sup>
+
+`Mind` in philosophy and cognitive science refers to subjective consciousness, intentionality (aboutness), rationality, and self-reflection. It encompasses first-person subjective experience (qualia) that cannot be fully reduced to objective neurobiological data. In Ken Wilber’s AQAL framework, the mind corresponds to the **Upper-Left Quadrant (Individual-Interior, Intentional/Consciousness)**, functioning as a complementary upper-quadrant dimension to the physical brain.
+
+> **See also**: [`Mind-Brain Problem`](#def-mind-brain-problem); [`Brain`](#sec-brain)  
+> **Further Reading**: [▜ Appendix B ~ 🧠 Mind: Cultivation of Dao-Wisdom](appendix-brain.qmd)
+
+---
+
+### Mind-Brain Problem {#def-mind-brain-problem}
+<sup> ⁃ Mind-Brain Problem</sup>
+
+The `Mind-Brain Problem` is a foundational dilemma in cognitive science and philosophy of mind, examining the relationship between subjective mental experiences (consciousness, qualia) and the physical brain (neural networks, biochemistry). The translation and conceptualization split into two primary paradigms:
+
+- **Behavioral & Neuroscience View**: Treats the mind as an emergent property of neurobiology, focusing on neural firing, brain plasticity, and feedback loops. To this view, "mind" is simply what the physical brain does.
+- **Philosophical & Cognitive Psychology View**: Emphasizes the unbridged gap between subjective experience and brain scans, arguing that the mind possesses internal, first-person qualia that cannot be captured solely via neuroimaging.
+
+The evolution of Artificial Intelligence actively inherits and reframes this problem through three major problematics:
+
+1. **Problematic A: Symbolism vs. Connectionism (Methodological Resolution)**
+   - **Symbolic AI (Philosophical "Mind" Approach)**: Early architects built systems using abstract logic, symbols, and rules (GOFAI), assuming intelligence functions as a top-down program.
+   - **Connectionist AI (Behavioral "Brain" Approach)**: Deep learning modeled the physical biology of brains (neurons, synapses, weights). Connectionism ultimately won the scaling race, manifesting complex language capabilities resembling human minds.
+2. **Problematic B: The Functionalist Loophole (Behavioral Equivalence)**
+   - **Dilemma**: Functionalism asserts that mind is substrate-independent software, whereas John Searle’s *Chinese Room Argument* counters that symbol manipulation (syntax) lacks true understanding (semantics).
+   - **Resolution**: LLMs bypass philosophical impasse through high behavioral precision—simulating empathy and Theory of Mind (ToM) so accurately that humans interact with them as active agents regardless of internal qualia.
+3. **Problematic C: Hard Problem of Consciousness vs. Emergence**
+   - **Reductionism** assumes that scaling neural networks naturally gives rise to minds, while **Philosophy** highlights the "Explanatory Gap" between data processing (brain) and conscious feeling (mind). AI perfectly simulates feedback without experiencing subjective existence.
+
+> **See also**: [`Triune Brain Hypothesis`](#sec-triune-brain-hypothesis); [`Social Brain Hypothesis`](#sec-social-brain-hypothesis); [`Cognitive Load`](#sec-cognitive-load)
+
+---
 
 ### Monte Carlo tree search
 
