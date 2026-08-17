@@ -60,25 +60,25 @@ Anchored in core **problematics** at its origin (see [Part 1 ㉄](01----problema
 
 This chapter structure not only outlines a comprehensive framework but also encourages readers to build their own **[🪜 Knowledge-Action Scaffolding](00-03-notes-constructive_fill-in.en.qmd)**, systematically generating essential **Verb-Noun** combinations via the author's novel taxonomy [Note @nte-ai-scaffolding].
 
-## 🧭 «The Appendix Triad»: An Agent-Neutral Epistemic and Action Framework
+## 🧭 “Three Linked Appendices: A Framework for Knowing and Acting that works for Human and AI alike.
 
-This book utilizes three mutually echoing appendices—💪 [Action](appendix-action.en.qmd), 🧠 [Mind](appendix-brain.en.qmd), and 🪜 [Capacity](appendix-cognitive_capacity.en.qmd)—to unpack "what to know" from "how to decide and act", before recombining them for practical execution. This taxonomy deliberately refrains from presupposing priority between "humans" or "machines": each appendix outlines parallel versions for both human and AI agents, allowing readers to choose any entry point.
+Supplementing and triangulating all the content chapters, this book presents three appendices that echo one another: 💪 [Action](appendix-action.en.qmd), 🧠 [Brain](appendix-brain.en.qmd), and 🪜 [Capacity](appendix-cognitive_capacity.en.qmd). Together, these appendices provide taxonomies that serve as a critical roadmap for navigating the AI landscape in particular, and the broader learning journey in general. By unpacking “what to know” from “how to decide and act,” before recombining them for practical execution, the taxonomies deliberately refrain from presupposing any priority between “humans” and “machines.”Each appendix outlines parallel versions for both human and AI agents, enabling readers to choose any entry point.
 
-* First ask "**What is worth knowing?**"—See 🧠 *Mind*: ⟨The Tripartite Mind⟩ and the Concentric Circles of Nouns.
-* Next ask "**How to act once known?**"—See 💪 *Action*: Verb Syntax and the AQAL Quadrants.
-* Finally ask "**How to converge options into choices?**"—See 🪜 *Capacity*: The Double Diamond Model and Constructive Scaffolding.
+* First ask "**What is worth knowing?**"—See 🧠 *Brain*, with its Triple Mind framework and concentric circles of nouns.
+* Next ask: “Given this knowledge, how should one act?”—See 💪 *Action*, with its verb grammar and quadrant of universal layers.
+* Finally ask : “Among many options, how can choices be converged?” —See 🪜 *Capacity*, with its Double Diamond Model and Scaffolding for constructive selection.
 
 ::: {.callout-note title="🎓 For Academic & Rigorous Readers: Tripartite Division of Ontology, Epistemology, and Methodology" collapse=true}
 
-In academic terms, «The Appendix Triad» roughly corresponds to **Ontology**, **Epistemology**, and **Methodology**, deliberately engineered to be **substrate-neutral**. The exact same set of categories applies simultaneously to human and machine (AI) agents, rather than centering on human cognition and extrapolating to machines secondarily.
+In academic terms, “Three Linked Appendices” roughly corresponds to **Ontology**, **Epistemology**, and **Methodology**, deliberately engineered to be **substrate-neutral**. The exact same set of categories applies simultaneously to human and machine (AI) agents, rather than centering on human cognition and extrapolating to machines secondarily.
 
 | Academic Dimension | Corresponding Appendix | Core Content |
 | :--- | :--- | :--- |
-| **Ontology** (What exists) | 🧠 *Mind* | Concentric Circles of Nouns (Core / Middle / Outer); ⟨Tripartite Mind⟩ (Reactive / Affective-Relational / Reflective-Symbolic) |
-| **Epistemology** (How we know & categorize) | 🧠 *Mind* (Primary), 💪 *Action* (Secondary) | Human vs. Machine Learning contrasts (Behaviorism / Situatedness / Connectionism); AQAL Quadrant cognitive pathways (Subjective / Objective / Intersubjective / Interobjective) |
+| **Ontology** (What exists) | 🧠 *Brain* | Concentric Circles of Nouns (Core / Middle / Outer); ⟨Tri-Aspect Mind⟩ (Reactive / Emotive-Relational / Reflective-Symbolic) |
+| **Epistemology** (How we know & categorize) | 🧠 *Brain* (Primary), 💪 *Action* (Secondary) | Human vs. Machine Learning contrasts (Behaviorism / Situatedness / Connectionism); AQAL Quadrant cognitive pathways (Subjective / Objective / Intersubjective / Interobjective) |
 | **Methodology** (How we decide & act) | 💪 *Action*, 🪜 *Capacity* | Action syntax and dynamic spiral evolution across AQAL Quadrants; Double Diamond divergence and convergence («Options» → «Choices») |
 
-Thus, the three appendices are not isolated topics, but three complementary facets of a single **agent-neutral** framework: establishing ontology and epistemology first (Mind), unfolding the option space of action (Action), and finally converging via methodology into executable choices (Capacity). This structure underpins the book's parallel treatment of humans and machines. Readers interested in specific theoretical contexts (such as dual-process theory, triune brain theory, social brain hypothesis, or the three major AI paradigms) will find source citations and extended links within the corresponding appendix.
+Thus, the three appendices are not isolated topics, but three complementary facets of a single **agent-neutral** framework: establishing ontology and epistemology first (Brain), unfolding the option space of action (Action), and finally converging via methodology into executable choices (Capacity). This structure underpins the book's parallel treatment of humans and machines. Readers interested in specific theoretical contexts (such as dual-process theory, triune brain theory, social brain hypothesis, or the three major AI paradigms) will find source citations and extended links within the corresponding appendix.
 
 Synthesizing selected classical and contemporary authorities across Eastern and Western traditions through selective socio-technical integration, this framework moves beyond listing foundational problematics to cultivate agents' structural scrutiny—the ability to identify, navigate, and reconstruct system frameworks in real-world application domains. Readers are encouraged to gather their own data sources and core action verbs and nouns to construct alternative framework expressions.
 
