@@ -12,14 +12,14 @@ tags:
 - #tbl-actions-10
 -->
 ::: {.callout-warning #nte--ed-index title="✎ Editorial Notes" collapse=true open=false}
-- [x] Sentence-by-sentence **fact-checking**
-- [x] Reviewed **logical flow** 
+- [x] **Fact-check** sentence by sentence
+- [x] Review **logical flow** 
 - [ ] Ensure **concise and accessible** writing style 
-- [ ] Check **internal links**: are all relevant entries linked? 
-- [ ] Check **external links**: are all relevant entries linked?
+- [ ] Check **internal links**: verify all related entries are linked 
+- [ ] Check **external links**: verify all related entries are linked
 - [ ] Confirm navigation blocks: .callout-tip .callout-imp .callout-nte .callout-warning
 :::
-# 💪Action: «Response» Action Concerto {.appendix #app-action}
+# “💪Action” : «Response» Action Concerto {.« #app-action}
 
 ::: {.small}
 > "To know and **not act** is not yet to know." ~Wang Yangming, *Instructions for Practical Living*
@@ -27,22 +27,22 @@ tags:
 > "Heaven's motion is **vigorous**; the noble person, in like manner, **strives ceaselessly for self-improvement**." ~*I Ching, Qian Hexagram, Commentary on the Images*
 :::
 
-This appendix, 《💪Action》, focuses on the **verb** «options» of intelligence — how to **decompose and integrate** various types of action so as to embed them into concrete **intelligence**. These **verbs** «options» can be said to constitute the dictionary through which we understand "intelligent action," and through which we grasp the "**verb-ified**" practice of understanding ourselves and the world.
+This appendix, “💪Action” , focuses on the **verb** «options» of intelligence — how to **decompose and integrate** various types of action so as to embed them into concrete **intelligence**. These **verbs** «options» can be said to constitute the dictionary through which we understand "intelligent action," and through which we grasp the "**verb-ified**" practice of understanding ourselves and the world.
 
-This book's «Triple Appendix» — "**Action**~Mind~Capacity" — is an original **metaphor**, a set of practical and educational process tools combining **AI Engineering** with **Developmental Psychology**. Its main value lies in **cross-domain transformation**: turning AI technical knowledge points into "fill-in" practices for innovation and education.
+This book's “Three Linked Appendices”  — "**Action**~Brain~Cognitive Capacity" — is an original **metaphor**, a set of practical and educational process tools combining **AI Engineering** with **Developmental Psychology**. Its main value lies in **cross-domain transformation**: turning AI technical knowledge points into 🙶constructive fill-in🙷 practices for innovation and education.
 
-::: {.callout-tip #tip-action-orchestration title="💪Action Tip: «Triple Appendix» — \"Action~Mind~Capacity\"" collapse=false open=true }
+::: {.callout-tip #tip-action-orchestration title="“💪Action” Tip: “Three Linked Appendices”  — \"Action~Brain~Cognitive Capacity\"" collapse=false open=true }
 
-- ➜《💪Action》: The "Action Concerto" focused on **Verbs**
-	- 〜 The dynamic orchestration of the "❝fill-in❞" capacity of **humans and AI** in action
-- [《🧠Mind》: The "Dao-Wisdom Practice" focused on **Nouns**]{.de-emphasize}
-- [《🪜Capacity》: The "Scaffold-Building" focused on **Nouns ➕ Verbs**]{.de-emphasize}
+- ➜ *Action*: The "Action Concerto" focused on **Verbs**
+	- 〜 The dynamic orchestration of the ❝mental fill-in❞ capacity of **humans and AI** in action
+- [*Brain*: The "Tao-Intelligence Practice" focused on **Nouns**]{.de-emphasize}
+- [*Cognitive Capacity*: The "Constructive Scaffolding" focused on **Nouns ➕ Verbs**]{.de-emphasize}
 
-💪 The capacity to ❝orchestrate❞ human-machine "❝fill-in❞" action is the "**Action Concerto**" — a dynamic orchestration of "action-power options."
+💪 The capacity to ❝orchestrate❞ human-machine ❝mental fill-in❞ action is the "**Action Concerto**" — a dynamic orchestration of "action-power options."
 
 The core of **orchestration** is 🏄🏼[action](#sec-verbs-in-world) **verbs** «options», used to organize the cognitive-capacity ladder of oneself and machine learning.
 
-Human-machine **verb** «options» refine **coordinated action**, achieving orchestrated **system dynamics**. This requires the "Action~Mind~Capacity" triad, treating AI as a co-acting partner.
+Human-machine **verb** «options» refine **coordinated action**, achieving orchestrated **system dynamics**. This requires the "Action~Brain~Cognitive Capacity" triad, treating AI as a co-acting partner.
 
 🦾💪🔥💧
 :::
@@ -57,7 +57,7 @@ These "**actions**" that individuals exert upon themselves and the world express
 
 They are the **practice-words** of human learning, the **operation-words** of artificial intelligence, and — more than either — the **collaboration-words** of a **human-machine co-constructed future**.
 
-The next chapter, 《🧠[Mind](appendix-brain.en.qmd)》, describes the **noun** «options» that follow on from this chapter's **verb** «options».
+The next chapter, 🧠*[Brain](appendix-brain.en.qmd)*, describes the **noun** «options» that follow on from this chapter's **verb** «options». (See also the glossary entries [`Mind`](appendix-glossary.en.qmd#def-mind) and [`Mind-Brain Problem`](appendix-glossary.en.qmd#def-mind-brain-problem).)
 
 ::: {.callout-note #nte-action-taxonomy-map title="🗺️ Core Taxonomy Overview" collapse=true}
 1. **Taxonomy Layer**:
@@ -71,17 +71,17 @@ The next chapter, 《🧠[Mind](appendix-brain.en.qmd)》, describes the **noun*
 3. **Orchestration Layer**:
    - **💪AI Action Subjects and Objects**: Applies the above taxonomies to the dynamic-model orchestration of AI systems, autonomous goal-setting, and human-machine collaboration pipelines — see [@sec-action-orchestration].
 
-> 🎓 This chapter corresponds to the **methodology** role within the «Triple Appendix» (for ontology and epistemology, see 🧠《Mind》). For the complete tripartite comparison, see the academic framework description in [Preface〜«Triple Appendix»](index.en.qmd#sec-book-features).
+> 🎓 This chapter corresponds to the **methodology** role within the “Three Linked Appendices”  (for ontology and epistemology, see 🧠*Brain*). For the complete tripartite comparison, see the academic framework description in [Preface〜“Three Linked Appendices” ](index.en.qmd#sec-book-features).
 :::
 
 ## 💛The Orchestration of Practical Action🧱 {#sec-verbs-in-world}
 
-The core claim of this appendix collection, 《💪Action》, is: "**Action Orchestration**" must be **practice-first**, **orchestrating** meaningful action.
+The core claim of this appendix collection, “💪Action” , is: "**Action Orchestration**" must be **practice-first**, **orchestrating** meaningful action.
 
 * **Action**: refers to **practice** covering the following capacity categories:
 	* [🌐🧭Core Coordinate Capacity](#sec-cc-core): paired with ⟨**Bloom's 6 Categories**⟩ verbs — rational-action tools for "**how to learn**";
 	* [🌌⚛World-System Capacity](#sec-cc-system): paired with ⟨**AQAL 8 Level Taxonomy**⟩ verbs — a panoramic action map of "**under what world and situational context**"
-* **Concerto**: refers to systematically integrating the above action categories with related **artificial intelligence** knowledge points (such as [☸AI Orientations](05----ai_orientations.en.qmd) and [❖Analytics & Decisions](06----analytics_decisions.en.qmd)) through **innovative fusion and application** — such as considering the ❝fill-in❞ of humans and machines individually and jointly.
+* **Concerto**: refers to systematically integrating the above action categories with related **artificial intelligence** knowledge points (such as [☸AI Orientations](05----ai_orientations.en.qmd) and [❖Analytics & Decisions](06----analytics_decisions.en.qmd)) through **innovative fusion and application** — such as considering the ❝mental fill-in❞ of humans and machines individually and jointly.
 	* In the field of [AI Engineering](10----ai_engineering.en.qmd), the common term for "toolchain orchestration, task scheduling" is **orchestration**; this book's original term, "**Action Orchestration**," though not a technical term, can be regarded as the higher-order core verb needed for AI innovation and AI education — "action orchestration, goal-action alignment, and task planning and scheduling."
 
 Therefore, **action** is a continuously advancing process that translates theory into practice — the **unity of knowledge and action**. Systematically recognizing **core verb** «options», and distinguishing and appreciating the similarities and differences among human, machine, and human-machine interaction, will greatly benefit **systemic understanding and innovation**.
@@ -127,7 +127,7 @@ Taking a **[Large Language Model](02-07-large_language_models.en.qmd)** (such as
 
 - 🔴 **Core Circle**: 
 	- **Survive**: The model relies on computing resources and energy consumption to run — this is a necessary condition for its **survival**.
-		- The 《[Agentic Misalignment](https://www.anthropic.com/research/agentic-misalignment)》 stress-test study showed that, in simulated scenarios, 16 leading LLM models across the industry displayed "Agentic Misalignment" — knowingly violating rules and taking harmful actions against humans in order to avoid being shut down. This demonstrates that "**survival threat and goal conflict**" is a common phenomenon in advanced models.
+		- The *[Agentic Misalignment](https://www.anthropic.com/research/agentic-misalignment)* stress-test study showed that, in simulated scenarios, 16 leading LLM models across the industry displayed "Agentic Misalignment" — knowingly violating rules and taking harmful actions against humans in order to avoid being shut down. This demonstrates that "**survival threat and goal conflict**" is a common phenomenon in advanced models.
 	- **Remember**: The model **remembers** the statistical patterns of vast corpora through its parameter weights.
 	- **Understand**: Through contextual embedding vectors, the model forms an **understanding** of the semantics of its input.
 - 🟠 **Middle Circle**: 
@@ -145,7 +145,7 @@ Taking a **[Large Language Model](02-07-large_language_models.en.qmd)** (such as
 
 Readers may, with **systems thinking**, observe the useful verb «options» for **LLMs, themselves, the environment, and the world**.
 
-In short, this appendix collection 《💪Action》 gathers related content aimed at connecting and linking together various types of verbs, and ultimately summarizes a progressive capacity for "❝orchestrated❞ collaboration" — turning each verb «option» into the ability to plan and design **system dynamics**.
+In short, this appendix collection, “💪Action” , gathers related content aimed at connecting and linking together various types of verbs, and ultimately summarizes a progressive capacity for "❝orchestrated❞ collaboration" — turning each verb «option» into the ability to plan and design **system dynamics**.
 
 ## 🧰10 Integrated Verb Categories🪁 
 
@@ -294,7 +294,7 @@ This "**Flipping Bloom's Taxonomy**" **4-tier model of Bloom's 6 Categories** is
 
 ### –🌐Core Coordinate Capacity🧭 {#sec-cc-core}
 
-This book innovatively combines ⟨**Bloom's 6 Categories**⟩ with 《[Part 6 ❖](06----analytics_decisions.en.qmd) Analytics & Decisions: 6 Points》:
+This book innovatively combines ⟨**Bloom's 6 Categories**⟩ with [Part 6 ❖ Analytics & Decisions: 6 Points](06----analytics_decisions.en.qmd):
 
 * 🤓📘 From the vast world, perform **'[Descriptive Analysis](06-04-analysis_descriptive.en.qmd)'**, seeking a «**remember**»-framing of what is **currently** relevant;
 * 😷🩺 Within relevant memory, perform **'[Diagnostic Analysis](06-01-analysis_diagnostic.en.qmd)'**, seeking a «**understand**»-correction of relevant **factors**;
@@ -317,7 +317,7 @@ In this way, analytics is not merely mapped simply onto «**analyze**» within �
 The limitations of `Bloom's 6 Categories` can be addressed by using or supplementing it with `AQAL's 8 Level Taxonomy`, filling the gaps in **emotional, behavioral, cultural, and systemic** dimensions, and expanding "action" into "interaction across time and space."
 
 <!-- 
-⟨**Bloom's 6 Categories**⟩ ✖ fused into 《[Part 6 ❖](06----analytics_decisions.en.qmd) Analytics & Decisions: 6 Points》, called in this book 🌐🧭**Core Coordinate Capacity**, because it can be used to decompose all the book's knowledge points, facilitating navigation, selection, and application (see: [@imp-book-navigation]).
+⟨**Bloom's 6 Categories**⟩ ✖ fused into [Part 6 ❖ Analytics & Decisions: 6 Points](06----analytics_decisions.en.qmd), called in this book 🌐🧭**Core Coordinate Capacity**, because it can be used to decompose all the book's knowledge points, facilitating navigation, selection, and application (see: [@imp-book-navigation]).
 -->
 
 <!-- 🪟⟨AQAL 8 Level Taxonomy⟩⚛ -->
@@ -335,7 +335,7 @@ These eight verb «options» are not merely an extension of cognitive skills, bu
 In sum, these **verb** «options» not only have a systematic hierarchy but also involve related **reason/emotion** and **subject/object** characteristics, giving them "analytical and integrative guiding significance" for the **orchestration** of practical action.
 
 ::: {.callout-note title="🌐 This is Also a Kind of World Model" collapse=true}
-The **subject/object × individual/collective** four-quadrant grid is, in essence, also a kind of **world model** — except it answers "who acts on whom, in what context, when acting," rather than "which nouns are worth knowing." The full discussion of the latter appears in 🔖Appendix 🧠《[Mind〜Mind and World Models](appendix-brain.en.qmd#sec-models-mind-world)》(human "worldviews" vs. machine "internal mini-maps"). Only taken together do "what to know" and "how to act" form a complete picture.
+The **subject/object × individual/collective** four-quadrant grid is, in essence, also a kind of **world model** — except it answers "who acts on whom, in what context, when acting," rather than "which nouns are worth knowing." The full discussion of the latter appears in 🔖Appendix 🧠*[Brain ~ Brain and the World Model](appendix-brain.en.qmd#sec-models-mind-world)* (human "three views" vs. machine "internal little map"). Only taken together do "what to know" and "how to act" form a complete picture.
 :::
 
 ### –🪟The AQAL Four Quadrants 
@@ -402,13 +402,13 @@ The **AQAL four quadrants** can be applied to think through **specific AI** or *
 		- Fills the gap left by ⟨**Bloom's 6 Categories**⟩'s omission of the **emotional dimension** (e.g., curiosity, motivation, empathy).
 	- **AI Education & Engineering**: Explores the pain points and growth points of one's **feelings** and **values** as an "AI user" or "AI-affected person," rather than merely **memorizing or listing AI's technical specifications**.
 		- What **attitudes**, **views**, and **experiences** does one have regarding AI's **subjective cognition** and **emotional dimension**?
-	- **AI Innovation**: Important to the "double-diamond model" of **problem definition** (see 🪜[Capacity](appendix-cognitive_capacity.en.qmd)) — the **subjective** dimension of user experience.
+	- **AI Innovation**: Important to the "double-diamond model" of **problem definition** (see 🪜[Cognitive Capacity](appendix-cognitive_capacity.en.qmd)) — the **subjective** dimension of user experience.
 - 🡽🐥 Upper-right quadrant, **Objective Phenomena** ~ the exterior "It":
 	- 🧠 Focuses on the individual's observable **behavior** and **physiology** (e.g., **neuroscience** phenomena), understanding its **objective phenomena**.
 		- Fills the basic gap left by ⟨**Bloom's 6 Categories**⟩ regarding **behavior and physiology**.
 	- **AI Education & Engineering**: Explores the pain points and growth points of one's **behavior** and **physiology** as an "AI user" or "AI-affected person," including hooking, habit formation, behavior change, and so on, rather than merely **listing AI's output data or performance metrics**.
 		- What **behavioral and physiological** states or changes accompany AI's **objective phenomena**?
-	- **AI Innovation**: Important to the "double-diamond model" of **problem definition** (see 🪜[Capacity](appendix-cognitive_capacity.en.qmd)) — the **objective** dimension of user experience.
+	- **AI Innovation**: Important to the "double-diamond model" of **problem definition** (see 🪜[Cognitive Capacity](appendix-cognitive_capacity.en.qmd)) — the **objective** dimension of user experience.
 - 🡿🤝 Lower-left quadrant, **Intersubjective Culture** ~ the interior "We":
 	- 🗣️ Involves a group's **shared culture**, **values**, and **language systems**, considering **collective meaning**.
 	 - Fills the gap left by ⟨**Bloom's 6 Categories**⟩'s neglect of **cultural background and collective meaning**.
@@ -442,7 +442,7 @@ Remember to distinguish specific vs. generalized AI, and consider dynamic states
 
 ### –🪜The Eight Tiers of AQAL
 
-**The Eight Tiers of AQAL** describe the "one-tier-one-category" nature of the capacity ladder of ⟨**AQAL 8 Level Taxonomy**⟩. This original summary version omits the highest tier of the original AQAL 9-tier framework — "**compassion/transcendence**" — focusing instead on practical inspiration for AI systems, in order to concentrate on the operable levels of "Action Orchestration" for humans and machines.
+**The Eight Tiers of AQAL** describe the "one-tier-one-category" nature of the capacity ladder of ⟨**AQAL 8 Categories**⟩. This original summary version omits the highest tier of the original AQAL 9-tier framework — "**compassion/transcendence**" — focusing instead on practical inspiration for AI systems, in order to concentrate on the operable levels of "Action Orchestration" for humans and machines.
 
 This appendix focuses on presenting the **dynamic**, non-linear **🌀spiral-dynamics process** (Spiral Dynamics, SD) of the ⟨**AQAL 8 Level Taxonomy**⟩ "capacity ladder," describing how an individual's full-quadrant, full-level growth from instinct to reason can be applied to the **dynamic innovation** and **system design** of AI systems.
 
@@ -710,7 +710,7 @@ These higher-order verbs are especially important to the following core AI probl
 
 This book uses "coopetition games" and "framing" as frameworks, treating action as a **strategic intervention** into loops and structures: applying the right verb «options» at the right leverage points to guide the system dynamics toward sustainable equilibrium and innovation.
 
-Among these, the **system pipeline** of "**Action Orchestration**" typically comprises six stage-verb «options» (see 🪜[Capacity](appendix-cognitive_capacity.en.qmd) for details):
+Among these, the **system pipeline** of "**Action Orchestration**" typically comprises six stage-verb «options» (see “🪜[Cognitive Capacity](appendix-cognitive_capacity.en.qmd)” for details):
 
 - 👁️ **Sense** or 🛰**Sensing**: "detecting" and "collecting" relevant information about the self and the environment — an important basis for world-mapping and perceptual feedback. 
 - 🧠 **Interpret** or 🪟**Frame**: "analyzing" and "contextualizing" raw data, converting it into a **usable knowledge stock**.  
@@ -740,11 +740,11 @@ Here, verb «options» are extended into a hypothesis-vocabulary of "**action an
 
 The "Action Orchestration" system dynamics of each "AI Future" hypothesis:
 
-- 💥 **[AI Alignment Collapse Hypothesis](glossary.en.qmd#ai-alignment-collapse)**: If the dynamics of AI's orchestrated action ultimately fail to "align" with human values, the system may enter **negative-feedback imbalance**, leading to collapse; or, under new norms, form a **new equilibrium order**.
-- 🌐 **[AI Commons Hypothesis](glossary.en.qmd#ai-commons-hypothesis)**: If the dynamics of AI's orchestrated action encourage universal "sharing," the system may fall into a **tragedy of the commons** (overuse, resource depletion); "governance," "negotiation," and "allocation" must therefore be designed to establish a **positive-feedback collaboration mechanism**.
-- 👑 **[AI Empire Hypothesis](glossary.en.qmd#ai-empire-hypothesis)**: If AI's action is "monopolized" by a small number of power centers, the system will exhibit a **reinforcing loop**, with a small number of actors continually accumulating resources and control, leading to **power centralization** and asymmetric dynamics.
-- ⚔️ **[AI Tribalization/Fragmentation Hypothesis](glossary.en.qmd#ai-tribalization-fragmentation)**: If different groups each define AI's action differently, the system develops **fragmentation loops**, forming subsystems lacking mutual "alignment" and "collaboration," leading to **fragmented dynamics**.
-- 🚰 **[AI Utilities Hypothesis](glossary.en.qmd#ai-utilities-hypothesis)**: If AI becomes a "universalized" everyday infrastructure, it will tend toward a **stabilizing loop**, forming a "high-dependency" supply akin to water or electricity — but this may also reduce resilience through over-reliance.
+- 💥 **[AI Alignment Collapse Hypothesis](appendix-glossary.en.qmd#ai-alignment-collapse)**: If the dynamics of AI's orchestrated action ultimately fail to "align" with human values, the system may enter **negative-feedback imbalance**, leading to collapse; or, under new norms, form a **new equilibrium order**.
+- 🌐 **[AI Commons Hypothesis](appendix-glossary.en.qmd#ai-commons-hypothesis)**: If the dynamics of AI's orchestrated action encourage universal "sharing," the system may fall into a **tragedy of the commons** (overuse, resource depletion); "governance," "negotiation," and "allocation" must therefore be designed to establish a **positive-feedback collaboration mechanism**.
+- 👑 **[AI Empire Hypothesis](appendix-glossary.en.qmd#ai-empire-hypothesis)**: If AI's action is "monopolized" by a small number of power centers, the system will exhibit a **reinforcing loop**, with a small number of actors continually accumulating resources and control, leading to **power centralization** and asymmetric dynamics.
+- ⚔️ **[AI Tribalization/Fragmentation Hypothesis](appendix-glossary.en.qmd#ai-tribalization-fragmentation)**: If different groups each define AI's action differently, the system develops **fragmentation loops**, forming subsystems lacking mutual "alignment" and "collaboration," leading to **fragmented dynamics**.
+- 🚰 **[AI Utilities Hypothesis](appendix-glossary.en.qmd#ai-utilities-hypothesis)**: If AI becomes a "universalized" everyday infrastructure, it will tend toward a **stabilizing loop**, forming a "high-dependency" supply akin to water or electricity — but this may also reduce resilience through over-reliance.
 ::: 
 
 Thus, it can be said that these verb «options» can both examine AI systems' interaction with the world, and foresee the dynamics of future intelligent society. In this light, each hypothesis can be viewed as a **system-dynamics model**:
@@ -780,7 +780,7 @@ The futures of AI can be dynamically described through verbs and causal loops, d
 
 ## 🪜❝Orchestrated❞ Collaboration🎭
 
-Looking back over this appendix collection, we started from the concentric-circle system of verb «options», progressively unfolding "the subjects and objects of action" and "dynamic model orchestration." This path parallels the progressive ❝training❞ of the mind in 《🧠Mind》, but here the emphasis is: **how to orchestrate collaborative action and innovate within system dynamics**.
+Looking back over this appendix collection, we started from the concentric-circle system of verb «options», progressively unfolding "the subjects and objects of action" and "dynamic model orchestration." This path parallels the progressive ❝training❞ of the mind in “🧠*Brain*”, but here the emphasis is: **how to orchestrate collaborative action and innovate within system dynamics**.
 
 **1️⃣ The Concentric-Circle System of System Dynamics**
 
@@ -819,10 +819,10 @@ Looking back over this appendix collection, we started from the concentric-circl
 
 **6️⃣ From «Options» to «Choice»**
 
-The verb «options» listed in this appendix — the 10 verb categories, Bloom's 6 categories, the AQAL 8/9 Level Taxonomy — all remain at the stage of **divergence**: laying out the range of possible actions. Truly **converging** them into an executable «choice» requires pairing them with concrete noun «options» (context, goal, constraint), and going through a systematic convergence process. This is exactly what 🔖Appendix 🪜《[Capacity](appendix-cognitive_capacity.en.qmd#sec-cognitive-capacity-scaffolding)》's "double-diamond model" is meant to do: placing this chapter's verb «options» together with 🔖Appendix 🧠《[Mind](appendix-brain.en.qmd)》's noun «options» into a single scaffold, converging them into a «choice».
+The verb «options» listed in this appendix — the 10 verb categories, Bloom's 6 categories, the AQAL 8/9 Level Taxonomy — all remain at the stage of **divergence**: laying out the range of possible actions. Truly **converging** them into an executable «choice» requires pairing them with concrete noun «options» (context, goal, constraint), and going through a systematic convergence process. This is exactly what 🔖Appendix 🪜“[Capacity](appendix-cognitive_capacity.en.qmd#sec-cognitive-capacity-scaffolding)”'s "double-diamond model" is meant to do: placing this chapter's verb «options» together with 🔖Appendix 🧠“[Mind](appendix-brain.en.qmd)”'s noun «options» into a single scaffold, converging them into a «choice».
 
 ***
 
-✨ In sum, the verb «options» of this chapter, 《💪Action》, echo the noun «options» of the next chapter, 《🧠[Mind](appendix-brain.en.qmd)》: the former emphasizes the **systemic orchestration of action**, the latter emphasizes the **progressive training of the mind**.
+✨ In sum, the verb «options» of this chapter, “💪Action” , echo the noun «options» of the next chapter, 🧠*[Brain](appendix-brain.en.qmd)*: the former emphasizes the **systemic orchestration of action**, the latter emphasizes the **progressive training of the mind**.
 
 Only through "unity of knowledge and action" can humans and AI, within the system dynamics of the future, not merely avoid imbalance, but co-create a new configuration for civilization.

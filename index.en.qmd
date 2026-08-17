@@ -60,7 +60,7 @@ Anchored in core **problematics** at its origin (see [Part 1 ㉄](01----problema
 
 This chapter structure not only outlines a comprehensive framework but also encourages readers to build their own **[🪜 Knowledge-Action Scaffolding](00-03-notes-constructive_fill-in.en.qmd)**, systematically generating essential **Verb-Noun** combinations via the author's novel taxonomy [Note @nte-ai-scaffolding].
 
-## 🧭 “Three Linked Appendices: A Framework for Knowing and Acting that works for Human and AI alike.
+## 🧭 “Three Linked Appendices”: A Framework for Knowing and Acting that works for Human and AI alike.
 
 Supplementing and triangulating all the content chapters, this book presents three appendices that echo one another: 💪 [Action](appendix-action.en.qmd), 🧠 [Brain](appendix-brain.en.qmd), and 🪜 [Capacity](appendix-cognitive_capacity.en.qmd). Together, these appendices provide taxonomies that serve as a critical roadmap for navigating the AI landscape in particular, and the broader learning journey in general. By unpacking “what to know” from “how to decide and act,” before recombining them for practical execution, the taxonomies deliberately refrain from presupposing any priority between “humans” and “machines.”Each appendix outlines parallel versions for both human and AI agents, enabling readers to choose any entry point.
 
