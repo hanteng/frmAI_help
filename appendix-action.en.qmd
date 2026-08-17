@@ -19,7 +19,7 @@ tags:
 - [ ] Check **external links**: verify all related entries are linked
 - [ ] Confirm navigation blocks: .callout-tip .callout-imp .callout-nte .callout-warning
 :::
-# “💪Action” : «Response» Action Concerto {.« #app-action}
+# “💪Action”: «Response» Action Concerto {.appendix #app-action}
 
 ::: {.small}
 > "To know and **not act** is not yet to know." ~Wang Yangming, *Instructions for Practical Living*
@@ -29,9 +29,9 @@ tags:
 
 This appendix, “💪Action” , focuses on the **verb** «options» of intelligence — how to **decompose and integrate** various types of action so as to embed them into concrete **intelligence**. These **verbs** «options» can be said to constitute the dictionary through which we understand "intelligent action," and through which we grasp the "**verb-ified**" practice of understanding ourselves and the world.
 
-This book's “Three Linked Appendices”  — "**Action**~Brain~Cognitive Capacity" — is an original **metaphor**, a set of practical and educational process tools combining **AI Engineering** with **Developmental Psychology**. Its main value lies in **cross-domain transformation**: turning AI technical knowledge points into 🙶constructive fill-in🙷 practices for innovation and education.
+This book's «The Appendix Triad» — "**Action**~Brain~Cognitive Capacity" — is an original **metaphor**, a set of practical and educational process tools combining **AI Engineering** with **Developmental Psychology**. Its main value lies in **cross-domain transformation**: turning AI technical knowledge points into 🙶constructive fill-in🙷 practices for innovation and education.
 
-::: {.callout-tip #tip-action-orchestration title="“💪Action” Tip: “Three Linked Appendices”  — \"Action~Brain~Cognitive Capacity\"" collapse=false open=true }
+::: {.callout-tip #tip-action-orchestration title="💪Action Tip: «The Appendix Triad» — \"Action~Brain~Cognitive Capacity\"" collapse=false open=true }
 
 - ➜ *Action*: The "Action Concerto" focused on **Verbs**
 	- 〜 The dynamic orchestration of the ❝mental fill-in❞ capacity of **humans and AI** in action
@@ -65,13 +65,13 @@ The next chapter, 🧠*[Brain](appendix-brain.en.qmd)*, describes the **noun** �
    - **⟨Bloom's 6 Categories⟩**: The six-level verb taxonomy from cognitive education, answering "**how to learn**" — see [@sec-blooms-taxonomy].
 
 2. **Context Layer**:
-   - **⟨AQAL 8 Level Taxonomy⟩ / AQAL Four Quadrants**: Answers "**under what world and situational context**" action occurs, covering the four dimensions of subject, object, intersubjective, and interobjective — see [@sec-aqal-8-taxonomy].
-   - **AQAL 9 Level Taxonomy**: Further combines a dynamic-evolutionary view of life-course and demographic structure — see [@sec-aqal-9-taxonomy].
+   - **⟨AQAL 8 Levels⟩ / AQAL Four Quadrants**: Answers "**under what world and situational context**" action occurs, covering the four dimensions of subject, object, intersubjective, and interobjective — see [@sec-aqal-8-taxonomy].
+   - **AQAL 9 Levels**: Further combines a dynamic-evolutionary view of life-course and demographic structure — see [@sec-aqal-9-taxonomy].
 
 3. **Orchestration Layer**:
    - **💪AI Action Subjects and Objects**: Applies the above taxonomies to the dynamic-model orchestration of AI systems, autonomous goal-setting, and human-machine collaboration pipelines — see [@sec-action-orchestration].
 
-> 🎓 This chapter corresponds to the **methodology** role within the “Three Linked Appendices”  (for ontology and epistemology, see 🧠*Brain*). For the complete tripartite comparison, see the academic framework description in [Preface〜“Three Linked Appendices” ](index.en.qmd#sec-book-features).
+> 🎓 This chapter corresponds to the **methodology** role within «The Appendix Triad» (for ontology and epistemology, see 🧠*Brain*). For the complete tripartite comparison, see the academic framework description in [Preface〜«The Appendix Triad»](index.en.qmd#sec-book-features).
 :::
 
 ## 💛The Orchestration of Practical Action🧱 {#sec-verbs-in-world}
@@ -80,7 +80,7 @@ The core claim of this appendix collection, “💪Action” , is: "**Action Orc
 
 * **Action**: refers to **practice** covering the following capacity categories:
 	* [🌐🧭Core Coordinate Capacity](#sec-cc-core): paired with ⟨**Bloom's 6 Categories**⟩ verbs — rational-action tools for "**how to learn**";
-	* [🌌⚛World-System Capacity](#sec-cc-system): paired with ⟨**AQAL 8 Level Taxonomy**⟩ verbs — a panoramic action map of "**under what world and situational context**"
+	* [🌌⚛World-System Capacity](#sec-cc-system): paired with ⟨**AQAL 8 Levels**⟩ verbs — a panoramic action map of "**under what world and situational context**"
 * **Concerto**: refers to systematically integrating the above action categories with related **artificial intelligence** knowledge points (such as [☸AI Orientations](05----ai_orientations.en.qmd) and [❖Analytics & Decisions](06----analytics_decisions.en.qmd)) through **innovative fusion and application** — such as considering the ❝mental fill-in❞ of humans and machines individually and jointly.
 	* In the field of [AI Engineering](10----ai_engineering.en.qmd), the common term for "toolchain orchestration, task scheduling" is **orchestration**; this book's original term, "**Action Orchestration**," though not a technical term, can be regarded as the higher-order core verb needed for AI innovation and AI education — "action orchestration, goal-action alignment, and task planning and scheduling."
 
@@ -105,7 +105,7 @@ This book summarizes a systematic understanding of key core "action" verb «opti
 	* **Corresponding Capacity**: [🌐Core Coordinate Capacity🧭](#sec-cc-core) 🟰 Analytics & Decisions 6 ➕ ⟨**Bloom's 6 Categories**⟩ 
 * 🟠 **Middle Circle** (foundation and environment):
 	* Verbs: **survive, connect, control, belong**, and other low-to-mid-level actions such as **apply/achieve**.
-	* **Corresponding Capacity**: [🌌World-System Capacity⚛](#sec-cc-system) 🟰 Analytics & Decisions 6 ➕ ⟨**AQAL 8 Level Taxonomy**⟩ 
+	* **Corresponding Capacity**: [🌌World-System Capacity⚛](#sec-cc-system) 🟰 Analytics & Decisions 6 ➕ ⟨**AQAL 8 Levels**⟩ 
 * 🟢 **Outer Circle** (system and innovation):
 	* Verbs: **contextualize**, **align**, **construct**, and other high-level actions.
 	* **Application**: This book uses the "coopetition game" and "framing" frameworks to grasp system dynamics.
@@ -123,7 +123,7 @@ These **verb** «options» not only have a systematic hierarchy but also involve
 
 ### –😵‍💫Example ~ChatGPT🧞‍♀️
 
-Taking a **[Large Language Model](02-07-large_language_models.en.qmd)** (such as ChatGPT) as an example, and applying the [⟨**Bloom + AQAL 10 Categories**⟩](#tbl-actions-10) verb «options», the corresponding "Action Orchestration" concentric-circle system is as follows:
+Taking a **[Large Language Model](02-07-large_language_models.en.qmd)** (such as ChatGPT) as an example, and applying the [⟨**Bloom + AQAL 10 Levels**⟩](#tbl-actions-10) verb «options», the corresponding "Action Orchestration" concentric-circle system is as follows:
 
 - 🔴 **Core Circle**: 
 	- **Survive**: The model relies on computing resources and energy consumption to run — this is a necessary condition for its **survival**.
@@ -149,16 +149,16 @@ In short, this appendix collection, “💪Action” , gathers related content a
 
 ## 🧰10 Integrated Verb Categories🪁 
 
-This appendix describes the innovative **⟨Bloom + AQAL 10 Categories⟩** verb **options** and their cognitive-action **levels**, integrating two cognitive-development models:
+This appendix describes the innovative **⟨Bloom + AQAL 10 Levels⟩** verb **options** and their cognitive-action **levels**, integrating two cognitive-development models:
 
-This appendix presents the ⟨**Bloom + AQAL 10 Categories**⟩, a **cognitive-action level table** integrating the following two sources:
+This appendix presents the ⟨**Bloom + AQAL 10 Levels**⟩, a **cognitive-action level table** integrating the following two sources:
 
 * ✍️⟨**Bloom's 6 Categories**⟩🎨: a **concise**, single-dimensional, **bottom-up** accumulation of skills.
 	* Derived from **educational psychology** — a simplified, easy-to-understand cognitive-capacity ladder
-* 🪟⟨**AQAL 8 Level Taxonomy**⟩⚛: a **dynamic**, non-linear **spiral process** describing an individual's full-quadrant, full-level growth from instinct to reason.
+* 🪟⟨**AQAL 8 Levels**⟩⚛: a **dynamic**, non-linear **spiral process** describing an individual's full-quadrant, full-level growth from instinct to reason.
 	* Derived from **developmental psychology** — a more **dynamic** growth-oriented, non-linear **spiral process** that advances through the interaction of the individual with the environment, and of groups with the world
 
-The ⟨**Bloom + AQAL 10 Categories**⟩ verbs therefore provide a more complete, progressively layered set of verb «**options**»:
+The ⟨**Bloom + AQAL 10 Levels**⟩ verbs therefore provide a more complete, progressively layered set of verb «**options**»:
 
 | Level| 🧰Integrated Verb| ⟨**Bloom's 6 Categories**⟩ Attribute | **Rationality Level**| **Ego Mindset**| **Adult Mind Development**|
 | ------ | ----------------- | -------------- | ---------- | ----------------- | ------------ |
@@ -172,11 +172,11 @@ The ⟨**Bloom + AQAL 10 Categories**⟩ verbs therefore provide a more complete
 | **3** | 💪☸ Control | - | 🦎 **Pre-rational** | 👑 **Egocentric** | 🚼 **Self-Primacy**  |
 | **2** | 🤝💞 Connect | - | 🦎 **Pre-rational** | 🐤 _Transitional_ | 🚼 **Self-Primacy**  |
 | **1** | 🥗🚰 Survive | - | 🦎 **Pre-rational** | 🐣 **Pre-egoic**| 💥 **Impulsive/Magical** |
-: ⟨**Bloom + AQAL 10 Categories**⟩ Verbs: 🧰**Cognitive-Action Level Table**🪁 {#tbl-actions-10 .table-small-print tbl-colwidths="[5,25,15,15,20,20]"}
+: ⟨**Bloom + AQAL 10 Levels**⟩ Verbs: 🧰**Cognitive-Action Level Table**🪁 {#tbl-actions-10 .table-small-print tbl-colwidths="[5,25,15,15,20,20]"}
 
-As shown in [@tbl-actions-10], this book maps the four highest-order verbs of **⟨Bloom's 6 Categories⟩** onto the four highest-order levels of **⟨AQAL 8 Level Taxonomy⟩**, and adds **remember and understand** at the "rational" foundation, finally integrating them into the ⟨**Bloom + AQAL 10 Categories**⟩. This simplified table offers a maximally integrated reference for verb taxonomy — a cross-theory comparison, not a standard developmental-psychology classification.
+As shown in [@tbl-actions-10], this book maps the four highest-order verbs of **⟨Bloom's 6 Categories⟩** onto the four highest-order levels of **⟨AQAL 8 Levels⟩**, and adds **remember and understand** at the "rational" foundation, finally integrating them into the ⟨**Bloom + AQAL 10 Levels**⟩. This simplified table offers a maximally integrated reference for verb taxonomy — a cross-theory comparison, not a standard developmental-psychology classification.
 
-Converting the ⟨**Bloom + AQAL 10 Categories**⟩ into a **three-tier pyramid** structure visually presents the progressive relationship of "**perceived needs → applied action → systemic integration**" (as shown in the figure below).
+Converting the ⟨**Bloom + AQAL 10 Levels**⟩ into a **three-tier pyramid** structure visually presents the progressive relationship of "**perceived needs → applied action → systemic integration**" (as shown in the figure below).
 
 ::: {.callout-important #imp-actions-10-in-3-layers title="🧰10 Categories of Cognitive Action: Three-Tier Pyramid" collapse=false open=true }
 ::: {#fig-actions-10-in-3-layers} 
@@ -232,7 +232,7 @@ H3@{shape: trap-t}
  %% L0 --> M3
  %% M1 --> H3
 ```
-**⟨Bloom + AQAL 10 Categories⟩ Verbs: 🧰Three-Tier Display🪁**
+**⟨Bloom + AQAL 10 Levels⟩ Verbs: 🧰Three-Tier Display🪁**
 :::
 :::
 Next, this appendix collection continues with:
@@ -240,9 +240,9 @@ Next, this appendix collection continues with:
 * Jump to [💪Subjects and Objects of Action🌌](#sec-action-orchestration) 〜 the "Action Concerto" dynamically orchestrating **verbs**
 * Dive into [✍️Bloom's 6 Categories🎨](#sec-blooms-taxonomy) 〜 verb «**options**» for "**how to learn**"
 	*  [🌐Core Coordinate Capacity🧭](#sec-cc-core): paired with this book's **curated knowledge points**
-* Dive into [🪟AQAL 8 Level Taxonomy⚛](#sec-aqal-8-taxonomy) 〜 an original, book-specific set of verb «**options**» for "**how to analyze system dynamics**"
-	* [🌌World-System Capacity🚀](#sec-cc-system): paired with a dynamic-growth systems view via **Spiral Dynamics** — an original concept of this book
-* Dive into [🚰AQAL 9 Level Taxonomy🪷](#sec-aqal-9-taxonomy) 〜 the complete, original set of verb «**options**» for "**how to analyze system dynamics**"
+* Dive into [🪟AQAL 8 Levels⚛](#sec-aqal-8-taxonomy) 〜 an original, book-specific set of verb «**options**» for "**how to analyze system dynamics**"
+	* [🌌World-System Capacity🚀](#sec-cc-core): paired with a dynamic-growth systems view via **Spiral Dynamics** — an original concept of this book
+* Dive into [🚰AQAL 9 Levels🪷](#sec-aqal-9-taxonomy) 〜 the complete, original set of verb «**options**» for "**how to analyze system dynamics**"
 
 ## ✍️⟨Bloom's 6 Categories⟩🎨{#sec-blooms-taxonomy}
 
@@ -314,19 +314,19 @@ In this way, analytics is not merely mapped simply onto «**analyze**» within �
 - 🧬 **Overlooks behavior and neuroscience**: does not systematically incorporate observable **external** behavior and physiological aspects, such as neuroscience's explanation of the learning process (i.e., the behavior of the conscious self's "brain" and "body"), and therefore lacks the reinforcement of cognition through bodily-mind regulation — breathing, diet, routine, exercise, and so on.  
 - 🌏 **Overlooks cultural and social background**: does not adequately consider the group culture and social system in which the learner is situated (i.e., the dimensions of "we" and "them," and even "Nature/the Creator").
 
-The limitations of `Bloom's 6 Categories` can be addressed by using or supplementing it with `AQAL's 8 Level Taxonomy`, filling the gaps in **emotional, behavioral, cultural, and systemic** dimensions, and expanding "action" into "interaction across time and space."
+The limitations of `Bloom's 6 Categories` can be addressed by using or supplementing it with `AQAL's 8 Levels`, filling the gaps in **emotional, behavioral, cultural, and systemic** dimensions, and expanding "action" into "interaction across time and space."
 
 <!-- 
 ⟨**Bloom's 6 Categories**⟩ ✖ fused into [Part 6 ❖ Analytics & Decisions: 6 Points](06----analytics_decisions.en.qmd), called in this book 🌐🧭**Core Coordinate Capacity**, because it can be used to decompose all the book's knowledge points, facilitating navigation, selection, and application (see: [@imp-book-navigation]).
 -->
 
-<!-- 🪟⟨AQAL 8 Level Taxonomy⟩⚛ -->
+<!-- 🪟⟨AQAL 8 Levels⟩⚛ -->
 
-## 🪟⟨AQAL 8 Level Taxonomy⟩⚛ {#sec-aqal-8-taxonomy}
+## 🪟⟨AQAL 8 Levels⟩⚛ {#sec-aqal-8-taxonomy}
 
-For application in **AI education and engineering**, this book summarizes each level of the original AQAL framework as a single verb, resulting in 9 Level Taxonomy, then simplifies this to an operable set of 8 Level Taxonomy, guiding the **dynamic innovation**, **system design**, and **value alignment** (**ethical constraint**) of AI systems, ensuring AI development covers both technical (It/Its) and conscious (I/We) dimensions.
+For application in **AI education and engineering**, this book summarizes each level of the original AQAL framework as a single verb, resulting in 9 categories, then simplifies this to an operable set of 8 categories, guiding the **dynamic innovation**, **system design**, and **value alignment** (**ethical constraint**) of AI systems, ensuring AI development covers both technical (It/Its) and conscious (I/We) dimensions.
 
-Unlike ⟨**Bloom's 6 Categories**⟩, which focuses on the inner cognition of "how to learn," ⟨**AQAL 8 Level Taxonomy**⟩ emphasizes "in what world context thinking and action take place."
+Unlike ⟨**Bloom's 6 Categories**⟩, which focuses on the inner cognition of "how to learn," ⟨**AQAL 8 Levels**⟩ emphasizes "in what world context thinking and action take place."
 
 It places verb «options» into a four-quadrant grid of **subject/object × individual/collective**, combined with **hierarchical progression**. This allows us to regard action as a form of **systemic innovation**: not merely individual knowledge accumulation, but a new configuration continually emerging from the interaction of groups and environment.
 
@@ -442,14 +442,14 @@ Remember to distinguish specific vs. generalized AI, and consider dynamic states
 
 ### –🪜The Eight Tiers of AQAL
 
-**The Eight Tiers of AQAL** describe the "one-tier-one-category" nature of the capacity ladder of ⟨**AQAL 8 Categories**⟩. This original summary version omits the highest tier of the original AQAL 9-tier framework — "**compassion/transcendence**" — focusing instead on practical inspiration for AI systems, in order to concentrate on the operable levels of "Action Orchestration" for humans and machines.
+**The Eight Tiers of AQAL** describe the "one-tier-one-category" nature of the capacity ladder of ⟨**AQAL 8 Levels**⟩. This original summary version omits the highest tier of the original AQAL 9-tier framework — "**compassion/transcendence**" — focusing instead on practical inspiration for AI systems, in order to concentrate on the operable levels of "Action Orchestration" for humans and machines.
 
-This appendix focuses on presenting the **dynamic**, non-linear **🌀spiral-dynamics process** (Spiral Dynamics, SD) of the ⟨**AQAL 8 Level Taxonomy**⟩ "capacity ladder," describing how an individual's full-quadrant, full-level growth from instinct to reason can be applied to the **dynamic innovation** and **system design** of AI systems.
+This appendix focuses on presenting the **dynamic**, non-linear **🌀spiral-dynamics process** (Spiral Dynamics, SD) of the ⟨**AQAL 8 Levels**⟩ "capacity ladder," describing how an individual's full-quadrant, full-level growth from instinct to reason can be applied to the **dynamic innovation** and **system design** of AI systems.
 
-⟨**AQAL 8 Level Taxonomy**⟩ form a capacity ladder from low to high. As summarized in the table below [@tbl-actions-8], the first 4 tiers are the relatively lower-order verb «options»: "pre-rational" actions such as **survive**, **connect**, **control**, **belong**. The latter 4 tiers are relatively higher-order verb «options»: "rational" and "trans-rational" actions such as **apply/achieve**, **contextualize/systematize**, **align/strategize/integrate**, **construct/theorize/lead**.
+⟨**AQAL 8 Levels**⟩ form a capacity ladder from low to high. As summarized in the table below [@tbl-actions-8], the first 4 tiers are the relatively lower-order verb «options»: "pre-rational" actions such as **survive**, **connect**, **control**, **belong**. The latter 4 tiers are relatively higher-order verb «options»: "rational" and "trans-rational" actions such as **apply/achieve**, **contextualize/systematize**, **align/strategize/integrate**, **construct/theorize/lead**.
 
 
-::: {.callout-important #imp-actions-8 title="🌌 ⟨**AQAL 8 Level Taxonomy**⟩ Verbs🪁" collapse=false open=true .note}
+::: {.callout-important #imp-actions-8 title="🌌 ⟨**AQAL 8 Levels**⟩ Verbs🪁" collapse=false open=true .note}
 
 | Tier | Verb| Quadrants Involved| SD Color | Capacity-Dynamics Description  |
 | :----- | :--------- | :-------- | :----- | :-------------------------------------- |
@@ -461,7 +461,7 @@ This appendix focuses on presenting the **dynamic**, non-linear **🌀spiral-dyn
 | 6.🪞🪟 | **Contextualize/<br/>Systematize**| Intersubjective, Interobjective | 💚 Green | "**Empathic pluralism, cultural sensitivity**": simultaneously considers the **pluralistic values** of the "We" (lower left) and the **complex systems** of the "Its" (lower right), seeking equity and harmony.|
 | 7.🧭☯ | **Align/<br/>Strategize/<br/>Integrate** | All quadrants| 💛 Yellow | "**Strategic coordination, dynamic equilibrium**": begins to recognize the interplay of **all quadrants**, using **logic and long-term perspective** for **cross-domain** integration, resolving complex systemic problems. |
 | 8.🚀⚛ | **Construct/<br/>Theorize/<br/>Lead** | All quadrants| 🩵 Turquoise | "**Creating new knowledge, theory-building**": able to **synthesize** the **deep structures** of all quadrants, forming an entirely new **life vision** and **theoretical model**, guiding systemic evolution. |
-:  ⟨**AQAL 8 Level Taxonomy**⟩ **Verbs: Quadrants, SD Color, Capacity-Dynamics Description** {#tbl-actions-8}
+:  ⟨**AQAL 8 Levels**⟩ **Verbs: Quadrants, SD Color, Capacity-Dynamics Description** {#tbl-actions-8}
 
 This table helps in understanding how humans progressively display capacity across the life course, carrying a subject-object worldview.
 :::
@@ -471,11 +471,11 @@ The hierarchical nature of these **verb** «options» also displays an overall t
 - **Ego mindset**: progressing from the impulse and magic of the "pre-egoic," through "egocentric" and "ethnocentric," finally toward the integrated vision of "world-centric."    
 - **Adult mind development**: progressing from the early stage of "impulsive-magical," through the socializing stages of "self-primacy" and "interpersonal-institutional," gradually advancing toward "self-directed," and finally reaching, at the highest tier, the trans-rational realm of "inner-autonomy."
 
-In real life, ⟨**AQAL 8 Level Taxonomy**⟩ correspond not only to an abstract capacity ladder, but can also be observed in practical significance through "life course" and "demographic distribution." For a fuller comparison and data, see the section [⛵Life Course × Demographic Distribution🪂](#sec-aqal-9-life-journey).
+In real life, ⟨**AQAL 8 Levels**⟩ correspond not only to an abstract capacity ladder, but can also be observed in practical significance through "life course" and "demographic distribution." For a fuller comparison and data, see the section [⛵Life Course × Demographic Distribution🪂](#sec-aqal-9-life-journey).
 
 ### –🌀Dynamic Spiral Evolution
 
-The verbs of ⟨**AQAL 8 Level Taxonomy**⟩ span a **dynamic spiral progression** from tier 1 through tier 8. These verbs correspond not only to the **AQAL four quadrants** and **SD color tiers**, but are a practical expression of the core insights of **Spiral Dynamics** (SD).
+The verbs of ⟨**AQAL 8 Levels**⟩ span a **dynamic spiral progression** from tier 1 through tier 8. These verbs correspond not only to the **AQAL four quadrants** and **SD color tiers**, but are a practical expression of the core insights of **Spiral Dynamics** (SD).
 
 > 🌀 **The Theory Behind Spiral Dynamics (SD)'s Action Grammar: "Value Systems Theory"**
 
@@ -491,7 +491,7 @@ Focusing on AI systems, the **dynamic spiral progression** of AQAL, together wit
 
 ### –🌌World-System Capacity🚀{ #sec-cc-system }
 
-Continuing from the foundation of ⟨**[Core Coordinate Capacity](#sec-cc-core)**⟩, this book proposes **⟨World-System Capacity⟩**. This concept integrates the dynamic growth of **emotion, worldview, and spiral dynamics** contained within **⟨AQAL 8 Level Taxonomy⟩**, specifically adopting the core insight of the "value systems theory" of **Spiral Dynamics**:
+Continuing from the foundation of ⟨**[Core Coordinate Capacity](#sec-cc-core)**⟩, this book proposes **⟨World-System Capacity⟩**. This concept integrates the dynamic growth of **emotion, worldview, and spiral dynamics** contained within **⟨AQAL 8 Levels⟩**, specifically adopting the core insight of the "value systems theory" of **Spiral Dynamics**:
 
 - Human "**values**" and "**worldview**" evolve as "**environmental challenges**" and "**complexity**" increase. 
 - Value systems of different "color tiers" represent different "**thought patterns**, **motivational structures**, and **action logics**."
@@ -501,31 +501,31 @@ This tiered distinction emphasizes an integrated systems view of "**unity of kno
 
 - 🔴 **Core Circle**: "**Survival instinct and emotion-driven**" 🚰🤝👨‍👩‍👧‍👦 
  - **Function:** Responding to **material-level** and **emotional needs**. Rapidly responds to environmental pressure through a **reactive mind**, maintaining **basic survival**.
- - **Verb «options»:** Lower/mid-tier verbs such as **survive** (basic physiology), **connect** (attachment and security), **control** (power and self-assertion), see ⟨**AQAL 8 Level Taxonomy**⟩.
+ - **Verb «options»:** Lower/mid-tier verbs such as **survive** (basic physiology), **connect** (attachment and security), **control** (power and self-assertion), see ⟨**AQAL 8 Levels**⟩.
 - 🟠 **Middle Circle**: "**Institutional collaboration and rational achievement**" 🎯🛠️🏛️
  - **Function:** Emphasizes **rational interaction between the individual and the environment**. Action is coordinated through **institutions, norms, and rational tools**, building cross-system **collaboration patterns**.
- - **Verb «options»:** Mid-tier verbs such as **belong** (social role and order), **apply/achieve** (rational planning and achievement-orientation), see ⟨**AQAL 8 Level Taxonomy**⟩.
+ - **Verb «options»:** Mid-tier verbs such as **belong** (social role and order), **apply/achieve** (rational planning and achievement-orientation), see ⟨**AQAL 8 Levels**⟩.
 - 🟢 **Outer Circle**: "**Systemic innovation and guiding the overall configuration**" 🪟🧭☯ 
  - **Function:** Corresponds to **presupposed and emergent** action. Regards action as a leverage point of **systemic innovation**, capable of **reshaping rules and guiding configuration evolution** during value alignment.
- - **Verb «options»:** Higher-order verbs such as **contextualize/systematize** (pluralistic perspectives), **align/strategize/integrate** (cross-domain strategy), **construct/theorize/lead** (constructing new knowledge), see ⟨**AQAL 8 Level Taxonomy**⟩.
+ - **Verb «options»:** Higher-order verbs such as **contextualize/systematize** (pluralistic perspectives), **align/strategize/integrate** (cross-domain strategy), **construct/theorize/lead** (constructing new knowledge), see ⟨**AQAL 8 Levels**⟩.
 
 **⟨World-System Capacity⟩** can be defined as: the capacity to integrate the value systems and action logic of **Spiral Dynamics**, dynamically practicing the unity of knowledge and action while responding to **environmental challenges and complexity**, ultimately able to "_reshape rules, change narratives, and guide the evolution of the overall configuration_."
 
-In summary, the verb «options» of the three-tiered circles are tightly bound to **Spiral Dynamics' value system** and **⟨AQAL 8 Level Taxonomy⟩**, laying a complete conceptual foundation for the subsequent "Action Orchestration."
+In summary, the verb «options» of the three-tiered circles are tightly bound to **Spiral Dynamics' value system** and **⟨AQAL 8 Levels⟩**, laying a complete conceptual foundation for the subsequent "Action Orchestration."
 
 See the section [💪AI Action Subjects and Objects🌌](#sec-action-orchestration) for details.
 
 ***
 
-## 🚰AQAL 9 Level Taxonomy🌌 {#sec-aqal-9-taxonomy}
+## 🚰AQAL 9 Levels🌌 {#sec-aqal-9-taxonomy}
 
-This section provides the **complete** version of ⟨AQAL 9 Level Taxonomy⟩ (an extension of the original 8, adding a life-course and demographic comparison) for reference and further study; if you only want to grasp the core verb grammar, the previous section ⟨AQAL 8 Level Taxonomy⟩ is sufficient — feel free to jump directly to [💪AI Action Subjects and Objects🌌](#sec-action-orchestration).
+This section provides the **complete** version of ⟨AQAL 9 Levels⟩ (an extension of the original 8, adding a life-course and demographic comparison) for reference and further study; if you only want to grasp the core verb grammar, the previous section ⟨AQAL 8 Levels⟩ is sufficient — feel free to jump directly to [💪AI Action Subjects and Objects🌌](#sec-action-orchestration).
 
-::: {.callout-note collapse=true title="📖 Expand: Complete Definitions of AQAL 9 Level Taxonomy and Life-Course/Demographic Comparison"}
+::: {.callout-note collapse=true title="📖 Expand: Complete Definitions of AQAL 9 Levels and Life-Course/Demographic Comparison"}
 
-This appendix more fully explains the verb «options» content offered by ⟨**AQAL 9 Level Taxonomy**⟩, also known as the **full-quadrant, 9-tier verbs** — describing the individual's cosmic-scale action tiers in the world, from **survive**, **connect**, **control**, **belong**, **apply/achieve**, **contextualize/systematize**, **align/strategize/integrate**, **construct/theorize/lead**, to **compassion/transcendence**.
+This appendix more fully explains the verb «options» content offered by ⟨**AQAL 9 Levels**⟩, also known as the **full-quadrant, 9-tier verbs** — describing the individual's cosmic-scale action tiers in the world, from **survive**, **connect**, **control**, **belong**, **apply/achieve**, **contextualize/systematize**, **align/strategize/integrate**, **construct/theorize/lead**, to **compassion/transcendence**.
 
-Note that the original theory has no explicit verbs, only "tier/stage" developmental descriptions. This book's ⟨**AQAL 9 Level Taxonomy**⟩ is a reference, converting into verbs the [social-media user PsychoMath's nine-tier verb extension of AQAL theory](https://x.com/ItIsHoeMath/status/1818342463599153419), for application to AI education and engineering:
+Note that the original theory has no explicit verbs, only "tier/stage" developmental descriptions. This book's ⟨**AQAL 9 Levels**⟩ is a reference, converting into verbs the [social-media user PsychoMath's nine-tier verb extension of AQAL theory](https://x.com/ItIsHoeMath/status/1818342463599153419), for application to AI education and engineering:
 
 Based on this book's needs for application to AI education and engineering, some of the higher-order verbs have been modified:
 
@@ -535,7 +535,7 @@ Based on this book's needs for application to AI education and engineering, some
 8. Original **sanctify**: **construct/theorize/lead** (magician-role, aware of constructing)
 9. Original **complete**: **compassionate/transcend** (this definition is the author's own interpretation, not a consensus one)
 
-This book summarizes the ⟨**AQAL 9 Level Taxonomy**⟩ as shown in the table below [@tbl-actions-9], along with a summary of the corresponding **quadrants involved**, **Spiral Dynamics SD color tiers**, and **capacity-dynamics descriptions**:
+This book summarizes the ⟨**AQAL 9 Levels**⟩ as shown in the table below [@tbl-actions-9], along with a summary of the corresponding **quadrants involved**, **Spiral Dynamics SD color tiers**, and **capacity-dynamics descriptions**:
   
 ::: {.callout-note #nte-actions-9 title="🚰The Nine-Tier AQAL Verbs🪷: This Book's Extended Interpretation" collapse=false open=true .note}
 
@@ -597,7 +597,7 @@ By simultaneously considering interior and exterior, individual and collective, 
 
 ###  -⛵Life × Demographics🪂 {#sec-aqal-9-life-journey}
 
-To give readers a more intuitive sense of the real-life significance of ⟨**AQAL 9 Level Taxonomy**⟩, we can approach it from two angles: "life course" and "demographic distribution."
+To give readers a more intuitive sense of the real-life significance of ⟨**AQAL 9 Levels**⟩, we can approach it from two angles: "life course" and "demographic distribution."
 
 The following is a version adjusted from the standard theories of AQAL and Spiral Dynamics (SD). This table distinguishes **life stages** from global **demographic distribution**, using global estimated percentages closer to SD theory.
 
@@ -612,7 +612,7 @@ The following is a version adjusted from the standard theories of AQAL and Spira
 | **7. 🧭☯**            | **Align/Strategize/Integrate**  | 40+ years (**Midlife/flexible strategy**)                | **~1% of the population**         |
 | **8. 🚀⚛**            | **Construct/Theorize/Lead** | 50+ years (**Later life/full-quadrant vision**)               | **< 0.1% of the population**     |
 | **9. 🪷⚜**            | **Compassion/Transcendence**     | Very rare (**Transcendence**)                        | **Extremely rare**             |
-: ⟨**AQAL 9 Level Taxonomy**⟩ Life Stage and Global Demographic Distribution {#tbl-aqal-sd-distribution} 
+: ⟨**AQAL 9 Levels**⟩ Life Stage and Global Demographic Distribution {#tbl-aqal-sd-distribution} 
 
 [^age]: Ages represent only the typical earliest point of emergence, not a necessary progression.
 
@@ -696,7 +696,7 @@ Concrete higher-level verb «options» such as "**contextualize**," "**align**,"
 
 ### –🧭Autonomous Goal-Setting
 
-Since machines lack the capacity for **autonomous goal-setting**, the higher-order **verb «options»** of the AQAL 8 Level Taxonomy (such as **contextualize/systematize**, **align/strategize/integrate**, **construct/lead**) inevitably require **human guidance and design** within "Action Orchestration."
+Since machines lack the capacity for **autonomous goal-setting**, the higher-order **verb «options»** of the AQAL 8 categories (such as **contextualize/systematize**, **align/strategize/integrate**, **construct/lead**) inevitably require **human guidance and design** within "Action Orchestration."
 
 These higher-order verbs are especially important to the following core AI problematics:
 
@@ -710,7 +710,7 @@ These higher-order verbs are especially important to the following core AI probl
 
 This book uses "coopetition games" and "framing" as frameworks, treating action as a **strategic intervention** into loops and structures: applying the right verb «options» at the right leverage points to guide the system dynamics toward sustainable equilibrium and innovation.
 
-Among these, the **system pipeline** of "**Action Orchestration**" typically comprises six stage-verb «options» (see “🪜[Cognitive Capacity](appendix-cognitive_capacity.en.qmd)” for details):
+Among these, the **system pipeline** of "**Action Orchestration**" typically comprises six stage-verb «options» (see 🪜[Cognitive Capacity](appendix-cognitive_capacity.en.qmd) for details):
 
 - 👁️ **Sense** or 🛰**Sensing**: "detecting" and "collecting" relevant information about the self and the environment — an important basis for world-mapping and perceptual feedback. 
 - 🧠 **Interpret** or 🪟**Frame**: "analyzing" and "contextualizing" raw data, converting it into a **usable knowledge stock**.  
@@ -780,7 +780,7 @@ The futures of AI can be dynamically described through verbs and causal loops, d
 
 ## 🪜❝Orchestrated❞ Collaboration🎭
 
-Looking back over this appendix collection, we started from the concentric-circle system of verb «options», progressively unfolding "the subjects and objects of action" and "dynamic model orchestration." This path parallels the progressive ❝training❞ of the mind in “🧠*Brain*”, but here the emphasis is: **how to orchestrate collaborative action and innovate within system dynamics**.
+Looking back over this appendix collection, we started from the concentric-circle system of verb «options», progressively unfolding "the subjects and objects of action" and "dynamic model orchestration." This path parallels the progressive ❝training❞ of the mind in 🧠*Brain*, but here the emphasis is: **how to orchestrate collaborative action and innovate within system dynamics**.
 
 **1️⃣ The Concentric-Circle System of System Dynamics**
 
@@ -819,7 +819,7 @@ Looking back over this appendix collection, we started from the concentric-circl
 
 **6️⃣ From «Options» to «Choice»**
 
-The verb «options» listed in this appendix — the 10 verb categories, Bloom's 6 categories, the AQAL 8/9 Level Taxonomy — all remain at the stage of **divergence**: laying out the range of possible actions. Truly **converging** them into an executable «choice» requires pairing them with concrete noun «options» (context, goal, constraint), and going through a systematic convergence process. This is exactly what 🔖Appendix 🪜“[Capacity](appendix-cognitive_capacity.en.qmd#sec-cognitive-capacity-scaffolding)”'s "double-diamond model" is meant to do: placing this chapter's verb «options» together with 🔖Appendix 🧠“[Mind](appendix-brain.en.qmd)”'s noun «options» into a single scaffold, converging them into a «choice».
+The verb «options» listed in this appendix — the 10 verb categories, Bloom's 6 categories, the AQAL 8/9 categories — all remain at the stage of **divergence**: laying out the range of possible actions. Truly **converging** them into an executable «choice» requires pairing them with concrete noun «options» (context, goal, constraint), and going through a systematic convergence process. This is exactly what 🔖Appendix 🪜*[Cognitive Capacity](appendix-cognitive_capacity.en.qmd#sec-cognitive-capacity-scaffolding)*'s "double-diamond model" is meant to do: placing this chapter's verb «options» together with 🔖Appendix 🧠*[Brain](appendix-brain.en.qmd)*'s noun «options» into a single scaffold, converging them into a «choice».
 
 ***
 
