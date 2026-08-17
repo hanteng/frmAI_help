@@ -58,25 +58,43 @@ Anchored in core **problematics** at its origin (see [Part 1 ㉄](01----problema
     * [Part 4 🌀](04----statistical_ai.en.qmd) Statistical AI
 * Highlighting systemic innovation and analytical depth by synthesizing the 5 "AI Orientations" (see [Part 5 ☸](05----ai_orientations.en.qmd)) and 6 points of "Analytics & Decisions" (see [Part 6 ❖](06----analytics_decisions.en.qmd)).
 
+The inclusion of Game‑oriented AI also echoes the “Dao / Artifice” theme because current LLM‑agent research uses simulated social interaction, cooperation, planning, and feedback as testbeds for strategic behavior, but finds persistent instability from prompt sensitivity, hallucinations, and control problems [@Lu2024LLMs; @russell2021]. While these studies show why games should be treated as **AGI testbeds** rather than proof of general intelligence, this book takes a step further by asking readers to be aware of the manipulation and power dynamics of AI design and use.
+
+***
+
 This chapter structure not only outlines a comprehensive framework but also encourages readers to build their own **[🪜 Knowledge-Action Scaffolding](00-03-notes-constructive_fill-in.en.qmd)**, systematically generating essential **Verb-Noun** combinations via the author's novel taxonomy [Note @nte-ai-scaffolding].
+
+## 🖼️ Scope of This Book
+
+From the earliest debates on the **symbol grounding problem**—how symbols gain meaning beyond human interpretation [@Harnad1990The]—to the enduring **frame problem** of predicting what changes and what remains stable in a dynamic world [@Shoham1987What; @Schubert1990Monotonic], the foundations of AI have always been tied to both practical considerations and deep philosophical questions.
+
+The scope of this book aims to curate *absoulte minimum key terms* (66 of them) to build a rich enough foundation for knowledge-action scaffolding and debates.  
+
+Contemporary surveys now emphasize that neither symbolic reasoning nor neural networks alone are sufficient; instead, hybrid approaches are emerging as the “third generation” of AI [@Zhu2023Toward; @Ali2025Agentic; @Ye2025From; @russell2021]. This shift is visible in the rise of **embodied AI**, where agents must perceive, reason, and act in real environments [@Feng2025Embodied; @2024A].
+
+The book believes that despite the success of LLM in securing capital investments, it remains critical to be aware of the Schools & Paradigms, Games & Maths, Problematics & Engineering of AIs, and how they are woven into the wider understanding of not just "Artificial Intelligence", but "Human Intelligence" as well. 
 
 ## 🧭 “Three Linked Appendices”: A Framework for Knowing and Acting that works for Human and AI alike.
 
-Supplementing and triangulating all the content chapters, this book presents three appendices that echo one another: 💪 [Action](appendix-action.en.qmd), 🧠 [Brain](appendix-brain.en.qmd), and 🪜 [Capacity](appendix-cognitive_capacity.en.qmd). Together, these appendices provide taxonomies that serve as a critical roadmap for navigating the AI landscape in particular, and the broader learning journey in general. By unpacking “what to know” from “how to decide and act,” before recombining them for practical execution, the taxonomies deliberately refrain from presupposing any priority between “humans” and “machines.”Each appendix outlines parallel versions for both human and AI agents, enabling readers to choose any entry point.
+Supplementing and triangulating all the content chapters, this book presents three appendices that echo one another: [“💪Action”](appendix-action.en.qmd), [“🧠Brain”](appendix-brain.en.qmd), and [“🪜Capacity”](appendix-cognitive_capacity.en.qmd). 
 
-* First ask "**What is worth knowing?**"—See 🧠 *Brain*, with its Triple Mind framework and concentric circles of nouns.
-* Next ask: “Given this knowledge, how should one act?”—See 💪 *Action*, with its verb grammar and quadrant of universal layers.
-* Finally ask : “Among many options, how can choices be converged?” —See 🪜 *Capacity*, with its Double Diamond Model and Scaffolding for constructive selection.
+Why do we need these? Recent conceptual work explicitly argues that effective human–AI collaboration depends on three linked questions: the ontological role of AI, how humans and AI jointly construct knowledge, and how systems practically enable that interaction [@Apriyani2025A]. This maps closely to the **Action–Brain–Capacity triad**, and further supports treating both AI and human agency as a continuum rather than as separate categorie.
+
+Together, these appendices provide taxonomies that serve as a critical roadmap for navigating the AI landscape in particular, and the broader learning journey in general. By unpacking “what to know” from “how to decide and act,” before recombining them for practical execution, the taxonomies deliberately refrain from presupposing any priority between “humans” and “machines.” Each appendix outlines parallel versions for both human and AI agents, enabling readers to choose any entry point.
+
+* First ask: “How should one act or prepare to act?”—See “💪Action”, with its verb grammar and quadrant of universal layers.
+* Next ask "**Given the actions required or prepared, what is worth knowing?**"—See “🧠Brain”, with its Triple Mind framework and concentric circles of nouns.
+* Finally ask : “Among many options, how can choices be converged?” —See “🪜Capacity”, with its Double Diamond Model and Scaffolding for constructive selection.
 
 ::: {.callout-note title="🎓 For Academic & Rigorous Readers: Tripartite Division of Ontology, Epistemology, and Methodology" collapse=true}
 
-In academic terms, “Three Linked Appendices” roughly corresponds to **Ontology**, **Epistemology**, and **Methodology**, deliberately engineered to be **substrate-neutral**. The exact same set of categories applies simultaneously to human and machine (AI) agents, rather than centering on human cognition and extrapolating to machines secondarily.
+In academic terms, “Three Linked Appendices” roughly corresponds to **Ontology**, **Epistemology**, and **Methodology**, deliberately engineered to be **substrate‑neutral**. The same set of categories applies simultaneously to human and machine (AI) agents, rather than centering on human cognition and extrapolating to machines secondarily. It is important to note that this tripartite division follows the traditional philosophical order; it runs in parallel to the book’s **ABC (Action–Brain–Capacity)** framework but does not require identical sequencing.
 
 | Academic Dimension | Corresponding Appendix | Core Content |
 | :--- | :--- | :--- |
-| **Ontology** (What exists) | 🧠 *Brain* | Concentric Circles of Nouns (Core / Middle / Outer); ⟨Tri-Aspect Mind⟩ (Reactive / Emotive-Relational / Reflective-Symbolic) |
-| **Epistemology** (How we know & categorize) | 🧠 *Brain* (Primary), 💪 *Action* (Secondary) | Human vs. Machine Learning contrasts (Behaviorism / Situatedness / Connectionism); AQAL Quadrant cognitive pathways (Subjective / Objective / Intersubjective / Interobjective) |
-| **Methodology** (How we decide & act) | 💪 *Action*, 🪜 *Capacity* | Action syntax and dynamic spiral evolution across AQAL Quadrants; Double Diamond divergence and convergence («Options» → «Choices») |
+| **Ontology** (What exists) | “🧠Brain” | Concentric Circles of Nouns (Core / Middle / Outer); ⟨Tri-Aspect Mind⟩ (Reactive / Emotive-Relational / Reflective-Symbolic) |
+| **Epistemology** (How we know & categorize) | “🧠Brain” (Primary), “💪Action” (Secondary) | Human vs. Machine Learning contrasts (Behaviorism / Situatedness / Connectionism); AQAL Quadrant cognitive pathways (Subjective / Objective / Intersubjective / Interobjective) |
+| **Methodology** (How we decide & act) | “💪Action”, “🪜Capacity” | Action syntax and dynamic spiral evolution across AQAL Quadrants; Double Diamond divergence and convergence («Options» → «Choices») |
 
 Thus, the three appendices are not isolated topics, but three complementary facets of a single **agent-neutral** framework: establishing ontology and epistemology first (Brain), unfolding the option space of action (Action), and finally converging via methodology into executable choices (Capacity). This structure underpins the book's parallel treatment of humans and machines. Readers interested in specific theoretical contexts (such as dual-process theory, triune brain theory, social brain hypothesis, or the three major AI paradigms) will find source citations and extended links within the corresponding appendix.
 
@@ -147,7 +165,10 @@ This handbook provides basic mathematical definitions and code snippets, allowin
 
 This book includes concise mathematical formulas primarily for illustrative purposes, requiring no advanced mathematical background. For example, consider the mathematical definition of Nash Equilibrium below:
 
-$$u_i(s_i^*, s_{-i}^*) \;\geq\; u_i(s_i, s_{-i}^*)  \quad \forall i \in N, \; \forall s_i \in S_i$$
+$$
+u_i(s_i^*, s_{-i}^*) \;\geq\; u_i(s_i, s_{-i}^*) 
+\quad \forall i \in N, \; \forall s_i \in S_i
+$$
 
 Designed as a popular science reference, the mathematical formulas in this book aim to lower the threshold for conceptual understanding.
 
@@ -187,7 +208,6 @@ executor = initialize_agent_executor_with_mcp(
 # 4. Disambiguation Query requiring entity grounding
 result = executor.invoke({"input": "Disambiguate Georgia and provide candidate ISO country codes."})
 print(result)
-
 ```
 
 ::: {.callout-warning #nte--ed-index title="✎ Editorial Notes" collapse=true open=false}
