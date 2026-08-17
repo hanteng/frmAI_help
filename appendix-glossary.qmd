@@ -300,11 +300,11 @@ tags:
 
 ### generalization
 
-### game theory 
+### game theory {#sec-game-theory}
 
 ### generative adversarial network（GAN)
 
-see also game
+> 參見： [`game theory`](#sec-game-theory)
 
 ## H 
 

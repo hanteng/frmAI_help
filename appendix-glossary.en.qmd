@@ -85,11 +85,11 @@ tags:
 ## B
 
 ### Brain {#sec-brain}
-<sup> ⁃ Brain</sup>
+<sup> ⁃ 大腦</sup>
 
-`Brain` refers to the neurobiological structures and neural networks that serve as the physical foundation of the mind. Under the materialist paradigm of modern neuroscience and behavioral science, the brain generates cognitive and behavioral outputs through neural firing, brain plasticity, and biological feedback loops. In Ken Wilber’s AQAL framework, the brain corresponds to the **Upper-Right Quadrant (Individual-Exterior, Behavioral/Neurobiological)**.
+`Brain` (大腦) refers to the neurobiological structures and neural networks that form the material substrate of Mind. From the materialist standpoint of modern neuroscience and behavioral science, the brain generates cognitive and behavioral outputs through neuronal firing, neural plasticity, and physiological feedback loops. In Ken Wilber's AQAL framework, Brain corresponds to the **Upper-Right Quadrant (individual exterior, behavior, and neurobiology)**.
 
-> **See also**: [`Mind`](#def-mind); [`Mind-Brain Problem`](#def-mind-brain-problem)
+> See also: [`Mind`](#def-mind); [`Mind-Brain Problem`](#def-mind-brain-problem)
 
 ---
 
@@ -304,7 +304,7 @@ tags:
 
 ### generative adversarial network（GAN)
 
-see also game
+> See also: [`game theory`](#sec-game-theory)
 
 ## H 
 
@@ -334,43 +334,43 @@ see also game
 
 ### Markov decision process（MDP）
 
-### mental fill-in {#def-mental-fill-in}
+### Mental Fill‑in {#def-mental-fill-in}
 
-`腦補`（mental fill-in），中文網絡語，當今語用意義指人們資訊不足或意義模糊時推測、想像並填補「資訊落差」以完成自己的理解，暗指是「個人解讀與猜測」，帶有幽默、質疑或諷刺的意味。該詞原意有一說是源自日語的「脳内補正」（nōnai hosei）或「脳内補完」（nōnai hokan），因此突顯的是主觀判斷的填補。總之，❝腦補❞從最初特指日本動漫領域的幻想行為，逐漸演變成更廣泛的、描述人們如何透過想像來理解、詮釋甚至建構資訊的現象。
+`腦補` (*mental fill‑in*) is a colloquial term from Chinese internet usage. In contemporary discourse it refers to the act of speculating, imagining, or filling in gaps when information is insufficient or meaning is unclear, in order to complete one’s own understanding. It often implies *personal interpretation or guesswork*, and carries humorous, skeptical, or ironic undertones. The expression is said to derive from Japanese phrases such as “脳内補正” (*nōnai hosei*, mental correction) or “脳内補完” (*nōnai hokan*, mental completion), highlighting the subjective nature of such filling‑in. In short, ❝腦補❞ began as a term in Japanese anime fandom describing imaginative extrapolation, but has gradually broadened to describe how people use imagination to interpret, explain, or even construct information.
 
-> 參見： [`鷹架` ](#scaffolding)； [`認知鷹架` ](#sec-cognitive-scaffolding)；[`知行鷹架` ](#sec-constructive-fill-in)；
-> 閱讀：💬導論 ~  [❝腦補❞ 知行捷徑](00-02-notes-mental_fill-in.qmd)
+> See also: [`Scaffolding`](#scaffolding); [`Cognitive Scaffolding`](#sec-cognitive-scaffolding); [`Constructive Fill‑in`](#sec-constructive-fill-in)  
+> Read: 💬 Introduction ~ [`❝Mental Fill-ins❞: Cognitive Shortcuts`](00-02-notes-mental_fill-in.en.qmd)
 
 ### Mind {#def-mind}
-<sup> ⁃ Mind</sup>
+<sup> ⁃ 心智</sup>
 
-`Mind` in philosophy and cognitive science refers to subjective consciousness, intentionality (aboutness), rationality, and self-reflection. It encompasses first-person subjective experience (qualia) that cannot be fully reduced to objective neurobiological data. In Ken Wilber’s AQAL framework, the mind corresponds to the **Upper-Left Quadrant (Individual-Interior, Intentional/Consciousness)**, functioning as a complementary upper-quadrant dimension to the physical brain.
+`Mind` (心智), in philosophy and cognitive science, refers to subjective consciousness, intentionality (aboutness), and the capacity for reason and self-reflection. It encompasses first-person experience (such as qualia) that cannot be fully reduced to objective neurobiological data. In Ken Wilber's AQAL framework, Mind corresponds to the **Upper-Left Quadrant (individual interior, intention, and consciousness)**, complementing the objective, material Brain.
 
-> **See also**: [`Mind-Brain Problem`](#def-mind-brain-problem); [`Brain`](#sec-brain)  
-> **Further Reading**: [▜ Appendix B ~ 🧠 Mind: Cultivation of Dao-Wisdom](appendix-brain.qmd)
+> See also: [`Mind-Brain Problem`](#def-mind-brain-problem); [`Brain`](#sec-brain)
+> Read: [▜Appendix B ~ 🧠Brain: «Observe» Tao-Intelligence Practice](appendix-brain.en.qmd)
 
 ---
 
 ### Mind-Brain Problem {#def-mind-brain-problem}
-<sup> ⁃ Mind-Brain Problem</sup>
+<sup> ⁃ 心智-大腦問題</sup>
 
-The `Mind-Brain Problem` is a foundational dilemma in cognitive science and philosophy of mind, examining the relationship between subjective mental experiences (consciousness, qualia) and the physical brain (neural networks, biochemistry). The translation and conceptualization split into two primary paradigms:
+The `Mind-Brain Problem` is a central puzzle in cognitive science and philosophy of mind: what is the relationship between subjective mental experience (consciousness, feeling) and the objective, material brain (neural networks, biochemistry)? The problem splits into two main positions:
 
-- **Behavioral & Neuroscience View**: Treats the mind as an emergent property of neurobiology, focusing on neural firing, brain plasticity, and feedback loops. To this view, "mind" is simply what the physical brain does.
-- **Philosophical & Cognitive Psychology View**: Emphasizes the unbridged gap between subjective experience and brain scans, arguing that the mind possesses internal, first-person qualia that cannot be captured solely via neuroimaging.
+- **The behavioral/neuroscience view**: holds that Mind is an emergent neurobiological property of the Brain, and focuses research on neuronal firing, brain plasticity, and behavioral feedback loops. On this view, "Mind" simply *is* the manifestation of the physical brain's operation.
+- **The philosophy/cognitive-psychology view**: emphasizes the gap between subjective experience and objective measurement, holding that Mind includes first-person subjective experience (qualia) that cannot be fully captured by instruments such as fMRI.
 
-The evolution of Artificial Intelligence actively inherits and reframes this problem through three major problematics:
+The development of artificial intelligence (AI) has reshaped and re-examined this problem through three main "problematics":
 
-1. **Problematic A: Symbolism vs. Connectionism (Methodological Resolution)**
-   - **Symbolic AI (Philosophical "Mind" Approach)**: Early architects built systems using abstract logic, symbols, and rules (GOFAI), assuming intelligence functions as a top-down program.
-   - **Connectionist AI (Behavioral "Brain" Approach)**: Deep learning modeled the physical biology of brains (neurons, synapses, weights). Connectionism ultimately won the scaling race, manifesting complex language capabilities resembling human minds.
-2. **Problematic B: The Functionalist Loophole (Behavioral Equivalence)**
-   - **Dilemma**: Functionalism asserts that mind is substrate-independent software, whereas John Searle’s *Chinese Room Argument* counters that symbol manipulation (syntax) lacks true understanding (semantics).
-   - **Resolution**: LLMs bypass philosophical impasse through high behavioral precision—simulating empathy and Theory of Mind (ToM) so accurately that humans interact with them as active agents regardless of internal qualia.
-3. **Problematic C: Hard Problem of Consciousness vs. Emergence**
-   - **Reductionism** assumes that scaling neural networks naturally gives rise to minds, while **Philosophy** highlights the "Explanatory Gap" between data processing (brain) and conscious feeling (mind). AI perfectly simulates feedback without experiencing subjective existence.
+1. **Problematic A: Symbolism vs. Connectionism (a methodological resolution)**
+   - **Symbolic AI (the philosophical "Mind" orientation)**: early AI attempted to construct mind out of abstract logic, symbols, and rules (GOFAI), on the assumption that human intelligence was top-down symbolic-program processing.
+   - **Connectionist AI (the behavioral "Brain" orientation)**: modern deep learning is built by replicating the brain's biological structure — neurons, synapses, and weights. Connectionism currently dominates at scale, producing human-mind-like linguistic ability by imitating the brain's statistical architecture.
+2. **Problematic B: The Functionalism Loophole (behavioral equivalence)**
+   - **The challenge**: functionalism holds that Mind is merely a software program, regardless of whether it runs on carbon or silicon. John Searle's "Chinese Room" thought experiment challenges this, arguing that a program can perfectly simulate syntax (data manipulation) without ever acquiring semantics (genuine understanding).
+   - **The workaround**: modern Large Language Models (LLMs) sidestep this philosophical debate by exhibiting highly precise simulated empathy and Theory of Mind (ToM). Even lacking a subjective mind, their behavioral output is precise enough that humans treat them as agents with genuine agency.
+3. **Problematic C: The Hard Problem of Consciousness vs. Emergentism**
+   - **Reductionism** holds that Mind will naturally emerge given a sufficient number of connected neurons; **philosophy** counters that an "explanatory gap" remains between "data processing (Brain)" and "subjective feeling (Mind)" that is difficult to bridge. AI can perfectly simulate feedback, yet has no subjective experience of its own.
 
-> **See also**: [`Triune Brain Hypothesis`](#sec-triune-brain-hypothesis); [`Social Brain Hypothesis`](#sec-social-brain-hypothesis); [`Cognitive Load`](#sec-cognitive-load)
+> See also: [`Triune Brain Hypothesis`](#sec-triune-brain-hypothesis); [`Social Brain Hypothesis`](#sec-social-brain-hypothesis); [`Cognitive Load`](#sec-cognitive-load)
 
 ---
 
