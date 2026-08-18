@@ -6,6 +6,14 @@ tags:
 - Mental-Fill-in-and-Constructive-Fill-in
 - Frame-Setting-Capability
 ---
+
+::: {.callout-tip}
+📊 Character Counts / 字數統計
+
+- Chinese version: 20711 characters
+- English version: 56435 characters
+:::
+
 ::: {.callout-warning #nte--ed-index title="✎ Editorial Notes" collapse=true open=false}
 - [ ] **Fact-check** sentence by sentence
 - [ ] Review **logical flow**    

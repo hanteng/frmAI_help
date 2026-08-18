@@ -1,3 +1,10 @@
+::: {.callout-tip}
+📊 Character Counts / 字數統計
+
+- Chinese version: 6280 characters
+- English version: 6356 characters
+:::
+
 # —📖Table of Contents📑— {.unnumbered}
 * 🤗 Preface 〜  🙩 [Harnessing Intelligence: AI Game Playbook for Cognitive Scaffolding](index.en.qmd)
 * ▘ Intro ~  [❝Mental Fill-ins❞: Cognitive Shortcuts](00-02-notes-mental_fill-in.en.qmd)

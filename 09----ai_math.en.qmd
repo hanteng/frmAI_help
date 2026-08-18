@@ -10,6 +10,14 @@ tags:
 - 策略性人工智慧
 ---
 
+
+::: {.callout-tip}
+📊 Character Counts / 字數統計
+
+- Chinese version: 7778 characters
+- English version: 7969 characters
+:::
+
 ::: {.callout-note}
 🚧 Under Construction / 建設中  {.fs-3 .under-construction .unnumbered}
 

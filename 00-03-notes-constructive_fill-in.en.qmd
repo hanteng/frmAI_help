@@ -10,6 +10,14 @@ editor:
     references: 
       location: block
 ---
+
+::: {.callout-tip}
+📊 Character Counts / 字數統計
+
+- Chinese version: 9070 characters
+- English version: 14792 characters
+:::
+
 # 📑 Note: 🙶Constructive Fill-in🙷~ Unity of Knowledge and Action {.unnumbered}
 
 > ⚡🔥 **A single ChatGPT exchange ≈ 0.43 Wh** — do the math: what's the total energy bill for 2025, or 2035?

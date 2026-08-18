@@ -8,6 +8,14 @@ tags:
   - 卡內基美隆大學
 ---
 
+
+::: {.callout-tip}
+📊 Character Counts / 字數統計
+
+- Chinese version: 3387 characters
+- English version: 3578 characters
+:::
+
 ::: {.callout-note}
 🚧 Under Construction / 建設中  {.fs-3 .under-construction .unnumbered}
 

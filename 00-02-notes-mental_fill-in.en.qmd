@@ -11,6 +11,14 @@ editor:
       location: block
 ---
 
+
+::: {.callout-tip}
+📊 Character Counts / 字數統計
+
+- Chinese version: 10350 characters
+- English version: 21683 characters
+:::
+
 # 💬 Intro: ❝Mental Fill-ins❞~ Cognitive Shortcuts {.unnumbered #nte-mental_fill-in}
 
 > 🥶🥵 When you see the Chinese idiom **「水深火熱」 (*Shui-Shen-Huo-Re* — literally "deep water and scorching fire")**, what instantly comes to your mind? 

@@ -8,6 +8,14 @@ keywords:
 bibliography: references.bib
 csl: apa-single-spaced.csl
 ---
+
+::: {.callout-tip}
+📊 Character Counts / 字數統計
+
+- Chinese version: 2405 characters
+- English version: 9924 characters
+:::
+
 ## Symbol Grounding Problem 🔤㊙ {#sec-symbol-grounding-problem}
 
 The `Symbol Grounding Problem`, proposed first by **cognitive scientist** Stevan Harnad in 1990 [@harnad1990grounding], problematizes how abstract symbols connect to the real world meaningfully.

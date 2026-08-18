@@ -9,6 +9,14 @@ tags:
 - AI導向
 ---
 
+
+::: {.callout-tip}
+📊 Character Counts / 字數統計
+
+- Chinese version: 4348 characters
+- English version: 4373 characters
+:::
+
 ## AI Alignment and Control Problem 🎯🛡️ {#sec-alignment-control-problem}
 
 `AI 對齊問題`（AI Alignment Problem）的核心，在於如何確保人工智慧的行為能與人類的**價值**、**意圖**及**倫理邊界**保持一致。這不單是技術上的準確度問題，更是關乎**意向性**、**道德**與**信任**的深刻挑戰。與之緊密相關的 **AI 控制問題**（AI Control Problem），則更進一步探問：即使 AI 在設計之初已經對齊，我們能否在它隨著**持續學習**、**規模擴張**或**自我修改**時，仍能維持其可控性與對齊狀態？

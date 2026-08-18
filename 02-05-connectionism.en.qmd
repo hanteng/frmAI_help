@@ -10,6 +10,14 @@ tags:
 - 強化學習
 - RLHF
 ---
+
+::: {.callout-tip}
+📊 Character Counts / 字數統計
+
+- Chinese version: 6621 characters
+- English version: 6819 characters
+:::
+
 ## 🧬Connectionism🏮 {#sec-connectionism}
 
 ::: {.callout-note}

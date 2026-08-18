@@ -13,6 +13,14 @@ tags:
   - 神經網路
   - 大型語言模型
 ---
+
+::: {.callout-tip}
+📊 Character Counts / 字數統計
+
+- Chinese version: 6130 characters
+- English version: 6328 characters
+:::
+
 ## 🌀Statistical AI🎏 {#sec-statistical-ai} 
 
 ::: {.callout-note}

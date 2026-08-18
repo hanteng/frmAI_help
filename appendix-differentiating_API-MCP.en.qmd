@@ -1,6 +1,14 @@
 ---
 label: app-api
 ---
+
+::: {.callout-tip}
+📊 Character Counts / 字數統計
+
+- Chinese version: 8555 characters
+- English version: 8555 characters
+:::
+
 # ⚙API分類：辨用  {.appendix }
 
 為求讀者能見樹見林地掌握當代雲端平台的各類 API 生態，此附錄整理至2025年幾家業界領導者的目錄。介紹重心先是以生成式 AI、其他 AI、及非 AI 依序說明。

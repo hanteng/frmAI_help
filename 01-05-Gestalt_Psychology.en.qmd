@@ -4,6 +4,14 @@ keywords:
 - Cognitive Science
 - Embodied Cognition
 ---
+
+::: {.callout-tip}
+📊 Character Counts / 字數統計
+
+- Chinese version: 5041 characters
+- English version: 14131 characters
+:::
+
 ## Gestalt Psychology 👁️⯊ {#sec-gestalt-psychology}
 
 `Gestalt Psychology` (also known as `完形心理`, "the psychology of form") is a school of psychology that examines how humans organize, perceive, and make sense of the world. One of its core claims — often paraphrased as **"the whole is greater than the sum of its parts"** — is more accurately rendered from Kurt Koffka's original formulation as **"the whole is *other than* (or *different from*) the sum of its parts."** The point is not that the whole has more magnitude, but that it has a different, emergent structure: the human brain automatically organizes scattered partial information into a meaningful whole, rather than simply processing each detail one at a time.

@@ -7,6 +7,14 @@ tags:
 - 脈絡工程
 ---
 
+
+::: {.callout-tip}
+📊 Character Counts / 字數統計
+
+- Chinese version: 5427 characters
+- English version: 5624 characters
+:::
+
 ::: {.callout-note}
 🚧 Under Construction / 建設中  {.fs-3 .under-construction .unnumbered}
 

@@ -6,6 +6,14 @@ tags:
 - Patrick Hayes
 - Large Language Models
 ---
+
+::: {.callout-tip}
+📊 Character Counts / 字數統計
+
+- Chinese version: 3691 characters
+- English version: 11066 characters
+:::
+
 ## Frame Problem 🖼️⏱️ {#sec-frame-problem}
 
 The `Frame Problem`, a core challenge in both AI and cognitive science, investigates how an intelligent being or system distinguishes "the relevant things that change" from "the irrelevant things that remain constant" when interacting with a dynamic world. Whether dealing with a classic **symbolic logic** system or a modern **Large Language Model** application, the frame problem must be addressed effectively—otherwise, the system cannot process the sheer complexity and uncertainty of reality:

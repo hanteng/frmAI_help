@@ -10,6 +10,14 @@ tags:
   - 神經網路
   - RLHF
 ---
+
+::: {.callout-tip}
+📊 Character Counts / 字數統計
+
+- Chinese version: 5137 characters
+- English version: 5337 characters
+:::
+
 ## 🧠Neuro-Symbolic AI🎏 {#sec-neurosymbolic-ai} 
 
 ::: {.callout-note}

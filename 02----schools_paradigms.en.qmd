@@ -15,6 +15,14 @@ tags:
   - 深度學習
   - 強化學習
 ---
+
+::: {.callout-tip}
+📊 Character Counts / 字數統計
+
+- Chinese version: 4953 characters
+- English version: 5155 characters
+:::
+
 # 🎏Schools & 🏮Paradigms 
 
 ::: {.callout-note}

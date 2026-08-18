@@ -14,6 +14,14 @@ tags:
 ---
 
 
+
+::: {.callout-tip}
+📊 Character Counts / 字數統計
+
+- Chinese version: 7699 characters
+- English version: 7890 characters
+:::
+
 ::: {.callout-note}
 🚧 Under Construction / 建設中  {.fs-3 .under-construction .unnumbered}
 

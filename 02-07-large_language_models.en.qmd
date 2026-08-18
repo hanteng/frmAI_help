@@ -5,6 +5,14 @@ tags:
   - 湧現能力
   - RLHF
 ---
+
+::: {.callout-tip}
+📊 Character Counts / 字數統計
+
+- Chinese version: 12029 characters
+- English version: 12234 characters
+:::
+
 ## 😵‍💫Large Language Models🧞‍♀️ {#sec-large-language-models}
 
 ::: {.callout-note}

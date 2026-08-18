@@ -9,6 +9,14 @@ tags:
 - 自主系統
 ---
 
+
+::: {.callout-tip}
+📊 Character Counts / 字數統計
+
+- Chinese version: 5121 characters
+- English version: 5312 characters
+:::
+
 ::: {.callout-note}
 🚧 Under Construction / 建設中  {.fs-3 .under-construction .unnumbered}
 

@@ -8,6 +8,14 @@ tags:
 - 認知心理學
 - 脈絡工程
 ---
+
+::: {.callout-tip}
+📊 Character Counts / 字數統計
+
+- Chinese version: 7225 characters
+- English version: 7235 characters
+:::
+
 ## Language Games 🗫🎲 {#sec-language-games}
 
 `語言賽局`（又稱 `語言遊戲`，Language Games）主張語言意義來自其實際**使用**情境**脈絡**，而非定義。回答「意義如何生成？」問題時，要回歸到動態的生命形式（Forms of Life），帶有多樣規則的生活賽局。

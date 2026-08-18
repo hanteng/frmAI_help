@@ -1,3 +1,10 @@
+::: {.callout-tip}
+📊 Character Counts / 字數統計
+
+- Chinese version: 12187 characters
+- English version: 12146 characters
+:::
+
 # 🌌心智圖：經緯  {.appendix}
 
 ## Mermaid 版
