@@ -143,7 +143,11 @@ The choices among noun «**options**» and one's worldview can be understood thr
 
 ### 💪 Human Learning 🆚 Machine Learning 🦾 {#sec-learning-machine-vs-human}
 
-Although human and machine "learning" both center on **experience—adjustment—reinforcement**, their nature, scale, and cost are quite different. This comparison helps us analyze the **benefits and costs** of "mind training" and understand the mechanics of the "**texture of mind**."
+Although human and machine "learning" both center on **experience—adjustment—reinforcement**, their nature, scale, and cost are quite different.
+
+Comparative work explicitly draws this parallel between neural plasticity and artificial network optimization [@spicer_2019-WhatDoesMind], while also cautioning that the analogy is incomplete: biological learning depends on internal evaluative systems and multiple reward and punishment signals that current machine systems do not fully replicate [@piccinini_2022-SituatedNeuralRepresentations], and machine learning typically optimizes performance while cognitive science aims to explain human behavior — a productive but incomplete comparison [@spicer_2019-WhatDoesMind; @doroudi_2023-WhatHappenedInterdisciplinary].
+
+This comparison helps us analyze the **benefits and costs** of "mind training" and understand the mechanics of the "**texture of mind**."
 
 - 🧍‍♂️ **Human learning**    
     - 🧬 Grounded in neuronal and synaptic plasticity, gradually reinforced through bodily experience, emotional interaction, and cultural transmission. Example: a toddler learning to walk, falling and trying countless times until the neural pathways for walking are finally consolidated.
@@ -152,7 +156,7 @@ Although human and machine "learning" both center on **experience—adjustment�
 - 🤖 **Machine learning**    
     - ⚡ Grounded in digital circuits and matrix operations, accelerated through massive data and energy. Example: AlphaGo played millions of games against itself within days, a training volume that dwarfs thousands of years of human Go experience.
     - 💡 Extremely fast, capable of capturing hidden patterns across vast datasets and performing "auto-completion." Example: after being given just a few words, a Large Language Model (LLM) can generate complete, grammatically correct sentences or code based on trillions of tokens of text.
-    - 🔋 Lacks intrinsic motivation and emotion, and requires externally designed reward and objective functions. Compared to humans, machine learning can accelerate its training at high energy cost. Estimates suggest that training a single top-tier LLM (such as GPT-4) consumes electricity comparable to the annual usage of hundreds to thousands of households [@Li2024; @Patterson2022].
+    - 🔋 Lacks intrinsic motivation and emotion, and requires externally designed reward and objective functions. Compared to humans, machine learning can accelerate its training at high energy cost. Estimates suggest that training a single top-tier LLM (such as GPT-4) consumes electricity comparable to the annual usage of hundreds to thousands of households [@samsi_2023-WordsWattsBenchmarking; @taufer_2026-BalancingSustainableComputing; @patterson_2021-CarbonEmissionsLarge].
         
 - 🔄 **Comparison and complementarity**    
     - ⚖️ Human learning emphasizes "deep practice under limited energy," while machine learning is "accelerated training at high energy cost."    
@@ -379,7 +383,7 @@ Propose your own hypothesis?
 These noun «options» are therefore both a mirror through which we observe LLMs, and a key vocabulary for reflecting on how the human mind is being redefined.
 
 
-## 🧠 Brain and the World Model 🌌 {#sec-models-mind-world}
+## 🧠 ❝Training❞ the Brain and the World Model 🌌 {#sec-models-mind-world}
 
 With a mind model spanning time and social scale, we gain a finer-grained possibility for **training** "Mindful Actions." Here, noun «options» are used to define the different facets of the "world model," from the human "three views" to the machine's "internal little map."
 
