@@ -87,6 +87,11 @@ the object of the mind's **training** is the noun «**option**»: the choice of 
 
 One could say that all the various «options» of **nouns** — plant or animal, male or female — are forms of "noun-based learning" about the self and the world.
 
+Nouns are not by themselves special, but rather that **knowledge or computer systems** specifiy a **world** through concepts, entities, relations, and reference frames: **ontologies** explicitly specifiy shared conceptualizations through entities and their relations as the world or some portion of the world[@vickery_1997-Ontologies; @huhns_1997-OntologiesAgents; @kless_2012-RelationshipsRelataOntologies], knowledge-organization tools exist precisely to support this kind of organization, management, and retrieval [@jurisica_2004-OntologiesKnowledgeManagement; @zeng_2008-KnowledgeOrganizationSystems; @yuan_2025-ResearchConstructionMapping], and even human conceptual knowledge appears to be partly structured as cognitive maps based both on self-centered and world-centered information.
+ [@bottini_2020-KnowledgeReferenceFrames]. In short, an ontology systematically construct a world (and often surrounding the self as the actor) using mental geometries such as cognitive maps and image spaces to describe relevant nouns in that worldview.
+
+The concentric-circle scheme below should therefore be read as a **pedagogical scaffold** built on this organizing impulse surrounding the use and organization of nouns in, and readers are encouraged to construct their owns.
+
 The use and grounding of **noun** symbols is precisely the process of learning and training. The placement of the various «options» of **nouns** is therefore not entirely static, but rather the mind's ongoing contemplation of itself and the world.
 
 Learning about this world — whether through the human '**texture of mind**' or the machine's '**neural texture**' — therefore also carries the action-oriented dimension emphasized in the previous appendix.
@@ -462,11 +467,17 @@ Returning to our opening question — how should we regard the **benefits and co
 	- Only through level-by-level training across these four quadrants can one truly attain the "**unity of knowledge and action**," and, through interaction with AI, not only shape the machine but also, in turn, contemplate and reshape one's own mind.
 
 ::: {#imp-aqal-4-quadrants-brain .callout-important collapse="false" open="true"}
+
 ### 🌐🧘 AQAL Four Quadrants (Dimensions of Mind Training)
 
 The **AQAL Four Quadrants** refer to four major dimensions of the human life course — subjective, objective, intersubjective, and interobjective experience — offering both inspiration and analytical power for "**how we think about ourselves and the world**" and "**in what context we think**." This book holds that the **AQAL Four Quadrants** and the "nine tiers of verbs" help readers develop and strengthen "**frame-setting capabilities**." For the complete definition of the **AQAL Four Quadrants** and their mapping to verbs, see the earlier 🔖Appendix [@imp-aqal-4-quadrants].
 
 :::
+
+## 🧠 〜 Summary: Tao-Intelligence Practice
+
+ Human knowledge, like machine intelligence, relies on a foundational tension between the nouns we construct to categorize the world and the dynamic realities that resist such static boundaries. It is within this cognitive space that the concept of self-transformation ceases to be a mystical pursuit and becomes a structural necessity.For both biological minds and artificial networks, processing the world requires rigorous training. In the human context, this training manifest as discipline—not as rigid confinement, but as the systematic calibration of attention and intention. Just as a machine learning model undergoes optimization to better parse and predict its environment, human discipline serves to refine our internal world models. It is an intentional, iterative feedback loop that allows the self to update its parameters in real time.Ultimately, self-transformation is the continuous alignment of this internal model with the objective cosmic order. By moving beyond the conflict of rigid noun systems, we see that the self and the world are not separate entities, but an integrated, dynamic feedback system. Through the discipline of conscious training, the self does not escape the world; rather, it optimizes its capacity to navigate, reflect, and harmoniously co-exist with it. In the age of artificial intelligence, this capacity for deliberate self-evolution remains the definitive hallmark of true, living agency.
+
 
 This is also the origin of this appendix's name, "**Tao-Intelligence Practice**" (Tao-Intelligence Practice): **Tao-intelligence** is mastering the three major theories above and their implications for AI system design; **practice** is systematically and creatively integrating and applying these theories of mind together with related AI knowledge points (such as [Neural Networks](04-03-neural_networks.en.qmd) and [Hebb's Rule](09-07-hebb_rule.en.qmd)). The mind is therefore an emergent process of **learning** and **producing**; systematically recognizing the key core noun «options», and distinguishing and appreciating the similarities and differences among human, machine, and human-machine action and interaction, is what makes systemic understanding and innovation possible.
 
