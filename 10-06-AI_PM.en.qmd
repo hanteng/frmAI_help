@@ -174,42 +174,13 @@ AI 產品經理的職責可分為以下幾個面向：
         
     - arXiv (2025)《AI Governance in Higher Education》提出課程設計，強調 **合規、倫理與風險管理** 與技術閉環結合，並以「可審計、可解釋、可問責」作為教育核心能力。
         
-    - **來源**：[@oecd2023], [@arxiv2025edu], [@springer2024edu]。
+    - **來源**：[@oecd_2023-OECDDigitalEducation], [@weuts_2025-WhitePaperUniversities], [@weuts_2025-AIGovernanceHigher], [@ghimire_2024-GuidelinesGovernanceStudy]。
         
 3. **整合價值**
     
     - 學界與政策界一致認為，治理導向 AI 不僅是「限制風險」，更是 **釋放創新空間的基礎**。
         
     - 在工程上，它確保系統能在合規框架下安全落地；在教育上，它培養跨域專業素養，為產業與社會建立長期信任。
-
-@report{oecd2023,
-  title        = {OECD Digital Education Outlook 2023: Emerging governance of generative AI in education},
-  author       = {{OECD}},
-  year         = {2023},
-  institution  = {Organisation for Economic Co-operation and Development},
-  url          = {https://www.oecd.org/en/publications/oecd-digital-education-outlook-2023_c74f03de-en/full-report/emerging-governance-of-generative-ai-in-education_3cbd6269.html}
-}
-
-@article{springer2024edu,
-  title   = {From Guidelines to Governance: A Study of AI Policies in Education},
-  author  = {Ghimire, Aashish and Edwards, John},
-  journal = {Communications in Computer and Information Science},
-  year    = {2024},
-  publisher = {Springer},
-  note    = {Part of AIED 2024 proceedings, explores AI governance frameworks in education policy}
-}
-
-@misc{arxiv2025edu,
-  title   = {AI Governance in Higher Education: A course design exploring regulatory, ethical and practical considerations},
-  author  = {Anonymous},
-  year    = {2025},
-  eprint  = {2509.06176},
-  archivePrefix = {arXiv},
-  primaryClass = {cs.CY},
-  note    = {Outlines integrated ethics, stakeholder engagement and experiential learning in AI governance education}
-}
-
-
 
 ## 🌉 回顧及資源  
 
