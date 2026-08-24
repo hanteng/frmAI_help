@@ -1,5 +1,6 @@
 encoding: "UTF-8"
 lang: en
+language: _language-en.yml
 
 format:
   html:
@@ -18,7 +19,6 @@ format:
       margin-width: 260px
       gutter-width: 1.5rem
     toc-title: "〜📖 On This Page 📑〜"
-    section-title-appendices: "🔖 Appendices & Notes"
     crossref-nte-prefix: "Note"
     crossref-nte-title: "Note"
     crossref-tip-prefix: "Tip"
