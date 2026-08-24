@@ -391,7 +391,15 @@ The development of artificial intelligence (AI) has reshaped and re-examined thi
 
 ## O 
 
-### ontology learning
+### 🌐 Ontology {#sec-glossary-ontology}
+<sup> ⁃ 本體論</sup>
+
+`Ontology` in computer science and knowledge engineering refers to an **explicit, formal specification of a shared conceptualization** of a domain. By defining classes, attributes, relations, and constraints, an ontology provides a machine-readable semantic structure for data representation and retrieval. In modern cognitive science and AI architectures, an ontology serves as more than a classification system; it functions as the semantic bedrock that enables an agent to ground symbols, resolve ambiguity, and construct an internal **world model** to drive reasoning and action planning.
+
+### 🧠 Ontology Learning {#sec-glossary-ontology-learning}
+<sup> ⁃ 本體論學習</sup>
+
+`Ontology Learning` is the automated or semi-automated extraction of machine-readable conceptual frameworks from unstructured text, databases, or online corpora. Moving beyond labor-intensive manual engineering, it systematically identifies domain entities (**nouns**), attributes, taxonomies, and semantic relations. By converting raw data into a structured "shared conceptualization," ontology learning automates symbol grounding—enabling AI systems to dynamically update their internal **world models** and ground future actions in an evolving knowledge environment.
 
 ### overfitting
 

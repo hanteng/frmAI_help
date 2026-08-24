@@ -383,7 +383,15 @@ tags:
 
 ## O 
 
-### ontology learning
+### 🌐本體論 {#sec-glossary-ontology}
+<sup> ⁃ ontology</sup>
+
+`本體論`（Ontology），在資訊科學與知識工程中，是指對特定領域內概念、實體、關係及規則的**明確且共享的規範說明**（explicit specification of a shared conceptualization）。本體論透過定義類別（Classes）、屬性（Attributes）與階層關係（Hierarchies），為資料提供語意結構。在現代 AI 與認知科學框架下，本體論不單是資料庫的分類工具，更是智慧體用以相符指涉真實世界、消除符號歧義，並進一步構建內部「世界模型」以進行情境推理與行動規劃的語意骨幹。
+
+### 🧠 本體論學習 {#sec-glossary-ontology-learning}
+<sup> ⁃ ontology learning</sup>
+
+`本體論學習`（Ontology Learning）是指利用自動化或半自動化技術，從非結構化文本、資料庫或網路語料中萃取機器可讀概念架構的過程。它取代了傳統耗時耗力的人工本體工程，系統化地辨識出領域實體（**名詞**）、屬性、分類階層與語意關係。透過將原始資料轉化為結構化的「共享概念化」，本體論學習實現了符號紮根的自動化，使 AI 系統能動態更新其內部的**世界模型**，為未來的具身或預測行動奠定語意基礎。
 
 ### overfitting
 

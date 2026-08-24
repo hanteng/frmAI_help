@@ -87,16 +87,24 @@ the object of the mind's **training** is the noun «**option**»: the choice of 
 
 One could say that all the various «options» of **nouns** — plant or animal, male or female — are forms of "noun-based learning" about the self and the world.
 
-Nouns are not by themselves special, but rather that **knowledge or computer systems** specifiy a **world** through concepts, entities, relations, and reference frames: **ontologies** explicitly specifiy shared conceptualizations through entities and their relations as the world or some portion of the world[@vickery_1997-Ontologies; @huhns_1997-OntologiesAgents; @kless_2012-RelationshipsRelataOntologies], knowledge-organization tools exist precisely to support this kind of organization, management, and retrieval [@jurisica_2004-OntologiesKnowledgeManagement; @zeng_2008-KnowledgeOrganizationSystems; @yuan_2025-ResearchConstructionMapping], and even human conceptual knowledge appears to be partly structured as cognitive maps based both on self-centered and world-centered information.
- [@bottini_2020-KnowledgeReferenceFrames]. In short, an ontology systematically construct a world (and often surrounding the self as the actor) using mental geometries such as cognitive maps and image spaces to describe relevant nouns in that worldview.
+Nouns are not by themselves special, but rather **knowledge or computer systems** that specify a **world** through concepts, entities, relations, and reference frames: **ontologies** explicitly specify shared conceptualizations through entities and their relations [@vickery_1997-Ontologies; @huhns_1997-OntologiesAgents; @kless_2012-RelationshipsRelataOntologies]. Knowledge-organization tools exist precisely to support this kind of organization, management, and retrieval [@jurisica_2004-OntologiesKnowledgeManagement; @zeng_2008-KnowledgeOrganizationSystems; @yuan_2025-ResearchConstructionMapping], and even human conceptual knowledge appears to be partly structured as cognitive maps based both on self-centered and world-centered information [@bottini_2020-KnowledgeReferenceFrames]. In short, an ontology systematically constructs a world (and often surrounding the self as the actor) using mental geometries such as cognitive maps and image spaces to describe relevant nouns in that worldview.
 
-The concentric-circle scheme below should therefore be read as a **pedagogical scaffold** built on this organizing impulse surrounding the use and organization of nouns in, and readers are encouraged to construct their owns.
+::: {.callout-tip}
+### 💡 Connecting Ontologies to World Models
+An **ontology** is a formal, explicit specification of a domain's entities and relationships. When an agent (human or AI) uses an ontology to ground symbols, navigate space, and anticipate outcomes, that ontology functions as a functional **world model**—transforming static nouns into a substrate for action.
+:::
+
+Thought leaders (intellectuals, scientists, and religious or cultural elites), as "producers of ideas", build, craft and share comprehensive worldviews (Weltanschauungen), with the aim to shape material and political interests that push human actions [@schroeder_2007-RethinkingScienceTechnology; @schroeder_1992-MaxWeberSociology]. This represents the effort to build a world modle using a system of nouns, or an ontology.
+
+For easier understanding, the concentric-circle scheme below should therefore be read as a **pedagogical scaffold** built on this organizing impulse surrounding the use and organization of nouns, and readers are encouraged to construct their own.
 
 The use and grounding of **noun** symbols is precisely the process of learning and training. The placement of the various «options» of **nouns** is therefore not entirely static, but rather the mind's ongoing contemplation of itself and the world.
 
 Learning about this world — whether through the human '**texture of mind**' or the machine's '**neural texture**' — therefore also carries the action-oriented dimension emphasized in the previous appendix.
 
-One could say that constructing a world model is itself in service of preparing **Mindful Actions** — how the self is to act in relation to everything in the world. It is the grain, structure, and context of this '**texture**' that make up the mind's learning journey of "placing a world model, preparing for future action."
+One could say that constructing a world model is itself in service of preparing **Mindful Actions** — how the self is to act in relation to everything in the world. It is the grain, structure, and context of this '**texture**' that makes up the mind's learning journey of "placing a world model, preparing for future action."
+
+**Ontology learning** refers to the process of extracting machine-readable conceptual frameworks directly from data or corpora. It transforms traditional, labor-intensive ontology engineering into an automated machine learning journey—one that continuously "places a world model to prepare for future action" by dynamically refining the system's semantic texture.
 
 ### 📑 The World as Seen by This Book 🌐 { #sec-world-in-nouns-this-book}
 
