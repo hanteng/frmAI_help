@@ -6,14 +6,6 @@ tags:
 - Mental-Fill-in-and-Constructive-Fill-in
 - Frame-Setting-Capability
 ---
-
-::: {.callout-tip}
-📊 Character Counts / 字數統計
-
-- Chinese version: 20711 characters
-- English version: 56435 characters
-:::
-
 ::: {.callout-warning #nte--ed-index title="✎ Editorial Notes" collapse=true open=false}
 - [ ] **Fact-check** sentence by sentence
 - [ ] Review **logical flow**    
@@ -25,7 +17,7 @@ tags:
 # 🧠 Brain: «Observe» Tao-Intelligence Practice {.appendix #app-brain}
 
 ::: {.small}
-> **Mind**, born of _eons of evolution_, is both **power** and **principle**. **Humans** must **grasp** the mechanism of its transformation, and **know** the wonder of its _texture_.
+> **Brain/Mind**, born of _eons of evolution_, is both **power** and **principle**. **Humans** must **grasp** the mechanism of its transformation, and **know** the wonder of its _texture_.
 > 
 > **Machine**, the _accelerated conversion of energy_, is both **heart** and **craft**. Can the **device** **mirror** the shape of that evolution, and **echo** the spirit of _creation_ itself?
 > 
@@ -66,10 +58,11 @@ Human-machine **noun** «options» can refine the **collaborative relationship**
 
 > 🎓 This appendix corresponds to the **ontological and epistemological** core role within «The Appendix Triad» (for methodology, see “💪Action” and “🪜Cognitive Capacity”). For the complete tripartite comparison, see the academic-framework explanation in the [Preface 〜 «The Appendix Triad»](index.en.qmd#sec-book-features).
 :::
+***
 
-## 🧩 Brain: Placing the World Model, Preparing Future Action { #sec-brain-actions-world}
+## 🧩 Brain: Placing the World Model, Preparing Future Action 💪 { #sec-brain-actions-world}
 
-For ease of understanding, this book defines the brain (Brains) or the mind (Minds) as a learning journey of "placing a world model, preparing for future action."
+For ease of understanding, this book defines the brain or the mind as a learning journey of "placing a world model, preparing for future action."
 
 This operational definition therefore reduces every verb to some form of learning or training, while the corresponding **nouns** concern the existence of everything in the world — including the various **knowledge points** that human society has created and accumulated, as well as the related **AI knowledge points**.
 
@@ -78,7 +71,9 @@ To help readers learn systematically, this appendix set organizes these **noun**
 Whether human or machine, it is the systematic integration of these **nouns** that constitutes a world model.
 
 Whether it is:
+
 - human experts building [Knowledge Graphs](03-05-knowledge_graph.en.qmd) that pick out the **nouns** for **entities** and their **relationships**, or
+
 - machines that, following the "mirror neuron" structure of [Hebb's Rule](09-07-hebb_rule.en.qmd), use [Neural Networks](04-03-neural_networks.en.qmd) to grasp the texture of the outside world — including how [Large Language Models](02-07-large_language_models.en.qmd) come to understand a vast number of human **nouns** —
 
 the object of the mind's **training** is the noun «**option**»: the choice of which nouns to keep determines the **world model**, context included.
@@ -91,6 +86,7 @@ Nouns are not by themselves special, but rather **knowledge or computer systems*
 
 ::: {.callout-tip}
 ### 💡 Connecting Ontologies to World Models
+
 An **ontology** is a formal, explicit specification of a domain's entities and relationships. When an agent (human or AI) uses an ontology to ground symbols, navigate space, and anticipate outcomes, that ontology functions as a functional **world model**—transforming static nouns into a substrate for action.
 :::
 
@@ -118,7 +114,7 @@ Readers can copy the list and add or remove entries as they see fit: parents mig
 
 **This book's table of contents** can be viewed as a collection of knowledge points for "AI mind **training**"; readers are free to add or revise it as needed, filling in whatever parts matter most to them at any time.
 
-### 🧩–The System of Noun «Options» ~ «Choices» 🌊
+### 🧩 The System of Noun «Options» ~ «Choices» 🌊
 
 Drawing together the knowledge sources of human learning and machine learning, this appendix set, “🧠Brain”, divides these nouns into three levels, forming a "concentric-circle noun system":
 
@@ -134,42 +130,41 @@ As an appendix to this book, readers can bring themselves (or their students or 
 
 In short, this appendix set, “🧠Brain”, gathers together the following appendices and tables: beyond laying out the various kinds of noun content, its final section sums up the necessity of ❝training❞ the mind level by level, turning each noun «option» into a necessary part of a psychological and world model.
 
-
-***
-
-## 🌐 The Relationship Between Self and World
+### 🧘 The Relationship Between Self and World 🌐
 
 The choices among noun «**options**» and one's worldview can be understood through comparing human learning and machine learning in terms of the relationship between self and world. This section does more than draw a basic comparison — it also uses the perspectives of behaviorism, situated-ism, and connectionism to explain how noun «options» shape the relationship between self and world, so readers can tell them apart and innovate.
 
-### 💪 Human Learning 🆚 Machine Learning 🦾 {#sec-learning-machine-vs-human}
+## 💪 Human Learning 🆚 Machine Learning 🦾 {#sec-learning-machine-vs-human}
 
 Although human and machine "learning" both center on **experience—adjustment—reinforcement**, their nature, scale, and cost are quite different.
 
-Comparative work explicitly draws this parallel between neural plasticity and artificial network optimization [@spicer_2019-WhatDoesMind], while also cautioning that the analogy is incomplete: biological learning depends on internal evaluative systems and multiple reward and punishment signals that current machine systems do not fully replicate [@piccinini_2022-SituatedNeuralRepresentations], and machine learning typically optimizes performance while cognitive science aims to explain human behavior — a productive but incomplete comparison [@spicer_2019-WhatDoesMind; @doroudi_2023-WhatHappenedInterdisciplinary].
+Comparative work draws a parallel between neural plasticity and AI neutral network optimization [@sadegh-zadeh_2024-NeuralReshapingPlasticity; @spicer_2019-WhatDoesMind], while cautioning that the analogy is incomplete: biological learning depends on internal evaluative systems and multiple reward/punishment signals that current machine systems do not replicate [@piccinini_2022-SituatedNeuralRepresentations]. Cognitive science aims to explain human behavior, whereas machine learning typically optimizes performance — a productive but incomplete comparison [@doroudi_2023-WhatHappenedInterdisciplinary]. Recent critiques of Reinforcement Learning from Human Feedback (RLHF) show that reward models can misgeneralize, oversimplify ethical trade-offs, and embed cultural biases [@chaudhari_2025-RLHFDecipheredCritical; @dahlgrenlindstrom_2025-HelpfulHarmlessHonest; @gonzalezbarman_2025-ReinforcementLearningHuman]. These limits highlight that machine reinforcement is not neutral but a socio-technical design choice.
 
 This comparison helps us analyze the **benefits and costs** of "mind training" and understand the mechanics of the "**texture of mind**."
 
 - 🧍‍♂️ **Human learning**    
-    - 🧬 Grounded in neuronal and synaptic plasticity, gradually reinforced through bodily experience, emotional interaction, and cultural transmission. Example: a toddler learning to walk, falling and trying countless times until the neural pathways for walking are finally consolidated.
-    - ⏳ Relatively slow, but capable of "mental fill-in" when information is lacking, and of "completing the picture" through ethics and values. Example: witnessing a crime, even with fuzzy details, a person can still combine common sense, motive, and emotional judgment to fill in the plausibility and moral standing of the event.
-    - 🌳 Constrained by cognitive load and group size (e.g., Dunbar's number), but equipped with deep **situational understanding** and **cross-generational memory transmission**. Example: lessons of war or cultural traditions can be passed down to the next generation through language and ritual.         
+    - 🧬 Grounded in neuronal and synaptic plasticity, gradually reinforced through bodily experience, emotional interaction, and cultural transmission. Example: a toddler learning to walk, falling and trying countless times until the neural pathways for walking are consolidated.
+    - ⏳ Relatively slow, but capable of "mental fill-in" when information is lacking, and of "completing the picture" through ethics and values. Example: witnessing a crime, even with fuzzy details, a person can combine common sense, motive, and emotional judgment to fill in plausibility and moral standing.
+	- 🌳 Constrained by cognitive load and group size (e.g., Dunbar's number), but equipped with **situational awareness** and **cross-generational memory transmission**. Example: lessons of war or cultural traditions can be passed down through language and ritual.       
 - 🤖 **Machine learning**    
     - ⚡ Grounded in digital circuits and matrix operations, accelerated through massive data and energy. Example: AlphaGo played millions of games against itself within days, a training volume that dwarfs thousands of years of human Go experience.
     - 💡 Extremely fast, capable of capturing hidden patterns across vast datasets and performing "auto-completion." Example: after being given just a few words, a Large Language Model (LLM) can generate complete, grammatically correct sentences or code based on trillions of tokens of text.
-    - 🔋 Lacks intrinsic motivation and emotion, and requires externally designed reward and objective functions. Compared to humans, machine learning can accelerate its training at high energy cost. Estimates suggest that training a single top-tier LLM (such as GPT-4) consumes electricity comparable to the annual usage of hundreds to thousands of households [@samsi_2023-WordsWattsBenchmarking; @taufer_2026-BalancingSustainableComputing; @patterson_2021-CarbonEmissionsLarge].
+    - 🔋 Lacks intrinsic motivation and emotion, requiring externally designed reward and objective functions. RLHF attempts to align models with human preferences, but faces challenges of sparse feedback, ethical trade-offs, and cultural pluralism. Training at scale also comes with high energy costs [@samsi_2023-WordsWattsBenchmarking; @taufer_2026-BalancingSustainableComputing; @patterson_2021-CarbonEmissionsLarge].
         
 - 🔄 **Comparison and complementarity**    
-    - ⚖️ Human learning emphasizes "deep practice under limited energy," while machine learning is "accelerated training at high energy cost."    
-    - 🔍 Humans excel at filling in meaning under uncertainty, while machines excel at filling in patterns across massive data.    
-    - 🤝 The two converge on "fill-in": humans move from **mental fill-in** toward **ethical fill-in** (alignment), while machines move from **auto-completion** toward **value alignment**.
+    - ⚖️ Human learning emphasizes "deep practice under limited energy," while machine learning is "accelerated training at high energy cost."   
+    - 🔍 Humans excel at filling in meaning under uncertainty, while machines excel at filling in patterns across massive data.   
+    - 🤝 Both converge on "fill-in": humans move from **mental fill-in** toward **ethical fill-in** (e.g., social adjustment and organizational alignment), while machines move from **auto-completion** toward **value alignment** — a process that must be understood as socio-technical design rather than purely technical optimization.
 
-### –🏮💪 The Behaviorist View
+By examining human and machine learning through distinct theoretical lenses—behaviorism, situated‑ism, and connectionism—we can clarify different approaches to building world models and how those models structure relations and interactions between self and world.
+
+### –🏮💪 The Behaviorist View {#sec-learning-Behaviorist}
 
 From the **[Behaviorist](02-06-behaviorism.en.qmd)** view, learning is an overt process of **stimulus–response** feedback, focused on "observable behavior" and "reward-and-punishment feedback." Here, noun «options» are defined as the overt behaviors of "stimulus–response–reward/punishment," forming the core vocabulary of behaviorism.
 
 - 👶 **Human learning** is understood as a cycle of 🙶stimulus⇥response🔄reward/punishment🙷. A child learns to walk because of the repeated feedback of falling (punishment) and standing steady (reward).
-- 🎮 **Machine learning** is directly embodied in **Reinforcement Learning (RL)**: for instance, an agent in a virtual environment receives a positive **reward function** signal each time it successfully avoids an obstacle, gradually optimizing its **policy function** for movement. 
-- 🔁 **Comparison and complementarity**: 📱 humanity's "**Hook Model**" and habit formation (like social-media notifications) correspond to AI's "Reinforcement Learning from Human Feedback" (**RLHF**); both shape behavioral tendencies through external feedback.
+- 🎮 **Machine learning** has its modern variation of **Reinforcement Learning (RL)** to train large language models (LLMs) for AI alignment with human preferences. By treating the AI model as an animal or human learner that changes its habits based on **rewards and penalties**: for instance, a positive reward (positive reinforcement) when overcoming an obstacle in navigation. RLHF, where human feedback trains a reward model ....
+- 🔁 **Comparison and synthesis**: 📱 humanity's "**Hook Model**" and habit formation (like social-media notifications) correspond to AI's "Reinforcement Learning from Human Feedback" (**RLHF**); both shape behavioral tendencies through external feedback. This loop has real limits: reward models can become inaccurate under distribution shift, scores can rise while behavior drifts away from human preferences, and overoptimization remains a persistent alignment problem [@Ackermann2025Off-Policy; @Lambert2025Reinforcement].
 
 👉 Behaviorism emphasizes that "**overt behavior is observable and measurable**," so the core of AI behaviorism is:
 
@@ -179,28 +174,34 @@ From the **[Behaviorist](02-06-behaviorism.en.qmd)** view, learning is an overt 
 
 Ultimately, these noun «options» let us describe AI's behavior-shaping loop precisely using terms like "reward function" and "policy function."
 
-### –🏮🛣 The Situated-ist View
+### –🏮🛣 The Situated-ist View {#sec-learning-Situated-ist}
 
-From the [Situated-ist](appendix-glossary.en.qmd#sec-situated-ism) view, learning is a process of "**acting within a situation**," focused on "the present situation" and "coupling with the environment." Here, noun «options» turn into words like "situation," "environment," and "context," highlighting how learning is embedded in the world.
+From the **situated** or [Situated-ist](appendix-glossary.en.qmd#sec-situated-ism) perspective, learning is a process of **acting within a situation**, emphasizing "the present situation" and "situational awareness", perception–action loops, and the shaping role of social context. Here, noun «options» focus on words that describe "situation," "environment," and "context," highlighting how learning is embedded in the world.  Design grounded in the situated view therefore treats **environmental design, sensor–actuator loops, and social context** as primary variables rather than optional add‑ons.
 
-- 👶 **Human learning**: a child learns language not merely from parental reward and punishment, but from being immersed in the interactive context of family and community. Mastery of language comes from everyday conversation, gestures, emotional exchange, and immersion in cultural norms.   
-- 🤖 **Machine learning**: taking a situated-ist approach, AI is not merely algorithmic training on data — it must undergo closed-loop learning of 🙶perception↹action🔄feedback🙷 in real or simulated physical environments through **Embodied AI**. Example: a robot forms an understanding of "the world" step by step through actually moving, avoiding obstacles, and grasping objects.  
-- 🔄 **Comparison and complementarity**: humans' "settling into one's place in the world" and social-role learning correspond to AI's "multi-agent collaboration" and "situational awareness." Both emphasize that "**learning is embedded in context**" — intelligence is not the starting point of abstract reasoning, but rather **the product of embodied interaction**.  
+- 👶 **Human learning**: For humans, language and skills are not acquired solely by reward and punishment but through immersion in family, community, and everyday interaction. Mastery of language and culture emerges from everyday conversation, gestures, emotional exchange, and immersion in cultural norms [@pfeifer_2006-HowBodyShapes; @clark_1997-BeingTherePutting]. Ethnographic and developmental work supports that much of early learning is scaffolded by social routines and embodied interaction rather than isolated reinforcement signals.
 
-👉 Situated-ism emphasizes that "**learning is acting within a situation**," so the core of AI situated-ism is:
+- 🤖 **Machine learning**: For artificial systems, **embodied AI** — agents with bodies or high‑fidelity simulators — implies that **embodiment and closed‑loop interaction** are central to robustness and semantic grounding. Agents trained in perception→action→feedback loops in real or high‑fidelity simulated environments (e.g., robotic grasping, navigation) tend to develop action‑sensitive representations that transfer better to embodied tasks than models trained only on offline corpora; classic and recent surveys and demonstrations support morphology and body‑shape as one factor that scaffolds perception–action loops [@brooks_1991-IntelligenceRepresentation; @pfeifer_2006-HowBodyShapes; @liu_2025-EmbodiedIntelligenceSynergy]. Complementary empirical and theoretical work on active perception and situated neural representations shows that perception depends on action‑dependent sampling, so closed‑loop, embodied training reduces brittleness under novel viewpoints and sensory noise even when morphology is not the primary variable [@leisman_2026-PerceptionSelforganizingInteraction; @piccinini_2022-SituatedNeuralRepresentations; @friston_2021-WorldModelLearning].
 
-- 🌍 **Environmental embedding**: intelligence must manifest in a concrete environment; learning is not abstract computation, but embodied interaction.    
-- 🤝 **Social context**: intelligence is not an isolated agent, but one adapting within group collaboration and cultural context.    
-- 🦾 **Applications**: robot learning, human-machine collaboration, smart cities, social simulation, all emphasizing a real-time closed loop of 🙶perception↹action🔄feedback🙷.
+- 🤖 **Machine learning**: For artificial systems, this implies that **embodiment and closed‑loop interaction** are central to robustness and semantic grounding. Agents that learn through perception→action→feedback in real or high‑fidelity simulated environments (e.g., robotic grasping or navigation) develop more stable representations than systems trained only on offline data. Classic and contemporary work shows that the synergy of morphology, control, and perception is a core source of intelligence [@brooks_1991-IntelligenceRepresentation; @pfeifer_2006-HowBodyShapes]. 
 
-These noun «options» therefore remind us that intelligence is not the starting point of abstract reasoning, but the product of embodied interaction.
+Humans acquire situated competence through socially scaffolded, multimodal interaction that embeds norms, values, and historical practices (for example, family routines and conversational scaffolding). [@piccinini_2022-SituatedNeuralRepresentations; @pfeifer_2006-HowBodyShapes] **Embodied AI**, by contrast, acquires situated competence through sensorimotor coupling, closed‑loop training, and environment‑rich experience (real or simulated), which ground action‑sensitive representations and affordances [@brooks_1991-IntelligenceRepresentation; @liu_2025-EmbodiedIntelligenceSynergy]. Both routes show that meaning and reliable behavior emerge from ongoing **learning embedded within a world context**, but they differ in kind: human coupling is historically and normatively thick, whereas machine coupling is engineered and constrained by designers’ objectives and training regimes — a distinction that helps explain why embodied evaluation and situational testing are necessary to reduce brittleness and improve alignment in deployed systems [@leisman_2026-PerceptionSelforganizingInteraction; @piccinini_2022-SituatedNeuralRepresentations].
 
-### –🏮🧬 The Connectionist View
+Intelligence is not the starting point of abstract reasoning, but rather **the product of embodied interaction**.  
+
+👉 Situated‑ism emphasizes that "**learning is acting within a situation**," so the core of AI situated‑ism is:
+
+- 🌍 **Environmental embedding**: Intelligence must manifest in a concrete environment; learning is not abstract computation, but embodied interaction.    
+- 🤝 **Social context**: Intelligence is not an isolated agent, but one adapting within group collaboration and cultural context.   
+- 🦾 **Applications**: Robot learning, human–machine collaboration, smart cities, and social simulation—all emphasizing a real‑time closed loop of 🙶perception↹action🔄feedback🙷.
+
+These foundational concepts remind us that intelligence is not the starting point of abstract reasoning, but the product of embodied interaction, which can guide us in selecting the noun «options» for world modelling that works.
+
+### –🏮🧬 The Connectionist View {#sec-learning-Connectionist}
 
 From the **[Connectionist](02-05-connectionism.en.qmd)** view, learning is a process in which "**changes in the strength of connections across a network of neurons**" form knowledge and ability, focused on "plasticity" and "long-term potentiation." Here, noun «options» are defined as structures like "neuron," "synapse," and "weight," forming the core vocabulary of connectionism.
 
 - 👶 **Human learning**: neurons in the brain continually adjust connection strength through **synaptic plasticity**. A child learns to play piano because long-term practice gradually strengthens the relevant neural circuits, forming "muscle memory."    
-- 🤖 **Machine learning**: in artificial neural networks, learning is realized through **weight updates**. Every forward pass and backward pass adjusts "connection strength" to minimize an error function — this is the core of Deep Learning.    
+- 🤖 **Machine learning**: in artificial neural networks, learning is realized through **weight updates**. Every forward pass and backward pass adjusts "connection strength" to minimize an error function — this is the core of Deep Learning. Yet plain weight adjustment is not the whole story: biologically inspired schemes that add synaptic-integration principles can improve network performance and mitigate catastrophic forgetting [@Dellaferrera2022Introducing], fast learning can emerge from a synergy of slower plasticity and faster network dynamics [@Subramoney2024Fast], and a network's initial connectivity structure biases it toward "richer" or "lazier" learning regimes with different memory and forgetting trade-offs [@Liu2023How]. Representations built this way become invariant and distributed, with memory partly delegated to recurrent dynamics rather than stored in any single node [@Halvagal2023The; @Feldesh2019The].
 - 🔄 **Comparison and complementarity**: humans' "synaptic pruning" and "long-term potentiation" correspond to AI's "regularization" and "gradient descent." Both, through the **dynamic adjustment of connection strength**, gradually form stable pattern representations in complex environments.    
 
 👉 Connectionism emphasizes that "**intelligence arises from the connections and weight adjustments of distributed nodes**," so the core of AI connectionism is:
@@ -211,9 +212,9 @@ From the **[Connectionist](02-05-connectionism.en.qmd)** view, learning is a pro
 
 These noun «options» therefore let us describe the shared texture of human and machine learning through "distributed representation" and "weight updates."
 
-### –🏮🌟 Implications and Impact
+### 🏮🌟 Implications and Impact
 
-Here, noun «options» are used to map onto the perspectives of several major AI schools, serving as a bridging vocabulary for comparing human and machine learning.
+Through examining human and machine learning from three perspectives—behaviorist, situated, and connectionist—each showing different design levers for world‑modeling, we now appreciate how noun «options» are used to map onto the perspectives of several major AI schools, serving as a bridging vocabulary for comparing human and machine learning.
 
 Comparing human and machine "learning," the major AI schools offer the following implications:
 
@@ -233,23 +234,27 @@ In particular, because [Neural Networks](04-03-neural_networks.en.qmd) are analo
 - The **designer**, through reward-function and data choices, sets the behavioral boundaries and value tendencies of the LLM.    
 - The **user**, through interacting with the AI, is also gradually "trained" by its response patterns, developing new linguistic, cognitive, and behavioral habits.
 
-In this tension of bidirectional shaping, learning is no longer just the one-way process of "humans training machines," but the dynamic process of "humans and machines shaping each other." Humans and machines are jointly training each other's "**texture of mind**."
+In this tension of bidirectional shaping, learning is no longer just the one-way process of "humans training machines," but the dynamic process of "humans and machines shaping each other." 
+
+Human-AI interaction research increasingly frames this as a coevolutionary feedback loop with asymmetric control: users generate data that trains systems, and systems in turn shape later preferences, routines, and choices, while designers set the objectives, interfaces, and recommendation structures within which users adapt [@Pedreschi2023Human-AI; @Puerta-Beldarrain2025A]. Studies now show that people measurably change their behavior once they know an AI is being trained on it, and those changes can persist as habits [@Treiman2024The] — which raises autonomy and influence concerns that go beyond technical alignment alone, since preferences and even identity-relevant goals can be co-constructed in sustained human-AI relationships [@Kirk2025Why]. Humans and machines are jointly training each other's "**texture of mind**."
 
 These noun «options» are therefore not merely theoretical labels, but tools for examining how intelligent systems — including LLMs — and human minds and the world shape one another.
 
-### –💪🆚🦾 In Brief
+### 💪🆚🦾 In Brief
 
 Comparing human and machine "learning," we find that both share a similar core of **experience—adjustment—reinforcement**, and so there is mutual influence and plasticity between them. Here, noun «options» converge into the shared core of "experience—adjustment—reinforcement," linking the learning journeys of human and machine.
 
 But their **energy cost** and **scale** differ enormously:
 
-- 🧍‍♂️ **Human learning**: slow and deep practice, emphasizing the accumulation of body, emotion, and culture.    
+- 🧍‍♂️ **Human learning**: slow and deep practice, emphasizing the accumulation of body, emotion, and culture.
+
 - 🤖 **Machine learning**: fast and massive training, emphasizing the expansion of data, compute, and pattern.    
 
 These noun «options» ultimately lead us to reflect on sameness and difference: how to strike a balance between "fill-in" and "alignment" — a question that becomes even sharper in the next section, when we examine **world models** and **mind training**.
 
-## 🧘 "Tao-Intelligence Practice"
+***
 
+## 🧘 "Tao-Intelligence Practice"
 
 "Tao-Intelligence Practice," a conscious act of mind, already presupposes the existence of self and world before it can act within them.
 
@@ -309,7 +314,11 @@ For AI education and engineering, this book proposes ⟨**Tri-Aspect Mind**⟩ a
 
 This taxonomy helps us use systems thinking to contemplate self, environment, and world, and to recognize the "**knowledge**" involved in training one's own "neural⚡muscular" mind.
 
-Formally called the `Tri-Aspect Cognitive Model`, it integrates a **three-tier taxonomy of cognitive faculties** drawn from three major theoretical perspectives — the "Dual-Process" hypothesis [@sec-dual-process-theory] (cognitive science), [@sec-triune-brain-hypothesis] (neuroscience), and [@sec-social-brain-hypothesis] (evolutionary and behavioral science). This book abbreviates it as the ⟨**Tri-Aspect Mind**⟩, divided into three main types:
+Formally called the `Tri-Aspect Cognitive Model`, it integrates a **three-tier taxonomy of cognitive faculties** drawn from three major theoretical perspectives — the "Dual-Process" hypothesis [@sec-dual-process-theory] (cognitive science), [@sec-triune-brain-hypothesis] (neuroscience), and [@sec-social-brain-hypothesis] (evolutionary and behavioral science). 
+
+It is best understood as an **integrative synthesis** rather than a direct restatement of any one of the three: dual-process research robustly supports a distinction between fast, automatic processing and slower, reflective processing, but also warns against reifying this into only two neatly localized brain systems [@Evans2008Dual-processing; @Evans2013Dual-Process; @Frankish2010Dual-Process], and social-cognition research likewise supports a hierarchical, multilevel structure of partially separable cognitive and affective processes rather than a single faculty such as empathy or theory of mind [@Schurz2020Toward; @Happé2017The] — a structure closer to the reactive / emotive-relational / reflective-symbolic triad than to a literal appeal to older triune-brain neuroanatomy. 
+
+This book abbreviates it as the ⟨**Tri-Aspect Mind**⟩, divided into three main types:
 
 * 🐸⚡ The 🙶Reactive🙷 Mind (The Reactive Mind): emphasizing **survival instinct**, **muscular reflex**, **fast reaction**, and the primacy of the **body**, mapping to
 	- System 1 (fast, intuitive) of the ⚡ **Dual-Process Hypothesis**, the fast responses based on emotion, heuristics, and associative memory.
@@ -331,6 +340,8 @@ Formally called the `Tri-Aspect Cognitive Model`, it integrates a **three-tier t
 | 🐸⚡ Reactive Mind | System 1 (fast, intuitive) | Basic survival instincts, fixed behavior patterns | Group real-time reaction and threat vigilance | Edge computing, safety control |
 | 🐘💞 Emotive-Relational Mind | Boundary of System 1 and System 2 | Emotional processing, social bonding, long-term memory | Social life, group cooperation and communication | Human-machine collaboration, affective computing |
 | 🧘☸️ Reflective-Symbolic Mind | System 2 (slow, analytical) | Higher cognition, language, symbol manipulation | Higher-order social cognition (language-related) | Symbolic reasoning, ethics and alignment |
+
+The Emotive-Relational tier is most naturally anchored in social-brain work, which links mentalizing capacity to the structure and layered scale of social networks [@Dunbar2014The; @Zhou2004Discrete] — though this section should carry a caveat: Dunbar-style limits are influential but contested when extended too simply to human culture and organization [@DeRuiter2011Dunbars].
 
 This cross-domain **taxonomy of cognitive faculties** distinguishes human mental activity by **processing speed**, **social function**, and **symbolic capacity**. The **reaction time** and **cognitive load** ([-@sec-cognitive-load]) required rise in this same order, which also implies proportionally higher resource and energy consumption. These three tiers of mind map onto different design layers of AI:
 
@@ -371,6 +382,10 @@ By mapping the three mind types onto the **temporal dimension** (the gradual pro
 
 This taxonomy lets us integrate the structural foundations of neuroscience, the processing modes of cognitive science, and the social functions of evolutionary behavioral science across disciplines, offering a **operable, extensible, and alignable** cognitive-model framework for future AI system construction. Ultimately, these noun «options» let us build an operable, extensible, and alignable cognitive-model framework using a cross-disciplinary vocabulary.
 
+::: {.callout-note title="🔬 A Note on Granularity: Why Three Tiers, Not Four" collapse=true}
+Some recent multi-timescale accounts split cognition further — for example, a "quad-process" model spanning embodied, individual, social, and collective-institutional timescales [@Taniguchi2025System]. This book keeps the simpler ⟨**Tri-Aspect Mind**⟩ deliberately: for the pedagogical purpose of this appendix, the reactive/emotive-relational/reflective-symbolic triad is granular enough to map onto concrete AI design layers (edge computing, affective computing, symbolic reasoning and alignment) without asking readers to track a fourth, slower-timescale collective tier. Readers building more elaborate cognitive architectures — or explicitly modeling institutional and civilizational timescales — may find the quad-process extension useful, and can treat it as a further subdivision of this book's 🧘☸️ Reflective-Symbolic and 🟢 Outer-Circle layers rather than a competing framework.
+:::
+
 ### –🤡 The Mind of a Large Language Model?  
 
 Given the `taxonomy of cognitive faculties` proposed above, how should we understand a Large Language Model's **scaling** ability, especially given that the **Social Brain Hypothesis** treats language systems as a technology of socio-technical scaling? Here, noun «options» become the starting point for inquiry, testing how LLMs reshape the context of the human mind under different theories.
@@ -389,6 +404,8 @@ With a mind model spanning time and social scale, we gain a finer-grained possib
 
 This lets us further understand the mechanism the '**texture of mind**' must contend with — the **world model** — and better grasp the original analysis of the **benefits and costs** of "mind training."
 
+Across neuroscience, robotics, and AI, "world models" are internal representations that support prediction, simulation, and action — not passive storage of facts [@Friston2021World; @Ding2024Understanding; @Zidan2026World]. They are typically described as compressed latent or relational structures rich enough to guide future choice [@Ding2024Understanding; @Ohmae2025The], and several papers now treat this concept as the central bridge between brain science and AI [@Diester2024Internal; @Ohmae2025The]. 
+
 The differences between human and machine learning ultimately point to one core question: **how is a "world model" constructed?**
 
 - 🧍‍♂️ **The human world model**, commonly called the **"three views"** (worldview, outlook on life, and values — online, people often say someone's "three views are correct" or "three views are shattered"):
@@ -397,8 +414,11 @@ The differences between human and machine learning ultimately point to one core 
     - For example: a child learning that "fire burns" is not merely a physical experience, but also carries the ethical norm of "don't play with fire" and the social memory of "fire is dangerous."        
 - 🤖 **The machine world model**, commonly called the **"internal little map"** (AI circles sometimes jokingly call it a "**world save file**," an "**AI fill-in pack**," an "**NPC brain circuit**," or a "**data-farm buff**"):
     - Formed through training on data and algorithms, usually represented as a vector space, a probability distribution, or a symbolic structure.        
-    - This world model leans heavily toward pattern capture and statistical association, lacking human values and emotional depth.        
-    - For example: a Large Language Model can generate the sentence "fire burns," but its "understanding" comes from statistical association in the corpus, not from real tactile or ethical experience.
+    - This world model leans heavily toward pattern capture and statistical association, lacking human values and emotional depth. 
+
+    - For example: a Large Language Model can generate the sentence "fire burns," but its "understanding" comes from statistical association in the corpus, not from real tactile or ethical experience. 
+	
+Comparative brain-AI work supports the "information and energy" intuition here indirectly: human brains typically learn from far fewer examples and with far greater efficiency than current LLMs, even where AI training has begun converging on similar predictive-learning principles [@Ohmae2025The; @Sadegh-Zadeh2024Neural].
 
 These noun «options» therefore become the core vocabulary for understanding how the texture of mind maps onto the world, and for comparing human-machine differences.
 
@@ -427,7 +447,9 @@ These questions connect directly to a series of hypotheses about the future of A
 - ⚔️ **[AI Tribalization/Fragmentation Hypothesis](appendix-glossary.en.qmd#ai-tribalization-fragmentation)**: will different groups each train their own AI world models, leading to a fragmentation of values?    
 - 🚰 **[AI Utilities Hypothesis](appendix-glossary.en.qmd#ai-utilities-hypothesis)**: will AI become a basic utility of daily life, like water or electricity?
 
-These noun «options» are therefore both the hypothesis language with which we test AI world models, and a future lexicon for humanity's civilizational practice.
+These noun «options» are therefore both the hypothesis language with which we test AI world models, and a future lexicon for humanity's civilizational practice. 
+
+The strongest empirical grounding for these hypotheses is not any single predicted destiny but **path dependence** under human-AI feedback loops: coevolution research shows such loops can generate unintended social outcomes and reshape collective utility depending on who controls the "means of recommendation" [@Pedreschi2023Human-AI], while alignment research adds that human goals are not stable or exogenous inputs — they can drift and become co-constructed over time [@Kirk2025Why]. One concrete, evidence-backed mitigation worth naming here: ethical awareness can act as a "cognitive brake," supporting reflective adoption of AI tools while reducing mindless dependency [@Zou2026To].
 
 **🌟 Implications**
 
@@ -436,7 +458,7 @@ These noun «options» are therefore both the hypothesis language with which we 
 3. **For the future**: the interaction between humans and AI will gradually form a process of "co-constructing the world model." This is not merely a technical challenge, but a civilizational practice.
 
 ***
-## 🪜 ❝Training❞ the Mind, Level by Level 🧠 〜 Summary: Tao-Intelligence Practice
+## 🪜 ❝Training❞ the Mind, Level by Level 
 
 Looking back over this appendix set, we began with the **taxonomy of cognitive faculties** for "mind training," and moved toward the machine and human analysis of "**texture of mind**" within the **world model**. Here, noun «options» are used to bring the whole appendix together — from taxonomy of the mind, through learning comparisons, AI thinking, world models, to the four quadrants of practice — becoming the basic practice framework by which we understand and train the mind.
 
@@ -479,14 +501,13 @@ Returning to our opening question — how should we regard the **benefits and co
 	- Only through level-by-level training across these four quadrants can one truly attain the "**unity of knowledge and action**," and, through interaction with AI, not only shape the machine but also, in turn, contemplate and reshape one's own mind.
 
 ::: {#imp-aqal-4-quadrants-brain .callout-important collapse="false" open="true"}
-
 ### 🌐🧘 AQAL Four Quadrants (Dimensions of Mind Training)
 
 The **AQAL Four Quadrants** refer to four major dimensions of the human life course — subjective, objective, intersubjective, and interobjective experience — offering both inspiration and analytical power for "**how we think about ourselves and the world**" and "**in what context we think**." This book holds that the **AQAL Four Quadrants** and the "nine tiers of verbs" help readers develop and strengthen "**frame-setting capabilities**." For the complete definition of the **AQAL Four Quadrants** and their mapping to verbs, see the earlier 🔖Appendix [@imp-aqal-4-quadrants].
 
 :::
 
-## 🧠 〜 Summary: Tao-Intelligence Practice
+🧠 〜 Summary: Tao-Intelligence Practice
 
  Human knowledge, like machine intelligence, relies on a foundational tension between the nouns we construct to categorize the world and the dynamic realities that resist such static boundaries. It is within this cognitive space that the concept of self-transformation ceases to be a mystical pursuit and becomes a structural necessity.For both biological minds and artificial networks, processing the world requires rigorous training. In the human context, this training manifest as discipline—not as rigid confinement, but as the systematic calibration of attention and intention. Just as a machine learning model undergoes optimization to better parse and predict its environment, human discipline serves to refine our internal world models. It is an intentional, iterative feedback loop that allows the self to update its parameters in real time.Ultimately, self-transformation is the continuous alignment of this internal model with the objective cosmic order. By moving beyond the conflict of rigid noun systems, we see that the self and the world are not separate entities, but an integrated, dynamic feedback system. Through the discipline of conscious training, the self does not escape the world; rather, it optimizes its capacity to navigate, reflect, and harmoniously co-exist with it. In the age of artificial intelligence, this capacity for deliberate self-evolution remains the definitive hallmark of true, living agency.
 
@@ -521,3 +542,13 @@ This appendix set, “🧠Brain”, focuses on the intelligent **noun** «option
     - The **machine** is humanity's technique of converting and accelerating energy in imitation of the **mind** — it is both an extension of mind and an embodiment of technology. Machines can imitate the forms that human mental evolution has taken (such as [Neural Networks](04-03-neural_networks.en.qmd)), and can even, in conversation, display something of the wonder of natural creation (such as [Large Language Models](02-07-large_language_models.en.qmd)).  
 
     - From the standpoint of the world, a genuine **question** is worth raising: as humans create machines that in turn create the future, there will be both merit and fault (such as in resource and energy allocation), both gain and risk (such as in fast and slow thinking). In the end, what kind of future can humans and machines co-create together?
+
+*** 
+
+::: {.callout-tip}
+📊 Character Counts / 字數統計
+
+- Chinese version: 20711 characters
+- English version: 56435 characters
+:::
+
