@@ -302,7 +302,7 @@ This is no longer only "humans training machines" — it is humans and machines 
 
 #### Learning Each Other, not Just the World
 
-Human-AI interaction research increasingly frames this as a coevolutionary feedback loop with asymmetric control: users generate data that trains systems, and systems in turn shape later preferences, routines, and choices, while designers set the objectives, interfaces, and recommendation structures within which users adapt [@Pedreschi2023Human-AI; @Puerta-Beldarrain2025A]. Studies now show that people measurably change their behavior once they know an AI is being trained on it, and those changes can persist as habits [@Treiman2024The] — which raises autonomy and influence concerns that go beyond technical alignment alone, since preferences and even identity-relevant goals can be co-constructed in sustained human-AI relationships [@Kirk2025Why].
+Human-AI interaction research increasingly frames this as a coevolutionary feedback loop with asymmetric control: users generate data that trains systems, and systems in turn shape later preferences, routines, and choices, while designers set the objectives, interfaces, and recommendation structures within which users adapt [@pedreschi_2025-HumanAICoevolution; @Puerta-Beldarrain2025A]. Studies now show that people measurably change their behavior once they know an AI is being trained on it, and those changes can persist as habits [@Treiman2024The] — which raises autonomy and influence concerns that go beyond technical alignment alone, since preferences and even identity-relevant goals can be co-constructed in sustained human-AI relationships [@kirk_2025-WhyHumanAI].
 
 **A live debate worth sitting with**: some researchers frame this coevolution optimistically, as a route to AI systems that genuinely converge on human values through sustained interaction. Others warn that an asymmetric feedback loop — where the designer controls the objective function and the user only supplies data and habituates to the output — is structurally closer to behavior modification than to mutual learning, however "mutual" it may feel from the user's side. Where do you land: is human-AI coevolution a genuine two-way relationship, or a one-way shaping process wearing a two-way costume?
 
@@ -550,7 +550,7 @@ With a mind model spanning time and social scale, we gain a finer-grained possib
 
 This lets us further understand the mechanism the '**texture of mind**' must contend with — the **world model** — and better grasp the original analysis of the **benefits and costs** of "mind training."
 
-Across neuroscience, robotics, and AI, "world models" are internal representations that support prediction, simulation, and action — not passive storage of facts [@Friston2021World; @Ding2024Understanding; @Zidan2026World]. They are typically described as compressed latent or relational structures rich enough to guide future choice [@Ding2024Understanding; @Ohmae2025The], and several papers now treat this concept as the central bridge between brain science and AI [@Diester2024Internal; @Ohmae2025The]. 
+Across neuroscience, robotics, and AI, "world models" are internal representations that support prediction, simulation, and action — not passive storage of facts [@friston_2021-WorldModelLearning; @ding_2026-UnderstandingWorldPredicting]. They are typically described as compressed latent or relational structures rich enough to guide future choice [@ding_2026-UnderstandingWorldPredicting; @ohmae_2026-BrainAIConvergenceGenerative], and several papers now treat this concept as the central bridge between brain science and AI [@diester_2024-InternalWorldModels; @ohmae_2026-BrainAIConvergenceGenerative]. 
 
 The differences between human and machine learning ultimately point to one core question: **how is a "world model" constructed?**
 
@@ -564,7 +564,7 @@ The differences between human and machine learning ultimately point to one core 
 
     - For example: a Large Language Model can generate the sentence "fire burns," but its "understanding" comes from statistical association in the corpus, not from real tactile or ethical experience. 
 	
-Comparative brain-AI work supports the "information and energy" intuition here indirectly: human brains typically learn from far fewer examples and with far greater efficiency than current LLMs, even where AI training has begun converging on similar predictive-learning principles [@Ohmae2025The; @Sadegh-Zadeh2024Neural].
+Comparative brain-AI work supports the "information and energy" intuition here indirectly: human brains typically learn from far fewer examples and with far greater efficiency than current LLMs, even where AI training has begun converging on similar predictive-learning principles [@ohmae_2026-BrainAIConvergenceGenerative; @sadegh-zadeh_2024-NeuralReshapingPlasticity].
 
 These noun «options» therefore become the core vocabulary for understanding how the texture of mind maps onto the world, and for comparing human-machine differences.
 
@@ -595,7 +595,7 @@ These questions connect directly to a series of hypotheses about the future of A
 
 These noun «options» are therefore both the hypothesis language with which we test AI world models, and a future lexicon for humanity's civilizational practice. 
 
-The strongest empirical grounding for these hypotheses is not any single predicted destiny but **path dependence** under human-AI feedback loops: coevolution research shows such loops can generate unintended social outcomes and reshape collective utility depending on who controls the "means of recommendation" [@Pedreschi2023Human-AI], while alignment research adds that human goals are not stable or exogenous inputs — they can drift and become co-constructed over time [@Kirk2025Why]. One concrete, evidence-backed mitigation worth naming here: ethical awareness can act as a "cognitive brake," supporting reflective adoption of AI tools while reducing mindless dependency [@Zou2026To].
+The strongest empirical grounding for these hypotheses is not any single predicted destiny but **path dependence** under human-AI feedback loops: coevolution research shows such loops can generate unintended social outcomes and reshape collective utility depending on who controls the "means of recommendation" [@pedreschi_2025-HumanAICoevolution], while alignment research adds that human goals are not stable or exogenous inputs — they can drift and become co-constructed over time [@kirk_2025-WhyHumanAI]. One concrete, evidence-backed mitigation worth naming here: ethical awareness can act as a "cognitive brake," supporting reflective adoption of AI tools while reducing mindless dependency [@zou_2026-UseNotDepend].
 
 **🌟 Implications**
 
