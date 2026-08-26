@@ -347,7 +347,7 @@ This is the trap of noun-only competence: a system — or a person — can accum
 
 ### -🌐 AQAL Four Quadrants: World Models for Actions
 
-A brief cross-appendix note: this same grounding work can also be tested arena by arena — subjective, objective, intersubjective, interobjective — using the **AQAL Four Quadrants** framework developed fully in 💪[Action](appendix-action.en.qmd#sec-verbs-in-world); here we invoke it only to note that grounding is not a single test but four simultaneous ones, and that fuller treatment belongs to that appendix, not this one.
+A brief cross-appendix note: this same grounding work can also be tested arena by arena — subjective, objective, intersubjective, interobjective — using the AQAL Four Quadrants, the framework Ken Wilber developed to map "who acts on whom, in what context" [@sec-aqal-8-taxonomy] in 💪[Action](appendix-action.en.qmd#sec-verbs-in-world). Where this appendix asks _which nouns are worth knowing_, that one asks _how to act on them_; the full quadrant framework, its attribution, and its capacity-ladder application belong there, not here.
 
 : The Concentric-Circle System of Noun «Options» {#tbl-brain-noun-circles}
 
