@@ -294,6 +294,8 @@ Human-AI interaction research increasingly frames this as a coevolutionary feedb
 
 Humans and machines are jointly training each other's "**texture of mind**." These noun «options» are therefore not merely theoretical labels, but tools for examining how intelligent systems — including LLMs — and human minds and the world shape one another.
 
+Mind is not shaped by a single mechanism, but rather **by the loop in which learner and teacher continually influence and thus reshape each other**.  As Confucius teaches us through the concept of _jiao xue xiang zhang_ (教學相長, from The Book of Rites / 禮記·學記), teaching and learning are mutually transformative.
+
 ### 💪🆚🦾 In Brief
 
 Comparing human and machine "learning," we find that both share a similar core of **experience—adjustment—reinforcement**, and so there is mutual influence and plasticity between them. Here, noun «options» converge into the shared core of "experience—adjustment—reinforcement," linking the learning journeys of human and machine.
