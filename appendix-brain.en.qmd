@@ -130,7 +130,7 @@ As an appendix to this book, readers can bring themselves (or their students or 
 
 In short, this appendix set, “🧠Brain”, gathers together the following appendices and tables: beyond laying out the various kinds of noun content, its final section sums up the necessity of ❝training❞ the mind level by level, turning each noun «option» into a necessary part of a psychological and world model.
 
-### 🧘 The Relationship Between Self and World 🌐
+### 🧘 “Texture of Mind”: The Relationship Between Self and World 🌐
 
 The choices among noun «**options**» and one's worldview can be understood through comparing human learning and machine learning in terms of the relationship between self and world. 
 
@@ -312,7 +312,7 @@ Humans and machines are jointly training each other's "**texture of mind**." The
 
 Mind is not shaped by a single mechanism, but rather **by the loop in which learner and teacher continually influence and thus reshape each other**.  As Confucius teaches us through the concept of _jiao xue xiang zhang_ (教學相長, from The Book of Rites / 禮記·學記), teaching and learning are mutually transformative.
 
-### 💪🆚🦾 In Brief
+### 💪🆚🦾 In Brief: Training “Texture of Mind”
 
 Comparing human and machine "learning," we find that both share a similar core of **experience—adjustment—reinforcement**, and so there is mutual influence and plasticity between them. Here, noun «options» converge into the shared core of "experience—adjustment—reinforcement," linking the learning journeys of human and machine.
 
@@ -326,42 +326,28 @@ These noun «options» ultimately lead us to reflect on sameness and difference:
 
 ***
 
-## 🧘 "Tao-Intelligence Practice"
+## 🧘 "Tao-Intelligence Practice": A Proposal for Training “Texture of Mind” 
 
 "Tao-Intelligence Practice," a conscious act of mind, already presupposes the existence of self and world before it can act within them.
 
-This book's table of contents, ten parts and 66 entries in total, is something readers can copy as a template, adding, removing, and adjusting it into their own customized ⟨**Knowledge-Action Scaffolding**⟩ notes, and then move on to **acting as needed**, connecting to the next appendix, “🪜[Cognitive Capacity](appendix-cognitive_capacity.en.qmd)”.
+Everything so far in this appendix — the concentric-circle system of nouns, the ⟨Tri-Aspect Mind⟩, the comparison of human and machine learning, the account of world models — has been a matter of **mastering** theory: naming and organizing the noun «options» that make up a mind's knowledge. "Practice" is a different act: **applying** that theory. And applying it well requires two distinct moves, which this appendix has so far used somewhat interchangeably under the word "level."
 
-The two dimensions of **World** and **Action** also show that, while this book's operational definition of mind is "noun-based learning," it equally stresses "being-in-the-world" and "usefulness in the world."
+- **Leveling up** is a question of *depth*: which tier of the ⟨Tri-Aspect Mind⟩ — 🐸 Reactive, 🐘 Emotive-Relational, or 🧘 Reflective-Symbolic — is doing the work of processing a given noun «option»?
+- **Grounding** is a question of *connection*: does that noun «option», however deeply processed, actually connect back to lived, embodied, social reality — or does it remain a symbol manipulated in isolation, disconnected from self, environment, and world?
 
-**Mind** is an emergent process of **learning** about the world and self while **producing** action. Systematically recognizing the key core noun «options», and distinguishing and appreciating the similarities and differences among human, machine, and human-machine action and interaction, is what enables systemic understanding and innovation.
-
-
-::: {.callout-important #imp-cc-nouns title="🌊 \"Knowledge\" Noun «Options»" }
-
-Systematically recognizing the key core noun «options»:
-
-* 🔴 **Core Circle**: AI **knowledge points**, cross-referenced in **[🔖Appendix 🌌 Mindmap](appendix-mindmap.en.qmd)**;
-* 🟠 **Middle Circle**: the **knowledge structure** and **context** an agent needs, including information about the **self** and the **environment**;
-* 🟢 **Outer Circle**: the "**world presuppositions**" and "**emergent knowledge**" an agent needs to understand, along with its **world model** and the user's "**three views**."
-
-🌊🌌
-::: 
-
-
+These are not the same axis, and conflating them is a real risk. A reflex can be perfectly grounded (a frog's leap is directly coupled to a real threat) without ever leveling up to reflection. And symbolic output can level up — becoming fluent, structured, even wise-*sounding* — while remaining fundamentally ungrounded. It is this second failure mode that the case of Large Language Models makes vivid.
 
 ### –😵‍💫 A Case Study: Large Language Models 🧞‍♀️
 
-Taking [Large Language Models](02-07-large_language_models.en.qmd) as an example, the concentric-circle system of "Tao-Intelligence Practice" and noun «options» can be laid out as follows:
+Taking [Large Language Models](02-07-large_language_models.en.qmd) as an example: an LLM's fluency is a real achievement of **leveling** — its outputs draw on structures that resemble 🧘☸️ Reflective-Symbolic processing, producing long-form reasoning, planning language, and even something like metacognitive commentary on its own outputs.
 
-* 🔴 **Core Circle**: first, applying this book's summary — the ⟨**[Tri-Aspect Mind](#sec-tri-aspect-cognitive)**⟩ — with systems thinking to contemplate self, environment, and world, one comes to know that one's own "neural⚡muscular" mind requires level-by-level "training" — a practice of mind that then extends further into the "training" involved in **Reinforcement Learning** and **Deep Learning**, as related to [Neural Networks](04-03-neural_networks.en.qmd) and [Hebb's Rule](09-07-hebb_rule.en.qmd).
-* 🟠 **Middle Circle**: next, one must understand how a Large Language Model participates in the human world through the embodied interface of "language."
-	* From the perspective of [🦾"Embodied" AI](08----embodied_ai.en.qmd), although an LLM lacks a physical body, it interacts with humans through language, forming a kind of "linguistic embodiment."
-	* In this process, which noun «options» are included (such as "dialogue," "role," "task") and which are excluded (such as "touch," "spatial manipulation") directly shapes the LLM's world model.
-	* This layer of practice requires us to identify how an LLM reconstructs the knowledge structure of "self" and "environment" within linguistic interaction, and to reflect on how humans should respond to this "half-body intelligence" of linguistic embodiment.
-* 🟢 **Outer Circle**: finally, an LLM must be placed within a broader social and civilizational context.
-	* For example, with respect to [@sec-social-brain-hypothesis], we might ask: is the **scaling** of an LLM constrained by the **stable scale** and **interaction limits** of human groups, networks, and organizations?
-	* This question will be developed further in the later section on [World Models and AI Hypotheses](#sec-world-model-llm-future).
+But this leveled-seeming output sits on famously thin **grounding**. Although an LLM lacks a physical body, it interacts with humans through language, forming a kind of "linguistic embodiment" — a half-body intelligence [@sec-brain-actions-world]. Which noun «options» are included in that linguistic interaction (such as "dialogue," "role," "task") and which are structurally excluded (such as "touch," "spatial manipulation," lived consequence) directly shapes how ungrounded its world model remains, no matter how leveled its language sounds.
+
+This is the trap of noun-only competence: a system — or a person — can accumulate ever more sophisticated noun «options» at the Reflective-Symbolic tier while never grounding a single one of them in the concentric circles of self, relational context, and social-civilizational world laid out earlier in this appendix [@sec-world-in-nouns]. Leveling without grounding produces fluent ungroundedness; the antidote is not more theory, but the deliberate work of connecting a noun «option» back through the concentric circles — testing it against self (🔴), relational context (🟠), and social-civilizational world (🟢) — and, more fundamentally, against the [Symbol Grounding Problem](01-03-Symbol_Grounding_Problem.en.qmd) itself: a noun is not truly known until it is tied to something the mind can act on.
+
+### -🌐 AQAL Four Quadrants: World Models for Actions
+
+A brief cross-appendix note: this same grounding work can also be tested arena by arena — subjective, objective, intersubjective, interobjective — using the **AQAL Four Quadrants** framework developed fully in 💪[Action](appendix-action.en.qmd#sec-verbs-in-world); here we invoke it only to note that grounding is not a single test but four simultaneous ones, and that fuller treatment belongs to that appendix, not this one.
 
 : The Concentric-Circle System of Noun «Options» {#tbl-brain-noun-circles}
 
@@ -371,18 +357,68 @@ Taking [Large Language Models](02-07-large_language_models.en.qmd) as an example
 | 🟠 Middle Circle | Human-machine collaboration (linguistic embodied interface) | Noun «options» included or excluded, such as dialogue, role, task |
 | 🟢 Outer Circle | Social and civilizational context (scaling, group limits) | Social Brain Hypothesis, scaling, world models and AI hypotheses |
 
-***
+For readers who want to go beyond "AI mind **training**" and grasp the mind training of both **humans** and **human-machine** systems, this book's ⟨**Tri-Aspect Mind**⟩ taxonomy remains the starting point, read together with [Human Learning 🆚 Machine Learning](#sec-learning-machine-vs-human) and [Brain and World Models](#sec-models-mind-world).
 
+This is also the origin of this appendix's name, "**Tao-Intelligence Practice**": **Tao-intelligence** is mastering the theories above and their implications for AI system design; **practice** is the deliberate, ongoing work of leveling up and grounding those theories together — distinguishing and appreciating the similarities and differences among human, machine, and human-machine action, so that noun «options» become more than a vocabulary list.
 
-For readers who want to go beyond "AI mind **training**" and grasp the mind training of both **humans** and **human-machine** systems, this book's ⟨**Tri-Aspect Mind**⟩ taxonomy is a good place to start, comparing [Human Learning 🆚 Machine Learning](#sec-learning-machine-vs-human) and then applying [Brain and World Models](#sec-models-mind-world).
+### -🧠 Stucturing the Understanding of the World
+
+In short, since machine learning in AI has not yet overcome the ability to autonomously determine and revise its own "**objective function**" within the world, the "**goal**" of the human as user and designer must be a conscious act of "mind training" — one that requires understanding both how deeply a noun «option» is leveled, and how firmly it is grounded, in oneself and in the machine alike.
+
+::: {.small}
+> Mind is not a single mechanism, but a lattice woven of many layers.
+>
+> From the physiological reflex of **reaction**, to the situational memory of **emotion**, to the symbolic reasoning of **reflection**;
+>
+> Humans, by way of ❝[mental fill-in](appendix-glossary.en.qmd#def-mental-fill-in)❞, seek shortcuts of knowledge and action; machines, by way of 🙶constructive fill-in🙷, expand the frontier of compute.
+>
+> This appendix sums up the "tripartite layering" and "frame-computation" of the mind's faculties, as the Tao-intelligence foundation for a human-machine duet.
+:::
+
+::: {.small}
+> Human knowledge, like machine intelligence, rests on a tension between the nouns we construct to categorize the world and the dynamic realities that resist such static boundaries. Self-transformation, seen this way, is not a mystical pursuit but a structural necessity: for both biological minds and artificial networks, engaging the world requires ongoing calibration — not rigid confinement, but the disciplined, iterative act of leveling up and grounding one's own model in turn.
+>
+> By moving beyond the conflict of rigid noun systems, we see that self and world are not separate entities, but an integrated, dynamic feedback system. Through this discipline, the self does not escape the world; it refines its capacity to navigate, reflect, and remain grounded within it. In the age of artificial intelligence, this capacity for deliberate self-evolution — leveled and grounded together — remains the definitive hallmark of living agency.
+:::
+
+This appendix set, "🧠Brain", focuses on the intelligent **noun** «options» — how to **attend to** human, machine, and even everything in the world, so as to forge a '**neural texture**' and see through the '**texture of mind**' in ourselves and in machines — continuing on from the **verb** «options» described in the previous appendix, "💪[Action](appendix-action.en.qmd)", and connecting to the "Constructive Scaffolding" of the next appendix, "🪜[Cognitive Capacity](appendix-cognitive_capacity.en.qmd)".
+
 
 ## 🧠 Integrating the Tri-Aspect Mind {#sec-tri-aspect-cognitive}
 
-For AI education and engineering, this book proposes ⟨**Tri-Aspect Mind**⟩ as the most basic taxonomy of all noun «**options**»:
+How can we better understand the “Texture of Mind”
 
-* 🐸⚡ The 🙶Reactive🙷 Mind (The Reactive Mind)
-- 🐘💞 The 🙶Emotive-Relational🙷 Mind (The Emotive-Relational Mind)
-- 🧘☸️ The 🙶Reflective-Symbolic🙷 Mind (The Reflective-Symbolic Mind)
+Formally called the `Tri-Aspect Cognitive Model`, this taxonomy is this book's own synthesis, not a direct restatement of any single existing theory. It combines two independently well-supported axes from the literature: the fast/slow processing distinction central to the **Dual-Process Hypothesis** [@sec-dual-process-theory], and the individual/relational/group distinction central to the **Social Brain Hypothesis** [@sec-social-brain-hypothesis]. 
+
+The middle tier — the 🐘💞 **Emotive-Relational Mind** — is where this book's synthesis does its real work: dual-process theory alone offers no natural home for social-emotional processing, and this book proposes the Emotive-Relational tier to fill that gap, drawing on social-brain research on mentalizing, empathy, and group bonding.
+
+::: {.callout-note title="🔬 On the Third Theory: Why Not the Triune Brain Hypothesis" collapse=true}
+
+Earlier drafts of this taxonomy paired Dual-Process and Social-Brain research with Paul MacLean's **Triune Brain Hypothesis** — the once-popular idea that the human brain evolved in three discrete layers (reptilian, limbic, neocortical). Contemporary neuroscience has largely rejected this model: there is no clean evolutionary layering of brain structures of the kind MacLean proposed, and the triune brain is now widely regarded as an influential but scientifically outdated framework <!--[citation needed — e.g., Cesario, Johnson & Eisthen 2020]-->. This book therefore does not rely on the Triune Brain Hypothesis for empirical support.
+
+What survives from that earlier framing — and what this book does keep — is a set of vivid animal examples (the frog's reflex, the elephant's grief) that MacLean's popularizers often used to illustrate fast, emotional, and reflective processing. This book repurposes those same examples here, but strictly as **behavioral illustrations**, not as evidence of discrete brain layers. A frog's startle reflex and an elephant's mourning behavior are real, independently documented phenomena in their own right — the point of citing them is to make each tier memorable, not to claim they arise from a specific brain structure.
+
+Readers who want a more granular, explicitly multi-timescale cognitive architecture — including a fourth, collective/institutional tier — may find Taniguchi et al.'s System 0/1/2/3 framework a useful complement [@Taniguchi2025System]. It is compatible in spirit with this book's approach but is not this taxonomy's source: its System 0 and System 2 correspond roughly to this book's Reactive and Reflective-Symbolic tiers, but its System 1 (individual fast cognition) does not cover the relational/social ground that this book's Emotive-Relational tier is built to cover — that tier is drawn from social-brain research instead. See [@sec-tri-aspect-cognitive] "A Note on Granularity" below for more.
+
+:::
+
+Dual-process research robustly supports a distinction between fast, automatic processing and slower, reflective processing, but also warns against reifying this into only two neatly localized brain systems [@Evans2008Dual-processing; @Evans2013Dual-Process; @Frankish2010Dual-Process]. On its own, however, dual-process theory offers no natural home for social and emotional processing. 
+
+This is where this book's synthesis does its real work: the middle tier — the 🐘💞 **Emotive-Relational Mind** — is proposed here to fill that gap, drawing on social-cognition research that supports a hierarchical, multilevel structure of partially separable cognitive and affective processes rather than a single faculty such as empathy or theory of mind [@Schurz2020Toward; @Happé2017The]. The resulting reactive / emotive-relational / reflective-symbolic triad is therefore a genuine three-way synthesis of two source theories, not a restatement of either one.
+
+This book abbreviates it as the ⟨**Tri-Aspect Mind**⟩, divided into three main types:
+
+* 🐸⚡ The 🙶Reactive🙷 Mind (The Reactive Mind): emphasizing **survival instinct**, **muscular reflex**, **fast reaction**, and the primacy of the **body**, mapping to
+	- System 1 (fast, intuitive) of the ⚡ **Dual-Process Hypothesis**, the fast responses based on emotion, heuristics, and associative memory.
+	- **Real-time group reaction and threat vigilance** in the ⚖️🙈 Social Brain Hypothesis.
+- 🐘💞 The 🙶Emotive-Relational🙷 Mind (The Emotive-Relational Mind): emphasizing **emotional expression**, **empathy**, **emotional bonding** and its role for individual and group, as well as social memory transmission, mapping to
+	- The **boundary between System 1 and System 2** of the ⚡🧮 Dual-Process Hypothesis, the emotional responses based on heuristics and associative memory.
+	- **Social life, group cooperation, and communication** in the 🤝🧠 Social Brain Hypothesis.
+- 🧘☸️ The 🙶Reflective-Symbolic🙷 Mind (The Reflective-Symbolic Mind): emphasizing **consciousness**, **self-awareness**, **symbols**, **metacognition**, **long-term planning**, and the construction of a **symbolic memory system**, mapping to
+	- **System 2** (slow, analytical) of the 🐢🧮 Dual-Process Hypothesis
+	- **Higher-order social cognition** in the 🤝🧠 Social Brain Hypothesis, particularly cognition related to language.
+
+For AI education and engineering, this book proposes ⟨**Tri-Aspect Mind**⟩ as the most basic taxonomy of all noun «**options**»:
 
 This taxonomy helps us use systems thinking to contemplate self, environment, and world, and to recognize the "**knowledge**" involved in training one's own "neural⚡muscular" mind.
 
@@ -405,13 +441,20 @@ This book abbreviates it as the ⟨**Tri-Aspect Mind**⟩, divided into three ma
 	- The functions of **higher cognition, language, abstract reasoning, and symbol manipulation** in the 🧘☸️ Triune Brain
 	- **Higher-order social cognition** in the 🤝🧠 Social Brain Hypothesis, particularly cognition related to language.
 
-: Mapping the Three Theories to the ⟨Tri-Aspect Mind⟩ and AI Design Layers {#tbl-brain-tri-aspect-mapping}
+: Mapping Two Theories to the ⟨Tri-Aspect Mind⟩ and AI Design Layers {#tbl-brain-tri-aspect-mapping}
 
-| ⟨Tri-Aspect Mind⟩ | ⚡🧮 Dual-Process Hypothesis [@sec-dual-process-theory] | 🐸🐘🧘 Triune Brain Hypothesis [@sec-triune-brain-hypothesis] | 🤝🙈 Social Brain Hypothesis [@sec-social-brain-hypothesis] | AI Design Layer |
-| :--- | :--- | :--- | :--- | :--- |
-| 🐸⚡ Reactive Mind | System 1 (fast, intuitive) | Basic survival instincts, fixed behavior patterns | Group real-time reaction and threat vigilance | Edge computing, safety control |
-| 🐘💞 Emotive-Relational Mind | Boundary of System 1 and System 2 | Emotional processing, social bonding, long-term memory | Social life, group cooperation and communication | Human-machine collaboration, affective computing |
-| 🧘☸️ Reflective-Symbolic Mind | System 2 (slow, analytical) | Higher cognition, language, symbol manipulation | Higher-order social cognition (language-related) | Symbolic reasoning, ethics and alignment |
+| ⟨Tri-Aspect Mind⟩ | ⚡🧮 Dual-Process Hypothesis [@sec-dual-process-theory] | 🤝🙈 Social Brain Hypothesis [@sec-social-brain-hypothesis] | AI Design Layer |
+| :--- | :--- | :--- | :--- |
+| 🐸⚡ Reactive Mind | System 1 (fast, intuitive) | Group real-time reaction and threat vigilance | Edge computing, safety control |
+| 🐘💞 Emotive-Relational Mind | Boundary of System 1 and System 2 | Social life, group cooperation and communication | Human-machine collaboration, affective computing |
+| 🧘☸️ Reflective-Symbolic Mind | System 2 (slow, analytical) | Higher-order social cognition (language-related) | Symbolic reasoning, ethics and alignment |
+
+
+::: {.callout-note title="🔬 On Animal Examples: Why Not the Triune Brain Hypothesis" collapse=true}
+Earlier framings of this taxonomy — including this book's own — sometimes paired the Reactive/Emotive-Relational/Reflective-Symbolic triad with Paul MacLean's **Triune Brain Hypothesis**, the once-popular idea that the human brain evolved in three discrete layers (reptilian, limbic, neocortical). Contemporary neuroscience has largely rejected this model: there is no clean evolutionary layering of brain structures of the kind MacLean proposed, and the triune brain is now widely regarded as an influential but scientifically outdated framework [citation needed — e.g., Cesario, Johnson & Eisthen 2020, "Your Brain Is Not an Onion With a Tiny Reptile Inside"]. This book's ⟨Tri-Aspect Mind⟩ does not rely on the Triune Brain Hypothesis for empirical support; the synthesis above rests on Dual-Process and Social-Brain research alone.
+
+What this book does keep are the vivid animal examples — the frog's reflex, the elephant's grief — that popular accounts of the triune brain often used to illustrate fast, emotional, and reflective processing. Those examples are repurposed here strictly as **behavioral illustrations**, not as evidence of discrete brain layers: a frog's startle reflex and an elephant's mourning behavior are real, independently documented ethological phenomena in their own right, useful for making each tier memorable — not for claiming that any tier corresponds to a specific evolved brain structure.
+:::
 
 The Emotive-Relational tier is most naturally anchored in social-brain work, which links mentalizing capacity to the structure and layered scale of social networks [@Dunbar2014The; @Zhou2004Discrete] — though this section should carry a caveat: Dunbar-style limits are influential but contested when extended too simply to human culture and organization [@DeRuiter2011Dunbars].
 
@@ -455,7 +498,9 @@ By mapping the three mind types onto the **temporal dimension** (the gradual pro
 This taxonomy lets us integrate the structural foundations of neuroscience, the processing modes of cognitive science, and the social functions of evolutionary behavioral science across disciplines, offering a **operable, extensible, and alignable** cognitive-model framework for future AI system construction. Ultimately, these noun «options» let us build an operable, extensible, and alignable cognitive-model framework using a cross-disciplinary vocabulary.
 
 ::: {.callout-note title="🔬 A Note on Granularity: Why Three Tiers, Not Four" collapse=true}
-Some recent multi-timescale accounts split cognition further — for example, a "quad-process" model spanning embodied, individual, social, and collective-institutional timescales [@Taniguchi2025System]. This book keeps the simpler ⟨**Tri-Aspect Mind**⟩ deliberately: for the pedagogical purpose of this appendix, the reactive/emotive-relational/reflective-symbolic triad is granular enough to map onto concrete AI design layers (edge computing, affective computing, symbolic reasoning and alignment) without asking readers to track a fourth, slower-timescale collective tier. Readers building more elaborate cognitive architectures — or explicitly modeling institutional and civilizational timescales — may find the quad-process extension useful, and can treat it as a further subdivision of this book's 🧘☸️ Reflective-Symbolic and 🟢 Outer-Circle layers rather than a competing framework.
+Some recent multi-timescale accounts split cognition further — for example, a "quad-process" model spanning embodied, individual, social, and collective-institutional timescales [@Taniguchi2025System]. This book keeps the simpler ⟨**Tri-Aspect Mind**⟩ deliberately: for the pedagogical purpose of this appendix, the reactive/emotive-relational/reflective-symbolic triad is granular enough to map onto concrete AI design layers (edge computing, affective computing, symbolic reasoning and alignment) without asking readers to track a fourth, slower-timescale collective tier.
+
+The correspondence is not exact. Taniguchi et al.'s System 0 and System 2 map reasonably well onto this book's Reactive and Reflective-Symbolic tiers, but their System 1 (individual fast/intuitive cognition) does not cover the relational, social ground this book's Emotive-Relational tier is built to cover — that tier is drawn from Social Brain Hypothesis instead, which sits outside Taniguchi's four-system model entirely. Readers building more elaborate cognitive architectures — or explicitly modeling institutional and civilizational timescales — may find the quad-process extension useful as a complement, but it should not be read as this taxonomy's source.
 :::
 
 ### –🤡 The Mind of a Large Language Model?  
