@@ -214,7 +214,7 @@
 }
 
 % -------------------------------------------------------------------
-% --- 😵‍💫🧞‍♀️大語言模型: 01-01-Turing_Test.en.qmd ---
+% --- 01-01-Turing_Test.qmd ## 圖靈測試 🎭🗪 {#sec-turing-test} ---
 @article{moor1976,
   author    = {James H. Moor},
   title     = {An Analysis of the Turing Test},
@@ -258,6 +258,68 @@
   pages     = {610--623},
   publisher = {Association for Computing Machinery},
   doi       = {10.1145/3442188.3445922}
+}
+
+% -------------------------------------------------------------------
+% --- 01-06-Alignment_Control_Problem.qmd ## AI對齊控制問題 🎯🛡️ {#sec-alignment-control-problem} ---
+@article{chaudhari_2025-RLHFDecipheredCritical,
+  title = {{{RLHF Deciphered}}: {{A Critical Analysis}} of {{Reinforcement Learning}} from {{Human Feedback}} for {{LLMs}}},
+  shorttitle = {{{RLHF Deciphered}}},
+  author = {Chaudhari, Shreyas and Aggarwal, Pranjal and Murahari, Vishvak and Rajpurohit, Tanmay and Kalyan, Ashwin and Narasimhan, Karthik and Deshpande, Ameet and Castro da Silva, Bruno},
+  date = {2025-09-10},
+  journaltitle = {ACM Computing Surveys},
+  shortjournal = {ACM Comput. Surv.},
+  volume = {58},
+  number = {2},
+  pages = {53:1--53:37},
+  issn = {0360-0300},
+  doi = {10.1145/3743127},
+  url = {https://dl.acm.org/doi/10.1145/3743127},
+  urldate = {2026-08-24},
+  abstract = {A significant challenge in training large language models (LLMs) as effective assistants is aligning them with human preferences. Reinforcement learning from human feedback (RLHF) has emerged as a promising solution. However, our understanding of RLHF is often limited to initial design choices. This article analyzes RLHF through reinforcement learning principles, focusing on the reward model. It examines modeling choices and function approximation caveats, highlighting assumptions about reward expressivity and revealing limitations like incorrect generalization, model misspecification, and sparse feedback. A categorical review of current literature provides insights for researchers to understand the challenges of RLHF and build upon existing methods.}
+}
+
+@article{dahlgrenlindstrom_2025-HelpfulHarmlessHonest,
+  title = {Helpful, Harmless, Honest? {{Sociotechnical}} Limits of {{AI}} Alignment and Safety through {{Reinforcement Learning}} from {{Human Feedback}}},
+  shorttitle = {Helpful, Harmless, Honest?},
+  author = {Dahlgren Lindström, Adam and Methnani, Leila and Krause, Lea and Ericson, Petter and family=Rituerto de Troya, given=Íñigo Martínez, prefix=de, useprefix=true and Coelho Mollo, Dimitri and Dobbe, Roel},
+  date = {2025-06-04},
+  journaltitle = {Ethics and Information Technology},
+  shortjournal = {Ethics Inf. Technol.},
+  volume = {27},
+  number = {2},
+  pages = {28},
+  issn = {1572-8439},
+  doi = {10.1007/s10676-025-09837-2},
+  url = {https://doi.org/10.1007/s10676-025-09837-2},
+  urldate = {2026-08-24},
+  abstract = {This paper critically evaluates the attempts to align Artificial Intelligence (AI) systems, especially Large Language Models (LLMs), with human values and intentions through Reinforcement Learning from Feedback methods, involving either human feedback (RLHF) or AI feedback (RLAIF). Specifically, we show the shortcomings of the broadly pursued alignment goals of honesty, harmlessness, and helpfulness. Through a multidisciplinary sociotechnical critique, we examine both the theoretical underpinnings and practical implementations of RLHF techniques, revealing significant limitations in their approach to capturing the complexities of human ethics, and contributing to AI safety. We highlight tensions inherent in the goals of RLHF, as captured in the HHH principle (helpful, harmless and honest). In addition, we discuss ethically-relevant issues that tend to be neglected in discussions about alignment and RLHF, among which the trade-offs between user-friendliness and deception, flexibility and interpretability, and system safety. We offer an alternative vision for AI safety and ethics which positions RLHF approaches within a broader context of comprehensive design across institutions, processes and technological systems, and suggest the establishment of AI safety as a sociotechnical discipline that is open to the normative and political dimensions of artificial intelligence.},
+  langid = {english},
+  keywords = {AI ethics,AI safety,Artificial intelligence,Human feedback,Large language models,Reinforcement learning}
+}
+
+@inproceedings{gao_2023-ScalingLawsReward,
+  title = {Scaling Laws for Reward Model Overoptimization},
+  booktitle = {Proceedings of the 40th International Conference on Machine Learning ({{ICML}})},
+  author = {Gao, Leo and Schulman, John and Hilton, Jacob},
+  date = {2023},
+  series = {Proceedings of Machine Learning Research},
+  volume = {202},
+  pages = {10835--10866},
+  publisher = {PMLR},
+  url = {https://proceedings.mlr.press/v202/gao23h.html}
+}
+
+@inproceedings{moskovitz_2024-ConfrontingRewardModel,
+  title = {Confronting {{Reward Model Overoptimization}} with {{Constrained RLHF}}},
+  booktitle = {Proceedings of the 12th International Conference on Learning Representations ({{ICLR}})},
+  author = {Moskovitz, Ted and Singh, Aaditya K. and Strouse, D. J. and Sandholm, Tuomas and Salakhutdinov, Ruslan and Dragan, Anca and McAleer, Stephen Marcus},
+  date = {2024},
+  url = {https://openreview.net/forum?id=gkfUvn0fLU},
+  urldate = {2026-08-26},
+  abstract = {Large language models are typically aligned with human preferences by optimizing reward models (RMs) fitted to human feedback. However, human preferences are multi-faceted, and it is increasingly common to derive reward from a composition of simpler reward models which each capture a different aspect of language quality. This itself presents a challenge, as it is difficult to appropriately weight these component RMs when combining them. Compounding this difficulty, because any RM is only a proxy for human evaluation, this process is vulnerable to *overoptimization*, wherein past a certain point, accumulating higher reward is associated with worse human ratings. In this paper, we perform the first study on overoptimization in composite RMs, showing that correlation between component RMs has a significant effect on the locations of these points. We then introduce an approach to solve this issue using constrained reinforcement learning as a means of preventing the agent from exceeding each RM's threshold of usefulness. Our method addresses the problem of weighting component RMs by learning dynamic weights, naturally given by the Lagrange multipliers. As a result, each RM stays within the range at which it is an effective proxy, improving evaluation performance. Finally, we introduce an adaptive method using gradient-free optimization to identify and optimize towards these points during a single run.},
+  eventtitle = {The {{Twelfth International Conference}} on {{Learning Representations}}},
+  langid = {english}
 }
 
 % -------------------------------------------------------------------
@@ -874,55 +936,7 @@
 }
 
 % ### –🏮💪 The Behaviorist View {#sec-learning-Behaviorist}
-
-@article{chaudhari_2025-RLHFDecipheredCritical,
-  title = {{{RLHF Deciphered}}: {{A Critical Analysis}} of {{Reinforcement Learning}} from {{Human Feedback}} for {{LLMs}}},
-  shorttitle = {{{RLHF Deciphered}}},
-  author = {Chaudhari, Shreyas and Aggarwal, Pranjal and Murahari, Vishvak and Rajpurohit, Tanmay and Kalyan, Ashwin and Narasimhan, Karthik and Deshpande, Ameet and Castro da Silva, Bruno},
-  date = {2025-09-10},
-  journaltitle = {ACM Computing Surveys},
-  shortjournal = {ACM Comput. Surv.},
-  volume = {58},
-  number = {2},
-  pages = {53:1--53:37},
-  issn = {0360-0300},
-  doi = {10.1145/3743127},
-  url = {https://dl.acm.org/doi/10.1145/3743127},
-  urldate = {2026-08-24},
-  abstract = {A significant challenge in training large language models (LLMs) as effective assistants is aligning them with human preferences. Reinforcement learning from human feedback (RLHF) has emerged as a promising solution. However, our understanding of RLHF is often limited to initial design choices. This article analyzes RLHF through reinforcement learning principles, focusing on the reward model. It examines modeling choices and function approximation caveats, highlighting assumptions about reward expressivity and revealing limitations like incorrect generalization, model misspecification, and sparse feedback. A categorical review of current literature provides insights for researchers to understand the challenges of RLHF and build upon existing methods.}
-}
-
-@article{dahlgrenlindstrom_2025-HelpfulHarmlessHonest,
-  title = {Helpful, Harmless, Honest? {{Sociotechnical}} Limits of {{AI}} Alignment and Safety through {{Reinforcement Learning}} from {{Human Feedback}}},
-  shorttitle = {Helpful, Harmless, Honest?},
-  author = {Dahlgren Lindström, Adam and Methnani, Leila and Krause, Lea and Ericson, Petter and family=Rituerto de Troya, given=Íñigo Martínez, prefix=de, useprefix=true and Coelho Mollo, Dimitri and Dobbe, Roel},
-  date = {2025-06-04},
-  journaltitle = {Ethics and Information Technology},
-  shortjournal = {Ethics Inf. Technol.},
-  volume = {27},
-  number = {2},
-  pages = {28},
-  issn = {1572-8439},
-  doi = {10.1007/s10676-025-09837-2},
-  url = {https://doi.org/10.1007/s10676-025-09837-2},
-  urldate = {2026-08-24},
-  abstract = {This paper critically evaluates the attempts to align Artificial Intelligence (AI) systems, especially Large Language Models (LLMs), with human values and intentions through Reinforcement Learning from Feedback methods, involving either human feedback (RLHF) or AI feedback (RLAIF). Specifically, we show the shortcomings of the broadly pursued alignment goals of honesty, harmlessness, and helpfulness. Through a multidisciplinary sociotechnical critique, we examine both the theoretical underpinnings and practical implementations of RLHF techniques, revealing significant limitations in their approach to capturing the complexities of human ethics, and contributing to AI safety. We highlight tensions inherent in the goals of RLHF, as captured in the HHH principle (helpful, harmless and honest). In addition, we discuss ethically-relevant issues that tend to be neglected in discussions about alignment and RLHF, among which the trade-offs between user-friendliness and deception, flexibility and interpretability, and system safety. We offer an alternative vision for AI safety and ethics which positions RLHF approaches within a broader context of comprehensive design across institutions, processes and technological systems, and suggest the establishment of AI safety as a sociotechnical discipline that is open to the normative and political dimensions of artificial intelligence.},
-  langid = {english},
-  keywords = {AI ethics,AI safety,Artificial intelligence,Human feedback,Large language models,Reinforcement learning}
-}
-
-@inproceedings{gao_2023-ScalingLawsReward,
-  title = {Scaling Laws for Reward Model Overoptimization},
-  booktitle = {Proceedings of the 40th International Conference on Machine Learning ({{ICML}})},
-  author = {Gao, Leo and Schulman, John and Hilton, Jacob},
-  date = {2023},
-  series = {Proceedings of Machine Learning Research},
-  volume = {202},
-  pages = {10835--10866},
-  publisher = {PMLR},
-  url = {https://proceedings.mlr.press/v202/gao23h.html}
-}
-
+% see also: 01-06
 @article{gonzalezbarman_2025-ReinforcementLearningHuman,
   title = {Reinforcement {{Learning}} from {{Human Feedback}} in {{LLMs}}: {{Whose Culture}}, {{Whose Values}}, {{Whose Perspectives}}?},
   shorttitle = {Reinforcement {{Learning}} from {{Human Feedback}} in {{LLMs}}},
