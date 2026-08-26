@@ -1,12 +1,14 @@
 ---
 tags:
-- AI對齊
-- AI控制
-- AI安全
-- AI倫理
-- 人類回饋強化學習
-- AI工程
-- AI導向
+  - AI對齊
+  - AI控制
+  - AI安全
+  - AI倫理
+  - 人類回饋強化學習
+  - AI工程
+  - AI導向
+bibliography: references.bib
+csl: apa-single-spaced.csl
 ---
 ## AI對齊控制問題🎯🛡️ {#sec-alignment-control-problem}
 
@@ -156,9 +158,13 @@ AI 對齊與控制是一場**持久戰**，需要長期監測與調校：
 
 :::
 
+---
+
 ## 🪸請參閱
 
   - **延伸對照：**[第參篇：符號流 AI](03----symbolic_ai.qmd) 的可解釋性與規範可驗證性優勢，如何在安全策設中提供可審計的設計面。
+
+---
 
 ## 👉接下來
 
@@ -171,6 +177,8 @@ AI 對齊與控制是一場**持久戰**，需要長期監測與調校：
 - 🌉🤖🚨 [智能體可靠性與評估](10-02-agent_reliability_evaluation.qmd)
 
 - 🌉🪟🧭 [脈絡工程](10-05-context_engineering.qmd)
+
+---
 
 ## ✎ 編輯筆記
 

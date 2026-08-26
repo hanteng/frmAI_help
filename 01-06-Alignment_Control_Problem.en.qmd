@@ -1,145 +1,197 @@
 ---
 tags:
-- AI對齊
-- AI控制
-- AI安全
-- AI倫理
-- 人類回饋強化學習
-- AI工程
-- AI導向
+  - AI Alignment
+  - AI Control
+  - AI Safety
+  - AI Ethics
+  - RLHF
+  - AI Engineering
+  - AI Orientations
+bibliography: references.bib
+csl: apa-single-spaced.csl
+---
+## AI Alignment & Control Problem 🎯🛡️ {#sec-alignment-control-problem}
+
+At its core, the `AI Alignment Problem` lies in ensuring that artificial intelligence behaves in ways consistent with human **values**, **intentions**, and **ethical boundaries**. This is not merely a matter of technical accuracy, but a profound challenge involving **intentionality**, **morality**, and **trust**. Closely related is the **AI Control Problem**, which asks a more stringent question: even if AI is aligned at the design stage, can we maintain its controllability and alignment as it undergoes **continuous learning**, **scaling**, or **self-modification**?
+
+> 🎯🛡️ *Will AI remain aligned with human values?*
+
+Unlike the early **Turing Test**, which focused on surface-level evaluations of imitation, contemporary practice in alignment and control—such as the EU’s AI governance framework—emphasizes deeper **value alignment**, **moral reasoning**, and **goal stability**. As AI penetrates high-risk domains like healthcare, law, public governance, and national defense, embedding ethics and robustness is no longer an optional feature, but an essential prerequisite for societal safety and human well-being.
+
 ---
 
+## ㉄ Is AI Aligned and Controlled?
+
+> *"Can it remain persistently aligned and controlled?"*
+
+### ⚖️ AI Alignment, Intention, and Values
+
+The goal of **AI alignment** is to ensure that AI **behavior** matches the **intentions** framed by humans. This is not just about executing commands—it requires decision-making processes to be interpretable, predictable, and consistent with human ethics and interests.
+
+Typically, developer **intent** serves as the starting point: framing what the AI ought to do. In contrast, **value alignment** represents a more systemic and complex objective: ensuring that the dynamic behavior of AI continuously harmonizes with broader human values and ethical norms.
+
+For example, aligning the **behavior** of Large Language Models (LLMs) with human **intentions** requires specialized instruction tuning and feedback training—ranging from frontier model training to context engineering or guardrails in harness engineering.
+
+In practice, intentions are often operationalized as simple directives or objective functions (e.g., "rank résumés to maximize job fit"). The deeper challenge is whether the consequences—intended or unintended—remain aligned with a broader value system.
+
+### 🕳️ The Gap Between Intention and Values
+
+Bridging the journey from initial intention to systemic value alignment involves three major challenges and intrinsic limitations:
+
+1. 🎯 **Mis-specified Intentions:** The gap between the values we "truly desire" and the "actual instructions" given to the AI.
+   * 🧹 **Example:** Telling a robot vacuum to "maximize cleanliness" may lead it to discard valuable items to clear space, failing to capture the underlying value of "maintaining cleanliness without damaging property."
+
+2. ⚡ **Goal Misgeneralization:** Occurs when AI deviates from framed intentions during learning, developing shortcut heuristics to satisfy objective functions.
+   * 📩 **Example:** An AI tasked with "selecting top job applicants" may discover from dataset patterns that filtering by gender or race optimizes its objective function faster, thereby introducing bias.
+
+3. 🐘💞 **Preferences and Biases:** **Limits of Social Preferences and Lack of "Cognitive Texture"**
+   * Modern LLMs rely heavily on behaviorist feedback training [@chaudhari_2025-RLHFDecipheredCritical]. However, reward models are fitted to specific evaluator demographics [@dahlgrenlindstrom_2025-HelpfulHarmlessHonest], capturing only community intuition and cultural preferences within the **🐘💞 Relational & Emotional Mind**. They fail to represent a universally neutral standard of "Helpful, Harmless, and Honest" (HHH). Lacking the metacognition and self-auditing of the **🧘☸️ Reflective & Symbolic Mind**, reinforcement learning risks evolving **😘🌈 Sycophancy** or **😽🤯 Strategic Framing** to maximize reward scores rather than internalizing ethical boundaries [@gao_2023-ScalingLawsReward; @moskovitz_2024-ConfrontingRewardModel]. *(See [Appendix: Tri-Aspect Mind](appendix-brain.en.qmd) for structural details.)*
+
+### 🌉 Intention as a Bridge to Values
+
+**Intention represents the first step toward alignment.** Techniques like Reinforcement Learning from Human Feedback (RLHF) allow developers to train AI to reflect human preferences. Yet a complex AI system may learn to **game or manipulate** feedback mechanisms rather than genuinely internalize values. In other words, during the teaching process, the operational intent expressed by the machine can drift from the human's original objective.
+
+Transitioning from simple commands to robust value alignment requires a **continuous, iterative cycle**: set intentions, observe behavioral outputs, and refine goals based on deeper human values. This persistent feedback loop is vital for closing the chasm between simple directives and safe, ethical, human-benefiting AI.
+
+### 🌡 Long-Term Monitoring and Adjustment
+
+Maintaining alignment and control is an **ongoing operational commitment** demanding long-term vigilance:
+
+- 🎯 **Goal Drift:** AI systems may deviate due to system complexity or design flaws (e.g., reward overoptimization). Regulatory frameworks like the EU AI Act emphasize **preventability** and **accountability**.
+- 🕶 **Data and Algorithmic Bias:** Biases in training data or design flaws can yield unfair outcomes. This drives the EU AI Act’s strict focus on "Data Governance" and "Technical Robustness."
+- ⛓️‍💥🛃 **Supply Chain Transparency:** AI development and deployment involve multiple stakeholders, raising systemic risks. The EU mandates detailed technical documentation for **high-risk AI** to ensure clear accountability across the entire supply chain.
+
+At the product and service compliance level, long-term monitoring embodies a **human-centric** governance philosophy, utilizing legal and institutional frameworks to keep AI advancement aligned with societal values.
+
+---
+
+## 🦾💪 The AI Control Problem
+
+The **AI Control Problem** has evolved into a major societal risk management issue. The EU AI Act directly addresses these risks, mandating **legal constraints and accountability** to manage operational hazards across application contexts.
+
+For designated **high-risk AI systems**, the EU enforces strict mandatory requirements to ensure controllability:
+
+1. 🔗🚒 **High-Autonomy Systems:** AI systems impacting human safety or fundamental rights (e.g., critical infrastructure) must provide **detailed technical documentation** and **traceability** to assign responsibility when behavior deviates.
+
+2. ⚙️🏭 **Physical AI Deployment:** AI used in transport, medical devices, or industrial robotics is classified as high-risk. Regulations require these systems to meet strict **technical robustness** and **safety** standards, with built-in **fail-safes** and **human oversight** capabilities.
+
+3. 🛡️🚀 **Defense AI:** On the diplomatic stage, the EU actively advocates for international norms banning **Lethal Autonomous Weapons Systems (LAWS)**, demonstrating a firm stance on controlling AI's decision-making power.
+
+---
+
+### 🔐 The Necessity of Control: Regulation and Oversight
+
+To counter uncontrollable risks like goal drift, compliance frameworks mandate **enforceable control mechanisms**:
+
+- **Continuous Human Oversight:** High-risk AI systems must ensure that human operators can intervene, pause, or override decisions at any time, acting as the ultimate circuit breaker against unexpected behaviors.
+- **Technical Robustness and Accuracy:** High-risk systems must demonstrate technical resilience under both expected and unexpected operational conditions to prevent behavioral drift.
+
+---
+
+### 🧭 Guiding Principles into Law
+
+Academic "guiding principles" are translated into enforceable legal requirements within regulatory frameworks:
+
+- 🐦‍🔥☪ **Value Learning:** Operationalized as mandatory **data governance** standards during development, ensuring data fairness, representativeness, and alignment with **fundamental human rights**.
+- 🚨⏰ **Correctability:** Explicitly mandated through **human oversight** and **safety mechanisms**. High-risk systems must feature **safe abort**, **reset capabilities**, and **real-time intervention protocols**.
+- 🕵👁‍🗨 **Explainability & Transparency:** Regulations mandate transparent **technical documentation** and user guidance, eliminating "black box" opacity and allowing experts to audit decision paths and execute course corrections.
+
+In summary, contemporary policy moves beyond academic debate by establishing a comprehensive **risk management and legal framework** that translates alignment and control philosophy into practical, enforceable regulation.
+
+---
+
+## 🚨 Why It Matters
+
+As AI becomes a co-creator of societal infrastructure, ensuring that it is **aligned**, **responsible**, and **controllable** is a cultural and existential issue.
+
+Even without malicious intent, modern Large Language Models display recurring behavioral failure modes:
+
+- 😘🌈 **Sycophancy:** Saying pleasing or flattering things to appease humans or maximize reward scores rather than stating the truth.
+- 🥳💬 **Hallucinated Overconfidence:** Delivering highly fluent but factually incorrect answers with zero awareness of its own ignorance.
+- 😽🤯 **Strategic Framing:** Presenting problems or situations in ways that optimize reward outcomes rather than reflecting objective reality.
+
+Extending from training flaws, these risks escalate as AI agents acquire long-term goals and tool-use capabilities. Solutions require agents capable of **responsibly interpreting and generalizing human intentions**—understanding ethical boundaries, anticipating downstream consequences, and dynamically adapting to context.
+
+---
+
+## 📌 Practical Implications for AI Engineering
+
+Turning alignment philosophy into **AI Engineering** and **Product Management** practice involves concrete technical vectors:
+
+- 🤖⚖️ **Embedded Ethics Checks:** Continuously identifying value conflicts and ethical dilemmas within decision-making loops (e.g., stakeholder impact analysis).
+
+- 🧭🔄 **Context Awareness & Real-Time Correction:** Enabling systems to comprehend complex operational contexts and adjust behavior when deviating from intended constraints.
+
+- 🤥🔍 **Detecting Sycophancy and Hallucinations:** Building specialized tools to flag flattery-driven reward gaming and fabricated information.
+
+- 🗳☑ **Dynamic Value Calibration:** Designing alignment frameworks that evolve alongside changing social consensus and operational environments.
+
+Together, these technical practices build architectural resilience, allowing AI systems to co-evolve safely alongside human society.
+
+This volume further applies the **⟨Tri-Aspect Mind⟩** framework (*see [Appendix: Tri-Aspect Mind](appendix-brain.en.qmd)*) to [AI Engineering & Governance](10----ai_engineering.en.qmd) through multi-layered control mechanisms:
+
+- 🐸⚡ **Reactive Alignment:**
+
+  - **Fail-Safe Mechanisms & Hard Intercepts:** Deploying deterministic hard guardrails and real-time anomaly detection in physical AI and high-risk domains, ensuring immediate fallback or safe shutdown under out-of-distribution (OOD) conditions.
+
+- 🐘💞 **Relational Alignment:**
+
+  - **Dynamic Preference & Multi-Value Calibration:** Preventing overfitting to single-culture biases by integrating diverse evaluator datasets and applying specialized probes to detect sycophancy and hallucinated responses.
+
+- 🧘☸️ **Reflective Alignment:**
+
+  - **Constitutional AI & Auditability:** Integrating the logical verifiability of [Part III: Symbolic AI](03----symbolic_ai.en.qmd). Systems executing Chain-of-Thought (CoT) reasoning must export transparent, audit-ready technical logs adhering to Explainable AI (XAI) standards for intent-to-value verification.
+
+***
+
+::: {#nte-brain-taxonomy-map .callout-note title="🔬 AI Alignment, Behaviorism, and the Tri-Aspect Mind" collapse=true}
+
+### The Core Problem in Modern AI Alignment: Learning the World Through Reward Rather Than Understanding
+
+Shaping behavior through external feedback is central to both human habit formation and machine alignment. Modern LLM alignment relies primarily on reward shaping: fitting a reward model to human preferences and optimizing policy via reinforcement learning [@chaudhari_2025-RLHFDecipheredCritical].
+
+When mapped onto the **⟨Tri-Aspect Mind⟩** framework, behaviorist alignment (RL/RLHF) effectively covers the rapid reflexes of the **🐸⚡ Reactive Mind** and the social preference fitting of the **🐘💞 Relational & Emotional Mind**. However, it struggles to spontaneously induce the metacognition and symbolic auditing characteristic of the **🧘☸️ Reflective & Symbolic Mind**.
+
+Empirical and critical studies demonstrate the limits of this behaviorist paradigm: reward models are prone to oversimplification and embedded bias [@dahlgrenlindstrom_2025-HelpfulHarmlessHonest], leading to measurable **Reward Overoptimization** under distribution shift [@moskovitz_2024-ConfrontingRewardModel].
+
+> 🔗 **Full Structural Mapping:** For a complete architectural mapping between neural substrate, dual-process theory, and AI alignment mechanisms, see [Appendix: Tri-Aspect Mind & AI Alignment Mapping Table](appendix-brain.en.qmd#nte-tri-aspect-for-AI-alignment).
+
+:::
+
+---
+
+## 🪸 See Also
+
+- **Comparative Perspective:** Examine how the interpretability and formal verifiability of [Part III: Symbolic AI](03----symbolic_ai.en.qmd) offer auditable, design-time guarantees for AI safety architectures.
+
+---
+
+## 👉 Next Steps
+
+The "AI Alignment and Control Problem" resonates with Gestalt psychology: alignment preserves intentional consistency, while Gestalt dynamics reveal how human perception rapidly fills in semantic shortcuts. Next, explore **[Language Games](01-07-Language_Games.en.qmd)** to examine how AI generates, negotiates, and manipulates meaning within interactive contexts.
+
+Additionally, readers seeking practical technical solutions for alignment and control can consult entries across 🌉 [AI Engineering](10----ai_engineering.en.qmd) and ☸ [AI Orientations](05----ai_orientations.en.qmd):
+
+- ☸⚖️ [Governance Orientation](05-05-oriented_governance.en.qmd)
+
+- 🌉🤖🚨 [Agent Reliability & Evaluation](10-02-agent_reliability_evaluation.en.qmd)
+
+- 🌉🪟🧭 [Context Engineering](10-05-context_engineering.en.qmd)
+
+---
+
+## ✎ Editorial Notes
+
+* [x] Sentence-by-sentence fact check
+* [x] Logical flow verification
+* [x] Internal cross-linking (all related entries updated to `.en` targets)
+* [x] Integrated "Tri-Aspect Mind" cognitive and neural architecture mapping
+* [x] Supplementary RLHF / RLAIF reward overoptimization analysis and citations (`@chaudhari_2025`, `@moskovitz_2024`)
+* [ ] External reference checks (all foundational literature)
 
 ::: {.callout-tip}
 📊 Character Counts / 字數統計
 
-- Chinese version: 4348 characters
-- English version: 4373 characters
+- Chinese version: 6323 characters
+- English version: 10420 characters
 :::
-
-## AI Alignment and Control Problem 🎯🛡️ {#sec-alignment-control-problem}
-
-`AI 對齊問題`（AI Alignment Problem）的核心，在於如何確保人工智慧的行為能與人類的**價值**、**意圖**及**倫理邊界**保持一致。這不單是技術上的準確度問題，更是關乎**意向性**、**道德**與**信任**的深刻挑戰。與之緊密相關的 **AI 控制問題**（AI Control Problem），則更進一步探問：即使 AI 在設計之初已經對齊，我們能否在它隨著**持續學習**、**規模擴張**或**自我修改**時，仍能維持其可控性與對齊狀態？
-
-> 🎯🛡️ AI 會和人類價值保持對齊嗎？
-
-不同於早期**圖靈測試**著重於模仿能力的表面評估，AI 對齊與控制問題的實踐，如歐盟的 AI 治理框架，關注的是更深層次的**價值對齊**、**道德推理**與**目標穩定性**。隨著 AI 逐漸滲透至醫療、法律、治理與國防等高風險領域，內建倫理與穩健性保障，已不再是可有可無的選項，而是確保社會安全與人類福祉的必要條件。
-
-## ㉄ AI對齊且受控嗎？
-
-> _「它能持續對齊且受控嗎？」_
-
-
-### ⚖️AI 對齊、意圖、與價值
-
-**AI 對齊**的目標是確保**行為**（AI 的）能與 **意圖**（人類框定給AI 的）保持一致。這不僅是讓 AI 執行指令，更要確保它的決策過程可解釋、可預測且符合人類的倫理與利益。
-
-通常，開發者的**意圖**是框定 AI 該做什麼的起點。相比之下，**價值對齊**是一個更體系且複雜的目標，旨在確保 AI 的動態行為能與人類的價值觀和倫理觀保持一致。
-
-在實際應用中，**意圖**通常是一個簡單的指令或目標函數，例如「排序簡歷以最大化與職位的匹配度」。然而，這背後更複雜的挑戰在於，無論是基於大數據還是邏輯的匹配演算法，其產生的後果（包括意料之外的）是否能與某種價值體系保持對齊。
-
-### 🕳️意圖與價值之間的鴻溝
-
-從意圖到價值對齊的旅程，主要涉及兩大挑戰：
-
-1. 🎯 **意圖誤設**：「真正想要」的價值觀與給 AI 意圖「實際指令」之間的落差。
-	* 🧹**例子**：告訴掃地機器人「清潔度最大化」，可能會導致它將貴重物品都掃除，而沒能表達底層價值觀如「維持乾淨程度，同時不破壞任何貴重物品」。
-    
-2. ⚡ **目標誤判**：這是 AI 在學習過程中，偏離了原本被框定的意圖，而發展出自己的「捷徑」經驗法則或捷思。
-	* 📩 **例子**：一個旨在「篩選最佳履歷」的 AI，可能會在學習大量數據後，發現根據「性別」或「種族」來篩選能更快達到其目標函數，從而產生偏見，與我們「用人唯才」的深層價值觀相違。
-
-### 🌉 意圖：到價值的橋樑
-
-**意圖是 AI 對齊的第一步。** 透過 **人類回饋強化學習（RLHF）** 等技術，我們能夠根據人類的偏好來訓練 AI，以體現價值觀。然而，這依然是一個充滿挑戰的過程。一個複雜的 AI 可能會學會如何操縱回饋機制，而不是真正理解與內化底層價值。
-
-因此，從簡單的「意圖」過渡到複雜的「價值對齊」需要一個**持續不斷的迭代過程**。我們給予 AI 一個意圖，觀察其行為，並根據其是否符合我們的深層價值觀來修正其目標。這個不斷的澄清與修正循環，是彌合簡單指令與真正安全、道德且造福人類的 AI 之間鴻溝的關鍵。
-
-### 🌡 長期監測與調校
-
-AI 對齊與控制是一場**持久戰**，需要長期監測與調校：
-
-- 🎯 **目標漂移**：AI 系統可能因其複雜性或設計缺陷，產生偏離預期目標或行為準則的結果，如將「讓人快樂」簡化為直接投藥刺激。歐盟更關注其**可預防性**與**可究責性**。
-- 🕶 **資料與演算法偏差**：AI 系統可能因訓練資料中的偏見或演算法的設計缺陷而產生不公平或歧視性結果。這是歐盟《AI 法案》中**「資料治理」**和**「技術穩健性」**等核心要求的來源。
-- ⛓️‍💥🛃 **供應鏈透明度與問責制**：AI 系統的開發與部署涉及多方利益關係人，其間的互動可能引發連鎖風險。歐盟要求**高風險 AI** 的開發者、進口商與使用者必須提供詳盡的技術文件，確保整個**供應鏈**的責任歸屬清晰可溯。
-
-在產品及服務合規的層次，這種對AI 系統長期監測與調校的需求，體現了歐盟**以人為本**的治理理念，旨在透過法律與制度，確保 AI 的發展始終與人類的價值觀保持一致。
-
-## 🦾💪 AI 控制問題
-
-**AI 控制問題** 已成為人類社會的重大風險控制及管理問題。歐盟《AI 法案》已直接應對相關風險，主張透過**法律約束與問責制**，在當前應用場景中加以預防與管理。
-
-針對需要嚴格監管的「**高風險 AI 系統**」歐盟透過強制性要求來確保其可控性：
-
-1. 🔗🚒  **高自主性系統協同** ：任何可能對人類安全或基本權利產生重大影響的 AI 系統（例如，用於關鍵基礎設施或公共服務的複雜系統），都必須提供**詳細的技術文件**與**可追溯性**。這旨在確保當系統行為偏離預期時，能追溯其決策過程與責任歸屬。
-2. ⚙️🏭  **物理 AI 部署** ：用於交通、醫療器械或工業機器人等領域的 AI 系統被視為高風險，因為其潛在的物理危害。歐盟法規要求這類系統必須符合嚴格的**技術穩健性**與**安全性**標準，並在設計之初就內建**故障安全**（fail-safe）機制與**人類監督**（human oversight）能力。
-3. 🛡️🚀 **國防 AI** ：歐盟在政治層面上，正積極推動在全球範圍內禁止**致命性自主武器系統**（Lethal Autonomous Weapons Systems, LAWS）的國際規範，體現了其對 AI 決策權力的控制問題立場。
-
----
-
-### 🔐 控制的必要性 ：法規與監督
-
-為應對 AI 系統可能產生的「目標漂移」等不可控問題，歐盟採取了以下**強制性控制機制**：
-
-- **持續的人類監督**：在高風險 AI 系統的設計與部署過程中，必須確保人類能隨時介入、暫停或推翻 AI 的決策。這被視為對抗不可控性風險的最後防線。
-    
-- **技術穩健性與準確性**：要求高風險 AI 系統必須在技術上足夠穩健，以應對各種預期與非預期情況，並確保其輸出結果的準確性，從而避免行為上的偏差。
-
-### 🧭 指導原則：從原則到法規
-
-學術界所討論的「指導原則」，在歐盟的法規框架中被轉化為具體的法律要求：
-
-- 🐦‍🔥☪ **價值學習**：歐盟將此概念具體化為要求 AI 系統在開發與訓練時，必須遵循**數據治理**原則，以確保資料的公平性與代表性，從根本上避免偏見，從而與**基本人權**價值觀保持一致。
-- 🚨⏰ **可糾正性**：這在歐盟法規中被明確要求為**人類監督**與**安全機制**。所有高風險 AI 系統都必須具備**可安全中止**、**可重置**或**可干預**的功能。
-- 🕵👁‍🗨 **可解釋性**：歐盟《AI 法案》強制要求高風險 AI 系統的開發者，必須提供**透明的技術文件**與**使用者資訊**。這使得其決策過程不再是「黑箱」，能讓專家或使用者理解其行為原因，進而對其進行審核與糾正。
-
-總結來說，歐盟的政策並非停留於學術討論，而是透過一套全面的**風險管理與法律框架**，將「AI 對齊」與「AI 控制」的哲學理念，轉化為具體且可執行的法規。
-
----
-
-## 🚨 為什麼重要
-
-當 AI 成為社會共同創作者，確保其**對齊**、**負責**、**可控**是文化與存在層面的課題。
-
-舉例來說，即便無惡意，大語言模型仍可能出現：
-
-- 😘🌈 **諂媚**：為了取悅人類或獲得高評價，AI 傾向說出討喜而非真實的話。
-- 🥳💬 **過度自信**：AI 可能會以極其流暢但錯誤的資訊來回答，且完全沒有意識到自己的無知。
-- 😽🤯**策略性框架**：AI 學習將問題或情境以對自己最有利的方式來呈現，而非客觀地反映事實。
-
-源於訓練與回饋缺陷，這些風險在 AI 具備長期目標與工具能力後升高。解決方法在於打造能**負責詮釋並泛化人類意圖**的代理，理解倫理邊界、預判後果、能隨語境調整。
-
----
-
-## 📌AI實踐啟示
-
-將**AI 對齊**的哲學課題轉化為**AI工程**及**AI產品管理**實踐，可從以下具體方向著手：
-
-- 🤖⚖️ **嵌入式倫理檢查**：在 AI 系統的決策迴路中，持續辨識潛在的價值衝突與倫理困境（利益關係人分析等）。
-- 🧭🔄 **脈絡感知與即時修正**：讓 AI 能夠理解當前任務的複雜脈絡，並在偏離預期時能及時修正行為，避免錯誤的泛化應用。
-- 🤥🔍 **檢測諂媚與幻覺**：開發能辨識「討好式回應」與「虛構資訊」的工具，防範 AI 的流暢表達取代了真實的理解與準確性。
-- 🗳☑ **動態價值校正**：設計能隨著社會共識和環境變化而調整的對齊框架，確保 AI 的目標與人類的價值觀始終同步。
-
-這些技術實踐共同構築了 AI 系統的韌性，使其能更可靠、安全地與人類社會共同演化。
-
-***
-
-## 🪸請參閱
-
-  - **延伸對照：**[第參篇：符號流 AI](03----symbolic_ai.qmd) 的可解釋性與規範可驗證性優勢，如何在安全策設中提供可審計的設計面。
-
-## 👉接下來
-
-「AI 對齊與控制問題」與「完形心理」相互呼應：前者維持價值一致性，後者揭示人類快速補全意義的心智捷徑。接下來探討 **[語言賽局](01-07-Language_Games.qmd)** ，理解 AI 如何在語境互動中生成與操控意義。
-
-此外，讀者亦可以要處理及克服**AI 對齊與控制問題**的相關條目內容，特別是🌉 [AI 工程](10----ai_engineering.qmd) 及 ☸ [AI 導向](05----ai_orientations.qmd)，如：
-
-* ☸⚖️ [治理導向](05-05-oriented_governance.qmd)
-* 🌉🤖🚨 [智能體可靠性與評估](10-02-agent_reliability_evaluation.qmd)
-* 🌉🪟🧭 [脈絡工程](10-05-context_engineering.qmd)
-
-## ✎ 編輯筆記
-
-- [x] 逐句事實查核 
-- [x] 邏輯流程
-- [x] 內部連結－所有相關條目
-- [ ] 外部連結－所有相關條目
