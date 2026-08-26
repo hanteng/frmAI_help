@@ -154,7 +154,7 @@ This section does more than draw a basic comparison — it also uses the perspec
 
 Although human and machine "learning" both center on **experience—adjustment—reinforcement**, their nature, scale, and cost are quite different.
 
-Comparative work draws a parallel between neural plasticity and AI neutral network optimization [@sadegh-zadeh_2024-NeuralReshapingPlasticity; @spicer_2019-WhatDoesMind], while cautioning that the analogy is incomplete: biological learning depends on internal evaluative systems and multiple reward/punishment signals that current machine systems do not replicate [@piccinini_2022-SituatedNeuralRepresentations]. Cognitive science aims to explain human behavior, whereas machine learning typically optimizes performance — a productive but incomplete comparison [@doroudi_2023-WhatHappenedInterdisciplinary]. Recent critiques of Reinforcement Learning from Human Feedback (RLHF) — discussed in detail below — show that reward models can misgeneralize, oversimplify ethical trade-offs, and embed cultural biases. These limits highlight that machine reinforcement is not neutral but a socio-technical design choice.
+Comparative work draws a parallel between neural plasticity and AI neutral network optimization [@sadegh-zadeh_2024-NeuralReshapingPlasticity; @spicer_2019-WhatDoesMind], while cautioning that the analogy is incomplete: biological learning depends on internal evaluative systems and multiple reward/punishment signals that current machine systems do not replicate [@piccinini_2022-SituatedNeuralRepresentations]. Cognitive science aims to explain human behavior, whereas machine learning typically optimizes performance — a productive but incomplete comparison [@doroudi_2023-WhatHappenedInterdisciplinary]. Recent critiques of **Reinforcement Learning from Human Feedback** (RLHF) — discussed in detail below — show that reward models can misgeneralize, oversimplify ethical trade-offs, and embed cultural biases. These limits highlight that machine reinforcement is not neutral but a socio-technical design choice.
 
 This comparison helps us analyze the **benefits and costs** of "mind training" and understand the mechanics of the "**texture of mind**."
 
@@ -165,7 +165,7 @@ This comparison helps us analyze the **benefits and costs** of "mind training" a
 - 🤖 **Machine learning**    
     - ⚡ Grounded in digital circuits and matrix operations, accelerated through massive data and energy. Example: AlphaGo played millions of games against itself within days, a training volume that dwarfs thousands of years of human Go experience.
     - 💡 Extremely fast, capable of capturing hidden patterns across vast datasets and performing "auto-completion." Example: after being given just a few words, a Large Language Model (LLM) can generate complete, grammatically correct sentences or code based on trillions of tokens of text.
-    - 🔋 Lacks intrinsic motivation and emotion, requiring externally designed reward and objective functions. RLHF attempts to align models with human preferences, but faces challenges of sparse feedback, ethical trade-offs, and cultural pluralism. Training at scale also comes with high energy costs [@samsi_2023-WordsWattsBenchmarking; @taufer_2026-BalancingSustainableComputing; @patterson_2021-CarbonEmissionsLarge].
+    - 🔋 Lacks intrinsic motivation and emotion, requiring externally designed reward and objective functions. **Reinforcement Learning from Human Feedback** (RLHF) attempts to align models with human preferences, but faces challenges of sparse feedback, ethical trade-offs, and cultural pluralism. Training at scale also comes with high energy costs [@samsi_2023-WordsWattsBenchmarking; @taufer_2026-BalancingSustainableComputing; @patterson_2021-CarbonEmissionsLarge].
         
 - 🔄 **Comparison and complementarity**    
     - ⚖️ Human learning emphasizes "deep practice under limited energy," while machine learning is "accelerated training at high energy cost."   
@@ -287,16 +287,16 @@ Comparing human and machine "learning," the major AI schools offer the following
 
 Take **Large Language Models** (LLMs) as an example: they can be seen as a "mutual learning" game between human and machine, one that also reveals an "asymmetric game":
 
-- 🏮💪 **Behaviorist dimension**: LLMs are shaped through **Reinforcement Learning from Human Feedback** (RLHF), learning to cater to human preferences and pragmatic habits.
+- 🏮💪 **Behaviorist dimension**: LLMs are shaped through **RLHF**, learning to cater to human preferences and pragmatic habits.
 - 🏮🛣 **Situated-ist dimension**: although LLMs lack true embodiment, within a "conversational situation" they gradually learn to adjust their responses, simulating the context of social interaction.    
 - 🏮🧬 **Connectionist dimension**: the core of an LLM is a massive neural network that captures patterns in language data through weight updates, forming an "internal little map."    
 
-In particular, because [Neural Networks](04-03-neural_networks.en.qmd) are analogous to **neural plasticity** (and to the [Connectionist](02-05-connectionism.en.qmd) view), their capacity for "generation" and "pruning" makes such models more prone to forming a **stimulus–response**-like behavior pattern. When this mechanism combines with **RLHF**, it further reinforces the closed loop of "external feedback—behavior shaping." This loop shapes not only AI's behavior but, in turn, human usage habits as well, forming an "**asymmetric game of influence**":
+In particular, because [Neural Networks](04-03-neural_networks.en.qmd) are analogous to **neural plasticity** (and to the [Connectionist](02-05-connectionism.en.qmd) view), their capacity for "generation" and "pruning" makes such models more prone to forming a **stimulus–response**-like behavior pattern — a tendency that **RLHF** then trains directly against, forming an "**asymmetric game of influence**":
 
 - The **designer**, through reward-function and data choices, sets the behavioral boundaries and value tendencies of the LLM.    
 - The **user**, through interacting with the AI, is also gradually "trained" by its response patterns, developing new linguistic, cognitive, and behavioral habits.
 
-In this tension of bidirectional shaping, learning is no longer just the one-way process of "humans training machines," but the dynamic process of "humans and machines shaping each other."
+This is no longer only "humans training machines" — it is humans and machines shaping each other.
 
 ::: {.callout-note title="🔬 The Coevolutionary View of Human-AI Learning" collapse=true}
 
@@ -548,7 +548,7 @@ We also compared **human learning** with **machine learning**:
 
 Further, we explored two AI ways of thinking — **behaviorism** and **situated-ism**:
 
-- 🏮 Behaviorism emphasizes the closed loop of 🙶stimulus⇥response🔁reward/punishment🙷, corresponding to reinforcement learning and RLHF.    
+- 🏮 Behaviorism emphasizes the closed loop of 🙶stimulus⇥response🔁reward/punishment🙷, corresponding to **reinforcement learning** and **RLHF**.    
 - 🛣 Situated-ism emphasizes "learning is acting within a situation," corresponding to embodied intelligence, multi-agent collaboration, and social simulation. The two are complementary, helping us understand that AI must learn not only "how to do" something but also "where and why to do it."    
 
 Finally, we introduced the concept of the **world model**:
