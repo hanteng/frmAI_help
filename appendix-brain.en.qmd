@@ -44,7 +44,7 @@ The core of **training** is 🌊[learning](#sec-world-in-nouns) **noun** «optio
 Human-machine **noun** «options» can refine the **collaborative relationship** and achieve **systemic dynamic** orchestration; this calls for «The Appendix Triad» — "Action ~ Brain ~ Cognitive Capacity" — treating AI as a partner in shared action.
 :::
 
-::: {.callout-note #nte-brain-taxonomy-map title="🗺️ Core Concept Map for This Chapter (Core Taxonomy)" collapse=true}
+::: {#nte-brain-taxonomy-map .callout-note title="🗺️ Core Concept Map for This Chapter (Core Taxonomy)" collapse=true}
 1. **Taxonomy Layer**:
    - **Concentric Circles of Nouns**: 🔴 Core Circle (self-training) / 🟡 Middle Circle (human-machine collaboration) / 🟢 Outer Circle (social and civilizational context); see [@sec-world-in-nouns] for details.
    - **⟨Tri-Aspect Mind⟩**: 🐸 the Reactive Mind / 🐘 the Emotive-Relational Mind / 🧘 the Reflective-Symbolic Mind, integrating three major theories — the ⚡Dual-Process Hypothesis, the 🐸🐘🧘Triune Brain Hypothesis, and the 🤝🙊Social Brain Hypothesis; see [@sec-tri-aspect-cognitive] for details.
@@ -64,7 +64,7 @@ Human-machine **noun** «options» can refine the **collaborative relationship**
 
 For ease of understanding, this book defines the brain or the mind as a learning journey of "placing a world model, preparing for future action."
 
-This operational definition therefore reduces every verb to some form of learning or training, while the corresponding **nouns** concern the existence of everything in the world — including the various **knowledge points** that human society has created and accumulated, as well as the related **AI knowledge points**.
+This operational definition therefore reduces every verb to some form of learning or training, while the corresponding **nouns** concern the existence of everything in the world — including the various **knowledge points** that human society has created and accumulated, as well as the related **AI knowledge points**.  Altogether they become a pool of noun «option» as a body of human knowledge.
 
 To help readers learn systematically, this appendix set organizes these **noun** «options» into the content, process, and outcome of an individual's "learning" about the world.
 
@@ -134,7 +134,7 @@ In short, this appendix set, “🧠Brain”, gathers together the following app
 
 The choices among noun «**options**» and one's worldview can be understood through comparing human learning and machine learning in terms of the relationship between self and world. 
 
-This comparison helps us analyze the benefits and costs of "mind training" and understand the mechanics of what this book calls the "texture of mind" — echoing the Chinese 肌理 (the grain or weave of tissue) — the accumulated, structural pattern that repeated learning leaves in a mind or muscle-neural tissues, biological or artificial, as distinct from any single memory or behavior.
+This comparison helps us analyze the benefits and costs of "mind training" and understand the mechanics of what this book calls the "texture of mind" — echoing the Chinese 肌理 (the grain or weave of tissue) — the accumulated, structural pattern that repeated learning leaves in a mind, biological or artificial, as distinct from any single memory or behavior.
 
 ::: {#imp-jili .callout-important collapse="false"}
 ### “Texture of Mind” (*肌理*, jīlǐ)
@@ -189,7 +189,7 @@ Shaping behavior through external feedback is a core mechanism of both human hab
 
 Reward-shaped learning is central to modern LLM training: human feedback is used to fit a reward model, which is then optimized against through reinforcement learning to steer model behavior toward human preferences [@chaudhari_2025-RLHFDecipheredCritical]. This is often not a simple scalar signal but a preference-learning problem, where people rank or compare outputs and the system infers a reward from those pairwise or K-wise comparisons [@zhu_2023-PrincipledReinforcementLearning]. Humanity's own "**Hook Model**" and habit formation through variable, intermittent feedback (e.g., social-media notifications) run on a structurally similar loop of stimulus, response, and reward.
 
-More directly empirical and critical work on reward modeling shows that this loop has real limits. Reward models can misgeneralize, oversimplify ethical trade-offs, and embed the values and cultural assumptions of whoever supplies the feedback [@chaudhari_2025-RLHFDecipheredCritical; @dahlgrenlindstrom_2025-HelpfulHarmlessHonest; @gonzalezbarman_2025-ReinforcementLearningHuman] — an outcome that follows directly from RLHF's dependence on a specific, situated group of human raters, whose judgments cannot be assumed to represent a neutral or universal standard of "helpful, harmless, honest" [@dahlgrenlindstrom_2025-HelpfulHarmlessHonest]. On top of this values problem sits a technical one: reward models can also become inaccurate under distribution shift, with scores rising even as behavior drifts away from actual human preferences — a persistent, measurable overoptimization problem [@gao_2023-ScalingLawsReward; @moskovitz_2024-ConfrontingRewardModel].
+More directly empirical and critical work on reward modeling shows that this loop has real limits. Reward models can misgeneralize, oversimplify ethical trade-offs, and embed the values and cultural assumptions of whoever supplies the human feedback (RLHF) or AI feedback (RLAIF) [@chaudhari_2025-RLHFDecipheredCritical; @dahlgrenlindstrom_2025-HelpfulHarmlessHonest; @gonzalezbarman_2025-ReinforcementLearningHuman] — an outcome that follows directly from RLHF's dependence on a specific, situated group of human raters, whose judgments cannot be assumed to represent a neutral or universal standard of "helpful, harmless, honest" [@dahlgrenlindstrom_2025-HelpfulHarmlessHonest]. On top of this values problem sits a technical one: reward models can also become inaccurate under distribution shift, with scores rising even as behavior drifts away from actual human preferences — a persistent, measurable overoptimization problem [@gao_2023-ScalingLawsReward; @moskovitz_2024-ConfrontingRewardModel].
 
 **A live debate worth sitting with**: David Silver and Richard Sutton (DeepMind) have advanced the "**Reward is Enough**" hypothesis — the claim that sufficiently general reward-maximizing agents in sufficiently rich environments can give rise to the full range of intelligent abilities (perception, language, social cognition, planning) without any of these needing to be separately engineered. Critics counter that reward alone cannot specify the nuanced, often unstated values and ethical trade-offs human life requires, and that RLHF's own documented failure modes — reward hacking, sycophancy, distribution shift, and whose values get encoded in the first place [@gonzalezbarman_2025-ReinforcementLearningHuman] — are evidence that reward signals systematically underdetermine what we actually want. Where do you land: is reward truly the only signal intelligence needs, or is behaviorism a powerful but partial account of how minds are built?
 
@@ -386,9 +386,9 @@ This appendix set, "🧠Brain", focuses on the intelligent **noun** «options» 
 
 ## 🧠 Integrating the Tri-Aspect Mind {#sec-tri-aspect-cognitive}
 
-How can we better understand the “Texture of Mind”
+How can we better understand the “Texture of Mind”? This book proposes a `Tri-Aspect Mind` framework.
 
-Formally called the `Tri-Aspect Cognitive Model`, this taxonomy is this book's own synthesis, not a direct restatement of any single existing theory. It combines two independently well-supported axes from the literature: the fast/slow processing distinction central to the **Dual-Process Hypothesis** [@sec-dual-process-theory], and the individual/relational/group distinction central to the **Social Brain Hypothesis** [@sec-social-brain-hypothesis]. 
+Formally called the `Tri-Aspect Mind`, this taxonomy is this book's own synthesis, not a direct restatement of any single existing theory. It combines two independently well-supported axes from the literature: the fast/slow processing distinction central to the **Dual-Process Hypothesis** [@sec-dual-process-theory], and the individual/relational/group distinction central to the **Social Brain Hypothesis** [@sec-social-brain-hypothesis]. 
 
 The middle tier — the 🐘💞 **Emotive-Relational Mind** — is where this book's synthesis does its real work: dual-process theory alone offers no natural home for social-emotional processing, and this book proposes the Emotive-Relational tier to fill that gap, drawing on social-brain research on mentalizing, empathy, and group bonding.
 
@@ -408,17 +408,43 @@ This is where this book's synthesis does its real work: the middle tier — the 
 
 This book abbreviates it as the ⟨**Tri-Aspect Mind**⟩, divided into three main types:
 
-* 🐸⚡ The 🙶Reactive🙷 Mind (The Reactive Mind): emphasizing **survival instinct**, **muscular reflex**, **fast reaction**, and the primacy of the **body**, mapping to
-	- System 1 (fast, intuitive) of the ⚡ **Dual-Process Hypothesis**, the fast responses based on emotion, heuristics, and associative memory.
-	- **Real-time group reaction and threat vigilance** in the ⚖️🙈 Social Brain Hypothesis.
-- 🐘💞 The 🙶Emotive-Relational🙷 Mind (The Emotive-Relational Mind): emphasizing **emotional expression**, **empathy**, **emotional bonding** and its role for individual and group, as well as social memory transmission, mapping to
-	- The **boundary between System 1 and System 2** of the ⚡🧮 Dual-Process Hypothesis, the emotional responses based on heuristics and associative memory.
-	- **Social life, group cooperation, and communication** in the 🤝🧠 Social Brain Hypothesis.
-- 🧘☸️ The 🙶Reflective-Symbolic🙷 Mind (The Reflective-Symbolic Mind): emphasizing **consciousness**, **self-awareness**, **symbols**, **metacognition**, **long-term planning**, and the construction of a **symbolic memory system**, mapping to
-	- **System 2** (slow, analytical) of the 🐢🧮 Dual-Process Hypothesis
-	- **Higher-order social cognition** in the 🤝🧠 Social Brain Hypothesis, particularly cognition related to language.
+* 🐸⚡ **The Reactive Mind**: emphasizing **survival instinct**, **muscular reflex**, **fast reaction**, and the primacy of the **body**.
+  - **Texture of mind**: Neural tissue controls muscle contraction by transmitting electrical signals from the nervous system to muscle fibers, enabling voluntary and involuntary movements.
+  - **Dual-Process Hypothesis**: System 1 (fast, intuitive), driving rapid responses based on emotion, heuristics, and associative memory.
+  - **Social Brain Hypothesis**: Real-time group reaction and threat vigilance.
+  - **AI Alignment Mapping**: Basic RL, greedy search, token prediction, and real-time safety guardrails.
+* 🐘💞 **The Emotive-Relational Mind**: emphasizing **emotional expression**, **empathy**, **emotional bonding** (individual and group), and social memory transmission.
+  - **Texture of mind**: Neurochemical and hormonal modulation—primarily governed by limbic circuitry (such as the amygdala and hypothalamus) releasing neurotransmitters (oxytocin, dopamine, serotonin) to regulate affect, social valence, dynamic physiological arousal, and emotional homeostasis.
+  - **Dual-Process Hypothesis**: The boundary between System 1 and System 2, handling emotional responses based on heuristics and social memory.
+  - **Social Brain Hypothesis**: Social life, group cooperation, and communication.
+  - **AI Alignment Mapping**: RLHF preference learning and Reward Models fitting subjective human raters, social consensus, and relational preferences.
+* 🧘☸️ **The Reflective-Symbolic Mind**: emphasizing **consciousness**, **self-awareness**, **symbols**, **metacognition**, **long-term planning**, and symbolic memory systems.
+  - **Texture of mind**: Neocortical neural architecture—driven by complex synaptogenesis, prefrontal cortex executive networks, dynamic neural plasticity, and dense reciprocal connections across functional cortical hubs enabling abstract representations, symbolic processing, and metacognitive simulation.
+  - **Dual-Process Hypothesis**: System 2 (slow, analytical).
+  - **Social Brain Hypothesis**: Higher-order social cognition, particularly language and formal symbolism.
+  - **AI Alignment Mapping**: Constitutional AI, RLAIF, explicit rules, Chain-of-Thought (CoT) reasoning, metacognition, and long-context alignment constraints.
 
-For AI education and engineering, this book proposes ⟨**Tri-Aspect Mind**⟩ as the most basic taxonomy of all noun «**options**»:
+::: {#nte-tri-aspect-for-AI-alignment .callout-note title="🔬 Tri-Aspect Mind and AI Alignment / Control Taxonomy Mapping" collapse=true}
+
+#### Physiological Texture, Cognitive Theories, and AI Training Mapping
+
+The table below maps the **⟨Tri-Aspect Mind⟩** framework across its biological texture (*Texture of Mind*), classical cognitive hypotheses, and modern AI alignment and control engineering paradigms (RL, RLHF, and Constitutional AI):
+
+| ⟨Tri-Aspect Mind⟩ | 🧠 Texture of Mind | ⚡🧮 Dual-Process / 🤝🙈 Social Brain Mapping | 🎮 AI Training & Alignment (RL / RLHF / RLAIF) Mapping |
+| :--- | :--- | :--- | :--- |
+| 🐸⚡ **Reactive Mind** | **Neuromuscular Conduction**: Neural tissue transmits electrical signals to control muscle contraction, enabling voluntary and involuntary movement. | **System 1** (Fast / Intuitive)<br>⚖️🙈 **Social Brain** (Real-time threat vigilance and group reflex) | **Basic RL & Instinctive Reflexes**: Next-token prediction, greedy search, and single-reward-signal real-time threat vigilance and edge safety guardrails. |
+| 🐘💞 **Emotive-Relational Mind** | **Neurochemical & Hormonal Modulation**: Limbic circuits release neurotransmitters (oxytocin, dopamine, serotonin) to regulate affect, social valence, and emotional homeostasis. | **System 1 / System 2 Boundary**<br>🤝🧠 **Social Brain** (Social life, group cooperation, and communication) | **RLHF Preference Learning & Reward Models**: Rater-based K-wise ranking reflecting subjective emotion, social consensus, and relational preferences to build Reward Models. |
+| 🧘☸️ **Reflective-Symbolic Mind** | **Neocortical & Prefrontal Architecture**: Synaptogenesis and cortical hub plasticity drive high-order abstract symbols, metacognition, and long-term simulation. | **System 2** (Slow / Analytical)<br>🤝🧠 **Social Brain** (Higher-order language and symbolic social cognition) | **Constitutional AI / RLAIF / Symbolic Inference**: Rule-based governance charters, Chain-of-Thought (CoT) reasoning, metacognitive auditing, and long-context alignment constraints. |
+
+:::
+
+### 📌 Summary of Cognitive Mapping
+
+This mapping illustrates why behavioral RLHF alone is prone to reward overoptimization: it operates primarily at the intersection of **Reactive** (quick loss reduction) and **Emotive-Relational** (human preference ranking) tiers, leaving the **Reflective-Symbolic** tier (explicit symbolic auditing, metacognition, and structural ethical alignment) under-addressed unless reinforced by symbolic rules and constitutional frameworks.
+
+### Using Tri-Aspect Mind to Manage Moun «**Options**» 
+
+For AI education and engineering, this book proposes ⟨**Tri-Aspect Mind**⟩ as the most basic taxonomy to manage noun «option»:
 
 This taxonomy helps us use systems thinking to contemplate self, environment, and world, and to recognize the "**knowledge**" involved in training one's own "neural⚡muscular" mind.
 
@@ -429,14 +455,17 @@ It is best understood as an **integrative synthesis** rather than a direct resta
 This book abbreviates it as the ⟨**Tri-Aspect Mind**⟩, divided into three main types:
 
 * 🐸⚡ The 🙶Reactive🙷 Mind (The Reactive Mind): emphasizing **survival instinct**, **muscular reflex**, **fast reaction**, and the primacy of the **body**, mapping to
+	- **Texture of mind**: Neural tissue controls muscle contraction by transmitting electrical signals from the nervous system to muscle fibers, enabling voluntary and involuntary movements.
 	- System 1 (fast, intuitive) of the ⚡ **Dual-Process Hypothesis**, the fast responses based on emotion, heuristics, and associative memory.
-	- The **basic survival instincts, fixed behavior patterns, and fast reflexes** of the 🐸⚡ Triune Brain.
 	- **Real-time group reaction and threat vigilance** in the ⚖️🙈 Social Brain Hypothesis.
+	- The **basic survival instincts, fixed behavior patterns, and fast reflexes** of the 🐸⚡ Triune Brain.
 - 🐘💞 The 🙶Emotive-Relational🙷 Mind (The Emotive-Relational Mind): emphasizing **emotional expression**, **empathy**, **emotional bonding** and its role for individual and group, as well as social memory transmission, mapping to
+	- **Texture of mind**: Neurochemical and hormonal modulation—primarily governed by limbic circuitry (such as the amygdala and hypothalamus) releasing neurotransmitters (oxytocin, dopamine, serotonin) to regulate affect, social valence, dynamic physiological arousal, and emotional homeostasis.
 	- The **boundary between System 1 and System 2** of the ⚡🧮 Dual-Process Hypothesis, the emotional responses based on heuristics and associative memory.
 	- The **emotional processing, social bonding, and emotional tagging of long-term memory** of the 🐘💞 Triune Brain,
 	- **Social life, group cooperation, and communication** in the 🤝🧠 Social Brain Hypothesis.
 - 🧘☸️ The 🙶Reflective-Symbolic🙷 Mind (The Reflective-Symbolic Mind): emphasizing **consciousness**, **self-awareness**, **symbols**, **metacognition**, **long-term planning**, and the construction of a **symbolic memory system**, mapping to
+	- **Texture of mind**: Neocortical neural architecture—driven by complex synaptogenesis, prefrontal cortex executive networks, dynamic neural plasticity, and dense reciprocal connections across functional cortical hubs enabling abstract representations, symbolic processing, and metacognitive simulation.
 	- **System 2** (slow, analytical) of the 🐢🧮 Dual-Process Hypothesis
 	- The functions of **higher cognition, language, abstract reasoning, and symbol manipulation** in the 🧘☸️ Triune Brain
 	- **Higher-order social cognition** in the 🤝🧠 Social Brain Hypothesis, particularly cognition related to language.
