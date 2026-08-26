@@ -132,7 +132,23 @@ In short, this appendix set, “🧠Brain”, gathers together the following app
 
 ### 🧘 The Relationship Between Self and World 🌐
 
-The choices among noun «**options**» and one's worldview can be understood through comparing human learning and machine learning in terms of the relationship between self and world. This section does more than draw a basic comparison — it also uses the perspectives of behaviorism, situated-ism, and connectionism to explain how noun «options» shape the relationship between self and world, so readers can tell them apart and innovate.
+The choices among noun «**options**» and one's worldview can be understood through comparing human learning and machine learning in terms of the relationship between self and world. 
+
+This comparison helps us analyze the benefits and costs of "mind training" and understand the mechanics of what this book calls the "texture of mind" — echoing the Chinese 肌理 (the grain or weave of tissue) — the accumulated, structural pattern that repeated learning leaves in a mind or muscle-neural tissues, biological or artificial, as distinct from any single memory or behavior.
+
+::: {#imp-jili .callout-important collapse="false"}
+### “Texture of Mind” (*肌理*, jīlǐ)
+
+**Definition.** *肌理* literally denotes the grain or weave of tissue. In this book it names the **accumulated, structural pattern** that repeated learning leaves in a mind — biological or artificial — distinct from any single memory or behavior. The definition captures both human neural–muscle networks and machine neural–motive connections.
+
+**Why it matters.** Whereas a single memory is an isolated trace and a single action an isolated behavior, *肌理* denotes the background structure that shapes perception, inference, and habit: the way a mind tends to fill in gaps, prioritize cues, or respond under uncertainty. 
+
+**Examples.**
+- **Biological:** cultural practice and bodily training produce a characteristic style of attention and skill.  
+- **Artificial:** repeated training regimes leave an LLM or robot with systematic tendencies — preferred completions, failure modes, and affordance biases.
+:::
+
+This section does more than draw a basic comparison — it also uses the perspectives of behaviorism, situated-ism, and connectionism to explain how noun «options» shape the relationship between self and world, so readers can tell them apart and innovate.
 
 ## 💪 Human Learning 🆚 Machine Learning 🦾 {#sec-learning-machine-vs-human}
 
