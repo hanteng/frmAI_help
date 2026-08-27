@@ -2,6 +2,23 @@ encoding: "UTF-8"
 lang: en
 language: _language-en.yml
 
+project:
+  type: book
+  render:
+    - "*.en.qmd"
+    - "index.qmd"
+
+book:
+  title: "Harnessing Intelligence"
+  subtitle: "AI Game Playbook"
+  page-footer:
+    left: |
+      🙶Harnessing Intelligence: AI Game Playbook🙷 
+      © Han-Teng Liao
+    right: |
+      aka 🙶The Tao of Intelligence: AI Game Playbook🙷 
+      Built with <a href="https://quarto.org/">Quarto</a>.
+
 format:
   html:
     lang: en                           # 確保英文配置下 HTML 語系正確
