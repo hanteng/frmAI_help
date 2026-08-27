@@ -49,6 +49,8 @@ jobs:
         run: |
           quarto --version
           Rscript -e 'cat("babelquarto version:", as.character(packageVersion("babelquarto")), "\n")'
+      - name: 🔍 Audit File Manifest on Linux Runner
+        run: python3 py-audit_manifest.py
       # 5. Render Multilingual Book using babelquarto
       - name: Render Multilingual Book
         run: |
