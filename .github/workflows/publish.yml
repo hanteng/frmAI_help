@@ -43,6 +43,15 @@ jobs:
             any::babelquarto
           packages: |
             github::ropensci-review-tools/babelquarto
+# Step to setup Quarto CLI
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: "1.9.36"
+      - name: Verify Versions
+        run: |
+          quarto --version
+          Rscript -e 'cat("babelquarto version:", as.character(packageVersion("babelquarto")), "\n")'
       # 5. Render Multilingual Book using babelquarto
       - name: Render Multilingual Book
         run: |
