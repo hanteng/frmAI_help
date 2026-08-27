@@ -7,7 +7,8 @@ project:
   render:
     - "*.en.qmd"
     - "index.qmd"
-
+    - "!*.qmd"       # <--- Excludes base Chinese files from Quarto POSIX auto-discovery
+    - "!0*.qmd"      # <--- Excludes numbered base chapter files (01-*, 02-*, etc.)
 book:
   title: "Harnessing Intelligence"
   subtitle: "AI Game Playbook"

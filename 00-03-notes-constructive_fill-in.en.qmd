@@ -227,7 +227,7 @@ Deutsch 區分了「**滯後**（Lag）」與「**前導**（Lead）」兩種回
 
 ### 🧭📡 系統管理：框智力的「可行」系統模型
 
-為了解決複雜組織的動態適應問題，管理科學家 Stafford Beer 發表了其經典的三部曲著作 [@beer_1972-BrainFirmDevelopment-BrainFirmDevelopment; @beer_1979-HeartEnterprise-HeartEnterprise; @beer_1985_2007-DiagnosingSystemOrganizations]，將模控學原理完全落實到組織設計中，提出了「可行系統模型」（Viable System Model, VSM）。
+為了解決複雜組織的動態適應問題，管理科學家 Stafford Beer 發表了其經典的三部曲著作 [@beer_1972-BrainFirmDevelopment; @beer_1979-HeartEnterprise; @beer_1985_2007-DiagnosingSystemOrganizations]，將模控學原理完全落實到組織設計中，提出了「可行系統模型」（Viable System Model, VSM）。
 
 Beer 巧妙地以人類的神經解剖學（Neuroanatomy）作為原型，主張任何能獨立生存的系統，其內部資訊流與控制節點都具備分形與递归（Recursive）的特質。他將這種維持系統恆定、能動態應對外在變局的運作結構，由底至頂拆解為五個高度協調的子系統：
 
