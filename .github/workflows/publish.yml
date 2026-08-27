@@ -60,7 +60,87 @@ jobs:
       - name: Copy Cover Image
         run: |
           cp cover.png _book/ || true
-
+      - name: 🐛 Debug babelquarto POSIX Path Resolution on Linux
+        run: |
+          Rscript -e '
+            library(babelquarto)
+            
+            cat("===================================================\n")
+            cat("1. SYSTEM & ENVIRONMENT PATH INFO\n")
+            cat("===================================================\n")
+            cat("getwd():          ", getwd(), "\n")
+            cat("tempdir():        ", tempdir(), "\n")
+            cat("normalizePath(.): ", normalizePath("."), "\n")
+            
+            # Read main book chapters from _quarto.yml
+            quarto_yml <- yaml::read_yaml("_quarto.yml")
+            chapters <- unlist(quarto_yml$book$chapters)
+            # Filter for character qmd entries
+            qmd_chapters <- chapters[is.character(chapters) & grepl("\\.qmd$", chapters)]
+            
+            cat("\nTotal QMD chapters in _quarto.yml:", length(qmd_chapters), "\n")
+            
+            cat("\n===================================================\n")
+            cat("2. INTERNAL FILE EXISTENCE & REGEX RESOLUTION TEST\n")
+            cat("===================================================\n")
+            
+            failed_matches <- 0
+            for (ch in qmd_chapters) {
+              # Standard relative check
+              en_rel <- sub("\\.qmd$", ".en.qmd", ch)
+              
+              # Normalized absolute check
+              ch_abs <- normalizePath(ch, mustWork = FALSE)
+              en_abs <- normalizePath(en_rel, mustWork = FALSE)
+              
+              rel_exists <- file.exists(en_rel)
+              abs_exists <- file.exists(en_abs)
+              
+              if (!rel_exists || !abs_exists) {
+                failed_matches <- failed_matches + 1
+                cat("❌ MISMATCH DETECTED:\n")
+                cat("   Input Chapter: ", ch, "\n")
+                cat("   EN Relative:   ", en_rel, " [file.exists:", rel_exists, "]\n")
+                cat("   EN Absolute:   ", en_abs, " [file.exists:", abs_exists, "]\n")
+              }
+            }
+            
+            if (failed_matches == 0) {
+              cat("✅ All relative and absolute file.exists() checks passed for .en.qmd files.\n")
+            } else {
+              cat("⚠️ Total path lookup failures:", failed_matches, "\n")
+            }
+            
+            cat("\n===================================================\n")
+            cat("3. TESTING BABELQUARTO INTERNAL FUNCTIONS\n")
+            cat("===================================================\n")
+            
+            # Test internal language mapping functions if available
+            if (exists("register_main_language_files", where = asNamespace("babelquarto"))) {
+              reg_fn <- get("register_main_language_files", envir = asNamespace("babelquarto"))
+              cat("Tracing register_main_language_files():\n")
+              tryCatch({
+                res <- reg_fn(parent_dir = ".", main_language = "zh-hant")
+                cat("Registered files result count:", length(res), "\n")
+                print(head(res, 10))
+              }, error = function(e) {
+                cat("Error executing register_main_language_files:", e$message, "\n")
+              })
+            }
+            
+            cat("\n===================================================\n")
+            cat("4. CHECKING TEMPORARY DIRECTORY & SYMLINK BEHAVIOR\n")
+            cat("===================================================\n")
+            tmp_proj <- file.path(tempdir(), "babelquarto_test")
+            dir.create(tmp_proj, showWarnings = FALSE)
+            
+            cat("Original WD real path: ", system2("realpath", getwd(), stdout = TRUE), "\n")
+            cat("Temp Dir real path:    ", system2("realpath", tempdir(), stdout = TRUE), "\n")
+            
+            # Test relative path calculation across tempdir boundary
+            rel_to_temp <- utils::shortPathName(getwd()) # Checks OS path translation
+            cat("Short/Cleaned path:    ", rel_to_temp, "\n")
+          '
       # 7. Upload Pages Artifact
       - name: Upload pages artifact
         uses: actions/upload-pages-artifact@v3
