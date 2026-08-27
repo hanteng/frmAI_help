@@ -45,10 +45,6 @@ jobs:
             github::ropensci-review-tools/babelquarto
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
-      - name: Print Quarto Path and Version
-        run: |
-          quarto --version
-          which quarto
       - name: Verify Versions
         run: |
           quarto --version

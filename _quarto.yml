@@ -156,6 +156,7 @@ babelquarto:
       text: "繁體中文"
     - name: en
       text: "English"
+  render_missing: false  # <--- CRITICAL: Prevents babelquarto from queuing main Chinese files in English pass
 
 lang: zh-hant
 language: _language-zh-hant.yml 
