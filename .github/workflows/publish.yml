@@ -43,12 +43,8 @@ jobs:
             any::babelquarto
           packages: |
             github::ropensci-review-tools/babelquarto
-            
-      # Pin Quarto CLI to match your local 1.9.36 version
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
-        with:
-          version: "1.9.36"
       - name: Print Quarto Path and Version
         run: |
           quarto --version
