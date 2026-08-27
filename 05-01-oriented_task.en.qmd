@@ -36,14 +36,14 @@ This page is not yet fully translated into English. Below is the original conten
 :::
 # ☸任務導向型🎯 {#sec-oriented-task}
 
-`任務導向 AI`（Task-oriented AI）強調以 [**任務分解**](08-06-robot_tasks_and_goals.qmd)、與**工作流程** 為核心，將 AI 系統「完成任務」確定輸入與輸出。此導向關注的是技術**能做什麼**，通常在事先規劃好的範疇內高效率地完成具體任務，例如**機器流程自動化**（Robotic Process Automation, RPA）或**特定領域的機器人系統**。
+`任務導向 AI`（Task-oriented AI）強調以 [**任務分解**](08-06-robot_tasks_and_goals.en.qmd)、與**工作流程** 為核心，將 AI 系統「完成任務」確定輸入與輸出。此導向關注的是技術**能做什麼**，通常在事先規劃好的範疇內高效率地完成具體任務，例如**機器流程自動化**（Robotic Process Automation, RPA）或**特定領域的機器人系統**。
 
 在 **AI 導向**分類中，任務導向型強調「**高效執行者**」—— 透過精確的任務分解、優化與結果整合，來實現高效率的決策與行動。
 
 `任務導向 AI` 著重於**可靠性**、**重複性**與**精確度**，並常與下列 AI 技術緊密結合，將任務導向的決策轉化為數位或真實世界的操作：
 
 * 數位 **工作流程自動化**（workflow automation）與 **任務編排**（task orchestration）：如 Github Actions、n8n 的數位平台，是非具身的任務導向 AI 範例，負責將明確定義的任務流程自動化執行，並確保結果一致與可追溯。  
-* **[具身 AI](08----embodied_ai.qmd)**（Embodied AI）：融合感知與行動，直接在物理世界中與環境互動。  
+* **[具身 AI](08----embodied_ai.en.qmd)**（Embodied AI）：融合感知與行動，直接在物理世界中與環境互動。  
 * **物理 AI**（Physical AI）：部署於具體硬體（如機械手臂、移動平台）上的 AI 系統，將任務導向的決策轉化為實體操作。  
 
 ***
@@ -144,7 +144,7 @@ This page is not yet fully translated into English. Below is the original conten
 - **🌟 2025年代表案例 — 多模態任務導向與物理 AI**：結合文字、語音與圖像的多模態任務導向型助理開始普及。這些助理能理解混合輸入並執行複雜任務，例如「幫我訂這家餐廳（用戶提供照片）下週五晚上的位子」。在物理世界中，Boston Dynamics 的 **Stretch** 搭載 AI 貨物識別與動態規劃模組，可在物流倉儲中自主調整抓取順序以應對臨時變動；同時，Amazon Robotics 將任務導向 AI 與具身 AI 融合，使機器人能安全地與人類協作完成分揀與搬運。
 
 
-✨ **總結**： 可見的未來，`任務導向 AI` 將不再只是單純的文字或語音助手，而是能夠理解複雜情境、調用多樣工具、並與人類無縫協作的**[智能體](05-03-oriented_agent.qmd)**助理。其應用範疇正從數位領域拓展至物理世界，成為 **數位—物理融合智能** 的重要基石。
+✨ **總結**： 可見的未來，`任務導向 AI` 將不再只是單純的文字或語音助手，而是能夠理解複雜情境、調用多樣工具、並與人類無縫協作的**[智能體](05-03-oriented_agent.en.qmd)**助理。其應用範疇正從數位領域拓展至物理世界，成為 **數位—物理融合智能** 的重要基石。
 
 ***
 
@@ -179,7 +179,7 @@ This page is not yet fully translated into English. Below is the original conten
 - **🏭 佈署條件**：適合在可控、半結構化或全結構化的作業環境中部署，並可依需求擴展到物理空間。    
 - **🔄 常見補強方法**：採用 **少樣本學習（Few-shot Learning）** 來快速適應新任務；使用 **提示工程** 來微調大型語言模型的行為；部署 **工具調用與函數調用** 功能來擴展任務能力；並透過 **用戶反饋** 持續優化對話流程。同時可與決策導向或知識導向 AI 結合，使任務執行具備情境推理、異常處理與最佳化能力。    
 
-總之，`任務導向 AI` 的設計與部署不僅要仰賴模型與演算法，更需要對 **外部目標的定義** 與 **流程管理** 進行全面規劃。它的強項在於 **執行效率、準確性與工具整合**，但其「目標」始終是外部賦予或缺席，這正是它與 **[智能體導向](05-03-oriented_agent.qmd)** AI 的根本差異。
+總之，`任務導向 AI` 的設計與部署不僅要仰賴模型與演算法，更需要對 **外部目標的定義** 與 **流程管理** 進行全面規劃。它的強項在於 **執行效率、準確性與工具整合**，但其「目標」始終是外部賦予或缺席，這正是它與 **[智能體導向](05-03-oriented_agent.en.qmd)** AI 的根本差異。
 
 ***
 
@@ -188,23 +188,23 @@ This page is not yet fully translated into English. Below is the original conten
 瞭解基於 **任務分解** 工作流框架、強調「**任務完成效率**」效能，追求 **明確輸入—輸出對應** 與 **可操作性** 的 `任務導向 AI` 後，讀者可以繼續：
 
 - ⇆🚥對比：
-<!--	* **5.1** ☸🎯 **[任務導向型](05-01-oriented_task.qmd)**-->
-	* **5.2** ☸🛠 **[工具導向](05-02-oriented_tool.qmd)**
-	* **5.3** ☸🤖 **[智能體／代理人導向](05-03-oriented_agent.qmd)**
-	* **5.4** ☸🤝 **[協作導向／以人為本導向](05-04-oriented_collaborative.qmd)**
-	* **5.5** ☸⚖️ **[治理導向](05-05-oriented_governance.qmd)**
-* ⮤🚦探究 [第壹篇 ㉄](01----problematics.qmd)　AI 問題意識
-	* **1.3** 🔤⚓ [符碼紮根問題](01-03-Symbol_Grounding_Problem.qmd)
-	* **1.4** 🖼️⏱️ [框架問題](01-04-Frame_Problem.qmd)
-	* **1.6** 🎯🛡️ [對齊與控制問題](01-06-Alignment_Control_Problem.qmd)
-	* **1.7** 🗫🎲 [語言賽局](01-07-Language_Games.qmd)
-* ⮦🚦探究[第捌篇 🦾](08----embodied_ai.qmd)　「具身派」AI：
-	* **8.1** 🦾🎬🔋 [機器人學與實體驅動](08-01-robotics_and_physical_actuation.qmd)
-	* **8.6** 🦾🧭🎯 [任務與目標規劃](08-06-robot_tasks_and_goals.qmd)
-* ⮦✨應用啟發 [第拾篇 🌉](10----ai_engineering.qmd)　AI工程：
-	* **10.1** 🌉🔗🌐 [API與MCP](10-01-API_MCP.qmd)
-	* **10.3** 🌉❔📌 [提示工程](10-03-prompt_engineering.qmd)
-	* **10.6** 🎁🌱🚀 [AI 產品經理](10-06-AI_PM.qmd)
+<!--	* **5.1** ☸🎯 **[任務導向型](05-01-oriented_task.en.qmd)**-->
+	* **5.2** ☸🛠 **[工具導向](05-02-oriented_tool.en.qmd)**
+	* **5.3** ☸🤖 **[智能體／代理人導向](05-03-oriented_agent.en.qmd)**
+	* **5.4** ☸🤝 **[協作導向／以人為本導向](05-04-oriented_collaborative.en.qmd)**
+	* **5.5** ☸⚖️ **[治理導向](05-05-oriented_governance.en.qmd)**
+* ⮤🚦探究 [第壹篇 ㉄](01----problematics.en.qmd)　AI 問題意識
+	* **1.3** 🔤⚓ [符碼紮根問題](01-03-Symbol_Grounding_Problem.en.qmd)
+	* **1.4** 🖼️⏱️ [框架問題](01-04-Frame_Problem.en.qmd)
+	* **1.6** 🎯🛡️ [對齊與控制問題](01-06-Alignment_Control_Problem.en.qmd)
+	* **1.7** 🗫🎲 [語言賽局](01-07-Language_Games.en.qmd)
+* ⮦🚦探究[第捌篇 🦾](08----embodied_ai.en.qmd)　「具身派」AI：
+	* **8.1** 🦾🎬🔋 [機器人學與實體驅動](08-01-robotics_and_physical_actuation.en.qmd)
+	* **8.6** 🦾🧭🎯 [任務與目標規劃](08-06-robot_tasks_and_goals.en.qmd)
+* ⮦✨應用啟發 [第拾篇 🌉](10----ai_engineering.en.qmd)　AI工程：
+	* **10.1** 🌉🔗🌐 [API與MCP](10-01-API_MCP.en.qmd)
+	* **10.3** 🌉❔📌 [提示工程](10-03-prompt_engineering.en.qmd)
+	* **10.6** 🎁🌱🚀 [AI 產品經理](10-06-AI_PM.en.qmd)
 
 
 

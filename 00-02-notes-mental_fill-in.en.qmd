@@ -31,7 +31,7 @@ editor:
 
 These seemingly "common-sense" questions actually involve multiple intertwined cognitive capacities.
 
-Get ready to embark on a journey of cognitive capacities using these primal elements as our guide, and witness how humans naturally perform ❝[Mental Fill-ins](appendix-glossary.qmd#def-mental-fill-in)❞.
+Get ready to embark on a journey of cognitive capacities using these primal elements as our guide, and witness how humans naturally perform ❝[Mental Fill-ins](appendix-glossary.en.qmd#def-mental-fill-in)❞.
 
 ## 💧🔥 About Water and Fire
 
@@ -46,7 +46,7 @@ Furthermore, consider the evolution of human society:
 * 🌊🏗️ The mythological stories and contemporary engineering of **controlling** "water"?
 * 🚂💨 How did the **Industrial Revolution**—literally a technological blend of "water and fire" (steam)—construct modern urban civilization?
 
-Reflect on these questions and take some notes: what kind of ❝[Mental Fill-ins](appendix-glossary.qmd#def-mental-fill-in)❞ can you conjure up as answers?
+Reflect on these questions and take some notes: what kind of ❝[Mental Fill-ins](appendix-glossary.en.qmd#def-mental-fill-in)❞ can you conjure up as answers?
 
 ## 🧠 Cognitive Capacity 🐸🐘🧘
 
@@ -60,7 +60,7 @@ These levels do not operate in isolation; instead, they intertwine into a collab
 
 To analyze and apply these capacities more clearly, we can abstract and categorize them to form a cognitive framework that compares human intelligence with artificial intelligence.
 
-It is precisely these cognitive frameworks that elevate the empirical rules of thumb of ❝[Mental Fill-ins](appendix-glossary.qmd#def-mental-fill-in)❞ into higher-level cognitive capacities.
+It is precisely these cognitive frameworks that elevate the empirical rules of thumb of ❝[Mental Fill-ins](appendix-glossary.en.qmd#def-mental-fill-in)❞ into higher-level cognitive capacities.
 
 ::: {.callout-important #imp-tri-aspect-cognitive title="🧠 ⟨**Tri-Cognitive Model**⟩ " collapse=false open=true } 
 The **cognitive capacity classification** originally integrated in this book provides a refined starting point for classifying noun <<options>>:
@@ -71,14 +71,14 @@ The **cognitive capacity classification** originally integrated in this book pro
 
 Reflecting on human mental activities based on their **processing speed**, **social functions**, and **symbolic capabilities** allows us to distinguish our own cognitive capacities from those of machines.
 
-For details, see **🔖 Appendix** B. 🧠 [Brain: Tri-Cognitive Model Integration](appendix-brain.qmd#sec-tri-aspect-cognitive).
+For details, see **🔖 Appendix** B. 🧠 [Brain: Tri-Cognitive Model Integration](appendix-brain.en.qmd#sec-tri-aspect-cognitive).
 
 ⚡💞☸️
 ::: 
 
 ## 🤯 ❝Mental Fill-ins❞: Cognitive Shortcuts
 
-❝[Mental Fill-ins](appendix-glossary.qmd#def-mental-fill-in)❞ (Mental Fill-in) refers to the human behavior of **automatically filling in complete "plots" or "facts" in the mind using experience and imagination when information is incomplete**.
+❝[Mental Fill-ins](appendix-glossary.en.qmd#def-mental-fill-in)❞ (Mental Fill-in) refers to the human behavior of **automatically filling in complete "plots" or "facts" in the mind using experience and imagination when information is incomplete**.
 
 It manifests in countless daily moments:
 
@@ -86,21 +86,21 @@ It manifests in countless daily moments:
 - 📺 When the news mentions two countries over background music, your emotions overflow: **"Ah, another conflict! One side must have provoked first, forcing the other to retaliate."** "Who is right and who is wrong" is already decided in your mind.    
 - 🎭 When watching a drama at a critical climax, you eagerly anticipate twist after twist: **"This character is definitely going to betray them! No, wait, he's actually an undercover agent! Hold on, is the director going to pull off another twist?"** 
 
-These mental activities of ❝[Mental Fill-ins](appendix-glossary.qmd#def-mental-fill-in)❞ are both our instincts and potential sources of misreading reality. **Emotions**, **stances**, **stories**... anything can be filled in.
+These mental activities of ❝[Mental Fill-ins](appendix-glossary.en.qmd#def-mental-fill-in)❞ are both our instincts and potential sources of misreading reality. **Emotions**, **stances**, **stories**... anything can be filled in.
 
 It is this very mechanism that unlocks the key to understanding and innovating in Artificial Intelligence (AI):
 
-> The instinct for ❝[Mental Fill-ins](appendix-glossary.qmd#def-mental-fill-in)❞ is the human **"cognitive shortcut for actions."** Relying on experience and imagination, we fill in the blanks within incomplete information, sketch out a "fact," and drive ourselves to "take action."
+> The instinct for ❝[Mental Fill-ins](appendix-glossary.en.qmd#def-mental-fill-in)❞ is the human **"cognitive shortcut for actions."** Relying on experience and imagination, we fill in the blanks within incomplete information, sketch out a "fact," and drive ourselves to "take action."
 
 ## 🖼️ Addressing AI Problematics ㉄
 
 By sketching "facts" and driving "actions," this structured view of cognitive capacities regarding "water" and "fire" can be utilized when building artificial intelligence systems to:
 
-* Address the **[Frame Problem](01-04-Frame_Problem.qmd)**:
+* Address the **[Frame Problem](01-04-Frame_Problem.en.qmd)**:
 	* Define "**perception-decision-action**" patterns or modules, such as:
 		* What to do when it's too dark? 🔥
 		* What to do when too thirsty? 💧
-* Address **[Gestalt Psychology](01-05-Gestalt_Psychology.qmd)**:
+* Address **[Gestalt Psychology](01-05-Gestalt_Psychology.en.qmd)**:
 	  Provide cognitive shortcuts and heuristics for "mental fill-ins," such as:
 		* What kind of "mental fill-in" is 🍏🤤 "slaking thirst by thinking of plums"?
 			* —— Triggering physiological responses through imagination and memory to compensate for a lack of current resources.
@@ -108,20 +108,20 @@ By sketching "facts" and driving "actions," this structured view of cognitive ca
 			* —— Inferring an imminent massive disruption from minute signs.
 		* What kind of "mental fill-in" is 🌬️👤 "catching at shadows and chasing the wind"?
 			* —— Constructing elaborate plots and causal relationships out of thin air when information is scarce.
-* Address the **[Symbol Grounding Problem](01-03-Symbol_Grounding_Problem.qmd)**:
+* Address the **[Symbol Grounding Problem](01-03-Symbol_Grounding_Problem.en.qmd)**:
 	* Plan the system's "**information needs and resource allocation**" based on response time scales, such as:
 		* Why and how should combustible resources be allocated to support the "water and fire" mechanism that sparked the 🚂💨 **Industrial Revolution**?	
 		* For 🌡️☁️ **hyperscale data centers**, "water and fire" refers to the balance between **power consumption** (fire) and **cooling systems** (water). How can a data center balance computing power (fire) with cooling (water) needs to plan its **extreme-scale deployment** of computing resources and energy consumption, ensuring stability and sustainability?
-		* For 🏭🤖 [Dark Factories](08----embodied_ai.qmd), "water and fire" denotes the synergy between **automated operations** (flowing continuously like water) and **energy supply** (fire) to achieve a **highly autonomous**, human-free closed-loop production system.
+		* For 🏭🤖 [Dark Factories](08----embodied_ai.en.qmd), "water and fire" denotes the synergy between **automated operations** (flowing continuously like water) and **energy supply** (fire) to achieve a **highly autonomous**, human-free closed-loop production system.
 		* Looking ahead to 🌐 **Embodied AI and Smart Cities**, "water and fire" will extend to the integration of the **energy grid** (fire) and **social infrastructure** (water representing circular resources). How should these resources be collaboratively allocated?
-* Address the **[AI Alignment & Control Problem](01-06-Alignment_Control_Problem.qmd)**:
+* Address the **[AI Alignment & Control Problem](01-06-Alignment_Control_Problem.en.qmd)**:
 	* Design **ethical or behavioral constraints** to maintain controllability and predictability.
 		* 🥸🤖 Can an AI **State Grandmaster** truly audit a nation's **energy mix**, control $CO_{2}$ emissions, and alter the country's destiny?
 		* 🥳👨‍👩‍👧‍👦 Can an AI **Matchmaker** truly transform lives or even alter the birth rate of a nation or a community?
 
-When addressing these [AI Problematics](01----problematics.qmd), issues regarding **temporal and spatial scales**, as well as human **socio-technical** scaling, naturally surface.
+When addressing these [AI Problematics](01----problematics.en.qmd), issues regarding **temporal and spatial scales**, as well as human **socio-technical** scaling, naturally surface.
 
-While human ❝mental fill-in❞ capacity is a useful "cognitive shortcut" that can be polished through experience and learning, the foundational issues of artificial intelligence—such as the **[Frame Problem](01-04-Frame_Problem.qmd)**, **[Gestalt Psychology](01-05-Gestalt_Psychology.qmd)**, and the **[Symbol Grounding Problem](01-03-Symbol_Grounding_Problem.qmd)**—constitute the empirical and engineering discipline focused on understanding and simulating these human "fill-in" experiences.
+While human ❝mental fill-in❞ capacity is a useful "cognitive shortcut" that can be polished through experience and learning, the foundational issues of artificial intelligence—such as the **[Frame Problem](01-04-Frame_Problem.en.qmd)**, **[Gestalt Psychology](01-05-Gestalt_Psychology.en.qmd)**, and the **[Symbol Grounding Problem](01-03-Symbol_Grounding_Problem.en.qmd)**—constitute the empirical and engineering discipline focused on understanding and simulating these human "fill-in" experiences.
 
 ## ㉄ A Problem Set or a Discipline? 🤖
 
@@ -139,13 +139,13 @@ In both academia and industry, AI is simultaneously:
 2. 🧭 A high-risk, **multidisciplinary application** arena spanning a **cross-disciplinary problem set**, similar to nuclear engineering. This highlights that solving AI's critical challenges (cognitive capacity, safety, ethics, regulation) must be a multidisciplinary effort.
 3. 🏗️ The emergence of "**AI Engineering**" reinforces this "cross-disciplinary problem set" view, but shifts the focus to **system reliability** and **operationalization**, requiring a concurrent understanding of how ML models function (data science) and the operational challenges of large-scale software systems (software engineering).
 
-Therefore, this book initiates its journey with [01 ㉄ AI Problematics](01----problematics.qmd).
+Therefore, this book initiates its journey with [01 ㉄ AI Problematics](01----problematics.en.qmd).
 
 ## 🌌 Deconstructing the Book 📑
 
 Before diving into the chapters, this book provides a "deconstruction" guide to help readers understand how to flexibly utilize the entire text.
 
-"Deconstruction" carries a dual meaning here: on one hand, the book serves as a knowledge map that can be oriented and navigated via longitudes and latitudes (the book's 🌌 [Mindmap](appendix-evolving_mindmap.qmd) «AI Knowledge Scaffolding»); on the other hand, the book functions as a reassemblable toolbox. Readers can dismantle and recombine it according to their needs to form their own personal scaffolding for knowledge and action (The 💪 [Action](appendix-action.qmd), 🧠 [Brain](appendix-brain.qmd), and 🪜 [Cognitive Capacity](appendix-cognitive_capacity.qmd) «Knowledge-Action Scaffolding» [Practice Manual](00-03-notes-constructive_fill-in.qmd)).
+"Deconstruction" carries a dual meaning here: on one hand, the book serves as a knowledge map that can be oriented and navigated via longitudes and latitudes (the book's 🌌 [Mindmap](appendix-evolving_mindmap.en.qmd) «AI Knowledge Scaffolding»); on the other hand, the book functions as a reassemblable toolbox. Readers can dismantle and recombine it according to their needs to form their own personal scaffolding for knowledge and action (The 💪 [Action](appendix-action.en.qmd), 🧠 [Brain](appendix-brain.en.qmd), and 🪜 [Cognitive Capacity](appendix-cognitive_capacity.en.qmd) «Knowledge-Action Scaffolding» [Practice Manual](00-03-notes-constructive_fill-in.en.qmd)).
 
 The following "longitudes and latitudes" offer distinct reading and application perspectives.
 
@@ -153,45 +153,45 @@ The following "longitudes and latitudes" offer distinct reading and application 
 
 The 10 **parts** and individual **chapters** of this book are perfectly suited for readers to dismantle and apply.
 
-* **X-Axis (Longitude)**: 《[Analytics & Decisions](06----analytics_decisions.qmd)》<sup>📍[@fig-mindmap-06]</sup>
-	* Features innovative, divergent, and convergent **loops and arcs** that fuse 『**[Generative AI](06-05-analysis_generative.qmd)**』 and 『**[Decision-making Algorithms](06-06-decision_making_algorithm.qmd)**』.
-* **Y-Axis (Latitude)**: Categorized under 《[☸ AI Orientations](05----ai_orientations.qmd)》<sup>📍 [@fig-mindmap-05]</sup>
-	* Includes entry points like 《[AI Problematics](01----problematics.qmd)》<sup>📍[@fig-mindmap-01]</sup>, 《[Schools & Paradigms](02----schools_paradigms.qmd)》<sup>📍 [@fig-mindmap-02]</sup>, etc.
+* **X-Axis (Longitude)**: 《[Analytics & Decisions](06----analytics_decisions.en.qmd)》<sup>📍[@fig-mindmap-06]</sup>
+	* Features innovative, divergent, and convergent **loops and arcs** that fuse 『**[Generative AI](06-05-analysis_generative.en.qmd)**』 and 『**[Decision-making Algorithms](06-06-decision_making_algorithm.en.qmd)**』.
+* **Y-Axis (Latitude)**: Categorized under 《[☸ AI Orientations](05----ai_orientations.en.qmd)》<sup>📍 [@fig-mindmap-05]</sup>
+	* Includes entry points like 《[AI Problematics](01----problematics.en.qmd)》<sup>📍[@fig-mindmap-01]</sup>, 《[Schools & Paradigms](02----schools_paradigms.en.qmd)》<sup>📍 [@fig-mindmap-02]</sup>, etc.
 * **Z+ Axis (Capacity Ladder)**: Charts historical evolution and development, helping readers step up their capacities grade by grade.
 
 :::
 
 ## 🧭 Longitudes and Latitudes 🔗
 
-To quickly master the primary knowledge points of this book, you can start with the 🌌 [Mindmap](appendix-evolving_mindmap.qmd) and map out your coordinates along the vertical axis (the «data-driven decision» process) and the horizontal axis (various problematics, schools, paradigms, orientations, etc.):
+To quickly master the primary knowledge points of this book, you can start with the 🌌 [Mindmap](appendix-evolving_mindmap.en.qmd) and map out your coordinates along the vertical axis (the «data-driven decision» process) and the horizontal axis (various problematics, schools, paradigms, orientations, etc.):
 
-* **X-Axis (Longitude)** ~ Illustrates the «data-driven decision» process, detailed in 《[06 ❖ Analytics & Decisions](06----analytics_decisions.qmd)》<sup>📍[@fig-mindmap-06]</sup>, mapped to ✍️💡 Bloom's 6 Cognitive Capacities:
-	* 🤓📘 From the vast world, perform 『**[Descriptive Analysis](06-04-analysis_descriptive.qmd)**』 to establish a context-bound «**Memory**» of the **present**.
-	* 😷🩺 Within relevant memories, perform 『**[Diagnostic Analysis](06-01-analysis_diagnostic.qmd)**』 to correct fallacies through factor-related «**Understanding**».
-	* 🤠🔮 Among relevant factors, perform 『**[Predictive Analysis](06-02-analysis_predictive.qmd)**』 to aid the «**Application**» of model-based knowledge.
-	* 🧐🧭 Within knowledge models, perform 『**[Prescriptive Analysis](06-03-analysis_prescriptive.qmd)**』 to gauge the «**Evaluation**» and «**Creation**» of system intelligence.
+* **X-Axis (Longitude)** ~ Illustrates the «data-driven decision» process, detailed in 《[06 ❖ Analytics & Decisions](06----analytics_decisions.en.qmd)》<sup>📍[@fig-mindmap-06]</sup>, mapped to ✍️💡 Bloom's 6 Cognitive Capacities:
+	* 🤓📘 From the vast world, perform 『**[Descriptive Analysis](06-04-analysis_descriptive.en.qmd)**』 to establish a context-bound «**Memory**» of the **present**.
+	* 😷🩺 Within relevant memories, perform 『**[Diagnostic Analysis](06-01-analysis_diagnostic.en.qmd)**』 to correct fallacies through factor-related «**Understanding**».
+	* 🤠🔮 Among relevant factors, perform 『**[Predictive Analysis](06-02-analysis_predictive.en.qmd)**』 to aid the «**Application**» of model-based knowledge.
+	* 🧐🧭 Within knowledge models, perform 『**[Prescriptive Analysis](06-03-analysis_prescriptive.en.qmd)**』 to gauge the «**Evaluation**» and «**Creation**» of system intelligence.
 	* Alongside these 4 core pillars of analytics, there are innovative divergent and convergent auxiliary paths:
-		* 🙀🎨 Utilizing collective large models, leverage 『**[Generative AI](06-05-analysis_generative.qmd)**』 to generate a diverse, divergent pool of possible «**Options**».
-		* 😽🪄 Out of these divergent options, utilize 『**[Decision-making Algorithms](06-06-decision_making_algorithm.qmd)**』 to achieve a convergent, autonomous selection for the ultimate «**Choice**».
+		* 🙀🎨 Utilizing collective large models, leverage 『**[Generative AI](06-05-analysis_generative.en.qmd)**』 to generate a diverse, divergent pool of possible «**Options**».
+		* 😽🪄 Out of these divergent options, utilize 『**[Decision-making Algorithms](06-06-decision_making_algorithm.en.qmd)**』 to achieve a convergent, autonomous selection for the ultimate «**Choice**».
 * **Y-Axis (Latitude)** ~ Outlines various problem sets and schools across multiple entry chapters:
-	* 《[01 ㉄ AI Problematics](01----problematics.qmd)》<sup>📍[@fig-mindmap-01]</sup>
-	* 《[05 ☸ AI Orientations](05----ai_orientations.qmd)》 <sup>📍[@fig-mindmap-05]</sup>
-	* 《[02 🎏🏮 Schools & Paradigms](02----schools_paradigms.qmd)》 <sup>📍[@fig-mindmap-02]</sup>
-	* 《[03 🏛️ Symbolic AI](03----symbolic_ai.qmd)》 <sup>📍[@fig-mindmap-03]</sup>
-	* 《[04 🌀 Statistical AI](04----statistical_ai.qmd)》 <sup>📍[@fig-mindmap-04]</sup>
+	* 《[01 ㉄ AI Problematics](01----problematics.en.qmd)》<sup>📍[@fig-mindmap-01]</sup>
+	* 《[05 ☸ AI Orientations](05----ai_orientations.en.qmd)》 <sup>📍[@fig-mindmap-05]</sup>
+	* 《[02 🎏🏮 Schools & Paradigms](02----schools_paradigms.en.qmd)》 <sup>📍[@fig-mindmap-02]</sup>
+	* 《[03 🏛️ Symbolic AI](03----symbolic_ai.en.qmd)》 <sup>📍[@fig-mindmap-03]</sup>
+	* 《[04 🌀 Statistical AI](04----statistical_ai.en.qmd)》 <sup>📍[@fig-mindmap-04]</sup>
 
 The remaining 6 parts cover the following contents:
 
-* 《[07 🏆 Game AI](07----game_ai.qmd)》 <sup>📍[@fig-mindmap-07]</sup>
-* 《[08 🦾 Embodied AI](08----embodied_ai.qmd)》 <sup>📍[@fig-mindmap-08]</sup>
-* 《[09 📐 Maths for AI](09----ai_math.qmd)》 <sup>📍[@fig-mindmap-09]</sup>
-* 《[10 🌉 AI Engineering](10----ai_engineering.qmd)》 <sup>📍[@fig-mindmap-10]</sup>
+* 《[07 🏆 Game AI](07----game_ai.en.qmd)》 <sup>📍[@fig-mindmap-07]</sup>
+* 《[08 🦾 Embodied AI](08----embodied_ai.en.qmd)》 <sup>📍[@fig-mindmap-08]</sup>
+* 《[09 📐 Maths for AI](09----ai_math.en.qmd)》 <sup>📍[@fig-mindmap-09]</sup>
+* 《[10 🌉 AI Engineering](10----ai_engineering.en.qmd)》 <sup>📍[@fig-mindmap-10]</sup>
 
-In short, the book's 🌌 [Mindmap](appendix-evolving_mindmap.qmd) and 📖 [Table of Contents](toc.qmd) serve as an initial draft of the «AI Knowledge Scaffolding» designed by the author to help readers rapidly grasp their learning direction.
+In short, the book's 🌌 [Mindmap](appendix-evolving_mindmap.en.qmd) and 📖 [Table of Contents](toc.en.qmd) serve as an initial draft of the «AI Knowledge Scaffolding» designed by the author to help readers rapidly grasp their learning direction.
 
 ::: {.callout-important #imp-mindmap-fill-in title="🧭 Mindmap Navigation and Interactive Features" }
 
-The book's 🌌 [Mindmap](appendix-evolving_mindmap.qmd) condenses complex knowledge into a neat grid. It not only 🧭 **navigates** the process of intelligent generation but also helps distinguish different technologies and application scenarios:
+The book's 🌌 [Mindmap](appendix-evolving_mindmap.en.qmd) condenses complex knowledge into a neat grid. It not only 🧭 **navigates** the process of intelligent generation but also helps distinguish different technologies and application scenarios:
 
 * Each knowledge point **node** box contains embedded 🔗 **hyperlinks**, allowing readers to jump, compare, and cross-reference instantly.
 * The connecting **lines** define relationships between knowledge points.
@@ -217,9 +217,9 @@ Equipped with these, readers will carry both a knowledge map and a practice manu
 
 This introduction explains the concept of ❝mental fill-ins❞ and AI, and demonstrates how to navigate this toolbook. Readers can quickly find information using search functions and mindmap browsing; the book's systematic arrangement provides distinct indexical and reference value.
 
-The next section, 📑 Notes 《[❝Constructive Fill-ins❞: Cognitive Unity of Knowledge and Action](00-03-notes-constructive_fill-in.qmd)》, shifts focus to the practice of ❝constructive fill-ins.❞ Once readers deploy their own «**Knowledge-Action Scaffolding**» and map out matrices based on processed «**Options**» and «**Choices**», they will begin constructing their own operational knowledge systems, expanding the boundaries of action and knowledge.
+The next section, 📑 Notes 《[❝Constructive Fill-ins❞: Cognitive Unity of Knowledge and Action](00-03-notes-constructive_fill-in.en.qmd)》, shifts focus to the practice of ❝constructive fill-ins.❞ Once readers deploy their own «**Knowledge-Action Scaffolding**» and map out matrices based on processed «**Options**» and «**Choices**», they will begin constructing their own operational knowledge systems, expanding the boundaries of action and knowledge.
 
-If readers are willing to invest more effort, they will find that this book is a highly interconnected system: its structure—consisting of one introduction, one set of notes, and multiple appendices—helps readers explore methodology deeply. The associated appendices on 💪 [Action](appendix-action.qmd), 🧠 [Brain](appendix-brain.qmd), and 🪜 [Cognitive Capacity](appendix-cognitive_capacity.qmd) serve as the author's carefully curated practice manual for your personal «**Knowledge-Action Scaffolding**»!
+If readers are willing to invest more effort, they will find that this book is a highly interconnected system: its structure—consisting of one introduction, one set of notes, and multiple appendices—helps readers explore methodology deeply. The associated appendices on 💪 [Action](appendix-action.en.qmd), 🧠 [Brain](appendix-brain.en.qmd), and 🪜 [Cognitive Capacity](appendix-cognitive_capacity.en.qmd) serve as the author's carefully curated practice manual for your personal «**Knowledge-Action Scaffolding**»!
 
 ::: {.callout-tip #tip-mental-fill-in title="💬 Cognitive Shortcuts Tip: 🌟 TLDR" }
 

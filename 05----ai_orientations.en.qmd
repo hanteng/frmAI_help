@@ -64,7 +64,7 @@ This page is not yet fully translated into English. Below is the original conten
 
 * ☯ 「**導向不唯知姿，亦在無招勝有招。**」〜 智慧不止於 `AI 導向` 的習得與操練，更在於如何面對多變世事，在有限套路中施展無限解方。
 
-參照 **[🔖附錄🌌 心智圖](appendix-evolving_mindmap.qmd)**  
+參照 **[🔖附錄🌌 心智圖](appendix-evolving_mindmap.en.qmd)**  
 ☸☯
 :::
 
@@ -85,11 +85,11 @@ This page is not yet fully translated into English. Below is the original conten
 ::: {.callout-tip #tip-ai-orientations title="☸ AI「5 導向」"}
 ☸ 學會區分 `AI 導向` 的『**啟發式框架**』，有助於選取與整合 AI 系統。本書歸納為五類：
 
-* **5.1** ☸🎯 [任務導向](05-01-oriented_task.qmd)（Task-oriented AI）  
-* **5.2** ☸🛠 [工具導向](05-02-oriented_tool.qmd)（Tool-oriented AI）  
-* **5.3** ☸🤖 [智能體／代理人導向](05-03-oriented_agent.qmd)（Agent-oriented AI）  
-* **5.4** ☸🤝 [協作導向／以人為本導向](05-04-oriented_collaborative.qmd)（Collaborative AI / Human-Centered AI）  
-* **5.5** ☸⚖️ [治理導向](05-05-oriented_governance.qmd)（Governance-oriented AI）  
+* **5.1** ☸🎯 [任務導向](05-01-oriented_task.en.qmd)（Task-oriented AI）  
+* **5.2** ☸🛠 [工具導向](05-02-oriented_tool.en.qmd)（Tool-oriented AI）  
+* **5.3** ☸🤖 [智能體／代理人導向](05-03-oriented_agent.en.qmd)（Agent-oriented AI）  
+* **5.4** ☸🤝 [協作導向／以人為本導向](05-04-oriented_collaborative.en.qmd)（Collaborative AI / Human-Centered AI）  
+* **5.5** ☸⚖️ [治理導向](05-05-oriented_governance.en.qmd)（Governance-oriented AI）  
 
 讀者可依其『**啟發式框架**』（由「意圖」與「預設行動」構成）的差異來加以區分。
 
@@ -126,7 +126,7 @@ This page is not yet fully translated into English. Below is the original conten
 
 「導向」之義，可從「啟發式框架」（Heuristic Framework）一詞拆解理解：
 
-- 🪁 **啟發式**：指『**經驗法則**』或『**簡化策略**』，是一種快速有效、基於經驗的應對方法，雖可能產生偏差，但在實務上極具操作性。例如，[完形心理](01-05-Gestalt_Psychology.qmd) 的快速感知❝腦補❞潛在威脅，或在陌生環境中「多聽少說」，皆屬於繞過**複雜分析**的「認知捷徑」，帶有**特定方向**的考量（如求生存）。  
+- 🪁 **啟發式**：指『**經驗法則**』或『**簡化策略**』，是一種快速有效、基於經驗的應對方法，雖可能產生偏差，但在實務上極具操作性。例如，[完形心理](01-05-Gestalt_Psychology.en.qmd) 的快速感知❝腦補❞潛在威脅，或在陌生環境中「多聽少說」，皆屬於繞過**複雜分析**的「認知捷徑」，帶有**特定方向**的考量（如求生存）。  
 - 🪞 **框架**：指幫助人們看待問題或組織知識的『**丈量觀點**』。例如，「多聽少說」可被理解為「社會和諧」導向，也可同時帶有「避免風險」導向。  
 
 🪁🪞
@@ -266,29 +266,29 @@ This page is not yet fully translated into English. Below is the original conten
 
 ### 🌰 核心條目內容
 
-- **5.1** ☸🎯 **[任務導向型](05-01-oriented_task.qmd)**（Task-oriented AI）
+- **5.1** ☸🎯 **[任務導向型](05-01-oriented_task.en.qmd)**（Task-oriented AI）
 	- **知識姿態**：偏向明確**界線**與**預定義**「單一功能」架構。
 	- **意圖**：實現**專業化**、「狹窄應用」領域的**準確性**、**可靠性**與**可重複性**。
 	- **預設行動**：「流程或規則驅動」部署流程或規則或模型、設計專業化**可預測行為**。
 	- **對比**：☸🛠 工具導向 〜 側重外部工具的「多工具使用」調用與編排。
-- **5.2** ☸🛠 **[工具導向](05-02-oriented_tool.qmd)**（Tool-oriented AI）
+- **5.2** ☸🛠 **[工具導向](05-02-oriented_tool.en.qmd)**（Tool-oriented AI）
 	- **知識姿態**：偏向**編排性**、**模組化**與**外部資源調**用的「多工具使用」模型。
 	- **意圖**：提升**靈活性**、**擴展性**與**跨領域整合**能力。
 	- **預設行動**：「編排」 API 調用、插件系統與工具鏈設計。
 	- **對比**：☸🎯 任務導向 〜 側重「單一功能」的執行，而非多工具的靈活運用。
-- **5.3** ☸🤖 **[智能體／代理人導向](05-03-oriented_agent.qmd)**（Agent-oriented AI）
+- **5.3** ☸🤖 **[智能體／代理人導向](05-03-oriented_agent.en.qmd)**（Agent-oriented AI）
 	- **知識姿態**：偏向**情境感知**、與持續追求「長期目標」的**實體**。
 	- **意圖**：提升**自主性**、環境**適應性**（不是預設「流程或規則」腳本）與多智能體協作。
 	- **預設行動**：「按目標規劃調整路徑」、設計感知與反應**行為機制**、持續性**長期目標**的「反饋迴路」與「目標更新」機制，如 RLHF 等。
 	- **對比**：☸🎯 任務導向 〜 側重「單一功能」最佳化，而非長期目標持續追求。
-- **5.4** ☸🤝 **[協作導向／以人為本導向](05-04-oriented_collaborative.qmd)**（Collaborative AI / Human-Centered AI）
+- **5.4** ☸🤝 **[協作導向／以人為本導向](05-04-oriented_collaborative.en.qmd)**（Collaborative AI / Human-Centered AI）
 	- **知識姿態**：偏向**關係導向**、**多元參與**與**價值對齊**的「參與及協作」模型。
 	- **意圖**：促進信任、**跨領域或角色**的 「協同創作」 或 「人機協作」。
 	- **預設行動**：「建立和發展」人機互動的品質與機制，如設計**協作界面**、建立**共同理解模型**、實踐**多模態溝通**，以及「引入」**可介入**機制，如「人機共決」設計原則，如 **可調整自主性** (adjustable autonomy)、**混合主動式互動** (mixed-initiative interaction)。
 	- **對比**：
 		- ☸⚖️ 治理導向 〜 側重「治理規範及執行」。
 		- ☸🤖 智能體導向 〜 側重「自主行動」。
-- **5.5** ☸⚖️ **[治理導向](05-05-oriented_governance.qmd)**（Governance-oriented AI）
+- **5.5** ☸⚖️ **[治理導向](05-05-oriented_governance.en.qmd)**（Governance-oriented AI）
 	- **知識姿態**：偏向**規範化**、**制度化**與**責任分配**的「治理規範及執行」模型。
 	- **意圖**：提升**可解釋性**、**概念清晰度**或**推理透明度**，以確保「公平、問責與合規」。
 	- **預設行動**：建立「可執行並運營」的**問責體系**、**審計機制**、**倫理準則**與**監管框架**。
@@ -335,12 +335,12 @@ This page is not yet fully translated into English. Below is the original conten
 
 ::: {.callout-note #tip-note-ai-taxonomy title="🔖AI 分類雙維度對照：學界典範🆚業界經驗ℹ"}
 
-`AI 導向` 可以視為 🪜 [知行鷹架](00-03-notes-constructive_fill-in.qmd) 的一種 「**業界經驗法則分類**」維度。讀者可藉此對照 AI 領域的兩種主要分類方法：
+`AI 導向` 可以視為 🪜 [知行鷹架](00-03-notes-constructive_fill-in.en.qmd) 的一種 「**業界經驗法則分類**」維度。讀者可藉此對照 AI 領域的兩種主要分類方法：
 
-* **「學界典範流派分類」**：見 [第貳篇 🎏🏮](02----schools_paradigms.qmd) 流派與主義
-* **「業界經驗法則分類」**：即 [第伍篇 ☸](05----ai_orientations.qmd) 區分 AI 5 大導向
+* **「學界典範流派分類」**：見 [第貳篇 🎏🏮](02----schools_paradigms.en.qmd) 流派與主義
+* **「業界經驗法則分類」**：即 [第伍篇 ☸](05----ai_orientations.en.qmd) 區分 AI 5 大導向
 
-可參照 **[🔖附錄🌌 心智圖](appendix-evolving_mindmap.qmd)**，理解這兩套分類如何銜接 [第壹篇 ㉄](01----problematics.qmd) AI 問題意識。
+可參照 **[🔖附錄🌌 心智圖](appendix-evolving_mindmap.en.qmd)**，理解這兩套分類如何銜接 [第壹篇 ㉄](01----problematics.en.qmd) AI 問題意識。
 
 🪜🆚🔖
 :::

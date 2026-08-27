@@ -99,4 +99,4 @@ OpenAI Five 的案例，展示了 AI 在複雜**多智能體**和**非完全資�
 
 ## 👉 下一部分
 
-在理解 **[OpenAI Five](07-05-openai_five.qmd)** 在複雜團隊博弈中的啟發後，接下來探討 **[狼人殺 AI](07-06-werewolf_ai.qmd)** 在涉及**推理**與**欺騙**的博弈中的啟發。
+在理解 **[OpenAI Five](07-05-openai_five.en.qmd)** 在複雜團隊博弈中的啟發後，接下來探討 **[狼人殺 AI](07-06-werewolf_ai.en.qmd)** 在涉及**推理**與**欺騙**的博弈中的啟發。

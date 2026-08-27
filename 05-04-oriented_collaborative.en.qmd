@@ -58,7 +58,7 @@ This page is not yet fully translated into English. Below is the original conten
 - 🔍 **可解釋性與可理解性**（Explainability & Interpretability）：提供多層次的解釋，讓不同背景的使用者都能理解。  
 - ♻️ **持續共創與迭代**（Continuous Co-creation）：透過使用者回饋、社群參與與跨域協作持續優化系統。  
 
-**具體對齊與控制**的 `協作導向 AI`，強調的是一種以互動為核心的問題解決方式，這和 [AI 對齊與控制問題](01-06-Alignment_Control_Problem.qmd) 相應，因而和其它導向，特別是治理及自主概念的問題及解決方案，有所區別：
+**具體對齊與控制**的 `協作導向 AI`，強調的是一種以互動為核心的問題解決方式，這和 [AI 對齊與控制問題](01-06-Alignment_Control_Problem.en.qmd) 相應，因而和其它導向，特別是治理及自主概念的問題及解決方案，有所區別：
 
 - ☸⚖️ **治理導向**：治理導向偏重制度化與合規檢核，協作導向則偏重人本互動與採納體驗；兩者需結合，將合規檢查點以低摩擦方式嵌入互動流程，使合規不再成為阻力。  
 - ☸🤖 **智能體導向**：智能體導向強調自主性與策略性，協作導向則要求自治行為能以人本方式呈現，透過解釋性介面與回饋機制，讓使用者能理解並信任自治決策。  
@@ -125,7 +125,7 @@ This page is not yet fully translated into English. Below is the original conten
 - 🛡️ **風險緩解機制**：設置「解釋性閘門」與「人介入節點」，確保誤解或偏差能被即時偵測與修正。  
 - 🔄 **持續迭代**：協作架構需隨使用者需求與社會環境動態調整，避免設計落後於實際需求。  
 
-可以說 `協作導向 AI` 的 **知識姿態** 與「[符碼紮根問題](01-03-Symbol_Grounding_Problem.qmd)」高度相關：**以具體界面與交互設計將用戶體驗紮根於現實世界**。這確保了相關的 **意圖**（如提升信任、促進共創）與 **預設行動**（如即時回饋、透明審計）能在系統中被有效執行與監測，並直接影響 **用戶存留或流失**。
+可以說 `協作導向 AI` 的 **知識姿態** 與「[符碼紮根問題](01-03-Symbol_Grounding_Problem.en.qmd)」高度相關：**以具體界面與交互設計將用戶體驗紮根於現實世界**。這確保了相關的 **意圖**（如提升信任、促進共創）與 **預設行動**（如即時回饋、透明審計）能在系統中被有效執行與監測，並直接影響 **用戶存留或流失**。
 
 `協作導向 AI` 的架構，和以下其它導向對比：
 
@@ -239,7 +239,7 @@ This page is not yet fully translated into English. Below is the original conten
 
 近年更出現由超大型模型供應商向社交平台與應用層延展的趨勢（例如針對社交平台的探索與佈局），使協作導向從介面設計轉向生態系與制度設計，重塑人機協作的角色、責任與信任邏輯。
 
-`協作導向 AI`因此可以說是極具產品設計實踐的「科技預見與社會改變」課題，是[AI 產品經理](10-06-AI_PM.qmd) 及 [AI 工程](10----ai_engineering.qmd)的重大實踐知識領域，也見證以下歷史轉變： 
+`協作導向 AI`因此可以說是極具產品設計實踐的「科技預見與社會改變」課題，是[AI 產品經理](10-06-AI_PM.en.qmd) 及 [AI 工程](10----ai_engineering.en.qmd)的重大實踐知識領域，也見證以下歷史轉變： 
 
 - 👩‍🎨 **設計師角色**：從「介面設計」轉為「生態編排者」，在標準、平台、流程與責任節點上設計協作。
 - 👥 **參與式用戶**：從回饋者轉為共創者與審議節點，負責偏好、倫理與情境約束的共同治理。
@@ -309,17 +309,17 @@ This page is not yet fully translated into English. Below is the original conten
 瞭解基於 **人本互動** 與 **用戶體驗** 框架、強調「**人本採納**」效應，追求 **透明信任** 與 **自願參與** 的 `協作導向 AI` 後，讀者可以繼續：
 
 - ⇆🚥對比：
-    * **5.1** ☸🎯 **[任務導向型](05-01-oriented_task.qmd)**
-    * **5.2** ☸🛠 **[工具導向](05-02-oriented_tool.qmd)**
-    * **5.3** ☸🤖 **[智能體／代理人導向](05-03-oriented_agent.qmd)**
-<!--    * **5.4** ☸🤝 **[協作導向／以人為本導向](05-04-oriented_collaborative.qmd)**-->
-    * **5.5** ☸⚖️ **[治理導向](05-05-oriented_governance.qmd)**
-* ⮤🚦探究 [第壹篇 ㉄](01----problematics.qmd)　AI 問題意識
-    * **1.5** 🎯�️ [對齊與控制問題](01-06-Alignment_Control_Problem.qmd)
-    * **1.7** 🗫🎲 [語言賽局](01-07-Language_Games.qmd)
-* ⮦🚦探究 [第捌篇 🦾](08----embodied_ai.qmd)　「具身派」AI：
-    * **8.4** 🦾🤝💪 [人機互動](08-04-human_robot_interaction.qmd)
-    * **8.5** 🦾🛡️🚨 [機器人安全與穩健性](08-05-robot_safety_and_robustness.qmd)
-* ⮦✨應用啟發 [第拾篇 🌉](10----ai_engineering.qmd)　AI工程：
-    * **10.5** 🌉🪟🧭 [脈絡工程](10-05-context_engineering.qmd)
-    * **10.6** 🎁🌱🚀 [AI 產品經理](10-06-AI_PM.qmd)
+    * **5.1** ☸🎯 **[任務導向型](05-01-oriented_task.en.qmd)**
+    * **5.2** ☸🛠 **[工具導向](05-02-oriented_tool.en.qmd)**
+    * **5.3** ☸🤖 **[智能體／代理人導向](05-03-oriented_agent.en.qmd)**
+<!--    * **5.4** ☸🤝 **[協作導向／以人為本導向](05-04-oriented_collaborative.en.qmd)**-->
+    * **5.5** ☸⚖️ **[治理導向](05-05-oriented_governance.en.qmd)**
+* ⮤🚦探究 [第壹篇 ㉄](01----problematics.en.qmd)　AI 問題意識
+    * **1.5** 🎯�️ [對齊與控制問題](01-06-Alignment_Control_Problem.en.qmd)
+    * **1.7** 🗫🎲 [語言賽局](01-07-Language_Games.en.qmd)
+* ⮦🚦探究 [第捌篇 🦾](08----embodied_ai.en.qmd)　「具身派」AI：
+    * **8.4** 🦾🤝💪 [人機互動](08-04-human_robot_interaction.en.qmd)
+    * **8.5** 🦾🛡️🚨 [機器人安全與穩健性](08-05-robot_safety_and_robustness.en.qmd)
+* ⮦✨應用啟發 [第拾篇 🌉](10----ai_engineering.en.qmd)　AI工程：
+    * **10.5** 🌉🪟🧭 [脈絡工程](10-05-context_engineering.en.qmd)
+    * **10.6** 🎁🌱🚀 [AI 產品經理](10-06-AI_PM.en.qmd)

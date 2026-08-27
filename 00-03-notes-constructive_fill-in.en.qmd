@@ -34,7 +34,7 @@ Month after month, these AI interactions and transactions, measured in data and 
 
 These seemingly "everyday" behaviors are, in fact, entangled with the interweaving of multiple "socio-technical systems" — including the accumulation of habits and value judgments that shape a life.
 
-Following on from the ❝[Introduction](00-02-notes-mental_fill-in.qmd)❞, this ❝Note❞ chapter invites readers to reflect together: starting from 2025, how might we foresee our 2035 selves?
+Following on from the ❝[Introduction](00-02-notes-mental_fill-in.en.qmd)❞, this ❝Note❞ chapter invites readers to reflect together: starting from 2025, how might we foresee our 2035 selves?
 
 Imagine how humanity might move from ❝Mental Fill-in❞  (a cognitive shortcut) toward 🙶Constructive Fill-in🙷 (deliberately filling the gaps in life and society, as needed) — and in doing so, build the future.
 
@@ -84,7 +84,7 @@ At the core of "technological foresight" are:
 
 ***
 
-準備好了嗎？在深入探討「思維定勢」與「框智力」之前，不妨先動手做一個小小的科技預見練習——見 🔖附錄A. 💪 [行動](appendix-action.qmd#sec-ai-cost-forecasting-worksheet) 中的《AI 代價與未來生活預見練習》，親手估算一次 AI 問答的能耗代價，並想像自己在 2025、2030、2035 三個時間點的生活樣貌。
+準備好了嗎？在深入探討「思維定勢」與「框智力」之前，不妨先動手做一個小小的科技預見練習——見 🔖附錄A. 💪 [行動](appendix-action.en.qmd#sec-ai-cost-forecasting-worksheet) 中的《AI 代價與未來生活預見練習》，親手估算一次 AI 問答的能耗代價，並想像自己在 2025、2030、2035 三個時間點的生活樣貌。
 
 ::: {.callout-tip #tip-worksheet-pointer title="🏙 動手練習：AI 代價與未來生活預見" collapse=false open=true }
 
@@ -94,7 +94,7 @@ At the core of "technological foresight" are:
 * 🔮 五個 **AI 未來假說**（對齊崩潰、公共財、帝國、部落化、公用事業）待你檢驗
 * 🏙 一張 **AI 個人生活預見表**，邀你填入自己 2025、2030、2035 的想像
 
-完成後，你會更能體會「被補全」與「自補全」之間的抉擇。詳見 🔖附錄A. 💪 [行動](appendix-action.qmd#sec-ai-cost-forecasting-worksheet)。
+完成後，你會更能體會「被補全」與「自補全」之間的抉擇。詳見 🔖附錄A. 💪 [行動](appendix-action.en.qmd#sec-ai-cost-forecasting-worksheet)。
 
 :::
 
@@ -102,21 +102,21 @@ At the core of "technological foresight" are:
 
 本書自始即定位為工具書，不在於宣揚哪個世界更好、哪個目標更妙，而在於提供一套可用的工具，讓讀者在設計或使用智能系統、安排自己與智能社會的關係時，能有所依循。
 
-❝[腦補](appendix-glossary.qmd#def-mental-fill-in)❞ 與 🙶補全🙷 之間，其實還有「**思維定勢**」或譯「**心理定勢**」（mental set）的概念。它指人類在解題或思考時，習慣使用「套路」（即過去成功的方法）來處理新問題。這能快速套用經驗、節省思考成本，但也容易導致「認知僵化」。這種取捨，正與「快思慢想」[@sec-dual-process-theory] 的二元模式相呼應。
+❝[腦補](appendix-glossary.en.qmd#def-mental-fill-in)❞ 與 🙶補全🙷 之間，其實還有「**思維定勢**」或譯「**心理定勢**」（mental set）的概念。它指人類在解題或思考時，習慣使用「套路」（即過去成功的方法）來處理新問題。這能快速套用經驗、節省思考成本，但也容易導致「認知僵化」。這種取捨，正與「快思慢想」[@sec-dual-process-theory] 的二元模式相呼應。
 
-的確 ❝[腦補](appendix-glossary.qmd#def-mental-fill-in)❞ 本能是勾勒出經驗與想像「事實」，驅使我們「行動」的「**知行捷徑**」，這包括演化出來生下來就可能有的 [完形心理](01-05-Gestalt_Psychology.qmd)，也包括後來環境及社會習慣學得的「套路」，或較符合教育或心理學的說法，「經驗法則」（heuristics）。
+的確 ❝[腦補](appendix-glossary.en.qmd#def-mental-fill-in)❞ 本能是勾勒出經驗與想像「事實」，驅使我們「行動」的「**知行捷徑**」，這包括演化出來生下來就可能有的 [完形心理](01-05-Gestalt_Psychology.en.qmd)，也包括後來環境及社會習慣學得的「套路」，或較符合教育或心理學的說法，「經驗法則」（heuristics）。
 
 這些經驗法則的範圍極廣，從古代的甲骨占卜、占星術，到現代的魔術、厚黑學、甚至兩性話術，都帶有人類作為生物本能的 ❝腦補❞ 面向，伴有人類社會學習模仿的「套路」與「**思維定勢**」。「**思維定勢**」可視為「經驗法則」(heuristics) 的一種具體表現。
 
 就連啟蒙及科學理性的前期基礎，似乎脫離不了「經驗法則」的捷徑省腦思維。（當然，如可證偽、理論建構、等等更具有打破「套路」的嚴謹科學或哲學方法等等，是想超越「快思捷想」的侷限。）
 
-所以這本工具書的目標就能比較清楚且謙和的說明：介紹 AI 如何建構出不同的❝[腦補](appendix-glossary.qmd#def-mental-fill-in)❞套路，以及說明幾種較具科學或實踐意義的「經驗法則」，在這一點上可能和占星、魔術、厚黑、把妹等等書籍差不多。差比較多的可能是說破這些「套路」的同時，突出其本質上要應對的 [AI 問題意識](01----problematics.qmd)，這樣子就把改變及創新的責任又交還給讀者。
+所以這本工具書的目標就能比較清楚且謙和的說明：介紹 AI 如何建構出不同的❝[腦補](appendix-glossary.en.qmd#def-mental-fill-in)❞套路，以及說明幾種較具科學或實踐意義的「經驗法則」，在這一點上可能和占星、魔術、厚黑、把妹等等書籍差不多。差比較多的可能是說破這些「套路」的同時，突出其本質上要應對的 [AI 問題意識](01----problematics.en.qmd)，這樣子就把改變及創新的責任又交還給讀者。
 
 換句話說，這本書不像套路書籍，不蛇油化或萬金油化 AI 。（這也說明，我為什麼每次聽到某專業院長說自己的專業是「萬金油專業」時，會不舒服。）
 
 從中文日常語言的「套路」，可以連結到許多知識的習慣，如「**SOP**」（強調某組織或文化已訂的標準化或制式化流程）、**老梗**（強調缺乏創意或了無新意）、**話術**（強調語言上的技巧與欺騙性）等等，這佐證了「知行合一」的初階或表面形式。
 
-如此，讀者即可較容易理解 [框架問題](01-04-Frame_Problem.qmd) 為何是 AI 問題意識的核心「套路」問題，而 [符碼紮根問題](01-03-Symbol_Grounding_Problem.qmd) 為何可以看成某一「套路」在某一場景的有效性檢驗問題。
+如此，讀者即可較容易理解 [框架問題](01-04-Frame_Problem.en.qmd) 為何是 AI 問題意識的核心「套路」問題，而 [符碼紮根問題](01-03-Symbol_Grounding_Problem.en.qmd) 為何可以看成某一「套路」在某一場景的有效性檢驗問題。
 
 - **心理定勢**：人類的「思考慣性」，會限制我們在解題時的靈活度。
 - **框架問題**：「資訊過載或不足」的問題，AI 必須決定哪些因素要納入推理，若不加限制，會陷入「無窮考慮」，若過度簡化，又可能忽略關鍵因素。
@@ -139,7 +139,7 @@ At the core of "technological foresight" are:
 
 > **框智力**：指在大千世局中，如何依**脈絡**情境，「謀**定**而後**動**」。
 
-它呼應了[第壹篇](01----problematics.qmd) [@#nte-problematics]中的核心議題：
+它呼應了[第壹篇](01----problematics.en.qmd) [@#nte-problematics]中的核心議題：
 
 - **脈絡**  
 	- 👁️⯊ **[@sec-gestalt-psychology]**  
@@ -178,7 +178,7 @@ At the core of "technological foresight" are:
 
 **框智力**讓**選項**更清晰，為**選擇**做好準備。  
 
-**擇**其所需、**取**其所長，既能渡己，亦能渡人。更多詳見 🔖附錄A. 💪[行動](appendix-action.qmd) [@imp-aqal-4-quadrants]。  
+**擇**其所需、**取**其所長，既能渡己，亦能渡人。更多詳見 🔖附錄A. 💪[行動](appendix-action.en.qmd) [@imp-aqal-4-quadrants]。  
 
 ::: {.callout-important #imp-frame-set title="💪🦾 框智力🖼️ " collapse=false open=true } 
 
@@ -195,7 +195,7 @@ At the core of "technological foresight" are:
   - **動**  
     - 🎯🛡️ **[@sec-alignment-control-problem]**  
 
-更多詳見 🔖附錄A. 💪[行動](appendix-action.qmd) [@imp-aqal-4-quadrants]。  
+更多詳見 🔖附錄A. 💪[行動](appendix-action.en.qmd) [@imp-aqal-4-quadrants]。  
 
 💡 結合「**如何思考自己與世界**」與「**在何種脈絡下思考**」，構建全景式行動框架。  
 
@@ -261,9 +261,9 @@ Beer 巧妙地以人類的神經解剖學（Neuroanatomy）作為原型，主張
 
 ::: {.callout-note #nte-next-steps title="🔗 延伸閱讀與練習" collapse=false open=true }
 
-* 🏙 **動手練習**：還沒做過本章開頭提到的《AI 代價與未來生活預見練習》嗎？見 🔖附錄A. 💪 [行動](appendix-action.qmd#sec-ai-cost-forecasting-worksheet)。
-* 🔖 **AI 分類對照**：想知道「AI 導向」與「流派主義」這兩套分類法如何銜接 [第壹篇 ㉄](01----problematics.qmd) AI 問題意識嗎？見 🔖附錄🌌 [心智圖](appendix-evolving_mindmap.qmd#sec-ai-taxonomy-comparison)。
-<!--* 🙈 **創作示範**：想看看「補全」落實在文學創作上的示範嗎？見 🔖 [大聖歸來：仿葉慈新詩](appendix-poem.qmd)，一首以《西遊記》意象改寫葉慈《二度降臨》的中文新詩。-->
+* 🏙 **動手練習**：還沒做過本章開頭提到的《AI 代價與未來生活預見練習》嗎？見 🔖附錄A. 💪 [行動](appendix-action.en.qmd#sec-ai-cost-forecasting-worksheet)。
+* 🔖 **AI 分類對照**：想知道「AI 導向」與「流派主義」這兩套分類法如何銜接 [第壹篇 ㉄](01----problematics.en.qmd) AI 問題意識嗎？見 🔖附錄🌌 [心智圖](appendix-evolving_mindmap.en.qmd#sec-ai-taxonomy-comparison)。
+<!--* 🙈 **創作示範**：想看看「補全」落實在文學創作上的示範嗎？見 🔖 [大聖歸來：仿葉慈新詩](appendix-poem.en.qmd)，一首以《西遊記》意象改寫葉慈《二度降臨》的中文新詩。-->
 * 🌐🦾 **組織與治理對照**：想更深入理解「框智力」如何對應管理學「動態能力」（Teece）與政治學「模控治理」（Deutsch、Beer）嗎？見本章「🌐🦾 框智力放大：組織的動態能力與模控治理」一節。
 
 :::
