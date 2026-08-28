@@ -47,7 +47,7 @@ jobs:
           packages: |
             github::${{ env.BABELQUARTO_REPO }}
 
-      - name: Force Install Patched babelquarto Fork
+      - name: Install and Verify Patched babelquarto Fork
         run: |
           Rscript -e '
             pak::pkg_install("hanteng/babelquarto@main", ask = FALSE)
