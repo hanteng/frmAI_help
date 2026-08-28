@@ -16,7 +16,7 @@ concurrency:
 
 env:
   # Toggle between your fork and upstream here:
-  BABELQUARTO_REPO: "hanteng/babelquarto@backup-previous-patch"  # <-- FORK (or branch)
+  BABELQUARTO_REPO: "hanteng/babelquarto"  # <-- FORK (or branch)
   #BABELQUARTO_REPO: "ropensci-review-tools/babelquarto"                     # <-- UPSTREAM ORIGINAL
 
 jobs:
