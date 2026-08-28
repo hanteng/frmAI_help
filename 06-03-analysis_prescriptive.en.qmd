@@ -31,7 +31,7 @@ This page is not yet fully translated into English. Below is the original conten
 
 > ❖ 🧭 `指導型分析`如何將分析洞察**轉化為**可落地的最佳行動方案，並確保與**價值對齊**？
 
-`指導型分析`（Prescriptive Analysis）的目的在回答「**我們該怎麼做？**」。它承接預測型分析的結果，結合**最佳化演算法**、**情境規劃**與**模擬技術**，生成**可執行的策略與行動方案**（通常包括資源配置與操作規則等）。它運用**最佳化**、**模擬**與**決策演算法**等技術，幫助決策者在多個可能的選擇中，找到能夠達成特定目標的最佳路徑。這一階段不僅是技術運算，更涉及價值判斷與多方協調，確保方案在現實中確保決策的即時性與可行性，且與長期目標對齊。這對映到 AI 的[對齊與控制問題](01-06-Alignment_Control_Problem.en.qmd)問題、[完形心理](01-05-Gestalt_Psychology.en.qmd)等[賽局](01-07-Language_Games.en.qmd)，以確保指導型分析在AI應用時能確保決策與行動與組織價值對齊。
+`指導型分析`（Prescriptive Analysis）的目的在回答「**我們該怎麼做？**」。它承接預測型分析的結果，結合**最佳化演算法**、**情境規劃**與**模擬技術**，生成**可執行的策略與行動方案**（通常包括資源配置與操作規則等）。它運用**最佳化**、**模擬**與**決策演算法**等技術，幫助決策者在多個可能的選擇中，找到能夠達成特定目標的最佳路徑。這一階段不僅是技術運算，更涉及價值判斷與多方協調，確保方案在現實中確保決策的即時性與可行性，且與長期目標對齊。這對映到 AI 的[對齊與控制問題](01-06-Alignment_Control_Problem.qmd)問題、[完形心理](01-05-Gestalt_Psychology.qmd)等[賽局](01-07-Language_Games.qmd)，以確保指導型分析在AI應用時能確保決策與行動與組織價值對齊。
 
 在 AI 與自動化工具的加持下，`指導型分析`不再只是靜態建議清單，而是能即時更新、動態調整，並結合 **生成式 AI** 與 **決策演算法**，形成「**策略生成與執行層**」，確保策略在不同情境下保持高效與適應性。
 
@@ -42,7 +42,7 @@ This page is not yet fully translated into English. Below is the original conten
 🧭 **策略落地器（行動羅盤）**：`指導型分析`將預測與目標轉化為可執行的行動方案，並在執行中持續優化。
 
 - 回答「我們該怎麼做？」——它位於**描述 ⮫ 診斷 ⮫ 預測 ⮫ 指導** 數據分析價值鏈的第 4 階段，收斂前面各階段的洞察。    
-- 映到 AI 的[對齊與控制問題](01-06-Alignment_Control_Problem.en.qmd)問題、[完形心理](01-05-Gestalt_Psychology.en.qmd)等[賽局](01-07-Language_Games.en.qmd)博弈模擬。    
+- 映到 AI 的[對齊與控制問題](01-06-Alignment_Control_Problem.qmd)問題、[完形心理](01-05-Gestalt_Psychology.qmd)等[賽局](01-07-Language_Games.qmd)博弈模擬。    
 - 結合**生成式 AI** 與 **決策演算法**，形成動態的「**策略生成與執行層**」：    
     - **生成式 AI** 可生成行動藍圖與情境化 SOP。        
     - **決策演算法** 可將策略轉化為可執行的流程並動態調整。 
@@ -67,7 +67,7 @@ This page is not yet fully translated into English. Below is the original conten
 
 例如，一家零售商在得知某產品需求將增加（預測型分析）後，指導型分析會建議**最優的進貨量、庫存配置與定價策略**，以最大化利潤並同時避免缺貨。
 
-與 **[布魯姆分類學](appendix-action.en.qmd)** 的**創造**（Create）與**評估**（Evaluate）認知能力對應，`指導型分析`將解釋與預測整合為新的解決方案與可操作設計，驅動行動落地。
+與 **[布魯姆分類學](appendix-action.qmd)** 的**創造**（Create）與**評估**（Evaluate）認知能力對應，`指導型分析`將解釋與預測整合為新的解決方案與可操作設計，驅動行動落地。
 
 ### 🧐🧭 功能與目的
 
@@ -177,29 +177,29 @@ This page is not yet fully translated into English. Below is the original conten
 
 ## 👉 接下來
 
-- 決策鏈回顧（ **[描述型](06-04-analysis_descriptive.en.qmd) ⮫ [診斷型](06-01-analysis_diagnostic.en.qmd) ⮫ [預測型](06-02-analysis_predictive.en.qmd) ⮫ `指導型`** ）
+- 決策鏈回顧（ **[描述型](06-04-analysis_descriptive.qmd) ⮫ [診斷型](06-01-analysis_diagnostic.qmd) ⮫ [預測型](06-02-analysis_predictive.qmd) ⮫ `指導型`** ）
 - 深究：  
-  - 🟣🙀🎨 [生成式 AI](06-05-analysis_generative.en.qmd)  
-  - 🔁😽🪄 [決策演算法](06-06-decision_making_algorithm.en.qmd)  
+  - 🟣🙀🎨 [生成式 AI](06-05-analysis_generative.qmd)  
+  - 🔁😽🪄 [決策演算法](06-06-decision_making_algorithm.qmd)  
 
 ***
 
 ## 🪸 請參閱
 
-參照 **[🔖附錄🌌 心智圖](appendix-evolving_mindmap.en.qmd)**，將`指導型分析`與下述概念對比，檢視其是否可歸類到「指導行動」的範疇：
+參照 **[🔖附錄🌌 心智圖](appendix-evolving_mindmap.qmd)**，將`指導型分析`與下述概念對比，檢視其是否可歸類到「指導行動」的範疇：
 
-- [第參篇 🏛️](03----symbolic_ai.en.qmd)　「符號流」AI（Symbolic AI）  
-	- **3.3** 🏛️🎁🧠 [專家系統](03-03-expert_systems.en.qmd)（Expert Systems）
-- [第肆篇 🌀](04----statistical_ai.en.qmd)　「統計流」AI（Statistical AI）  
-	- **4.3** 🌀🪢🧠 [神經網路](04-03-neural_networks.en.qmd)（Neural Networks） 
-* [第柒篇 🏆](07----game_ai.en.qmd)　「博弈派」AI（Game AI）
-	* **7.6** 🏆🐺🧑‍🌾 [狼人殺 AI](07-06-werewolf_ai.en.qmd)（Werewolf AI）  
-	* **7.7** 🏆🪖⚔️ [複雜戰略模擬](07-07-complex_strategic_simulation.en.qmd)（Battlefield Simulation）
-* [第捌篇 🦾](08----embodied_ai.en.qmd)　「具身派」AI（Embodied AI）
-	* **8.5** 🦾🛡️🚨 [機器人安全與穩健性](08-05-robot_safety_and_robustness.en.qmd)（Robot Safety & Robustness）
-	* **8.6** 🦾🧭🎯 [任務與目標規劃](08-06-robot_tasks_and_goals.en.qmd)（Task & Goal Planning）
-* [第拾篇 🌉](10----ai_engineering.en.qmd)　AI工程（AI Engineering）
-	* **10.2** 🌉🤖🚨 [智能體可靠性與評估](10-02-agent_reliability_evaluation.en.qmd)（Agent Reliability & Evaluation）
-	* **10.5** 🌉🪟🧭 [脈絡工程](10-05-context_engineering.en.qmd)（Context Engineering） 
-	* **10.6** 🎁🌱🚀 [AI 產品經理](10-06-AI_PM.en.qmd)（AI Product Management）
+- [第參篇 🏛️](03----symbolic_ai.qmd)　「符號流」AI（Symbolic AI）  
+	- **3.3** 🏛️🎁🧠 [專家系統](03-03-expert_systems.qmd)（Expert Systems）
+- [第肆篇 🌀](04----statistical_ai.qmd)　「統計流」AI（Statistical AI）  
+	- **4.3** 🌀🪢🧠 [神經網路](04-03-neural_networks.qmd)（Neural Networks） 
+* [第柒篇 🏆](07----game_ai.qmd)　「博弈派」AI（Game AI）
+	* **7.6** 🏆🐺🧑‍🌾 [狼人殺 AI](07-06-werewolf_ai.qmd)（Werewolf AI）  
+	* **7.7** 🏆🪖⚔️ [複雜戰略模擬](07-07-complex_strategic_simulation.qmd)（Battlefield Simulation）
+* [第捌篇 🦾](08----embodied_ai.qmd)　「具身派」AI（Embodied AI）
+	* **8.5** 🦾🛡️🚨 [機器人安全與穩健性](08-05-robot_safety_and_robustness.qmd)（Robot Safety & Robustness）
+	* **8.6** 🦾🧭🎯 [任務與目標規劃](08-06-robot_tasks_and_goals.qmd)（Task & Goal Planning）
+* [第拾篇 🌉](10----ai_engineering.qmd)　AI工程（AI Engineering）
+	* **10.2** 🌉🤖🚨 [智能體可靠性與評估](10-02-agent_reliability_evaluation.qmd)（Agent Reliability & Evaluation）
+	* **10.5** 🌉🪟🧭 [脈絡工程](10-05-context_engineering.qmd)（Context Engineering） 
+	* **10.6** 🎁🌱🚀 [AI 產品經理](10-06-AI_PM.qmd)（AI Product Management）
 

@@ -49,7 +49,7 @@ This page is not yet fully translated into English. Below is the original conten
 
 ## ✅ 克服難點方式
 
-要讓 AI 玩狼人殺，需要結合 **[邏輯推理](03-01-formal_logic.en.qmd)** 與 **[深度學習](04-03-neural_networks.en.qmd)**，讓 AI 不僅會算，更會「演」。
+要讓 AI 玩狼人殺，需要結合 **[邏輯推理](03-01-formal_logic.qmd)** 與 **[深度學習](04-03-neural_networks.qmd)**，讓 AI 不僅會算，更會「演」。
 
 1.  **語言理解與情勢分析 (NLP)**：
     * AI 透過 **自然語言處理 (NLP)** 技術，將每個玩家的發言轉化為可分析的數據。它評估發言的**可信度**、邏輯連貫性，並分析矛盾點，從而動態調整對其他玩家身份的**機率推論**。
@@ -63,10 +63,10 @@ This page is not yet fully translated into English. Below is the original conten
 
 * **身份機率推論模型**：利用貝氏網絡或深度學習模型，根據每個玩家的發言、投票和行動歷史，實時更新其身份的**機率分佈**，這是所有決策的基礎。
 * **納許均衡與子賽局分析**：使用強化學習來逼近遊戲在特定階段（子賽局）的**近似納許均衡**策略，確保 AI 的行為在理論上具有穩健性。
-* **LLM 融入與角色扮演**：結合 **[大語言模型](02-07-large_language_models.en.qmd)** 來生成流暢、自然且符合**角色設定**（如狼人、預言家）的對話。
+* **LLM 融入與角色扮演**：結合 **[大語言模型](02-07-large_language_models.qmd)** 來生成流暢、自然且符合**角色設定**（如狼人、預言家）的對話。
 * **提示與脈絡工程**：
-    * **[提示工程](10-03-prompt_engineering.en.qmd)**：用於定義 LLM 的身份、目標與個性，確保語言表達服務於遊戲策略。
-    * **[脈絡工程](10-05-context_engineering.en.qmd)**：用於提供 LLM 當前遊戲狀態與所有玩家歷史發言的完整資訊，確保其回應具有情境連貫性。
+    * **[提示工程](10-03-prompt_engineering.qmd)**：用於定義 LLM 的身份、目標與個性，確保語言表達服務於遊戲策略。
+    * **[脈絡工程](10-05-context_engineering.qmd)**：用於提供 LLM 當前遊戲狀態與所有玩家歷史發言的完整資訊，確保其回應具有情境連貫性。
 
 ## 💡 AI 應用啟發
 
@@ -102,4 +102,4 @@ This page is not yet fully translated into English. Below is the original conten
 
 ## 👉 下一部分
 
-在理解 **[狼人殺 AI](07-06-werewolf_ai.en.qmd)** 在推理與欺騙博弈中的啟發後，接下來探討 **[複雜戰略模擬](07-07-complex_strategic_simulation.en.qmd)** 在大型策略決策中的啟發。
+在理解 **[狼人殺 AI](07-06-werewolf_ai.qmd)** 在推理與欺騙博弈中的啟發後，接下來探討 **[複雜戰略模擬](07-07-complex_strategic_simulation.qmd)** 在大型策略決策中的啟發。

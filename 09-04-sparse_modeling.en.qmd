@@ -123,7 +123,7 @@ This page is not yet fully translated into English. Below is the original conten
 - _modelling）是 **[生成式 AI](06-05-analysis_generative.zh-hant)** 與 [大語言模型](02-07-large_language_models.zh-hant)（LLM）開發、調整與部署中的**核心最佳化策略**。稀疏化可降低推理計算量與記憶體帶寬需求，並在不顯著犧牲性能的情況下提升效率。
 
 - 📱 **邊緣端大語言模型**（Edge LLM）：在邊緣設備（Edge Devices，如手機、IoT、車載系統）上，稀疏化可將推理延遲與功耗降至可接受範圍，使 2B 級別模型可即時運行。
-- 🌐 **[大語言模型網組合](04-06-llm_webassembly.en.qmd)**（LLM WebAssembly）：WebAssembly（WASM）是一種可在瀏覽器中高效執行的二進位格式。結合稀疏化與量化，可顯著提升瀏覽器環境下 LLM 的推理速度與響應能力，減少用戶端資源消耗。  
+- 🌐 **[大語言模型網組合](04-06-llm_webassembly.qmd)**（LLM WebAssembly）：WebAssembly（WASM）是一種可在瀏覽器中高效執行的二進位格式。結合稀疏化與量化，可顯著提升瀏覽器環境下 LLM 的推理速度與響應能力，減少用戶端資源消耗。  
 - 💻 **GPU 最佳化**（CUDA / ROCm 支援）：以下計算平台支援稀疏運算，使 7B~13B 模型在單機或多卡 GPU 上能以更低記憶體帶寬完成訓練與推理。 
 	 - **CUDA**（Compute Unified Device Architecture，統一計算架構）：NVIDIA 推出的 GPU 平行運算平台與 API，支援稀疏矩陣運算與深度學習加速。 
 	 - **ROCm**（Radeon Open Compute）：AMD 的開源 GPU 計算平台，支援 PyTorch、TensorFlow 等框架的稀疏化與混合精度運算。  

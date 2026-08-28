@@ -186,7 +186,7 @@ tags:
 
 * 🧠💪 **負荷類比**: 此處的**負荷**概念對映肌肉的重量訓練負重，心智資源的消耗可類比於**神經元**與**肌肉細胞**在執行任務時的能量消耗。
 * ㊟👀 它與**注意力**的管理直接相關。高負荷會導致注意力分散或過載，從而阻礙有效的學習和知識建構。
-* 🌀🪢🧠  [神經網路](04-03-neural_networks.en.qmd) 訓練中有所謂的 **計算複雜度**（Computational Complexity）和 **模型容量**（Model Capacity），這兩者與 **認知負荷** 有相似之處：
+* 🌀🪢🧠  [神經網路](04-03-neural_networks.qmd) 訓練中有所謂的 **計算複雜度**（Computational Complexity）和 **模型容量**（Model Capacity），這兩者與 **認知負荷** 有相似之處：
 	- 🧱 **內在負荷 ↔ 數據複雜度**: 待學習數據本身的難度，類似於知識的固有複雜性。
 	- 🚧 **外在負荷 ↔ 計算複雜度**: 訓練過程中不必要的運算或模型結構冗餘，類似於人類學習中因設計不良而產生的無效負擔。
 	- 💡 **相關負荷 ↔ 有效學習/泛化**: 訓練中用於提升模型**泛化**能力、正確調整**權重**（Weights）的計算，是達成有效知識建構（圖式建構）所必需的「有益負荷」。
@@ -202,7 +202,7 @@ tags:
 2. **針對性與引導性**：鷹架是有針對性的工具、提示、示範或結構化的步驟。不直接給答案，而是引導思考、組織信息和解決問題。    
 3. **減輕[認知負荷](#sec-cognitive-load)**（Reducing Cognitive Load）：透過分解複雜任務、提供模版或簡化指令，鷹架有助於減少學習者的 **外在負荷**，使他們的認知資源能更專注於新知識的建構（即增加**相關負荷**）。
 
-常見的教學鷹架策略有**提問與提示**（Questioning and Prompting)、**示範**、**建模**（Modeling)、**組織圖或框架**（Graphic Organizers)等等，旨在提供結構化工具，幫助學生整理複雜信息（如心智圖、流程圖、及 [LLM聊天機器人](04-02-llm_chatbots.en.qmd)）**提問與提示** 模板或示範。
+常見的教學鷹架策略有**提問與提示**（Questioning and Prompting)、**示範**、**建模**（Modeling)、**組織圖或框架**（Graphic Organizers)等等，旨在提供結構化工具，幫助學生整理複雜信息（如心智圖、流程圖、及 [LLM聊天機器人](04-02-llm_chatbots.qmd)）**提問與提示** 模板或示範。
 
 `認知鷹架` 的廣義，可以泛指以下在學術、商業和日常生活中被採用的方法：
 
@@ -240,7 +240,7 @@ tags:
 
 以上各概念方法，在功能與結構上皆具備「支撐**理解**與**推理**」的特性，可視為「鷹架性機制」。
 
-本書定義的 **知行鷹架** 則指廣義的 `認知鷹架` 應用在智能系體或智能體的設計及實踐時的人與機器展現的任何以上行為，這還包括人類日常的**缺口填補經驗法則**的任何[腦補](#def-mental-fill-in)，以及當代 AI 自動補完的 [生成式 AI](06-05-analysis_generative.en.qmd)。
+本書定義的 **知行鷹架** 則指廣義的 `認知鷹架` 應用在智能系體或智能體的設計及實踐時的人與機器展現的任何以上行為，這還包括人類日常的**缺口填補經驗法則**的任何[腦補](#def-mental-fill-in)，以及當代 AI 自動補完的 [生成式 AI](06-05-analysis_generative.qmd)。
 
 
 ###  知行鷹架 {#sec-constructive-fill-in} 
@@ -248,9 +248,9 @@ tags:
 
 🙶補全🙷 或 `知行鷹架`（constructive fill-in）是本書新創的操作型概念，泛指利用人與機器任何廣義的 `認知鷹架` 的「支撐**理解**與**推理**」行為系統或體系方法，以克服「潛在發展水準」與「實際發展水準」之間的差距。因此這需要更具體對人類參與者及機器的[腦補](#def-mental-fill-in)現象的系統理解及創新。詳細內容及整合方法見本書三篇附錄：
 
-* 💪 **[行動](appendix-action.en.qmd)**：「行動協奏」〜 編排 **AI 與人** ❝腦補❞的行動
-* 🧠 **[心智](appendix-brain.en.qmd)**：「道智修行」〜 逐級❝鍛練❞有意識的心智行動]
-* 🪜 **[能力](appendix-cognitive_capacity.en.qmd)**：「建補鷹架」〜 逐級昇華🙶補全🙷的能力]
+* 💪 **[行動](appendix-action.qmd)**：「行動協奏」〜 編排 **AI 與人** ❝腦補❞的行動
+* 🧠 **[心智](appendix-brain.qmd)**：「道智修行」〜 逐級❝鍛練❞有意識的心智行動]
+* 🪜 **[能力](appendix-cognitive_capacity.qmd)**：「建補鷹架」〜 逐級昇華🙶補全🙷的能力]
 
 此概念不僅區分並融合不同層次的認知行動能力，更以迴圈（loop）、弧線（arc）、等結構性概念，系統性整合包括 **HITL**（Human-in-the-loop，人類在迴圈中）、**RLHF**（人類回饋強化學習）、等概念）將「行動~心智~能力」三位一體整合為系統創新工具。其核心在於：
 
@@ -347,7 +347,7 @@ tags:
 `腦補` (*mental fill‑in*) is a colloquial term from Chinese internet usage. In contemporary discourse it refers to the act of speculating, imagining, or filling in gaps when information is insufficient or meaning is unclear, in order to complete one’s own understanding. It often implies *personal interpretation or guesswork*, and carries humorous, skeptical, or ironic undertones. The expression is said to derive from Japanese phrases such as “脳内補正” (*nōnai hosei*, mental correction) or “脳内補完” (*nōnai hokan*, mental completion), highlighting the subjective nature of such filling‑in. In short, ❝腦補❞ began as a term in Japanese anime fandom describing imaginative extrapolation, but has gradually broadened to describe how people use imagination to interpret, explain, or even construct information.
 
 > See also: [`Scaffolding`](#scaffolding); [`Cognitive Scaffolding`](#sec-cognitive-scaffolding); [`Constructive Fill‑in`](#sec-constructive-fill-in)  
-> Read: 💬 Introduction ~ [`❝Mental Fill-ins❞: Cognitive Shortcuts`](00-02-notes-mental_fill-in.en.qmd)
+> Read: 💬 Introduction ~ [`❝Mental Fill-ins❞: Cognitive Shortcuts`](00-02-notes-mental_fill-in.qmd)
 
 ### Mind {#def-mind}
 <sup> ⁃ 心智</sup>
@@ -355,7 +355,7 @@ tags:
 `Mind` (心智), in philosophy and cognitive science, refers to subjective consciousness, intentionality (aboutness), and the capacity for reason and self-reflection. It encompasses first-person experience (such as qualia) that cannot be fully reduced to objective neurobiological data. In Ken Wilber's AQAL framework, Mind corresponds to the **Upper-Left Quadrant (individual interior, intention, and consciousness)**, complementing the objective, material Brain.
 
 > See also: [`Mind-Brain Problem`](#def-mind-brain-problem); [`Brain`](#sec-brain)
-> Read: [▜Appendix B ~ 🧠Brain: «Observe» Tao-Intelligence Practice](appendix-brain.en.qmd)
+> Read: [▜Appendix B ~ 🧠Brain: «Observe» Tao-Intelligence Practice](appendix-brain.qmd)
 
 ---
 

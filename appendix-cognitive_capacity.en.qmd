@@ -39,7 +39,7 @@ tags:
 > designing an **intelligent system** through "constructive scaffolding," to weigh the "cost of intelligence" against **the world's energy**.[^plain-language]
 :::
 
-Continuing from the **🏄🏼verb** `«options»` of the previous appendix, “💪[Action](appendix-action.en.qmd)”, and the **🌊noun** `«options»` of “🧠[Brain](appendix-brain.en.qmd)”, this appendix set, “🪜Cognitive Capacity”, aims to summarize and classify "**🌊nouns ➕ 🏄🏼verbs**" into "**[🏗️Constructive Scaffolding](#sec-cognitive-capacity-scaffolding)**," and, through the Double Diamond model, to demonstrate the "capacity-building" stages of an agentic system.
+Continuing from the **🏄🏼verb** `«options»` of the previous appendix, “💪[Action](appendix-action.qmd)”, and the **🌊noun** `«options»` of “🧠[Brain](appendix-brain.qmd)”, this appendix set, “🪜Cognitive Capacity”, aims to summarize and classify "**🌊nouns ➕ 🏄🏼verbs**" into "**[🏗️Constructive Scaffolding](#sec-cognitive-capacity-scaffolding)**," and, through the Double Diamond model, to demonstrate the "capacity-building" stages of an agentic system.
 
 ::: {.callout-tip #tip-cognitive-capacity title="🪜 Cognitive Capacity Tip: «The Appendix Triad» \"Action ~ Brain ~ Cognitive Capacity\"" collapse=false open=true}
 
@@ -83,7 +83,7 @@ When using the tables and figures in each appendix, readers may adopt a strategy
    - **The SIPAEA cycle**: Sense $\to$ Frame $\to$ Plan $\to$ Act $\to$ Evaluate $\to$ Adapt, a dynamic progression.
    - **The Mentor MoE**: a multi-agent decision network based on a Mixture of Experts model.
 
-> 🎓 This appendix corresponds to the **methodological** role within «The Appendix Triad» (for ontology and epistemology, see “🧠Brain”). For the complete tripartite comparison, see the academic-framework explanation in the [Preface 〜 «The Appendix Triad»](index.en.qmd#sec-book-features).
+> 🎓 This appendix corresponds to the **methodological** role within «The Appendix Triad» (for ontology and epistemology, see “🧠Brain”). For the complete tripartite comparison, see the academic-framework explanation in the [Preface 〜 «The Appendix Triad»](index.qmd#sec-book-features).
 :::
 
 ## 🩵 The Proactive 🙶Constructive Fill-in🙷 🏗️
@@ -120,7 +120,7 @@ The capacity for systemic innovation lies chiefly in mastering divergent possibi
 
 ### 😵‍💫 A Case Study: Expanding on Large Language Model Applications
 
-Taking [Large Language Models](02-07-large_language_models.en.qmd) as an example, the discernment-and-innovation system of "Constructive Scaffolding" — 🌊[nouns](#sec-world-in-nouns) ➕ 🏄🏼[verbs](#sec-verbs-in-world) — can be laid out as follows:
+Taking [Large Language Models](02-07-large_language_models.qmd) as an example, the discernment-and-innovation system of "Constructive Scaffolding" — 🌊[nouns](#sec-world-in-nouns) ➕ 🏄🏼[verbs](#sec-verbs-in-world) — can be laid out as follows:
 
 - 🔴 **Core Circle (foundational scaffold)**:
     - 🌊 Nouns: corpus, data, analysis, decision algorithms, AI knowledge points, etc.
@@ -138,13 +138,13 @@ Taking [Large Language Models](02-07-large_language_models.en.qmd) as an example
         - "Control ＋ interactive task" → in automated decision-making, the model assists the interaction flow, giving both user and platform a sense of control.
         - "Apply ＋ user intent" → applying the model to generate answers, translations, summaries, and other user intents.
 - 🟢 **Outer Circle (system scaffold)**:
-    - 🌊 Nouns: [world model](appendix-brain.en.qmd#sec-models-mind-world), values, cross-domain knowledge, emergent theory
+    - 🌊 Nouns: [world model](appendix-brain.qmd#sec-models-mind-world), values, cross-domain knowledge, emergent theory
     - 🏄🏼 Verbs: **apply/achieve**, **analyze/evaluate**, **contextualize/systematize**, **align/plan/integrate**, **create**, **construct/theorize/lead**
     - **Constructive-scaffold examples**:
         - "Apply/achieve ＋ professional domain" → completing professional tasks in medicine, education, law, and other fields.
         - "Analyze/evaluate ＋ cross-domain knowledge" → attempting to analyze input and evaluate output, supporting cross-domain decisions.
-        - "Contextualize/systematize ＋ [world model](appendix-brain.en.qmd#sec-models-mind-world)" → contextualizing information from different sources and attempting to generalize system knowledge (for the full discussion of the world model, see 🔖Appendix “🧠Brain”).
-        - "Align/plan/integrate ＋ values" → touching on the AI [Alignment & Control Problem](01-06-Alignment_Control_Problem.en.qmd), aligning with human values and integrating diverse knowledge.
+        - "Contextualize/systematize ＋ [world model](appendix-brain.qmd#sec-models-mind-world)" → contextualizing information from different sources and attempting to generalize system knowledge (for the full discussion of the world model, see 🔖Appendix “🧠Brain”).
+        - "Align/plan/integrate ＋ values" → touching on the AI [Alignment & Control Problem](01-06-Alignment_Control_Problem.qmd), aligning with human values and integrating diverse knowledge.
         - "Create ＋ linguistic representation" → generating new text or narrative meaning, demonstrating creative potential.
         - "Construct/theorize/lead ＋ emergent theory" → in research and application, forming new knowledge frameworks and even leading future modes of knowledge production.
 
@@ -162,7 +162,7 @@ Its core value lies in using a concise semantic structure to compress "action" a
 | ---------- | ------------------- | -------------------- | ----------------- |
 | 🎓 Education | Bloom's Taxonomy | Learning objectives are typically phrased as "verb ＋ noun," verb = cognitive level, noun = knowledge domain | analyze data, evaluate argument, create model |
 | 📚 Instructional Design | Task-based Learning | Tasks presented as "verb ＋ noun," clearly indicating action and object | explain concept, design experiment, compare texts |
-| 🤖 Artificial Intelligence | **[Task-oriented AI](05-01-oriented_task.en.qmd)**; [Prompt Engineering](10-03-prompt_engineering.en.qmd) | Instructions typically use a "verb ＋ noun" structure, matching human intuition and model parsing | generate image, translate text, summarize article |
+| 🤖 Artificial Intelligence | **[Task-oriented AI](05-01-oriented_task.qmd)**; [Prompt Engineering](10-03-prompt_engineering.qmd) | Instructions typically use a "verb ＋ noun" structure, matching human intuition and model parsing | generate image, translate text, summarize article |
 | 💻 Human-Computer Interaction (HCI) | Functional-grammar design | Interface functions defined as "verb ＋ noun," for ease of operation and understanding | click button, drag file, search data |
 | 🌐 Systems Thinking | Modular action units | In system modeling or curriculum design, verb ＋ noun as an operable module | build model, test hypothesis, optimize process |
 | 🗣️ Linguistics | Functional Compounds | Verb ＋ noun combine to form a new word, directly describing a function or role | lighter (打火機), _pickpocket_ |
@@ -173,9 +173,9 @@ Its core value lies in using a concise semantic structure to compress "action" a
 
 In education, the learning objectives of **Bloom's Taxonomy** are often phrased as "verb ＋ noun" — for example, "analyze data" or "create a model" — where the verb marks the **cognitive level** and the noun defines the **knowledge domain**. "**Task-based Learning**" likewise relies on this combination to design learning activities, so learners can clearly understand "what to do" and "what to act upon."
 
-In AI and design, the "verb ＋ noun" combination becomes the grammatical basis of human-machine interaction. AI has "**[task-oriented](05-01-oriented_task.en.qmd)**" forms; interface design often defines functions through structures like "click button" or "drag file," while the [Prompt Engineering](10-03-prompt_engineering.en.qmd) behind [Generative AI](06-05-analysis_generative.en.qmd) relies on instructions like "generate image" or "translate text" — matching human intuition while remaining easy for models to parse.
+In AI and design, the "verb ＋ noun" combination becomes the grammatical basis of human-machine interaction. AI has "**[task-oriented](05-01-oriented_task.qmd)**" forms; interface design often defines functions through structures like "click button" or "drag file," while the [Prompt Engineering](10-03-prompt_engineering.qmd) behind [Generative AI](06-05-analysis_generative.qmd) relies on instructions like "generate image" or "translate text" — matching human intuition while remaining easy for models to parse.
 
-Continuing from [@tbl-actions-10] in the previous appendix's **verb** «options», “💪[Action](appendix-action.en.qmd)”, the table below [@nte-actions-10-nouns] shows the operability produced once a noun is paired in, yielding "**world fragments**" of differing tiers and across differing domains.
+Continuing from [@tbl-actions-10] in the previous appendix's **verb** «options», “💪[Action](appendix-action.qmd)”, the table below [@nte-actions-10-nouns] shows the operability produced once a noun is paired in, yielding "**world fragments**" of differing tiers and across differing domains.
 
 ::: {.callout-note #nte-actions-10-nouns title="🌊Noun➕🏄🏼Verb: Operable World Fragments Across Disciplines" collapse=false open=true .note}
 
@@ -200,7 +200,7 @@ Having grasped the semantic unit of "AI Knowledge-Action Scaffolding" behind the
 
 To systematically guide readers through the full journey from **discovering a problem** to **designing a solution**, this appendix adopts the well-known **Double Diamond Model**, dividing the design process into two "diverge" and "converge" cycles, used to define the final "verb ＋ noun **goal**" and the related set of **tasks**.
 
-The **Double Diamond Model** (abbreviated the **Double Diamond**) comprises four stages (Discover, Define, Develop, Deliver). It revolves around two core concepts — **problem definition** and **solution** — aiming to ensure that designers first "**do the right thing**" (solve the real problem), then "**do the thing right**" (deliver a good solution). This is one of the core tasks of an [AI Product Manager](10-06-AI_PM.en.qmd).
+The **Double Diamond Model** (abbreviated the **Double Diamond**) comprises four stages (Discover, Define, Develop, Deliver). It revolves around two core concepts — **problem definition** and **solution** — aiming to ensure that designers first "**do the right thing**" (solve the real problem), then "**do the thing right**" (deliver a good solution). This is one of the core tasks of an [AI Product Manager](10-06-AI_PM.qmd).
 
 ::: {.callout-important #imp-diamond-model-2-spaces title="The Double Diamond Model: Two Spaces of Problem and Solution" collapse=false open=true .note}
 
@@ -294,13 +294,13 @@ With this concrete information and understanding in hand, one can clearly define
 
 The machine's capacity for "**fill-in**" comes from **massive data and compute**, letting it quickly generate answers, simulate many possibilities, and outperform humans at **large-scale information processing**. But the cost of this capacity is: **energy consumption** (large-model computation), **ethical risk** (biased data), and a **lack of situational awareness** (an inability to truly understand human values and emotion). So while machine fill-in is highly efficient, it needs **human oversight and adjustment**.
 
-Although AI can, through [Large Language Models](02-07-large_language_models.en.qmd), quickly fill in information and offer suggestions, a designer still needs to turn its output into an actionable "goal":
+Although AI can, through [Large Language Models](02-07-large_language_models.qmd), quickly fill in information and offer suggestions, a designer still needs to turn its output into an actionable "goal":
 
 - 📝 **Prompt Templates**: turning persona output into **role-based prompts**, letting the system adjust tone and content to different roles (e.g., "As a high-schooler, please explain... in simple language").    
 - 📈 **Long-Term Scenario Simulation**: turning insights from future role-play into retrieval and generation strategies — a RAG system can provide **simulated responses** for "workplace trends five years from now" or "future skill needs."    
 - 🌐 **Multi-Perspective Retrieval**: using the results of role rotation to design **multi-perspective answers**, where the same question is presented from a "student's perspective," a "parent's perspective," and an "expert's perspective," helping the user compare and balance different views.    
 
-With this concrete information in hand, a designer can clearly define a "goal," using the retrieval and generation capacity of [Large Language Models](02-07-large_language_models.en.qmd) to lock in the **problem** 🙶goal🙷, and ensure the output can be **correctly understood and adopted** by humans.
+With this concrete information in hand, a designer can clearly define a "goal," using the retrieval and generation capacity of [Large Language Models](02-07-large_language_models.qmd) to lock in the **problem** 🙶goal🙷, and ensure the output can be **correctly understood and adopted** by humans.
 
 ### 🤝 The Human-Machine Scaffold
 
@@ -379,11 +379,11 @@ Following the **scaffold template** of the **verb flow/cycle**, we can concretel
 |**Verb Step**|**Constructive Capacity (AI Knowledge-Action Scaffolding)**|**Task Goal**|**Engineering Implementation and Technical Detail**|
 |---|---|------|------|
 |🛰 **Sense**|Record needs and the student profile|Capture comprehensive user and environmental data|**Multimodal API or MCP**: extract a **transcript (structured PDF extraction)** or a **portfolio (image/text embedding)** uploaded by the user. Use **Named Entity Recognition (NER)** to extract key knowledge points.|
-|🪟 **Frame/<br/>Interpret**|Understand, contextualize|Turn data into **actionable** situation and intent| **[Context Engineering](10-05-context_engineering.en.qmd)** and role-based **[Prompt Engineering](10-03-prompt_engineering.en.qmd)**: give the LLM the role of "**career counselor**," using RAG to retrieve the **success paths of similar students** (case studies), for situational **framing**.|
+|🪟 **Frame/<br/>Interpret**|Understand, contextualize|Turn data into **actionable** situation and intent| **[Context Engineering](10-05-context_engineering.qmd)** and role-based **[Prompt Engineering](10-03-prompt_engineering.qmd)**: give the LLM the role of "**career counselor**," using RAG to retrieve the **success paths of similar students** (case studies), for situational **framing**.|
 |🗺️ **Plan**|Plan, apply|Generate staged, diverse action paths|**Chain-of-Thought (CoT) or a planning agent**: have the LLM **first decompose** the goal internally. Call external tools (e.g., a Course API) to gather parent or student discussion.|
 |💪 **Act**|Connect, achieve|Execute the external operations of the plan|**Tool Use and external API connection**: the LLM outputs a structured JSON request; an executor calls a job-platform (e.g., LinkedIn) API to retrieve **job openings**, or a course-platform API to retrieve **course links**.|
 |🧮 **Evaluate**|Evaluate, control|Measure the effect of actions and user feedback|**LLM as evaluator and RLHF data collection**: process user feedback and convert it into a **quantified reward signal**. Use **agent evaluation** to check API response speed and link validity.|
-|🔂 **Adapt**|Adapt, align|Optimize the model and process based on evaluation|**[Context Engineering](10-05-context_engineering.en.qmd) supervised fine-tuning**: use high-quality "**success examples**" and "**failure examples**" to improve the **agent**, ensuring the next planning pass better matches the user's values.|
+|🔂 **Adapt**|Adapt, align|Optimize the model and process based on evaluation|**[Context Engineering](10-05-context_engineering.qmd) supervised fine-tuning**: use high-quality "**success examples**" and "**failure examples**" to improve the **agent**, ensuring the next planning pass better matches the user's values.|
 
 In this way, achieving a "learning program and pathway" useful to parents and students requires a **verb flow/cycle** **scaffold template**, one that can also systematically incorporate services — like the job market — that change over time and context.
 
@@ -399,11 +399,11 @@ The **core mechanism of the MoE** is to decompose the "career coach" role into s
 
 Regarding "life opportunity" expert roles, a Mentor MoE is formed using large language models and databases. This intelligent system can provide decision support based on the student's profile, following the steps "**🛰Sense $\to$ 🪟Frame $\to$ 🗺️Plan $\to$ 💪Act $\to$ 🧮Evaluate**":
 
-* **🛰 Sense**: call relevant university-program data, job-market data, and current-and-projected data through **[API or MCP](10-01-API_MCP.en.qmd)**, so the Mentor MoE obtains **data appropriate to the student's specific time and place**.
-* **🪟 Frame**: use **[Prompt Engineering](10-03-prompt_engineering.en.qmd)** to design and, based on the time-and-place data, **precisely frame** the **role positioning** of the mentor expert group MoE — e.g., a university-and-major advisor for a given country, or a human-resources agent for a given city — helping to **frame the dialogue that interprets the relevant data**.
-* **🗺️ Plan**: next, generate a roadmap connecting the **training program** to the subsequent **career path**, in particular using **[Retrieval-Augmented Generation (RAG)](10-04-retrieval_augmented_generation.en.qmd)** to **expand** into a real knowledge base (such as from the professional social network LinkedIn), providing a variety of roadmap options.
-* **🔨 Act**: use **[Context Engineering](10-05-context_engineering.en.qmd)** to **stitch together** the student's personal history of dialogue with the mentor expert group MoE and newly received information, ensuring coherence.
-* **✅ Evaluate**: apply the **[Agent Reliability & Evaluation](10-02-agent_reliability_evaluation.en.qmd)** knowledge point to challenge a temporary claim made by the student or mentor expert group, embracing uncertainty, offering **multiple** alternative paths such as a "pivot," and appropriately factoring in additional considerations and evaluations of life opportunity and risk that the student and parents care about — such as the chance of finding a partner, the expected timeline for starting a family, or the city and lifestyle associated with a given career.
+* **🛰 Sense**: call relevant university-program data, job-market data, and current-and-projected data through **[API or MCP](10-01-API_MCP.qmd)**, so the Mentor MoE obtains **data appropriate to the student's specific time and place**.
+* **🪟 Frame**: use **[Prompt Engineering](10-03-prompt_engineering.qmd)** to design and, based on the time-and-place data, **precisely frame** the **role positioning** of the mentor expert group MoE — e.g., a university-and-major advisor for a given country, or a human-resources agent for a given city — helping to **frame the dialogue that interprets the relevant data**.
+* **🗺️ Plan**: next, generate a roadmap connecting the **training program** to the subsequent **career path**, in particular using **[Retrieval-Augmented Generation (RAG)](10-04-retrieval_augmented_generation.qmd)** to **expand** into a real knowledge base (such as from the professional social network LinkedIn), providing a variety of roadmap options.
+* **🔨 Act**: use **[Context Engineering](10-05-context_engineering.qmd)** to **stitch together** the student's personal history of dialogue with the mentor expert group MoE and newly received information, ensuring coherence.
+* **✅ Evaluate**: apply the **[Agent Reliability & Evaluation](10-02-agent_reliability_evaluation.qmd)** knowledge point to challenge a temporary claim made by the student or mentor expert group, embracing uncertainty, offering **multiple** alternative paths such as a "pivot," and appropriately factoring in additional considerations and evaluations of life opportunity and risk that the student and parents care about — such as the chance of finding a partner, the expected timeline for starting a family, or the city and lifestyle associated with a given career.
 
 Through this five-step cycle, the **MoE Career Mentor Network** can **dynamically coordinate** across complex scenarios, retaining **deep domain insight** while still integrating into a coherent **overall recommendation**.
 
@@ -411,17 +411,17 @@ Through this five-step cycle, the **MoE Career Mentor Network** can **dynamicall
 
 **Core value: efficient execution and transparent tracking**. The value of a toolchain lies in turning a **planned** learning path into an **executable, trackable** **task list**, and using **collaborative filtering** to improve the efficiency of resource recommendation.
 
-Connecting the **matching** resources of various real-world domains with platform-side **[Collaborative Filtering](09-01-collaborative_filtering.en.qmd) tools** forms a toolset supporting "life opportunity" decisions. This toolchain focuses on various **matching** services, helping students explore **potential career-option matches**, **major matches**, **partner matches**, **city or country matches**, and so on, following the steps "**🛰Sense $\to$ 🪟Frame $\to$ 🗺️Plan $\to$ 💪Act $\to$ 🧮Evaluate**" based on the student's profile:
+Connecting the **matching** resources of various real-world domains with platform-side **[Collaborative Filtering](09-01-collaborative_filtering.qmd) tools** forms a toolset supporting "life opportunity" decisions. This toolchain focuses on various **matching** services, helping students explore **potential career-option matches**, **major matches**, **partner matches**, **city or country matches**, and so on, following the steps "**🛰Sense $\to$ 🪟Frame $\to$ 🗺️Plan $\to$ 💪Act $\to$ 🧮Evaluate**" based on the student's profile:
 
-- **🛰 Sense**: through an initial questionnaire and dialogue, use **[API or MCP](10-01-API_MCP.en.qmd)** to **structurally** extract the student's:
+- **🛰 Sense**: through an initial questionnaire and dialogue, use **[API or MCP](10-01-API_MCP.qmd)** to **structurally** extract the student's:
     - **core values, interests, and personality traits (VIP)**, along with expectations for future life (e.g., expected salary, work-life balance, timeline for starting a family), as the base data for all subsequent matching;
     - **learning style**, **current skill level**, and **preferred content format** (e.g., video, text, hands-on practice), as the base data for all subsequent matching.
-- **🪟 Frame**: the core here is combining **[Collaborative Filtering](09-01-collaborative_filtering.en.qmd)** technology to **compare** the student's VIP data against **diverse data sources** from government, industry, and academia, **framing** and recommending **learning resources** that best match the student's **learning preferences** and **knowledge gaps** — such as senior students or career mentors with similar traits or comparable success paths.    
-- **🗺️ Plan**: run multiple independent **matching algorithms**, and use **[Retrieval-Augmented Generation (RAG)](10-04-retrieval_augmented_generation.en.qmd)** to **expand into**:
+- **🪟 Frame**: the core here is combining **[Collaborative Filtering](09-01-collaborative_filtering.qmd)** technology to **compare** the student's VIP data against **diverse data sources** from government, industry, and academia, **framing** and recommending **learning resources** that best match the student's **learning preferences** and **knowledge gaps** — such as senior students or career mentors with similar traits or comparable success paths.    
+- **🗺️ Plan**: run multiple independent **matching algorithms**, and use **[Retrieval-Augmented Generation (RAG)](10-04-retrieval_augmented_generation.qmd)** to **expand into**:
     - a knowledge base of course reviews and prerequisite-skill requirements, offering multiple **combinatorial learning-path options**, computing and **weighting** each option's **completion and efficiency score**;
     - a matching knowledge base (e.g., city cost of living, immigration policy), offering multiple **combinatorial life-path options**, computing and **weighting** each option's **fit score**. 
-- **🔨 Act**: use **[Prompt Engineering](10-03-prompt_engineering.en.qmd)** to build an interactive module letting students **pose hypotheses or test scenarios** against matching results or a specific path, and then use **[Context Engineering](10-05-context_engineering.en.qmd)** to **update matching weights and parameters in real time**, **optimizing** the algorithm's results.    
-- **✅ Evaluate**: apply the evaluation framework of **[Agent Reliability & Evaluation](10-02-agent_reliability_evaluation.en.qmd)** to challenge the student's current choice or **current learning progress**, **surfacing** the **potential risk and life opportunity** of each path (such as missing an application deadline, industry longevity, or the chance of finding a partner), ensuring the student makes their **final progress-management choice** with a full understanding of execution uncertainty.
+- **🔨 Act**: use **[Prompt Engineering](10-03-prompt_engineering.qmd)** to build an interactive module letting students **pose hypotheses or test scenarios** against matching results or a specific path, and then use **[Context Engineering](10-05-context_engineering.qmd)** to **update matching weights and parameters in real time**, **optimizing** the algorithm's results.    
+- **✅ Evaluate**: apply the evaluation framework of **[Agent Reliability & Evaluation](10-02-agent_reliability_evaluation.qmd)** to challenge the student's current choice or **current learning progress**, **surfacing** the **potential risk and life opportunity** of each path (such as missing an application deadline, industry longevity, or the chance of finding a partner), ensuring the student makes their **final progress-management choice** with a full understanding of execution uncertainty.
 
 This toolchain example shows how to **modularly integrate** multiple services, using a loop to ensure each recommendation more closely matches user needs.
 
@@ -444,7 +444,7 @@ In the final stage of the double-diamond model, **Deliver**, our goal is to **co
 
 ### 📌 Converging and Validating the MVP
 
-To successfully "deliver" a useful **learning-program system**, one must combine the thinking behind **[Agent Reliability & Evaluation](10-02-agent_reliability_evaluation.en.qmd)** and the **[AI Product Manager](10-06-AI_PM.en.qmd)**. When building the Minimum Viable Product (MVP), we focus on **helping student and parent users "plan a learning program and pathway,"** in order to test the solution's **timeline feasibility, resource fit, and value alignment**.
+To successfully "deliver" a useful **learning-program system**, one must combine the thinking behind **[Agent Reliability & Evaluation](10-02-agent_reliability_evaluation.qmd)** and the **[AI Product Manager](10-06-AI_PM.qmd)**. When building the Minimum Viable Product (MVP), we focus on **helping student and parent users "plan a learning program and pathway,"** in order to test the solution's **timeline feasibility, resource fit, and value alignment**.
 
 ::: {.callout-note collapse=true title="📖 Expand: Details of Three MVP Cases (Career-Assistant Example)"}
 
@@ -453,11 +453,11 @@ To successfully "deliver" a useful **learning-program system**, one must combine
 The multi-agent architecture solution is characterized by layered planning and expert-resource alignment:
 
 - **Goal**: to validate the **effectiveness** and **resource fit** of a **layered expert group** combined with the core process, within the multi-agent architecture.
-- **MVP content**: two sub-agents — the "**academic curriculum expert**" and the "**family financial advisor**" — are selected as the core of the MVP. The system uses **[RAG](10-04-retrieval_augmented_generation.en.qmd)** to retrieve the **latest exam syllabus**.
+- **MVP content**: two sub-agents — the "**academic curriculum expert**" and the "**family financial advisor**" — are selected as the core of the MVP. The system uses **[RAG](10-04-retrieval_augmented_generation.qmd)** to retrieve the **latest exam syllabus**.
     * **Academic expert**: focused on generating a staged **learning-content list** and **timeline plan**.
     * **Financial advisor**: focused on **cost estimation** and **risk flagging** for the **external resources** in the learning-content list (such as tutoring or online-course fees), based on the parent-provided **budget range**.
     * This collaborative mode ensures the delivered learning solution is not only "**academically feasible**" but also "**financially feasible**."
-- **Delivery and monitoring**: a back-end dashboard monitors the plan's "**budget fit**" (validating the financial advisor's effectiveness) and "**timeline completion rate**" (validating the academic plan's effectiveness). We need to ensure response quality (e.g., via **[Agent Reliability & Evaluation](10-02-agent_reliability_evaluation.en.qmd)**) meets expectations.
+- **Delivery and monitoring**: a back-end dashboard monitors the plan's "**budget fit**" (validating the financial advisor's effectiveness) and "**timeline completion rate**" (validating the academic plan's effectiveness). We need to ensure response quality (e.g., via **[Agent Reliability & Evaluation](10-02-agent_reliability_evaluation.qmd)**) meets expectations.
 
 ### 🔗📒 Toolchain MVP
 
@@ -465,9 +465,9 @@ The toolchain solution focuses on coordinating and outputting learning resources
 
 - **Goal**: to validate the **efficiency** and **precision** of the toolchain mode on a specific, high-frequency task of **matching learning resources and producing outputs**.
 - **MVP content**: launch a combination of "**style-matching algorithm** + **structured output**," specifically solving the tasks of "**course matching**" and "**portfolio optimization**."
-    * **Course matching**: using a **[Collaborative Filtering](09-01-collaborative_filtering.en.qmd)** algorithm, based on the student's **learning style** (e.g., visual, hands-on) and **current knowledge gaps**, to recommend the best-fit **online courses, books, or hands-on projects**.
-    * **Output optimization**: applying **[Prompt Engineering](10-03-prompt_engineering.en.qmd)** and **[Context Engineering](10-05-context_engineering.en.qmd)**, letting a user input a piece of learning output (such as a project summary), which the system optimizes into a **professional portfolio narrative** that meets university-application standards, exported as a **structured JSON/PDF format**.
-- **Delivery and monitoring**: the user sees a "**course fit score**" in the UI. The system applies **[Prompt Engineering](10-03-prompt_engineering.en.qmd)** to let students or parents update the student's situation, and displays dashboard data in the UI, letting users **iteratively update** prompts and generation results from the perspective of an **[AI Product Manager](10-06-AI_PM.en.qmd)**, measuring "**structured-output acceptance**" — i.e., the number of times a user **edits** the system's generated portfolio description — to confirm whether the solution effectively helps users **diverge and converge on【learning-resource options】**.
+    * **Course matching**: using a **[Collaborative Filtering](09-01-collaborative_filtering.qmd)** algorithm, based on the student's **learning style** (e.g., visual, hands-on) and **current knowledge gaps**, to recommend the best-fit **online courses, books, or hands-on projects**.
+    * **Output optimization**: applying **[Prompt Engineering](10-03-prompt_engineering.qmd)** and **[Context Engineering](10-05-context_engineering.qmd)**, letting a user input a piece of learning output (such as a project summary), which the system optimizes into a **professional portfolio narrative** that meets university-application standards, exported as a **structured JSON/PDF format**.
+- **Delivery and monitoring**: the user sees a "**course fit score**" in the UI. The system applies **[Prompt Engineering](10-03-prompt_engineering.qmd)** to let students or parents update the student's situation, and displays dashboard data in the UI, letting users **iteratively update** prompts and generation results from the perspective of an **[AI Product Manager](10-06-AI_PM.qmd)**, measuring "**structured-output acceptance**" — i.e., the number of times a user **edits** the system's generated portfolio description — to confirm whether the solution effectively helps users **diverge and converge on【learning-resource options】**.
 
 ### 🏋👨‍🏭👨🏽‍⚕️ Collaborative-Network MVP
 
@@ -477,12 +477,12 @@ Combining the two solutions above, and factoring in parent–student–agent col
 - **MVP content**: integrating a "**MoE learning plan**" and "**values dialogue**" module.
     * The system first gives students and parents separate **independent values questionnaires** (e.g., valuing **stability** vs. **high-earning potential**), and then has the MoE **integrate the results**.
     * The agent **surfaces value differences between the two sides** during dialogue, and offers a **dialogue framework for bridging disagreement** — for example: "The **academic expert** suggests Path A, but the **parent** leans toward Path B; let's simulate the **long-term impact** of each choice."
-- **Delivery and monitoring**: the system uses **[Agent Reliability & Evaluation](10-02-agent_reliability_evaluation.en.qmd)** to monitor a "**dialogue conflict index**" (e.g., density of emotionally charged language) and a "**goal-consensus rate**," ensuring the network becomes a safe "**collaborative decision-making**" environment that can withstand pressure from any single family's or society's values.
+- **Delivery and monitoring**: the system uses **[Agent Reliability & Evaluation](10-02-agent_reliability_evaluation.qmd)** to monitor a "**dialogue conflict index**" (e.g., density of emotionally charged language) and a "**goal-consensus rate**," ensuring the network becomes a safe "**collaborative decision-making**" environment that can withstand pressure from any single family's or society's values.
 
 
 :::
 
-These three MVP examples demonstrate how, after divergence in the **Develop** stage, **organically combining** knowledge points like **[Retrieval-Augmented Generation (RAG)](10-04-retrieval_augmented_generation.en.qmd)**, **[Prompt Engineering](10-03-prompt_engineering.en.qmd)**, **[Context Engineering](10-05-context_engineering.en.qmd)**, **[Agent Reliability & Evaluation](10-02-agent_reliability_evaluation.en.qmd)**, and the **[AI Product Manager](10-06-AI_PM.en.qmd)** lets us quickly converge on the minimum viable product that best validates the **value of learning-program planning**.
+These three MVP examples demonstrate how, after divergence in the **Develop** stage, **organically combining** knowledge points like **[Retrieval-Augmented Generation (RAG)](10-04-retrieval_augmented_generation.qmd)**, **[Prompt Engineering](10-03-prompt_engineering.qmd)**, **[Context Engineering](10-05-context_engineering.qmd)**, **[Agent Reliability & Evaluation](10-02-agent_reliability_evaluation.qmd)**, and the **[AI Product Manager](10-06-AI_PM.qmd)** lets us quickly converge on the minimum viable product that best validates the **value of learning-program planning**.
 
 ## 🚀⚛ Engineering "Fill-in"
 

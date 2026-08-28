@@ -56,7 +56,7 @@ Human-machine **noun** «options» can refine the **collaborative relationship**
 3. **Practice Layer**:
    - **Tao-Intelligence Practice**: Tao-intelligence (theoretical mastery) ➕ practice (systemic application), mapped onto the **AQAL Four Quadrants** to contemplate self and world.
 
-> 🎓 This appendix corresponds to the **ontological and epistemological** core role within «The Appendix Triad» (for methodology, see “💪Action” and “🪜Cognitive Capacity”). For the complete tripartite comparison, see the academic-framework explanation in the [Preface 〜 «The Appendix Triad»](index.en.qmd#sec-book-features).
+> 🎓 This appendix corresponds to the **ontological and epistemological** core role within «The Appendix Triad» (for methodology, see “💪Action” and “🪜Cognitive Capacity”). For the complete tripartite comparison, see the academic-framework explanation in the [Preface 〜 «The Appendix Triad»](index.qmd#sec-book-features).
 
 :::
 
@@ -74,9 +74,9 @@ Whether human or machine, it is the systematic integration of these **nouns** th
 
 Whether it is:
 
-- human experts building [Knowledge Graphs](03-05-knowledge_graph.en.qmd) that pick out the **nouns** for **entities** and their **relationships**, or
+- human experts building [Knowledge Graphs](03-05-knowledge_graph.qmd) that pick out the **nouns** for **entities** and their **relationships**, or
 
-- machines that, following the "mirror neuron" structure of [Hebb's Rule](09-07-hebb_rule.en.qmd), use [Neural Networks](04-03-neural_networks.en.qmd) to grasp the texture of the outside world — including how [Large Language Models](02-07-large_language_models.en.qmd) come to understand a vast number of human **nouns** —
+- machines that, following the "mirror neuron" structure of [Hebb's Rule](09-07-hebb_rule.qmd), use [Neural Networks](04-03-neural_networks.qmd) to grasp the texture of the outside world — including how [Large Language Models](02-07-large_language_models.qmd) come to understand a vast number of human **nouns** —
 
 the object of the mind's **training** is the noun «**option**»: the choice of which nouns to keep determines the **world model**, context included.
 
@@ -112,7 +112,7 @@ Which nouns are the objects that the mind **trains on** in order to understand t
 
 Seen this way, **this book's table of contents** is itself an entire system of "noun-based learning" for understanding AI and learning — both machine learning and human learning. It organizes 66 entries across ten parts.
 
-Readers can copy the list and add or remove entries as they see fit: parents might start from play, drawing on [🏆"Game-Theoretic" AI](07----game_ai.en.qmd) to highlight [㉄ AI Problematics](01----problematics.en.qmd) such as [🗫🎲 Language Games](01-07-Language_Games.en.qmd); business owners might start from the "**dark factory**," drawing on [🦾"Embodied" AI](08----embodied_ai.en.qmd) to overcome the [🖼️⏱️Frame Problem](01-04-Frame_Problem.en.qmd) and the [🎯🛡️Alignment & Control Problem](01-06-Alignment_Control_Problem.en.qmd) in smart manufacturing, building out plant equipment and processes through 🏛️🌌🗺️[Ontology](03-07-ontology.en.qmd) and developing 🎏🧠[Neuro-Symbolic Convergence](02-03-neurosymbolic_ai.en.qmd) solutions; and retirees might start from "**self-tracking**," drawing on [🦾"Embodied" AI](08----embodied_ai.en.qmd) to master the various facets of [🌉 AI Engineering](10----ai_engineering.en.qmd) in smart healthcare and smart homes — [🌉🤖🚨 Agent Reliability & Evaluation](10-02-agent_reliability_evaluation.en.qmd) and [🎁🌱🚀 AI Product Management](10-06-AI_PM.en.qmd) — to safeguard their own interests.
+Readers can copy the list and add or remove entries as they see fit: parents might start from play, drawing on [🏆"Game-Theoretic" AI](07----game_ai.qmd) to highlight [㉄ AI Problematics](01----problematics.qmd) such as [🗫🎲 Language Games](01-07-Language_Games.qmd); business owners might start from the "**dark factory**," drawing on [🦾"Embodied" AI](08----embodied_ai.qmd) to overcome the [🖼️⏱️Frame Problem](01-04-Frame_Problem.qmd) and the [🎯🛡️Alignment & Control Problem](01-06-Alignment_Control_Problem.qmd) in smart manufacturing, building out plant equipment and processes through 🏛️🌌🗺️[Ontology](03-07-ontology.qmd) and developing 🎏🧠[Neuro-Symbolic Convergence](02-03-neurosymbolic_ai.qmd) solutions; and retirees might start from "**self-tracking**," drawing on [🦾"Embodied" AI](08----embodied_ai.qmd) to master the various facets of [🌉 AI Engineering](10----ai_engineering.qmd) in smart healthcare and smart homes — [🌉🤖🚨 Agent Reliability & Evaluation](10-02-agent_reliability_evaluation.qmd) and [🎁🌱🚀 AI Product Management](10-06-AI_PM.qmd) — to safeguard their own interests.
 
 **This book's table of contents** can be viewed as a collection of knowledge points for "AI mind **training**"; readers are free to add or revise it as needed, filling in whatever parts matter most to them at any time.
 
@@ -120,13 +120,13 @@ Readers can copy the list and add or remove entries as they see fit: parents mig
 
 Drawing together the knowledge sources of human learning and machine learning, this appendix set, “🧠Brain”, divides these nouns into three levels, forming a "concentric-circle noun system":
 
-- 🔴 **Core Circle**: the AI knowledge points summarized in this book, cross-referenced in **[🔖Appendix 🌌 Mindmap](appendix-mindmap.en.qmd)** (e.g., neural networks, reinforcement learning, knowledge graphs).    
+- 🔴 **Core Circle**: the AI knowledge points summarized in this book, cross-referenced in **[🔖Appendix 🌌 Mindmap](appendix-mindmap.qmd)** (e.g., neural networks, reinforcement learning, knowledge graphs).    
 - 🟠 **Middle Circle**: tightly encircling the core is the **knowledge structure** and **context** that readers must master when building intelligent systems or agents, including information about the "**self**" and the "**environment**."    
 - 🟢 **Outer Circle**: wrapping around the first two layers is the "world presuppositions" and "emergent knowledge" that an agent must understand, capable of carrying a broader world model (even encompassing a user's "three views": worldview, outlook on life, and values).
 
 The above should cover every possible "**knowledge**" noun «**option**».
 
-The expansion and accumulation of noun «**options**» resembles the construction of a worldview. Just as different human languages classify and describe snow, fire, and water differently, this carries a genuine [Symbol Grounding Problem](01-03-Symbol_Grounding_Problem.en.qmd) — it can never be separated from the relationship between self and world.
+The expansion and accumulation of noun «**options**» resembles the construction of a worldview. Just as different human languages classify and describe snow, fire, and water differently, this carries a genuine [Symbol Grounding Problem](01-03-Symbol_Grounding_Problem.qmd) — it can never be separated from the relationship between self and world.
 
 As an appendix to this book, readers can bring themselves (or their students or children) to use **systems thinking** to contemplate the noun «options» that are useful for self, environment, and world.
 
@@ -178,7 +178,7 @@ By examining human and machine learning through distinct theoretical lenses—be
 
 ### –🏮💪 The Behaviorist View {#sec-learning-Behaviorist}
 
-From the **[Behaviorist](02-06-behaviorism.en.qmd)** view, learning is an overt process of **stimulus–response** feedback, focused on "observable behavior" and "reward-and-punishment feedback." Here, noun «options» are defined as the overt behaviors of "stimulus–response–reward/punishment," forming the core vocabulary of behaviorism.
+From the **[Behaviorist](02-06-behaviorism.qmd)** view, learning is an overt process of **stimulus–response** feedback, focused on "observable behavior" and "reward-and-punishment feedback." Here, noun «options» are defined as the overt behaviors of "stimulus–response–reward/punishment," forming the core vocabulary of behaviorism.
 
 - 👶 **Human learning** is understood as a cycle of 🙶stimulus⇥response🔄reward/punishment🙷. A child learns to walk because of the repeated feedback of falling (punishment) and standing steady (reward).
 - 🎮 **Machine learning** has its modern variation of **Reinforcement Learning (RL)** to train large language models (LLMs) for AI alignment with human preferences. By treating the AI model as an animal or human learner that changes its habits based on **rewards and penalties**: for instance, a positive reward (positive reinforcement) when overcoming an obstacle in navigation. In **RLHF**, human feedback is used to train a reward model, which is then used to optimize the AI's behavior through reinforcement learning.
@@ -211,7 +211,7 @@ Ultimately, these noun «options» let us describe AI's behavior-shaping loop pr
 
 ### –🏮🛣 The Situated-ist View {#sec-learning-Situated-ist}
 
-From the **situated** or [Situated-ist](appendix-glossary.en.qmd#sec-situated-ism) perspective, learning is a process of **acting within a situation**, emphasizing "the present situation" and "situational awareness", perception–action loops, and the shaping role of social context. Here, noun «options» focus on words that describe "situation," "environment," and "context," highlighting how learning is embedded in the world. Design grounded in the situated view therefore treats **environmental design, sensor–actuator loops, and social context** as primary variables rather than optional add‑ons.
+From the **situated** or [Situated-ist](appendix-glossary.qmd#sec-situated-ism) perspective, learning is a process of **acting within a situation**, emphasizing "the present situation" and "situational awareness", perception–action loops, and the shaping role of social context. Here, noun «options» focus on words that describe "situation," "environment," and "context," highlighting how learning is embedded in the world. Design grounded in the situated view therefore treats **environmental design, sensor–actuator loops, and social context** as primary variables rather than optional add‑ons.
 
 - 👶 **Human learning**: For humans, language and skills are not acquired solely by reward and punishment but through immersion in family, community, and everyday interaction. Mastery of language and culture emerges from everyday conversation, gestures, emotional exchange, and immersion in cultural norms [@pfeifer_2006-HowBodyShapes; @clark_1997-BeingTherePutting]. Ethnographic and developmental work supports that much of early learning is scaffolded by social routines and embodied interaction rather than isolated reinforcement signals.
 
@@ -245,7 +245,7 @@ These foundational concepts remind us that intelligence is not the starting poin
 
 ### –🏮🧬 The Connectionist View {#sec-learning-Connectionist}
 
-From the **[Connectionist](02-05-connectionism.en.qmd)** view, learning is a process in which "**changes in the strength of connections across a network of neurons**" form knowledge and ability, focused on "plasticity" and "long-term potentiation." Here, noun «options» are defined as structures like "neuron," "synapse," and "weight," forming the core vocabulary of connectionism.
+From the **[Connectionist](02-05-connectionism.qmd)** view, learning is a process in which "**changes in the strength of connections across a network of neurons**" form knowledge and ability, focused on "plasticity" and "long-term potentiation." Here, noun «options» are defined as structures like "neuron," "synapse," and "weight," forming the core vocabulary of connectionism.
 
 - 👶 **Human learning**: neurons in the brain continually adjust connection strength through **synaptic plasticity**. A child learns to play piano because long-term practice gradually strengthens the relevant neural circuits, forming "muscle memory."
 - 🤖 **Machine learning**: in artificial neural networks, learning is realized through **weight updates**. Every forward pass and backward pass adjusts "connection strength" to minimize an error function — this is the core of Deep Learning.
@@ -294,7 +294,7 @@ Take **Large Language Models** (LLMs) as an example: they can be seen as a "mutu
 - 🏮🛣 **Situated-ist dimension**: although LLMs lack true embodiment, within a "conversational situation" they gradually learn to adjust their responses, simulating the context of social interaction.    
 - 🏮🧬 **Connectionist dimension**: the core of an LLM is a massive neural network that captures patterns in language data through weight updates, forming an "internal little map."    
 
-In particular, because [Neural Networks](04-03-neural_networks.en.qmd) are analogous to **neural plasticity** (and to the [Connectionist](02-05-connectionism.en.qmd) view), their capacity for "generation" and "pruning" makes such models more prone to forming a **stimulus–response**-like behavior pattern — a tendency that **RLHF** then trains directly against, forming an "**asymmetric game of influence**":
+In particular, because [Neural Networks](04-03-neural_networks.qmd) are analogous to **neural plasticity** (and to the [Connectionist](02-05-connectionism.qmd) view), their capacity for "generation" and "pruning" makes such models more prone to forming a **stimulus–response**-like behavior pattern — a tendency that **RLHF** then trains directly against, forming an "**asymmetric game of influence**":
 
 - The **designer**, through reward-function and data choices, sets the behavioral boundaries and value tendencies of the LLM.    
 - The **user**, through interacting with the AI, is also gradually "trained" by its response patterns, developing new linguistic, cognitive, and behavioral habits.
@@ -342,15 +342,15 @@ These are not the same axis, and conflating them is a real risk. A reflex can be
 
 ### –😵‍💫 A Case Study: Large Language Models 🧞‍♀️
 
-Taking [Large Language Models](02-07-large_language_models.en.qmd) as an example: an LLM's fluency is a real achievement of **leveling** — its outputs draw on structures that resemble 🧘☸️ Reflective-Symbolic processing, producing long-form reasoning, planning language, and even something like metacognitive commentary on its own outputs.
+Taking [Large Language Models](02-07-large_language_models.qmd) as an example: an LLM's fluency is a real achievement of **leveling** — its outputs draw on structures that resemble 🧘☸️ Reflective-Symbolic processing, producing long-form reasoning, planning language, and even something like metacognitive commentary on its own outputs.
 
 But this leveled-seeming output sits on famously thin **grounding**. Although an LLM lacks a physical body, it interacts with humans through language, forming a kind of "linguistic embodiment" — a half-body intelligence [@sec-brain-actions-world]. Which noun «options» are included in that linguistic interaction (such as "dialogue," "role," "task") and which are structurally excluded (such as "touch," "spatial manipulation," lived consequence) directly shapes how ungrounded its world model remains, no matter how leveled its language sounds.
 
-This is the trap of noun-only competence: a system — or a person — can accumulate ever more sophisticated noun «options» at the Reflective-Symbolic tier while never grounding a single one of them in the concentric circles of self, relational context, and social-civilizational world laid out earlier in this appendix [@sec-world-in-nouns]. Leveling without grounding produces fluent ungroundedness; the antidote is not more theory, but the deliberate work of connecting a noun «option» back through the concentric circles — testing it against self (🔴), relational context (🟠), and social-civilizational world (🟢) — and, more fundamentally, against the [Symbol Grounding Problem](01-03-Symbol_Grounding_Problem.en.qmd) itself: a noun is not truly known until it is tied to something the mind can act on.
+This is the trap of noun-only competence: a system — or a person — can accumulate ever more sophisticated noun «options» at the Reflective-Symbolic tier while never grounding a single one of them in the concentric circles of self, relational context, and social-civilizational world laid out earlier in this appendix [@sec-world-in-nouns]. Leveling without grounding produces fluent ungroundedness; the antidote is not more theory, but the deliberate work of connecting a noun «option» back through the concentric circles — testing it against self (🔴), relational context (🟠), and social-civilizational world (🟢) — and, more fundamentally, against the [Symbol Grounding Problem](01-03-Symbol_Grounding_Problem.qmd) itself: a noun is not truly known until it is tied to something the mind can act on.
 
 ### -🌐 AQAL Four Quadrants: World Models for Actions 🏄🏼
 
-A brief cross-appendix note: this same grounding work can also be tested arena by arena — subjective, objective, intersubjective, interobjective — using the AQAL Four Quadrants, the framework Ken Wilber developed to map "who acts on whom, in what context" [@sec-aqal-8-taxonomy] in 💪[Action](appendix-action.en.qmd#sec-verbs-in-world). Where this appendix asks _which nouns are worth knowing_, that one asks _how to act on them_; the full quadrant framework, its attribution, and its capacity-ladder application belong there, not here.
+A brief cross-appendix note: this same grounding work can also be tested arena by arena — subjective, objective, intersubjective, interobjective — using the AQAL Four Quadrants, the framework Ken Wilber developed to map "who acts on whom, in what context" [@sec-aqal-8-taxonomy] in 💪[Action](appendix-action.qmd#sec-verbs-in-world). Where this appendix asks _which nouns are worth knowing_, that one asks _how to act on them_; the full quadrant framework, its attribution, and its capacity-ladder application belong there, not here.
 
 : The Concentric-Circle System of Noun «Options» {#tbl-brain-noun-circles}
 
@@ -373,7 +373,7 @@ In short, since machine learning in AI has not yet overcome the ability to auton
 >
 > From the physiological reflex of **reaction**, to the situational memory of **emotion**, to the symbolic reasoning of **reflection**;
 >
-> Humans, by way of ❝[mental fill-in](appendix-glossary.en.qmd#def-mental-fill-in)❞, seek shortcuts of knowledge and action; machines, by way of 🙶constructive fill-in🙷, expand the frontier of compute.
+> Humans, by way of ❝[mental fill-in](appendix-glossary.qmd#def-mental-fill-in)❞, seek shortcuts of knowledge and action; machines, by way of 🙶constructive fill-in🙷, expand the frontier of compute.
 >
 > This appendix sums up the "tripartite layering" and "frame-computation" of the mind's faculties, as the Tao-intelligence foundation for a human-machine duet.
 :::
@@ -384,7 +384,7 @@ In short, since machine learning in AI has not yet overcome the ability to auton
 > By moving beyond the conflict of rigid noun systems, we see that self and world are not separate entities, but an integrated, dynamic feedback system. Through this discipline, the self does not escape the world; it refines its capacity to navigate, reflect, and remain grounded within it. In the age of artificial intelligence, this capacity for deliberate self-evolution — leveled and grounded together — remains the definitive hallmark of living agency.
 :::
 
-This appendix set, "🧠Brain", focuses on the intelligent **noun** «options» — how to **attend to** human, machine, and even everything in the world, so as to forge a '**neural texture**' and see through the '**texture of mind**' in ourselves and in machines — continuing on from the **verb** «options» described in the previous appendix, "💪[Action](appendix-action.en.qmd)", and connecting to the "Constructive Scaffolding" of the next appendix, "🪜[Cognitive Capacity](appendix-cognitive_capacity.en.qmd)".
+This appendix set, "🧠Brain", focuses on the intelligent **noun** «options» — how to **attend to** human, machine, and even everything in the world, so as to forge a '**neural texture**' and see through the '**texture of mind**' in ourselves and in machines — continuing on from the **verb** «options» described in the previous appendix, "💪[Action](appendix-action.qmd)", and connecting to the "Constructive Scaffolding" of the next appendix, "🪜[Cognitive Capacity](appendix-cognitive_capacity.qmd)".
 
 ## 🧠 ❝Tri-Aspect Mind❞: Integrated Learning With a Taxonomy {#sec-tri-aspect-cognitive}
 
@@ -454,7 +454,7 @@ This cross-domain **taxonomy of cognitive faculties** distinguishes human mental
 * 🐘💞 The 🙶Emotive-Relational🙷 Mind: dominated by **human-machine interaction, affective computing, and social simulation**, emphasizing emotional understanding, suited to human-machine interaction and collaboration, and worth considering for building emotion- and relationship-tracking and response systems.
 * 🧘☸️ The 🙶Reflective-Symbolic🙷 Mind: dominated by **higher-order reasoning, planning, ethics, and alignment**, emphasizing symbolic reasoning, suited to planning, decision-making, and alignment, and capable of folding the norms and preparations of higher-order social cognition into analysis and decision-making through symbols and verification.
 
-This lens of **resource and energy consumption** (time and cognition) echoes the verb «**options**» from the previous appendix, "💪[Action](appendix-action.en.qmd)".
+This lens of **resource and energy consumption** (time and cognition) echoes the verb «**options**» from the previous appendix, "💪[Action](appendix-action.qmd)".
 
 This **energy-cost** lens matters a great deal, particularly as contemporary AI development has begun to weigh units of **compute cost** as well. One might say that behind the choice of noun «**options**», the very taxonomy of the ⟨**Tri-Aspect Mind**⟩ already carries a distinction in energy and time **compute cost**.
 
@@ -478,12 +478,12 @@ These noun «options» are therefore not merely classification labels — they f
 
 The ⟨**Tri-Aspect Mind**⟩ this book adopts is not merely an observation and generalization of biological minds, but also a **design blueprint for AI cognitive architecture**. Here, noun «options» turn into a design blueprint, mapped onto dimensions of time and space, becoming the vocabulary corresponding to AI problematics.
 
-By mapping the three mind types onto the **temporal dimension** (the gradual progression from fast reaction to long-term planning) and the **spatial dimension** (the expansion from one's own body, to social interaction, to the abstract symbolic world), we can take the following actions to address the related [㉄ AI Problematics](01----problematics.en.qmd):
+By mapping the three mind types onto the **temporal dimension** (the gradual progression from fast reaction to long-term planning) and the **spatial dimension** (the expansion from one's own body, to social interaction, to the abstract symbolic world), we can take the following actions to address the related [㉄ AI Problematics](01----problematics.qmd):
 
-* Addressing the 🖼️⏱️**[Frame Problem](01-04-Frame_Problem.en.qmd)**: define the "**perception—decision—action**" mode or module, clarifying the requirements of each different tier;
-* Addressing 👁️⯊ **[Gestalt Psychology](01-05-Gestalt_Psychology.en.qmd)**: provide "**mental fill-in**," supplying **pattern references** (reactive, 🙶emotive-relational🙷, 🙶reflective-symbolic🙷 types) so an appropriate cognitive tier can be chosen for a given application scenario, along with the possible cognitive shortcuts and heuristics it maps to.
-* Addressing the 🎯🛡️**[Alignment & Control Problem](01-06-Alignment_Control_Problem.en.qmd)**: design **ethical or behavioral constraints** to maintain controllability and predictability — designing corresponding **ethical or behavioral constraints** for each tier of mind, ensuring the system stays controllable and predictable across fast reaction, emotional interaction, and long-term planning.
-* Addressing the 🔤㊙ **[Symbol Grounding Problem](01-03-Symbol_Grounding_Problem.en.qmd)**: based on the reaction-time scale, plan the system's "**information needs**" (real-time perceptual data, social-interaction data, symbols and knowledge bases) and **resource allocation** (compute speed, memory structure, inference engine).
+* Addressing the 🖼️⏱️**[Frame Problem](01-04-Frame_Problem.qmd)**: define the "**perception—decision—action**" mode or module, clarifying the requirements of each different tier;
+* Addressing 👁️⯊ **[Gestalt Psychology](01-05-Gestalt_Psychology.qmd)**: provide "**mental fill-in**," supplying **pattern references** (reactive, 🙶emotive-relational🙷, 🙶reflective-symbolic🙷 types) so an appropriate cognitive tier can be chosen for a given application scenario, along with the possible cognitive shortcuts and heuristics it maps to.
+* Addressing the 🎯🛡️**[Alignment & Control Problem](01-06-Alignment_Control_Problem.qmd)**: design **ethical or behavioral constraints** to maintain controllability and predictability — designing corresponding **ethical or behavioral constraints** for each tier of mind, ensuring the system stays controllable and predictable across fast reaction, emotional interaction, and long-term planning.
+* Addressing the 🔤㊙ **[Symbol Grounding Problem](01-03-Symbol_Grounding_Problem.qmd)**: based on the reaction-time scale, plan the system's "**information needs**" (real-time perceptual data, social-interaction data, symbols and knowledge bases) and **resource allocation** (compute speed, memory structure, inference engine).
 
 This taxonomy lets us integrate the structural foundations of neuroscience, the processing modes of cognitive science, and the social functions of evolutionary behavioral science across disciplines, offering an **operable, extensible, and alignable** cognitive-model framework for future AI system construction.
 
@@ -531,12 +531,12 @@ These noun «options» therefore become the core vocabulary for understanding ho
 
 Training humans and machines to shape a new, improved relationship between **individual** and **world** becomes, in this way, the overall **practice** of the **world model**. Here, noun «options» turn into words like "individual," "world," and "action," highlighting that practice must handle the interaction between human-machine and world.
 
-This also includes systematically and creatively integrating and applying the above theories of mind together with related AI knowledge points, such as [Neural Networks](04-03-neural_networks.en.qmd) and [Hebb's Rule](09-07-hebb_rule.en.qmd).
+This also includes systematically and creatively integrating and applying the above theories of mind together with related AI knowledge points, such as [Neural Networks](04-03-neural_networks.qmd) and [Hebb's Rule](09-07-hebb_rule.qmd).
 
 - For example, this book synthesizes the above theories to propose the ⟨**Tri-Aspect Mind**⟩ and compares it with 🦾"Embodied" AI, exploring how to train an AI's world model across the "reaction—emotion—symbol" three tiers.        
 - For example, regarding the `Social Brain Hypothesis`, we might ask: is the **scaling** of an LLM constrained by the **stable scale** and **interaction limits** of human groups, networks, and organizations?
 
-Because this involves the interaction between **individual** and **world**, training a world model must inevitably deal with the actions an **individual** can take in the **world** and the corresponding capability ladder — and this book has already laid out the verb «options» in “🏄🏼[Action](appendix-action.en.qmd#sec-verbs-in-world)”.
+Because this involves the interaction between **individual** and **world**, training a world model must inevitably deal with the actions an **individual** can take in the **world** and the corresponding capability ladder — and this book has already laid out the verb «options» in “🏄🏼[Action](appendix-action.qmd#sec-verbs-in-world)”.
 
 These considerations about the **individual** — whether a machine or a person — and the degree of mental capacity brought to understanding the **world**, make us realize that the mechanism of the '**texture of mind**' is fundamentally a game of information and energy between **individual** and **world**; the **benefits and costs** of "mind training" are a negotiation between **individual** and **world**.
 
@@ -546,11 +546,11 @@ These noun «options» therefore let us describe the practical path of mind trai
 
 These questions connect directly to a series of hypotheses about the future of AI. Here, noun «options» are extended into hypothesis vocabulary such as "alignment," "commons," "empire," "tribalization," and "utility," forming multiple narratives of AI's future:
 
-- 💥 **[AI Alignment Collapse Hypothesis](appendix-glossary.en.qmd#ai-alignment-collapse)**: if an AI's world model fails to embed human values, will alignment failure follow?    
-- 🌐 **[AI Commons Hypothesis](appendix-glossary.en.qmd#ai-commons-hypothesis)**: if an AI's world model can be shared, could it become a form of public infrastructure?    
-- 👑 **[AI Empire Hypothesis](appendix-glossary.en.qmd#ai-empire-hypothesis)**: if an AI's world model is monopolized, will a new power structure emerge?    
-- ⚔️ **[AI Tribalization/Fragmentation Hypothesis](appendix-glossary.en.qmd#ai-tribalization-fragmentation)**: will different groups each train their own AI world models, leading to a fragmentation of values?    
-- 🚰 **[AI Utilities Hypothesis](appendix-glossary.en.qmd#ai-utilities-hypothesis)**: will AI become a basic utility of daily life, like water or electricity?
+- 💥 **[AI Alignment Collapse Hypothesis](appendix-glossary.qmd#ai-alignment-collapse)**: if an AI's world model fails to embed human values, will alignment failure follow?    
+- 🌐 **[AI Commons Hypothesis](appendix-glossary.qmd#ai-commons-hypothesis)**: if an AI's world model can be shared, could it become a form of public infrastructure?    
+- 👑 **[AI Empire Hypothesis](appendix-glossary.qmd#ai-empire-hypothesis)**: if an AI's world model is monopolized, will a new power structure emerge?    
+- ⚔️ **[AI Tribalization/Fragmentation Hypothesis](appendix-glossary.qmd#ai-tribalization-fragmentation)**: will different groups each train their own AI world models, leading to a fragmentation of values?    
+- 🚰 **[AI Utilities Hypothesis](appendix-glossary.qmd#ai-utilities-hypothesis)**: will AI become a basic utility of daily life, like water or electricity?
 
 These noun «options» are therefore both the hypothesis language with which we test AI world models, and a future lexicon for humanity's civilizational practice. 
 
@@ -570,7 +570,7 @@ The strongest empirical grounding for these hypotheses is not any single predict
 
     - The **mind** is a '**neural texture**' that evolution has produced, with its own energy and principles (neural signals calibrating muscular action). Humans should come to grasp the mind's mechanism of energy and signal transformation, and understand how neurons and muscles operate.  
 
-    - The **machine** is humanity's technique of converting and accelerating energy in imitation of the **mind** — it is both an extension of mind and an embodiment of technology. Machines can imitate the forms that human mental evolution has taken (such as [Neural Networks](04-03-neural_networks.en.qmd)), and can even, in conversation, display something of the wonder of natural creation (such as [Large Language Models](02-07-large_language_models.en.qmd)).  
+    - The **machine** is humanity's technique of converting and accelerating energy in imitation of the **mind** — it is both an extension of mind and an embodiment of technology. Machines can imitate the forms that human mental evolution has taken (such as [Neural Networks](04-03-neural_networks.qmd)), and can even, in conversation, display something of the wonder of natural creation (such as [Large Language Models](02-07-large_language_models.qmd)).  
 
     - From the standpoint of the world, a genuine **question** is worth raising: as humans create machines that in turn create the future, there will be both merit and fault (such as in resource and energy allocation), both gain and risk (such as in fast and slow thinking). In the end, what kind of future can humans and machines co-create together?
 

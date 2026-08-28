@@ -17,7 +17,7 @@ tags:
 
 > "Seeking a hug from ChatGPT after an exhausting day?" 👨‍👩‍👧‍👦 Can an AI **Matchmaker** truly change a person's life?
 
-From **oracle bones** to **Large Language Models (LLMs)**, humanity has continuously sought ❝[mental fill-in](appendix-glossary.en.qmd#def-mental-fill-in)❞ to expand consciousness and solve problems. 
+From **oracle bones** to **Large Language Models (LLMs)**, humanity has continuously sought ❝[mental fill-in](appendix-glossary.qmd#def-mental-fill-in)❞ to expand consciousness and solve problems. 
 
 How can we understand and master the latest **mental fill-in** technology—Artificial Intelligence (AI)?
 
@@ -36,7 +36,7 @@ How can we understand and master the latest **mental fill-in** technology—Arti
 
 ## 🎲 The Dao & Artifice of Intelligence<br/>An AI Game Playbook
 
-This handbook is rooted in the foundational **problematics** (referring to foundational questions, frameworks, methods, and systemic awareness collectively established through a field's development; see [Part 1 ㉄](01----problematics.en.qmd)) of artificial intelligence. Through rigorous **fact-checking** and **logical tracing**, it guides readers in constructing their own personalized **[🪜 Knowledge-Action Scaffolding](00-03-notes-constructive_fill-in.en.qmd)**.
+This handbook is rooted in the foundational **problematics** (referring to foundational questions, frameworks, methods, and systemic awareness collectively established through a field's development; see [Part 1 ㉄](01----problematics.qmd)) of artificial intelligence. Through rigorous **fact-checking** and **logical tracing**, it guides readers in constructing their own personalized **[🪜 Knowledge-Action Scaffolding](00-03-notes-constructive_fill-in.qmd)**.
 
 This scaffolding—capable of "framing intelligence" with holistic "perspective"—helps readers evaluate existing tech solutions while inspiring innovative approaches in **AI Engineering** (see Part 10 🌉).
  
@@ -51,26 +51,26 @@ A visual mind map of the book structure is available at @fig-mindmap.
 
 ## 📦 Structure of This Book
 
-Anchored in core **problematics** at its origin (see [Part 1 ㉄](01----problematics.en.qmd)) and aiming toward innovative **AI Engineering** methodologies at its destination (see Part 10 🌉), this handbook traverses the following chapters:
+Anchored in core **problematics** at its origin (see [Part 1 ㉄](01----problematics.qmd)) and aiming toward innovative **AI Engineering** methodologies at its destination (see Part 10 🌉), this handbook traverses the following chapters:
 
 * Selecting knowledge and case studies focused on **embodiment**, **game theory**, and future foresight—ensuring systematic understanding of historical evolution and inspiring innovative future insights:
-    * "Game-Theoretic AI" (see [Part 7 🏆](07----game_ai.en.qmd)),
-    * "Embodied AI" (see [Part 8 🦾](08----embodied_ai.en.qmd)), and
-    * "AI Mathematics" (see [Part 9 📐](09----ai_math.en.qmd)).
+    * "Game-Theoretic AI" (see [Part 7 🏆](07----game_ai.qmd)),
+    * "Embodied AI" (see [Part 8 🦾](08----embodied_ai.qmd)), and
+    * "AI Mathematics" (see [Part 9 📐](09----ai_math.qmd)).
 * Systematically introducing **schools** and **paradigms** to integrate classical foundations with modern practices:
-    * [Part 2 🎏🏮](02----schools_paradigms.en.qmd) Schools & Paradigms
-        * **2.1** 🎏🏮🏛️ [Symbolic AI / Symbolism](02-01-symbolic_ai.en.qmd)
-        * **2.5** 🏮🧬 [Connectionism](02-05-connectionism.en.qmd)
-        * **2.6** 🏮💪 [Behaviorism](02-06-behaviorism.en.qmd)
-    * [Part 3 🏛️](03----symbolic_ai.en.qmd) Symbolic AI
-    * [Part 4 🌀](04----statistical_ai.en.qmd) Statistical AI
-* Highlighting systemic innovation and analytical depth by synthesizing the 5 "AI Orientations" (see [Part 5 ☸](05----ai_orientations.en.qmd)) and 6 points of "Analytics & Decisions" (see [Part 6 ❖](06----analytics_decisions.en.qmd)).
+    * [Part 2 🎏🏮](02----schools_paradigms.qmd) Schools & Paradigms
+        * **2.1** 🎏🏮🏛️ [Symbolic AI / Symbolism](02-01-symbolic_ai.qmd)
+        * **2.5** 🏮🧬 [Connectionism](02-05-connectionism.qmd)
+        * **2.6** 🏮💪 [Behaviorism](02-06-behaviorism.qmd)
+    * [Part 3 🏛️](03----symbolic_ai.qmd) Symbolic AI
+    * [Part 4 🌀](04----statistical_ai.qmd) Statistical AI
+* Highlighting systemic innovation and analytical depth by synthesizing the 5 "AI Orientations" (see [Part 5 ☸](05----ai_orientations.qmd)) and 6 points of "Analytics & Decisions" (see [Part 6 ❖](06----analytics_decisions.qmd)).
 
 The inclusion of Game‑oriented AI also echoes the “Dao / Artifice” theme because current LLM‑agent research uses simulated social interaction, cooperation, planning, and feedback as testbeds for strategic behavior, but finds persistent instability from prompt sensitivity, hallucinations, and control problems [@Lu2024LLMs; @russell2021]. While these studies show why games should be treated as **AGI testbeds** rather than proof of general intelligence, this book takes a step further by asking readers to be aware of the manipulation and power dynamics of AI design and use.
 
 ***
 
-This chapter structure not only outlines a comprehensive framework but also encourages readers to build their own **[🪜 Knowledge-Action Scaffolding](00-03-notes-constructive_fill-in.en.qmd)**, systematically generating essential **Verb-Noun** combinations via the author's novel taxonomy [Note @nte-ai-scaffolding].
+This chapter structure not only outlines a comprehensive framework but also encourages readers to build their own **[🪜 Knowledge-Action Scaffolding](00-03-notes-constructive_fill-in.qmd)**, systematically generating essential **Verb-Noun** combinations via the author's novel taxonomy [Note @nte-ai-scaffolding].
 
 ## 🖼️ Scope of This Book
 
@@ -84,7 +84,7 @@ The book believes that despite the success of LLM in securing capital investment
 
 ## 🧭 “Three Linked Appendices”: A Framework for Knowing and Acting that works for Human and AI alike.
 
-Supplementing and triangulating all the content chapters, this book presents three appendices that echo one another: [“💪Action”](appendix-action.en.qmd), [“🧠Brain”](appendix-brain.en.qmd), and [“🪜Capacity”](appendix-cognitive_capacity.en.qmd). 
+Supplementing and triangulating all the content chapters, this book presents three appendices that echo one another: [“💪Action”](appendix-action.qmd), [“🧠Brain”](appendix-brain.qmd), and [“🪜Capacity”](appendix-cognitive_capacity.qmd). 
 
 Why do we need these? Recent conceptual work explicitly argues that effective human–AI collaboration depends on three linked questions: the ontological role of AI, how humans and AI jointly construct knowledge, and how systems practically enable that interaction [@Apriyani2025A]. This maps closely to the **Action–Brain–Capacity triad**, and further supports treating both AI and human agency as a continuum rather than as separate categorie.
 
@@ -112,12 +112,12 @@ Synthesizing selected classical and contemporary authorities across Eastern and 
 
 Readers are encouraged to start their exploration from either of these two entry points:
 
-* [Part 2 🎏🏮](02----schools_paradigms.en.qmd) Schools & Paradigms
-* [Part 5 ☸](05----ai_orientations.en.qmd) Distinguishing the 5 AI Orientations [Tip @tip-ai-orientations]
+* [Part 2 🎏🏮](02----schools_paradigms.qmd) Schools & Paradigms
+* [Part 5 ☸](05----ai_orientations.qmd) Distinguishing the 5 AI Orientations [Tip @tip-ai-orientations]
 
 ::: {#tip-book-zen .callout-tip title="Zen Poem: 🎲 The Game vs. 🏁 The Framing"}
 
-This book is titled *Framing Intelligence*, also subtitled *The Dao & Artifice of Intelligence*. Beyond emphasizing the core AI problem—[The Frame Problem](01-04-Frame_Problem.en.qmd)—it attempts a touch of Zen philosophy to illuminate the game-theoretic dilemma of contemporary AI:
+This book is titled *Framing Intelligence*, also subtitled *The Dao & Artifice of Intelligence*. Beyond emphasizing the core AI problem—[The Frame Problem](01-04-Frame_Problem.qmd)—it attempts a touch of Zen philosophy to illuminate the game-theoretic dilemma of contemporary AI:
 
 - 🏆 **"Within the game, victory and defeat feel real"** ~ Inside the play, win and loss are palpable, yet remain relative phenomena.
 - 🧭 **"Contemplating the frame, true composure is revealed"** ~ Transcending game boundaries to observe the whole (framing) brings genuine grounding.

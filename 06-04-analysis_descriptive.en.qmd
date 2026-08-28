@@ -29,7 +29,7 @@ This page is not yet fully translated into English. Below is the original conten
 
 ❖ 📘 `描述型分析`如何幫助我們看清現況，為後續診斷、預測與指導奠定**可靠的事實基礎**？
 
-`描述型分析`（Descriptive Analysis）的目的在回答「**發生了什麼？**」。它透過**資料彙整**、**統計摘要**與**視覺化**，將複雜的資訊轉化為易於理解的洞察，為後續的診斷、預測與指導提供事實基礎。這一階段強調對資料的**準確呈現**與**可讀性**，確保決策建立在可靠的觀測之上。它要求資料處理、可視化能力，以及品質管理，因為資料的完整性與一致性影響後續分析的可信度。因而它對映到如「_當下，啥才重要？_」　AI 的[框架問題](01-04-Frame_Problem.en.qmd)等等。
+`描述型分析`（Descriptive Analysis）的目的在回答「**發生了什麼？**」。它透過**資料彙整**、**統計摘要**與**視覺化**，將複雜的資訊轉化為易於理解的洞察，為後續的診斷、預測與指導提供事實基礎。這一階段強調對資料的**準確呈現**與**可讀性**，確保決策建立在可靠的觀測之上。它要求資料處理、可視化能力，以及品質管理，因為資料的完整性與一致性影響後續分析的可信度。因而它對映到如「_當下，啥才重要？_」　AI 的[框架問題](01-04-Frame_Problem.qmd)等等。
 
 在 AI 與自動化工具的加持下，`描述型分析`不再只是靜態的報表，而是能即時更新、互動探索的例如互動式儀表板、多語言摘要生成等工具，並結合**生成式 AI**與**決策演算法**，形成動態的「**情境感知層**」，持續為組織提供最新、最準確的決策基礎，還能主動提示異常與趨勢變化的智慧觀測系統。
 
@@ -42,7 +42,7 @@ This page is not yet fully translated into English. Below is the original conten
 📘 **現況觀測器**：`描述型分析`整理與呈現資料，揭示趨勢與模式，為後續分析提供事實基礎。
 
 - 回答「發生了什麼？」——它位於**描述 ⮫ 診斷 ⮫ 預測 ⮫ 指導** 數據分析價值鏈的第 1 階段，是後續分析的起點。    
-- 對映到如「_當下，啥才重要？_」 AI 的 [框架問題](01-04-Frame_Problem.en.qmd) 等問題意識。
+- 對映到如「_當下，啥才重要？_」 AI 的 [框架問題](01-04-Frame_Problem.qmd) 等問題意識。
 - 結合**生成式 AI** 與 **決策演算法**，形成動態的「**情境感知層**」：
 	- **生成式 AI** 可生成多視角敘事與互動式可視化，還能應用 **HITL（人類在迴圈中，Human‑in‑the‑loop）** 與 **RLHF（人類回饋強化學習，Reinforcement Learning from Human Feedback）** 優化生成結果。	    
 	- **決策演算法** 可將描述結果轉化為異常檢測與基準偏移警示，觸發動態的後續分析計算。
@@ -61,7 +61,7 @@ This page is not yet fully translated into English. Below is the original conten
 
 位於數據決策鏈（**描述 ⮫ 診斷 ⮫ 預測 ⮫ 指導**）的第一環，它為後續的「**描述 ⮫ 診斷**」分析提供事實基礎。它不預測、不解釋，只專注於「發生了什麼」，讓決策者在資訊洪流中迅速抓住事實基準。若沒有這層分析，後續的診斷、預測與指導將失去根據，猶如在霧中航行。  
 
-可以說，`描述型分析`對映到 **[布魯姆分類學](appendix-action.en.qmd)** 中的**記憶**（Remember）認知能力。差別在於前者是支持**組織**決策，後者是增強**個人**學習。
+可以說，`描述型分析`對映到 **[布魯姆分類學](appendix-action.qmd)** 中的**記憶**（Remember）認知能力。差別在於前者是支持**組織**決策，後者是增強**個人**學習。
 
 ### 🤓📘 功能與目的
 
@@ -124,7 +124,7 @@ This page is not yet fully translated into English. Below is the original conten
 
 總結來說，HITL 與 RLHF 讓 `描述型分析` 能夠整合不同知識領域的 `描述型分析` 智慧與經驗，確保最終**事實**與**呈現**兼具科學性與實用性，並形成 `描述型分析` 的「**情境感知層**」，在提升診斷、預測與指導的應用價值時，持續提供**可靠的事實基準**。
 
-這進一步還突顯了[框架問題](01-04-Frame_Problem.en.qmd)的現代觀點「當下，啥才重要？」的相關性問題，要如何按決策情境有效篩選「事實」資料。因此需注意相關的創意加值亦有可能導致信息「偏聽」或「偏食」的問題。
+這進一步還突顯了[框架問題](01-04-Frame_Problem.qmd)的現代觀點「當下，啥才重要？」的相關性問題，要如何按決策情境有效篩選「事實」資料。因此需注意相關的創意加值亦有可能導致信息「偏聽」或「偏食」的問題。
 
 ***
 
@@ -151,7 +151,7 @@ This page is not yet fully translated into English. Below is the original conten
 - 🧭 **情境感知優化**：根據外部環境變化（如市場行情、天氣、供應鏈狀況）動態調整分析重點與決策規則。    
 - 📡 **跨系統觸發整合**：當`描述型分析`偵測到特定事件時，可自動觸發跨平台或跨部門的工作流程，例如啟動客服支援、調整庫存或發送行銷活動。
 
-這對個人認知能力亦有啟發性，對映到 **[布魯姆分類學](appendix-action.en.qmd)** 中的**記憶**：
+這對個人認知能力亦有啟發性，對映到 **[布魯姆分類學](appendix-action.qmd)** 中的**記憶**：
 
 - 🎯 **問題意識**：我們想透過數據了解什麼？目標受眾是誰？他們需要哪些關鍵數據來理解現況？
 - 🗺️ **建構資源**：如何建立高效的數據管道，確保資料能即時、準確地被收集與整理？
@@ -164,21 +164,21 @@ This page is not yet fully translated into English. Below is the original conten
 
 ## 👉接下來
 
-* 決策鏈下一步（ `描述型` **⮫ 🟡😷🩺 [診斷型](06-01-analysis_diagnostic.en.qmd) ⮫ [預測型](06-02-analysis_predictive.en.qmd) ⮫ [指導型](06-03-analysis_prescriptive.en.qmd)** ）
+* 決策鏈下一步（ `描述型` **⮫ 🟡😷🩺 [診斷型](06-01-analysis_diagnostic.qmd) ⮫ [預測型](06-02-analysis_predictive.qmd) ⮫ [指導型](06-03-analysis_prescriptive.qmd)** ）
 * 深究：
-	* 🟣🙀🎨 [生成式 AI](06-05-analysis_generative.en.qmd)
-	* 🔁😽🪄  [決策演算法](06-06-decision_making_algorithm.en.qmd)
+	* 🟣🙀🎨 [生成式 AI](06-05-analysis_generative.qmd)
+	* 🔁😽🪄  [決策演算法](06-06-decision_making_algorithm.qmd)
 
 ## 🪸請參閱
 
-參照 **[🔖附錄🌌 心智圖](appendix-evolving_mindmap.en.qmd)** 將`描述型分析`與下述概念對比，是否能被大致歸類到「描述世界」的範圍：
+參照 **[🔖附錄🌌 心智圖](appendix-evolving_mindmap.qmd)** 將`描述型分析`與下述概念對比，是否能被大致歸類到「描述世界」的範圍：
 
-* [第參篇 🏛️](03----symbolic_ai.en.qmd)　「符號流」AI（Symbolic AI）
-	* **3.1** 🏛️⊨∴ [形式邏輯](03-01-formal_logic.en.qmd)（Formal Logic）
-	* * **3.4** 🏛️🛠️🏗️ [知識表徵](03-04-knowledge_representation.en.qmd)（Knowledge Representation）
-* [第肆篇 🌀](04----statistical_ai.en.qmd)　「統計流」AI（Statistical AI）
-	* **4.1** 🌀🎲🌿 [機率性關聯](04-01-probabilistic_association.en.qmd)（Probabilistic Association）
-	* **4.4** 🌀🛠️🤏 [特徵工程](04-04-feature_engineering.en.qmd)（Feature Engineering）
+* [第參篇 🏛️](03----symbolic_ai.qmd)　「符號流」AI（Symbolic AI）
+	* **3.1** 🏛️⊨∴ [形式邏輯](03-01-formal_logic.qmd)（Formal Logic）
+	* * **3.4** 🏛️🛠️🏗️ [知識表徵](03-04-knowledge_representation.qmd)（Knowledge Representation）
+* [第肆篇 🌀](04----statistical_ai.qmd)　「統計流」AI（Statistical AI）
+	* **4.1** 🌀🎲🌿 [機率性關聯](04-01-probabilistic_association.qmd)（Probabilistic Association）
+	* **4.4** 🌀🛠️🤏 [特徵工程](04-04-feature_engineering.qmd)（Feature Engineering）
 
 ***
 

@@ -1,58 +1,58 @@
-encoding: "UTF-8"
-lang: en
-language: _language-en.yml
+  encoding: "UTF-8"
+  lang: en
+  language: _language-en.yml
 
-project:
-  type: book
-  resources:
-    - CNAME               # Added to ensure your domain file is kept during rendering
-  output-dir: _book
+  project:
+    type: book
+    resources:
+      - CNAME               # Added to ensure your domain file is kept during rendering
+    output-dir: _book
 
-book:
-  title: "Harnessing Intelligence with Frames"
-  subtitle: "<small>A Playbook for AI Life Games</small>"
-  cover-image: cover.png
-  cover-image-alt: "Book cover showing the Illustrations of Alice and the Dodo from Alice's Adventures in Wonderland, by John Tenniel (1865)"  
-  author:
-    - name: "Han-Teng Liao (廖漢騰)"
-      orcid: "0000-0003-1081-5599"   # replace with actual ORCID
-      affiliations:
-        - name: "Independent Researcher"
-  date: "2026-07-23"   # ISO format so it parses/localizes correctly across formats
-  site-url: "https://book.frmai.help"   # matches CNAME; update if the domain changes
-  sidebar:
-    style: docked
-    collapse-level: 1
-  search: true
-  page-navigation: true
-  reader-mode: true
-  page-footer:
-    left: |
-      🙶Harnessing Intelligence with Frames: A Playbook for AI Life Games🙷 
-      © Han-Teng Liao
-    right: |
-      aka 🙶The Tao of Intelligence: AI Game Playbook🙷 
-      Built with <a href="https://quarto.org/">Quarto</a>.
+  book:
+    title: "Harnessing Intelligence with Frames"
+    subtitle: "<small>A Playbook for AI Life Games</small>"
+    cover-image: cover.png
+    cover-image-alt: "Book cover showing the Illustrations of Alice and the Dodo from Alice's Adventures in Wonderland, by John Tenniel (1865)"  
+    author:
+      - name: "Han-Teng Liao (廖漢騰)"
+        orcid: "0000-0003-1081-5599"   # replace with actual ORCID
+        affiliations:
+          - name: "Independent Researcher"
+    date: "2026-07-23"   # ISO format so it parses/localizes correctly across formats
+    site-url: "https://book.frmai.help"   # matches CNAME; update if the domain changes
+    sidebar:
+      style: docked
+      collapse-level: 1
+    search: true
+    page-navigation: true
+    reader-mode: true
+    page-footer:
+      left: |
+        🙶Harnessing Intelligence with Frames: A Playbook for AI Life Games🙷 
+        © Han-Teng Liao
+      right: |
+        aka 🙶The Tao of Intelligence: AI Game Playbook🙷 
+        Built with <a href="https://quarto.org/">Quarto</a>.
 
-format:
-  html:
-    lang: en                           # 確保英文配置下 HTML 語系正確
-    css: styles.css
-    theme:
-      - zephyr
-      - styles-en.scss
-    toc: true
-    toc-location: right
-    number-sections: true
-    number-depth: 4
-    grid:
-      sidebar-width: 330px
-      body-width: 850px
-      margin-width: 260px
-      gutter-width: 1.5rem
-    toc-title: "〜📖 On This Page 📑〜"
-    crossref-nte-prefix: "Note"
-    crossref-nte-title: "Note"
-    crossref-tip-prefix: "Tip"
-    crossref-tip-title: "Tip"
-    callout-important-title: "Important"
+  format:
+    html:
+      lang: en                           # 確保英文配置下 HTML 語系正確
+      css: styles.css
+      theme:
+        - zephyr
+        - styles-en.scss
+      toc: true
+      toc-location: right
+      number-sections: true
+      number-depth: 4
+      grid:
+        sidebar-width: 330px
+        body-width: 850px
+        margin-width: 260px
+        gutter-width: 1.5rem
+      toc-title: "〜📖 On This Page 📑〜"
+      crossref-nte-prefix: "Note"
+      crossref-nte-title: "Note"
+      crossref-tip-prefix: "Tip"
+      crossref-tip-title: "Tip"
+      callout-important-title: "Important"

@@ -35,12 +35,12 @@ This page is not yet fully translated into English. Below is the original conten
 
 這些實踐正是`「具身派」AI`（embodied AI） 或「實體」AI （physical AI） 的典型應用，也展示 **具身** 對 **人工智慧** 的重要性：
 
-- 首先，🔤⚓ [符碼紮根問題](01-03-Symbol_Grounding_Problem.en.qmd) 啟示：若無與世界互動的「身體」，符號無法真正落地。  
-- 其次，🖼️⏱️ [框架問題](01-04-Frame_Problem.en.qmd) 揭示：若缺乏「具身感知」，難以在複雜及動態環境中區分何者相關、何者無關。  
-- 再來，👁️⯊ [完形心理](01-05-Gestalt_Psychology.en.qmd) 說明感知依賴「身體—環境」的整體性，正是「具身認知」的基礎。  
-- 還有，☸🤖 [智能體導向](05-03-oriented_agent.en.qmd) 與 ☸🛠 [任務導向](05-01-oriented_task.en.qmd) 的實踐，將 AI 從純符號推理推向「感知—行動」閉環。
-- 再來，🏆🐭🗺️ [IEEE電子老鼠走迷宮](07-01-ieee_micromouse.en.qmd) 等，在物理空間中測試「身體—環境—決策」的迴路，開展🔁😽🪄 [決策演算法](06-06-decision_making_algorithm.en.qmd) 重要分支。
-- 近來，🧠⚡ [赫布學習論](09-07-hebb_rule.en.qmd) 提供「神經連結因共現而強化」的利用🌀🪢🧠 [神經網路](04-03-neural_networks.en.qmd) 仿擬腦活動「擬具身」學習能力，產出大語言模性，而「具身認知」的 **擴展心靈** 在此獲得新詮釋：人類與 AI 工具形成「群體認知系統」，並在社會互動中展現「湧現交互」。
+- 首先，🔤⚓ [符碼紮根問題](01-03-Symbol_Grounding_Problem.qmd) 啟示：若無與世界互動的「身體」，符號無法真正落地。  
+- 其次，🖼️⏱️ [框架問題](01-04-Frame_Problem.qmd) 揭示：若缺乏「具身感知」，難以在複雜及動態環境中區分何者相關、何者無關。  
+- 再來，👁️⯊ [完形心理](01-05-Gestalt_Psychology.qmd) 說明感知依賴「身體—環境」的整體性，正是「具身認知」的基礎。  
+- 還有，☸🤖 [智能體導向](05-03-oriented_agent.qmd) 與 ☸🛠 [任務導向](05-01-oriented_task.qmd) 的實踐，將 AI 從純符號推理推向「感知—行動」閉環。
+- 再來，🏆🐭🗺️ [IEEE電子老鼠走迷宮](07-01-ieee_micromouse.qmd) 等，在物理空間中測試「身體—環境—決策」的迴路，開展🔁😽🪄 [決策演算法](06-06-decision_making_algorithm.qmd) 重要分支。
+- 近來，🧠⚡ [赫布學習論](09-07-hebb_rule.qmd) 提供「神經連結因共現而強化」的利用🌀🪢🧠 [神經網路](04-03-neural_networks.qmd) 仿擬腦活動「擬具身」學習能力，產出大語言模性，而「具身認知」的 **擴展心靈** 在此獲得新詮釋：人類與 AI 工具形成「群體認知系統」，並在社會互動中展現「湧現交互」。
 - 🛣🤖  最終，正是本篇將依序探討的「具身派」AI 核心知識點。
 
 :::
@@ -96,34 +96,34 @@ This page is not yet fully translated into English. Below is the original conten
 
 * 🦾🔋 **1950s–1960s：早期機器人學與控制理論**  
     - 工業自動化與控制理論奠定了「實體驅動」的基礎，出現機械手臂（Unimate, 1961）與早期感測器，AI 開始具備「身體」雛形。  
-    - ↪️對應知識點：**8.1** 🦾🎬🔋 [機器人學與實體驅動](08-01-robotics_and_physical_actuation.en.qmd)  
+    - ↪️對應知識點：**8.1** 🦾🎬🔋 [機器人學與實體驅動](08-01-robotics_and_physical_actuation.qmd)  
 - 📡🌡️ **1970s–1980s：符號派挑戰與行動派興起**  
     - 傳統 AI 側重於建立完整世界模型的「心智模型」，但在真實環境中表現不佳顯得脆弱。  
     - 機器人學家 **布魯克斯**提出「**智慧無需表徵**」，以 `包容式架構` 展示複雜行為有可能從簡單「感知—行動」模組湧現。  
-    - ↪️參照知識點：**8.2** 🦾📡🌡️ [感知與環境](08-02-perception_and_environment.en.qmd)  
+    - ↪️參照知識點：**8.2** 🦾📡🌡️ [感知與環境](08-02-perception_and_environment.qmd)  
 - 🧠🪷 **1990s：具身認知與擴展心靈**  
     - 認知科學家 **安迪·克拉克**在《在場》（_Being There_, 1997）提出「**具身性**」與「**擴展心靈**」觀點。  
     - 強調智慧不是孤立於大腦，而是「大腦—身體—環境」的動態耦合，並指出**工具**與**外部環境**可成為認知系統的一部分。  
-    - ↪️對應知識點：**8.3** 🦾🔄🖼️ [自適應機器人](08-03-adaptive_robotics.en.qmd) 的理論基礎逐漸成形。  
+    - ↪️對應知識點：**8.3** 🦾🔄🖼️ [自適應機器人](08-03-adaptive_robotics.qmd) 的理論基礎逐漸成形。  
 - 🧬🐜 **1990s：生成論與生命互動**  
     - **法蘭西斯科·瓦雷拉** 等人提出「**生成論**」（Enactivism），主張智慧不是內部表徵，而是生命體與環境互動過程中「生成」的。  
     - 這一觀點將 AI 與生物學、現象學連結，影響了後來的「**群體智慧**」（Swarm Intelligence）與「湧現行為」研究。  
-    - ↪️參照知識點：**8.2** 🦾📡🌡️ [感知與環境](08-02-perception_and_environment.en.qmd) 的延伸應用，特別是生命體與環境交互的感知模式。  
+    - ↪️參照知識點：**8.2** 🦾📡🌡️ [感知與環境](08-02-perception_and_environment.qmd) 的延伸應用，特別是生命體與環境交互的感知模式。  
 - 🏭🚗 **2000s：突破性原型與暗工廠概念成型**  
     - `具身派 AI` 的突破性原型包括 **DARPA Grand Challenge**（2004, 2005, 2007）自駕車挑戰賽與工廠協作型機器人（如 **Baxter**，2012 前期研發），證明其在不可預測環境中的實用性。  
     - 同時「**暗工廠**」（Dark Factories）概念成形，展現全自動化、無人化生產線的可能。  
-    - ↪️對應知識點：**8.3** 🦾🔄🖼️ [自適應機器人](08-03-adaptive_robotics.en.qmd) 走出實驗室；**8.5** 🦾🛡️🚨 [機器人安全與穩健性](08-05-robot_safety_and_robustness.en.qmd) 走入暗工廠  
+    - ↪️對應知識點：**8.3** 🦾🔄🖼️ [自適應機器人](08-03-adaptive_robotics.qmd) 走出實驗室；**8.5** 🦾🛡️🚨 [機器人安全與穩健性](08-05-robot_safety_and_robustness.qmd) 走入暗工廠  
 - 🚚🤖 **2010s：商轉與大規模應用**  
     - 自駕車進入商業化（**Tesla Autopilot**、**Waymo**），**長途自駕卡車**（Otto、TuSimple）成為物流代表案例。  
     - 倉儲物流機器人（Kiva → Amazon Robotics）、醫療與服務型機器人廣泛應用。  
     - 全球採用**暗工廠**：2019 年工業機器人安裝量達 **42.2 萬台**，與 2010 年相比幾乎翻倍，推動「**暗工廠**」在汽車與電子產業的普及。  
-    - ↪️對應知識點：**8.3** 🦾🔄🖼️ [自適應機器人](08-03-adaptive_robotics.en.qmd) 走進產業；**8.4** 🦾🤝💪 [人機互動](08-04-human_robot_interaction.en.qmd) 與 **8.5** 🦾🛡️🚨 [機器人安全與穩健性](08-05-robot_safety_and_robustness.en.qmd) 成為產業關鍵能力。  
+    - ↪️對應知識點：**8.3** 🦾🔄🖼️ [自適應機器人](08-03-adaptive_robotics.qmd) 走進產業；**8.4** 🦾🤝💪 [人機互動](08-04-human_robot_interaction.qmd) 與 **8.5** 🦾🛡️🚨 [機器人安全與穩健性](08-05-robot_safety_and_robustness.qmd) 成為產業關鍵能力。  
 - 🧞‍♀️🗪 **2020s–至今：虛擬代理與大模型耦合的認知挑戰**  
     - **虛擬代理** 與 **大語言模型** 使「具身性」不再侷限於物理機體。  
     - **擴展心靈** 在此獲得新詮釋：人類與 AI 工具形成「群體認知系統」，並在社會互動中展現「湧現交互」。  
     - 全球**暗工廠**市場估值從 2024 年約 **481 億美元** 持續增長，預計 2029 年達 **801.9 億美元**，CAGR 約 **10%**，顯示製造業正快速轉向無人化、全天候自動化。  
     - `大語言模型` 的大量及集中投資伴隨地緣政治格局挑戰，帶來「**認知戰**」的新風險。  
-    - ↪️對應知識點：**8.5** 🦾🛡️🚨 [機器人安全與穩健性](08-05-robot_safety_and_robustness.en.qmd) 的智能體新興挑戰；**8.6** 🦾🧭🎯 [任務與目標規劃](08-06-robot_tasks_and_goals.en.qmd) 實踐與理論應對 [對齊與控制問題](01-06-Alignment_Control_Problem.en.qmd)  
+    - ↪️對應知識點：**8.5** 🦾🛡️🚨 [機器人安全與穩健性](08-05-robot_safety_and_robustness.qmd) 的智能體新興挑戰；**8.6** 🦾🧭🎯 [任務與目標規劃](08-06-robot_tasks_and_goals.qmd) 實踐與理論應對 [對齊與控制問題](01-06-Alignment_Control_Problem.qmd)  
 
 ## 🦾具身派 AI 新論🚗
 
@@ -134,22 +134,22 @@ This page is not yet fully translated into English. Below is the original conten
 為了更好的應用及創新，本書進一步主張，這種因 AI **情境主義** 框定的「個體—脈絡—世界」的「感知—行動」時，若可以應用寬泛`「具身派」AI`觀點的「**個體**—脈絡」的個體間或群體間**互動**的任何**湧現交互**：
 
 - `「具身派」AI` 克服或應對無所不在、不得不面對的「物理限制」與「環境不確定性」。    
-- `「具身派」AI` 能為  [第陸篇 ❖ 分析與決策](06----analytics_decisions.en.qmd)  應用並創新 `具身認知` 觀點進行「個體—脈絡」分析，而所在「世界」存有至少一個以上的具體 `身體或代理`。    
-- `「具身派」AI` 通常突出了以下本書主張的新型態  [㉄ AI 問題意識](01----problematics.en.qmd)：
+- `「具身派」AI` 能為  [第陸篇 ❖ 分析與決策](06----analytics_decisions.qmd)  應用並創新 `具身認知` 觀點進行「個體—脈絡」分析，而所在「世界」存有至少一個以上的具體 `身體或代理`。    
+- `「具身派」AI` 通常突出了以下本書主張的新型態  [㉄ AI 問題意識](01----problematics.qmd)：
     - [完形心理](01-05-Gestalt_Psychology.zh-hant) 是人類應對「環境不確定性」的認知捷徑經驗法測，是基於視覺的`具身認知`
-    - [語言賽局](01-07-Language_Games.en.qmd) 因 [大語言模型](02-07-large_language_models.en.qmd) 能「走心」討好用戶，成為現象級當代事實的同時，預示了人群 **湧現交互** 可能改寫人類市場甚或政經系統。其中，**擴展心靈** 觀點使  [大語言模型](02-07-large_language_models.en.qmd) 本身及其應用，成為 耦合人群認知過程，形成緊密群體認知系統的新科技，為「認知戰」提供有用框架。
+    - [語言賽局](01-07-Language_Games.qmd) 因 [大語言模型](02-07-large_language_models.qmd) 能「走心」討好用戶，成為現象級當代事實的同時，預示了人群 **湧現交互** 可能改寫人類市場甚或政經系統。其中，**擴展心靈** 觀點使  [大語言模型](02-07-large_language_models.qmd) 本身及其應用，成為 耦合人群認知過程，形成緊密群體認知系統的新科技，為「認知戰」提供有用框架。
 	    - 如「獨立自主女大學生」的數據標籤或註記，經當代智能化平台，若有成為 **湧現交互** 形成具體「**實體或群體**」進行「**感知、行動與環境**」的智能體導向互動，亦可利用`「具身派」AI`思維工具進行分析及創新。
 
 可以說，凡存在「湧現交互」——即任何涉及具體「**實體或群體**」進行「**感知、行動與環境**」的場景——都能運用 `「具身派」AI` 的經驗與教訓。這種跨域適用性在本書其他篇章亦有呼應，例如：
 
-* [第伍篇 ☸](05----ai_orientations.en.qmd)　區分 AI 5 大導向（AI Orientations）
-	* **5.3** ☸🤖 [智能體／代理人導向](05-03-oriented_agent.en.qmd)（Agent-oriented）
-	* **5.4** ☸🛠 [任務導向](05-01-oriented_task.en.qmd)（Task-oriented AI）
-* [第柒篇 🏆](07----game_ai.en.qmd)　「博弈派」AI（Game AI）
-	* **7.1** 🏆🐭🗺️ [IEEE電子老鼠走迷宮](07-01-ieee_micromouse.en.qmd)（IEEE Micromouse）  
-* [第玖篇 📐](09----ai_math.en.qmd)　AI 用到的數學  
-	* **9.7** 🧠⚡ [赫布學習論](09-07-hebb_rule.en.qmd)（Hebb’s Rule）
-* [第拾篇 🌉](10----ai_engineering.en.qmd)　AI 工程  
+* [第伍篇 ☸](05----ai_orientations.qmd)　區分 AI 5 大導向（AI Orientations）
+	* **5.3** ☸🤖 [智能體／代理人導向](05-03-oriented_agent.qmd)（Agent-oriented）
+	* **5.4** ☸🛠 [任務導向](05-01-oriented_task.qmd)（Task-oriented AI）
+* [第柒篇 🏆](07----game_ai.qmd)　「博弈派」AI（Game AI）
+	* **7.1** 🏆🐭🗺️ [IEEE電子老鼠走迷宮](07-01-ieee_micromouse.qmd)（IEEE Micromouse）  
+* [第玖篇 📐](09----ai_math.qmd)　AI 用到的數學  
+	* **9.7** 🧠⚡ [赫布學習論](09-07-hebb_rule.qmd)（Hebb’s Rule）
+* [第拾篇 🌉](10----ai_engineering.qmd)　AI 工程  
     * [AI 產品經理](#sec-ai-pm) 在開發如 [知識驅動生成（RAG）](10-04-retrieval_augmented_generation.zh-hant) 或 [脈絡工程](10-05-context_engineering.zh-hant) 的應用時，常能從客戶或使用者所處脈絡中觀察或期待某種「湧現交互」；其「價值」即在於具備能「生存」及「成長」的`「具身派」AI` 思維。
 
 ::: {.callout-tip #tip-situatedism-this-book title="🏮🛣🤖 情境主義"}
@@ -157,7 +157,7 @@ This page is not yet fully translated into English. Below is the original conten
 因篇幅限制，本書未系統介紹 `情境主義`，以下簡要說明：
 
 * `情境主義` 核心主張是，智能是透過「**感知、行動與環境**」之間的即時互動而產生的，以 `具身智能` 與 `情境感知` 為其智能基礎。
-*  `情境主義` 主要影響本書精選說明的，以下兩派 AI 的發展：🏆「博弈派」AI 與 [🦾](08----embodied_ai.en.qmd)　「具身派」AI
+*  `情境主義` 主要影響本書精選說明的，以下兩派 AI 的發展：🏆「博弈派」AI 與 [🦾](08----embodied_ai.qmd)　「具身派」AI
 
 🛣🤖
 :::
@@ -175,7 +175,7 @@ This page is not yet fully translated into English. Below is the original conten
 
 合起來就是「**身在局中，體道自然**」：AI 既要能在格局中運籌帷幄，也要能在世界中具體行動。
 
-兩者互補合體的如🦾🧭🎯 [任務與目標規劃](08-06-robot_tasks_and_goals.en.qmd) 的應用，以及🏆🐭🗺️ [IEEE電子老鼠走迷宮](07-01-ieee_micromouse.en.qmd) 的實例。
+兩者互補合體的如🦾🧭🎯 [任務與目標規劃](08-06-robot_tasks_and_goals.qmd) 的應用，以及🏆🐭🗺️ [IEEE電子老鼠走迷宮](07-01-ieee_micromouse.qmd) 的實例。
 
 | 面向         | 🏆 博弈派 AI 新論                                              | 🦾 具身派 AI 新論                                         |
 | ---------- | --------------------------------------------------------- | ---------------------------------------------------- |

@@ -41,7 +41,7 @@ This page is not yet fully translated into English. Below is the original conten
 :::
 # ☸智能體導向🤖 {#sec-oriented-agent}
 
-`智能體導向 AI`（Agent-oriented AI）強調以 **自主性、目標導向與環境感知** 為核心，把 AI 系統視為能夠在**動態環境**中**持續感知、決策與行動**的「智能體」。此導向關注的不僅是 AI 是否能完成**單一任務**，而是其能否在複雜情境下**自主規劃、調整策略並持續追求長期目標**。此導向和 [情境主義](02----schools_paradigms.en.qmd)（Situated-ism）關係密切[@]。
+`智能體導向 AI`（Agent-oriented AI）強調以 **自主性、目標導向與環境感知** 為核心，把 AI 系統視為能夠在**動態環境**中**持續感知、決策與行動**的「智能體」。此導向關注的不僅是 AI 是否能完成**單一任務**，而是其能否在複雜情境下**自主規劃、調整策略並持續追求長期目標**。此導向和 [情境主義](02----schools_paradigms.qmd)（Situated-ism）關係密切[@]。
 
 `智能體導向 AI` 特別關注以下：
 
@@ -68,7 +68,7 @@ This page is not yet fully translated into English. Below is the original conten
 
  `智能體導向 AI` 是一種「讓 AI 自己做主」的問題解決方式，這使其強大且具備彈性，但也因此帶來了最高的倫理和安全風險控制（Risk Control）的挑戰。
 
-- 🔒 **[AI 對齊與控制問題](01-06-Alignment_Control_Problem.en.qmd)**：如何確保智能體的**長期目標**和**行為**決策始終符合人類價值與業務需求，成為核心難題。
+- 🔒 **[AI 對齊與控制問題](01-06-Alignment_Control_Problem.qmd)**：如何確保智能體的**長期目標**和**行為**決策始終符合人類價值與業務需求，成為核心難題。
 - ⚠️ **不可預測性**：隨著智能體具備更多學習與規劃能力，其行為可能脫離設計者的預期，為監管和安全審核帶來極大困難。
 - 🧭 **問責制與責任歸屬**等**治理需求**：需要結合監控、審計與合規框架，才能在享受閉環帶來的靈活性與生成力的同時，避免潛在的失控與濫用。
 
@@ -164,7 +164,7 @@ This page is not yet fully translated into English. Below is the original conten
 - 🛡️ **風險緩解機制**：設置「安全閘門」與「人介入節點」，確保偏差行為能被即時偵測與修正。  
 - 🔄 **持續迭代**：智能體架構需隨環境與任務動態調整，避免設計落後於實際需求。  
 
-可以說 `智能體導向 AI` 的 **知識姿態** 與「[情境主義](02----schools_paradigms.en.qmd)」高度相關：**以感知—行動閉環將智能紮根於環境互動**。這確保了相關的 **意圖**（如提升自主性、追求長期目標）與 **預設行動**（如即時決策、持續學習）能在系統中被有效執行與監測，並直接影響 **任務成功或失敗**。
+可以說 `智能體導向 AI` 的 **知識姿態** 與「[情境主義](02----schools_paradigms.qmd)」高度相關：**以感知—行動閉環將智能紮根於環境互動**。這確保了相關的 **意圖**（如提升自主性、追求長期目標）與 **預設行動**（如即時決策、持續學習）能在系統中被有效執行與監測，並直接影響 **任務成功或失敗**。
 
 `智能體導向 AI` 的架構，和以下其它導向對比：
 
@@ -270,7 +270,7 @@ This page is not yet fully translated into English. Below is the original conten
 
 ## 🔄歷史演進🗿
 
-`智能體導向 AI` 的發展以「決策複雜度與自主性」為主線，可發現聚焦從「感知—回應」到「感知—決策—行動—學習」的閉環演進，以及與 [具身派 AI](08----embodied_ai.en.qmd) 的共同交織演進。
+`智能體導向 AI` 的發展以「決策複雜度與自主性」為主線，可發現聚焦從「感知—回應」到「感知—決策—行動—學習」的閉環演進，以及與 [具身派 AI](08----embodied_ai.qmd) 的共同交織演進。
 
 - 🎙️ **1960年代 — 模式匹配對話的起點**
     - 💬 **Eliza**：展示了「感知—回應」的雛形（基於模式匹配），能模擬對話但不具備 **世界模型（World Model）** 與規劃能力，尚未形成完整的代理迴圈。
@@ -375,23 +375,23 @@ This page is not yet fully translated into English. Below is the original conten
 瞭解基於 **自主性** 與 **模型系統** 框架、強調「**自主效率**」效能，追求 長期策略「**動態適應**」的 `智能體導向 AI` 後，讀者可以繼續：
 
 - ⇆🚥對比：
-	* **5.1** ☸🎯 **[任務導向型](05-01-oriented_task.en.qmd)**
-	* **5.2** ☸🛠 **[工具導向](05-02-oriented_tool.en.qmd)**
-	* **5.4** ☸🤝 **[協作導向／以人為本導向](05-04-oriented_collaborative.en.qmd)**
-	* **5.5** ☸⚖️ **[治理導向](05-05-oriented_governance.en.qmd)**
-<!--		* **5.3** ☸🤖 **[智能體／代理人導向](05-03-oriented_agent.en.qmd)**-->
-* ⮤🚦探究 [第壹篇 ㉄](01----problematics.en.qmd)　AI 問題意識
-	* **1.3** 🔤⚓ [符碼紮根問題](01-03-Symbol_Grounding_Problem.en.qmd)
-	* **1.4** 🖼️⏱️ [框架問題](01-04-Frame_Problem.en.qmd)
-	* **1.6** 🎯🛡️ [對齊與控制問題](01-06-Alignment_Control_Problem.en.qmd)
-	* **1.7** 🗫🎲 [語言賽局](01-07-Language_Games.en.qmd)
-* ⮦🚦探究[第捌篇 🦾](08----embodied_ai.en.qmd)　「具身派」AI：
-	* **8.3** 🦾🔄🖼️ [自適應機器人](08-03-adaptive_robotics.en.qmd)
-	* **8.4** 🦾🤝💪 [人機互動](08-04-human_robot_interaction.en.qmd)
-	* **8.5** 🦾🛡️🚨 [機器人安全與穩健性](08-05-robot_safety_and_robustness.en.qmd)
-	* **8.6** 🦾🧭🎯 [任務與目標規劃](08-06-robot_tasks_and_goals.en.qmd)
-* ⮦✨應用啟發 [第拾篇 🌉](10----ai_engineering.en.qmd)　AI工程：
-	* **10.2** 🌉🤖🚨 [智能體可靠性與評估](10-02-agent_reliability_evaluation.en.qmd)
-	* **10.4** 🌉🔗📒 [知識驅動生成（RAG）](10-04-retrieval_augmented_generation.en.qmd)
-	* **10.5** 🌉🪟🧭 [脈絡工程](10-05-context_engineering.en.qmd)
-	* **10.6** 🎁🌱🚀 [AI 產品經理](10-06-AI_PM.en.qmd)
+	* **5.1** ☸🎯 **[任務導向型](05-01-oriented_task.qmd)**
+	* **5.2** ☸🛠 **[工具導向](05-02-oriented_tool.qmd)**
+	* **5.4** ☸🤝 **[協作導向／以人為本導向](05-04-oriented_collaborative.qmd)**
+	* **5.5** ☸⚖️ **[治理導向](05-05-oriented_governance.qmd)**
+<!--		* **5.3** ☸🤖 **[智能體／代理人導向](05-03-oriented_agent.qmd)**-->
+* ⮤🚦探究 [第壹篇 ㉄](01----problematics.qmd)　AI 問題意識
+	* **1.3** 🔤⚓ [符碼紮根問題](01-03-Symbol_Grounding_Problem.qmd)
+	* **1.4** 🖼️⏱️ [框架問題](01-04-Frame_Problem.qmd)
+	* **1.6** 🎯🛡️ [對齊與控制問題](01-06-Alignment_Control_Problem.qmd)
+	* **1.7** 🗫🎲 [語言賽局](01-07-Language_Games.qmd)
+* ⮦🚦探究[第捌篇 🦾](08----embodied_ai.qmd)　「具身派」AI：
+	* **8.3** 🦾🔄🖼️ [自適應機器人](08-03-adaptive_robotics.qmd)
+	* **8.4** 🦾🤝💪 [人機互動](08-04-human_robot_interaction.qmd)
+	* **8.5** 🦾🛡️🚨 [機器人安全與穩健性](08-05-robot_safety_and_robustness.qmd)
+	* **8.6** 🦾🧭🎯 [任務與目標規劃](08-06-robot_tasks_and_goals.qmd)
+* ⮦✨應用啟發 [第拾篇 🌉](10----ai_engineering.qmd)　AI工程：
+	* **10.2** 🌉🤖🚨 [智能體可靠性與評估](10-02-agent_reliability_evaluation.qmd)
+	* **10.4** 🌉🔗📒 [知識驅動生成（RAG）](10-04-retrieval_augmented_generation.qmd)
+	* **10.5** 🌉🪟🧭 [脈絡工程](10-05-context_engineering.qmd)
+	* **10.6** 🎁🌱🚀 [AI 產品經理](10-06-AI_PM.qmd)

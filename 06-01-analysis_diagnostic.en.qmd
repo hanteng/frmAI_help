@@ -31,7 +31,7 @@ This page is not yet fully translated into English. Below is the original conten
 
 > ❖ 🩺 `診斷型分析`如何幫助我們找出**關鍵原因或因子**，以利後續預測與調整？
 
-`診斷型分析`（Diagnostic analysis）的目的在回答「**為什麼會發生？**」。它承接描述型分析的觀察結果，透過**資料鑽研**（data drilling）、**資料挖掘**（data mining）、**相關性分析**與**因果推論**等方法，來驗證不同變因對結果的影響。這個階段不僅是技術推理，更涉及對**脈絡的理解與對齊**，以避免誤判與偏差。這對映到 AI 的[機率性關聯](04-01-probabilistic_association.en.qmd)的「思維鏈」和[形式邏輯](03-01-formal_logic.en.qmd)的「推論鏈」，為支援異常檢測與根因優先級排序的決策作好準備。
+`診斷型分析`（Diagnostic analysis）的目的在回答「**為什麼會發生？**」。它承接描述型分析的觀察結果，透過**資料鑽研**（data drilling）、**資料挖掘**（data mining）、**相關性分析**與**因果推論**等方法，來驗證不同變因對結果的影響。這個階段不僅是技術推理，更涉及對**脈絡的理解與對齊**，以避免誤判與偏差。這對映到 AI 的[機率性關聯](04-01-probabilistic_association.qmd)的「思維鏈」和[形式邏輯](03-01-formal_logic.qmd)的「推論鏈」，為支援異常檢測與根因優先級排序的決策作好準備。
 
 在 **AI** 與**自動化工具**的輔助下，`診斷型分析`不再只是事後檢討，而是能**即時偵測異常**、**快速定位問題來源**，並結合**生成式 AI** 與**決策演算法**，形成動態的「**原因**/**因子**脈絡探究層」，為預測與指導型分析提供精準依據。
 
@@ -42,7 +42,7 @@ This page is not yet fully translated into English. Below is the original conten
 🩺 **原因／因素探測器**：`診斷型分析`透過探索資料間的關聯與異常，揭示現象背後的驅動因子或因素，為後續預測與策略提供堅實依據。
 
 * 回答「為什麼會發生？」——它追溯事件背後的原因與資料間的關聯，位於**描述 ⮫ 診斷 ⮫ 預測 ⮫ 指導** 數據分析價值鏈的第 2 階段，為後續的預測與指導奠定邏輯基礎。
-* 對映到 AI 的[機率性關聯](04-01-probabilistic_association.en.qmd) 的「思維鏈」和[形式邏輯](03-01-formal_logic.en.qmd) 的「推論鏈」。
+* 對映到 AI 的[機率性關聯](04-01-probabilistic_association.qmd) 的「思維鏈」和[形式邏輯](03-01-formal_logic.qmd) 的「推論鏈」。
 * 結合**生成式 AI** 與 **決策演算法**，形成動態的「**原因**/**因子**脈絡探究層」：
 	* **生成式 AI** 可助力生成假設與驗證步驟，協助聚焦關鍵因素。
 	* **決策演算法** 可助力把診斷探測出的 **原因／因素** 轉化為可操作的策略及行動，如運用**系統循環圖**等工具進行動態適應調整基礎。
@@ -59,7 +59,7 @@ This page is not yet fully translated into English. Below is the original conten
 - 🛠️**處理方式**：關聯分析、迴歸分析、假設檢定、分群比較、異常檢測、因果推論
 - 📊**輸出形式**：原因報告、影響因素排序、因果關係圖、決策樹、流程優化建議
 
-與 **[布魯姆分類學](appendix-action.en.qmd)** 中的**理解**（Understand）認知能力對應，`診斷型分析`將事實轉化為解釋，為後續的預測與指導提供邏輯基礎。差別在於前者是支持**組織**決策，後者是增強**個人**學習。
+與 **[布魯姆分類學](appendix-action.qmd)** 中的**理解**（Understand）認知能力對應，`診斷型分析`將事實轉化為解釋，為後續的預測與指導提供邏輯基礎。差別在於前者是支持**組織**決策，後者是增強**個人**學習。
 
 ### 😷🩺 功能與目的
 
@@ -129,7 +129,7 @@ This page is not yet fully translated into English. Below is the original conten
     - 🔍 **偏差修正**：持續檢測並修正人類回饋引入的偏差，確保**診斷**結果的客觀性與決策價值。
     - 🧪 **回饋質量評估**：在**獎勵模型**訓練中篩選高品質的回饋訊息，提升模型的穩健性與可信度。
 
-總結來說，HITL 與 RLHF 讓 `診斷型分析`  能夠整合不同知識領域的智慧與經驗，確保能有效篩選 **原因**／**因子**、**假設**／**模型**、影響**程度**／**範圍**，以確保形成`診斷型分析`「**原因**/**因子**脈絡探究層」能為預測與指導型分析提供精準因果／因子理據。這也呼應了[框架問題](01-04-Frame_Problem.en.qmd)的現代觀點「當下，啥才重要？」的因子篩選及解釋力評估，因此需注意相關的創意加值亦有可能導致因子及解釋力「偏聽」問題。
+總結來說，HITL 與 RLHF 讓 `診斷型分析`  能夠整合不同知識領域的智慧與經驗，確保能有效篩選 **原因**／**因子**、**假設**／**模型**、影響**程度**／**範圍**，以確保形成`診斷型分析`「**原因**/**因子**脈絡探究層」能為預測與指導型分析提供精準因果／因子理據。這也呼應了[框架問題](01-04-Frame_Problem.qmd)的現代觀點「當下，啥才重要？」的因子篩選及解釋力評估，因此需注意相關的創意加值亦有可能導致因子及解釋力「偏聽」問題。
 
 ***
 
@@ -173,21 +173,21 @@ This page is not yet fully translated into English. Below is the original conten
 
 ## 👉 接下來
 
-- 決策鏈相鄰步驟（ **[描述型](06-04-analysis_descriptive.en.qmd) ⮫ `診斷型` ⮫ 🟠🤠🔮[預測型](06-02-analysis_predictive.en.qmd) ⮫ [指導型](06-03-analysis_prescriptive.en.qmd)** ）
+- 決策鏈相鄰步驟（ **[描述型](06-04-analysis_descriptive.qmd) ⮫ `診斷型` ⮫ 🟠🤠🔮[預測型](06-02-analysis_predictive.qmd) ⮫ [指導型](06-03-analysis_prescriptive.qmd)** ）
 - 深究：
-    - 🟣🙀🎨 [生成式 AI](06-05-analysis_generative.en.qmd)
-    - 🔁😽🪄 [決策演算法](06-06-decision_making_algorithm.en.qmd)
+    - 🟣🙀🎨 [生成式 AI](06-05-analysis_generative.qmd)
+    - 🔁😽🪄 [決策演算法](06-06-decision_making_algorithm.qmd)
 
 ***
 
 ## 🪸 請參閱
 
-參照 **[🔖附錄🌌 心智圖](appendix-evolving_mindmap.en.qmd)**，將`診斷型分析`與下述概念對比，檢視其是否可歸類到「因子分析」範疇：
+參照 **[🔖附錄🌌 心智圖](appendix-evolving_mindmap.qmd)**，將`診斷型分析`與下述概念對比，檢視其是否可歸類到「因子分析」範疇：
 
-- [第參篇 🏛️](03----symbolic_ai.en.qmd)　「符號流」AI（Symbolic AI）
-    - **3.1** 🏛️⊨∴ [形式邏輯](03-01-formal_logic.en.qmd)（Formal Logic）
-    * **3.5** 🏛️🕸💡 [知識圖譜](03-05-knowledge_graph.en.qmd)（Knowledge Graphs）
-- [第肆篇 🌀](04----statistical_ai.en.qmd)　「統計流」AI（Statistical AI）
-    - **4.1** 🌀🎲🌿 [機率性關聯](04-01-probabilistic_association.en.qmd)（Probabilistic Association）
-    * **4.5** 🌀🤖📦 [機器學習模型](04-05-machine_learning_models.en.qmd)（Machine Learning Models）
+- [第參篇 🏛️](03----symbolic_ai.qmd)　「符號流」AI（Symbolic AI）
+    - **3.1** 🏛️⊨∴ [形式邏輯](03-01-formal_logic.qmd)（Formal Logic）
+    * **3.5** 🏛️🕸💡 [知識圖譜](03-05-knowledge_graph.qmd)（Knowledge Graphs）
+- [第肆篇 🌀](04----statistical_ai.qmd)　「統計流」AI（Statistical AI）
+    - **4.1** 🌀🎲🌿 [機率性關聯](04-01-probabilistic_association.qmd)（Probabilistic Association）
+    * **4.5** 🌀🤖📦 [機器學習模型](04-05-machine_learning_models.qmd)（Machine Learning Models）
 

@@ -11,7 +11,7 @@
 This page is not yet fully translated into English. Below is the original content for reference.
 :::
 
-🔖附錄A. 💪 [行動](appendix-action.en.qmd#sec-ai-cost-forecasting-worksheet) 中的《AI 代價與未來生活預見練習》，親手估算一次 AI 問答的能耗代價，並想像自己在 2025、2030、2035 三個時間點的生活樣貌。
+🔖附錄A. 💪 [行動](appendix-action.qmd#sec-ai-cost-forecasting-worksheet) 中的《AI 代價與未來生活預見練習》，親手估算一次 AI 問答的能耗代價，並想像自己在 2025、2030、2035 三個時間點的生活樣貌。
 
 <!--
 📌 待併入檔案：appendix-action.qmd
@@ -45,11 +45,11 @@ This page is not yet fully translated into English. Below is the original conten
 
 依上述預見為背景，請做一下筆記，檢驗以下 **AI 未來假說**：
 
-* 💥 **[AI 對齊崩潰假說](appendix-glossary.en.qmd#ai-alignment-collapse)**
-* 🌐 **[AI 公共財假說](appendix-glossary.en.qmd#ai-commons-hypothesis)**
-* 👑 **[AI 帝國假說](appendix-glossary.en.qmd#ai-empire-hypothesis)**
-* ⚔️ **[AI 部落化／碎片化假說](appendix-glossary.en.qmd#ai-tribalization-fragmentation)**
-* 🚰 **[AI 公用事業假說](appendix-glossary.en.qmd#ai-utilities-hypothesis)**
+* 💥 **[AI 對齊崩潰假說](appendix-glossary.qmd#ai-alignment-collapse)**
+* 🌐 **[AI 公共財假說](appendix-glossary.qmd#ai-commons-hypothesis)**
+* 👑 **[AI 帝國假說](appendix-glossary.qmd#ai-empire-hypothesis)**
+* ⚔️ **[AI 部落化／碎片化假說](appendix-glossary.qmd#ai-tribalization-fragmentation)**
+* 🚰 **[AI 公用事業假說](appendix-glossary.qmd#ai-utilities-hypothesis)**
 
 試著寫下自己在 **2025 現況**、**2030 預測**、**2035 展望** 三個時間點的想像： 
 
@@ -88,7 +88,7 @@ This page is not yet fully translated into English. Below is the original conten
 
 如同 AI 需要 **世界模型**，需要 **目標函數**，你也需要屬於自己的 **未來**。
 
-👉 完成本練習後，回到 📑 [筆記〈❝補全❞知行合一〉](00-03-notes-constructive_fill-in.en.qmd) 繼續閱讀「思維定勢」與「框智力」的討論。
+👉 完成本練習後，回到 📑 [筆記〈❝補全❞知行合一〉](00-03-notes-constructive_fill-in.qmd) 繼續閱讀「思維定勢」與「框智力」的討論。
 
 ***
 

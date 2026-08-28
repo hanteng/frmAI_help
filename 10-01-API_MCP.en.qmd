@@ -170,11 +170,11 @@ RESTful API 是基於通用的 Web 標準（主要是 HTTP）、推動萬維網�
 ## 👉接下來🪸
 
 - ⮤🚦 探究
-	- **5.2** ☸🛠 **[工具導向](05-02-oriented_tool.en.qmd)**（Tool-oriented AI）
+	- **5.2** ☸🛠 **[工具導向](05-02-oriented_tool.qmd)**（Tool-oriented AI）
 		- **知識姿態**：偏向**編排性**、**模組化**與**外部資源調**用的「多工具使用」模型。
 		- **預設行動**：「編排」 API 調用、插件系統與工具鏈設計。
 - ⮦🚦 探究
-	- **10.3** 🌉❔📌 [提示工程](10-03-prompt_engineering.en.qmd)（Prompt Engineering）
-	* **10.4** 🌉🔗📝 [知識驅動生成（RAG）](10-04-retrieval_augmented_generation.en.qmd)（Retrieval-Augmented Generation）
-	* **10.5** 🌉🪟🧭 [脈絡工程](10-05-context_engineering.en.qmd)（Context Engineering） 
-	* **10.6** 🎁🌱🚀 [AI 產品經理](10-06-AI_PM.en.qmd)（AI Product Management）
+	- **10.3** 🌉❔📌 [提示工程](10-03-prompt_engineering.qmd)（Prompt Engineering）
+	* **10.4** 🌉🔗📝 [知識驅動生成（RAG）](10-04-retrieval_augmented_generation.qmd)（Retrieval-Augmented Generation）
+	* **10.5** 🌉🪟🧭 [脈絡工程](10-05-context_engineering.qmd)（Context Engineering） 
+	* **10.6** 🎁🌱🚀 [AI 產品經理](10-06-AI_PM.qmd)（AI Product Management）

@@ -23,9 +23,9 @@ This page is not yet fully translated into English. Below is the original conten
 
 ::: {.callout-note #nte-cc-define-nav title="🧭 你在這裡：附錄C《🪜能力》〜 模組一" collapse=false open=true}
 
-[附錄C 總覽：能力](appendix-cognitive_capacity.en.qmd) → **模組一：探索與定義** → [模組二：建構與交付](appendix-cognitive_capacity-mvp.en.qmd)
+[附錄C 總覽：能力](appendix-cognitive_capacity.qmd) → **模組一：探索與定義** → [模組二：建構與交付](appendix-cognitive_capacity-mvp.qmd)
 
-本頁承接總覽頁的 **[🔀雙鑽模型](appendix-cognitive_capacity.en.qmd#sec-cc-formula)** 與 **[建補鷹架公式](appendix-cognitive_capacity.en.qmd#sec-cc-formula)**（🌊[名詞](appendix-brain.en.qmd#sec-world-in-nouns) ➕ 🏄🏼[動詞](appendix-action.en.qmd#sec-verbs-in-world)），示範雙鑽石模型第一鑽石「探索 → 定義」的具體操作。
+本頁承接總覽頁的 **[🔀雙鑽模型](appendix-cognitive_capacity.qmd#sec-cc-formula)** 與 **[建補鷹架公式](appendix-cognitive_capacity.qmd#sec-cc-formula)**（🌊[名詞](appendix-brain.qmd#sec-world-in-nouns) ➕ 🏄🏼[動詞](appendix-action.qmd#sec-verbs-in-world)），示範雙鑽石模型第一鑽石「探索 → 定義」的具體操作。
 
 :::
 
@@ -97,13 +97,13 @@ This page is not yet fully translated into English. Below is the original conten
 
 機器的「**補全**」能力源於**龐大的數據與算力**，能快速生成答案、模擬多種可能性，並在**大規模資訊處理**上超越人類。然而，這種能力的代價是：**能源消耗**（大模型運算）、**倫理風險**（偏見數據）、以及**缺乏情境感知**（無法真正理解人類的價值與情感）。因此，機器的補全雖高效，但需要**人類監督與調整**。
 
-人工智慧雖能透過 **[大語言模型](02-07-large_language_models.en.qmd)** 提供快速的資訊補全與建議，但設計者仍需將其輸出轉化為可操作的「目標」：
+人工智慧雖能透過 **[大語言模型](02-07-large_language_models.qmd)** 提供快速的資訊補全與建議，但設計者仍需將其輸出轉化為可操作的「目標」：
 
 - 📝 **提示模板**（Prompt Template）：將人物誌輸出轉化為**角色化提示**，讓系統能針對不同角色需求調整語氣與內容（例如：「以高中生身份，請用簡單語言解釋...」）。    
 - 📈 **長期情境模擬**（Long-Term Scenario Simulation）：將未來情境角色扮演的洞察轉化為檢索與生成策略，RAG 系統可針對「五年後的職場趨勢」或「未來技能需求」提供**模擬性回答**。    
 - 🌐 **多視角檢索**（Multi-Perspective Retrieval）：將角色輪替的結果用於設計**多視角回答**，同一問題由「學生視角」「家長視角」「專家視角」分別呈現，幫助使用者比較與平衡不同觀點。    
 
-透過這些具體情報，設計者便能明確「目標」，利用 **[大語言模型](02-07-large_language_models.en.qmd)**  的檢索與生成能力，鎖定**問題**🙶目標🙷，並確保輸出能被人類**正確理解與採納**。
+透過這些具體情報，設計者便能明確「目標」，利用 **[大語言模型](02-07-large_language_models.qmd)**  的檢索與生成能力，鎖定**問題**🙶目標🙷，並確保輸出能被人類**正確理解與採納**。
 
 ### –🤝 人機協作的鷹架
 
@@ -125,8 +125,8 @@ This page is not yet fully translated into English. Below is the original conten
 
 ::: {.callout-tip #tip-cc-define-next title="🔗 下一步" collapse=false open=true}
 
-已鎖定目標「🧭 我們如何能夠幫助學生與家長...**規劃 學習方案及歷程**？」，接下來進入第二鑽石「建構 → 交付」：見 **[模組二：建構與交付](appendix-cognitive_capacity-mvp.en.qmd)**（SIPAEA 動詞流程鷹架、多智能體與工具鏈原型、MVP 收斂與驗證）。
+已鎖定目標「🧭 我們如何能夠幫助學生與家長...**規劃 學習方案及歷程**？」，接下來進入第二鑽石「建構 → 交付」：見 **[模組二：建構與交付](appendix-cognitive_capacity-mvp.qmd)**（SIPAEA 動詞流程鷹架、多智能體與工具鏈原型、MVP 收斂與驗證）。
 
-回到 **[附錄C 總覽：能力](appendix-cognitive_capacity.en.qmd)**。
+回到 **[附錄C 總覽：能力](appendix-cognitive_capacity.qmd)**。
 
 :::

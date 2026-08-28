@@ -73,8 +73,8 @@ This page is not yet fully translated into English. Below is the original conten
   - 📐 **數學層**：  
     * 🧹🧩 **[線性代數](09-04-sparse_modeling.zh-hant)**：處理稀疏矩陣、計算相似度  
     * 🌀🎲🌿 **[機率模型](04-01-probabilistic_association.zh-hant)**：捕捉用戶與項目間的潛在關聯  
-    * 🌀🌌▦ **[向量空間](04-07-vector_space.en.qmd)**：將關聯性映射為幾何相似度  
-    * 🌀🛠️🤏 **[特徵工程](04-04-feature_engineering.en.qmd)**：進行分類、預測或項目分析  
+    * 🌀🌌▦ **[向量空間](04-07-vector_space.qmd)**：將關聯性映射為幾何相似度  
+    * 🌀🛠️🤏 **[特徵工程](04-04-feature_engineering.qmd)**：進行分類、預測或項目分析  
 
 :::
 
@@ -84,9 +84,9 @@ This page is not yet fully translated into English. Below is the original conten
 協同過濾的運作基礎在於**行為數據的結構化表徵**與**相似性分析**。
 
 - 📦在**資料層**，特別是**數據庫**，用戶的歷史行為（如購買、點擊、評分）被轉換為矩陣形式，成為後續建模的依據。    
-- 📐 在**數學層**，🧹🧩 **[線性代數](09-04-sparse_modeling.zh-hant)** 用於處理稀疏矩陣並計算相似度；🌀🎲🌿 **[機率模型](04-01-probabilistic_association.zh-hant)** 則捕捉用戶與項目之間的潛在關聯；🌀🌌▦ **[向量空間](04-07-vector_space.en.qmd)** 提供了相似度運算的幾何詮釋。
+- 📐 在**數學層**，🧹🧩 **[線性代數](09-04-sparse_modeling.zh-hant)** 用於處理稀疏矩陣並計算相似度；🌀🎲🌿 **[機率模型](04-01-probabilistic_association.zh-hant)** 則捕捉用戶與項目之間的潛在關聯；🌀🌌▦ **[向量空間](04-07-vector_space.qmd)** 提供了相似度運算的幾何詮釋。
 
-如此一來，透過機器學習的🌀🛠️🤏 **[特徵工程](04-04-feature_engineering.en.qmd)**，對使用者的行為或偏好進行分類或預測，或對項目（如產品或服務）進行分析。
+如此一來，透過機器學習的🌀🛠️🤏 **[特徵工程](04-04-feature_engineering.qmd)**，對使用者的行為或偏好進行分類或預測，或對項目（如產品或服務）進行分析。
 
 ### 🤝結構與定義▦ 
 

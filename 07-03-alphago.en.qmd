@@ -105,4 +105,4 @@ AlphaGo 是博弈派 AI 的里程碑，其技術架構和學習範式對後續�
 
 ## 👉 下一部分
 
-在理解 **[神經網路](04-03-neural_networks)** 深度學習 與 **[蒙地卡羅樹搜尋](09-06-monte_carlo_tree_search)** 數學工具 助 AlphaGo 圍棋打敗人類精英棋手后，接下來探討 [撲克 AI](07-04-poker_ai.en.qmd)（Libratus / Pluribus）在**不完全資訊博弈**中的挑戰及克服方法啟發。
+在理解 **[神經網路](04-03-neural_networks)** 深度學習 與 **[蒙地卡羅樹搜尋](09-06-monte_carlo_tree_search)** 數學工具 助 AlphaGo 圍棋打敗人類精英棋手后，接下來探討 [撲克 AI](07-04-poker_ai.qmd)（Libratus / Pluribus）在**不完全資訊博弈**中的挑戰及克服方法啟發。

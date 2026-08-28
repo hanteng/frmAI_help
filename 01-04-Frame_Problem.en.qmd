@@ -36,7 +36,7 @@ The classical view, proposed in 1969 by John McCarthy and Patrick Hayes, aims to
 
 When describing the world dynamics in formal logic, they found that expressing the consequences of an action (such as "turn on the light") requires not only **Action Axioms** to state that the light will turn on, but also countless **Frame Axioms** to prove that everything else (such as the position of a book in the room) remains unchanged. This leads to the problem of "axiom explosion," highlighting that relying purely on static logic to define the dynamics of the world is computationally infeasible. In other words, the machine cannot afford to "think too much."
 
-This revelation, informed by the classical view of the frame problem, exposed a fundamental implementation flaw at the heart of **[symbolic AI](02-01-symbolic_ai.en.qmd)**, and spurred the development of workarounds, such as **Circumscription** and **Default Logic**. These methods establish a baseline of constancy within a **specific task or domain**, using rules and assumptions, and thus effectively sidestep the problem.  This, however, also implies the following assumptions:
+This revelation, informed by the classical view of the frame problem, exposed a fundamental implementation flaw at the heart of **[symbolic AI](02-01-symbolic_ai.qmd)**, and spurred the development of workarounds, such as **Circumscription** and **Default Logic**. These methods establish a baseline of constancy within a **specific task or domain**, using rules and assumptions, and thus effectively sidestep the problem.  This, however, also implies the following assumptions:
 
 1. **Restricted scope**: The scope of the problem is narrowed to a known, finite world model—for example, a known room, or a simple set of robotic tasks.
 

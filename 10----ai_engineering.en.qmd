@@ -29,9 +29,9 @@ This page is not yet fully translated into English. Below is the original conten
 
 # 🌉 「AI 工程」
 
-`工程`是人類心智能力改造大千世界的重要實踐，更是在打造**智能體**時應對萬家燈火的必用的入世指南。近年來發展的「 [提示工程](10-03-prompt_engineering.en.qmd)」（Prompt Engineering）及「[脈絡工程](10-05-context_engineering.en.qmd)」（Context Engineering）都是 AI 能改變生產力，影響日常生活的例子。
+`工程`是人類心智能力改造大千世界的重要實踐，更是在打造**智能體**時應對萬家燈火的必用的入世指南。近年來發展的「 [提示工程](10-03-prompt_engineering.qmd)」（Prompt Engineering）及「[脈絡工程](10-05-context_engineering.qmd)」（Context Engineering）都是 AI 能改變生產力，影響日常生活的例子。
 
-隨著 [神經網路](04-03-neural_networks.en.qmd) 發展 及 [大語言模型](02-07-large_language_models.en.qmd) 應用的擴散，不管是程式碼與算力，最終是經過一系列叫`AI 工程`的實踐，產出 [AI 產品](10-06-AI_PM.en.qmd)。
+隨著 [神經網路](04-03-neural_networks.qmd) 發展 及 [大語言模型](02-07-large_language_models.qmd) 應用的擴散，不管是程式碼與算力，最終是經過一系列叫`AI 工程`的實踐，產出 [AI 產品](10-06-AI_PM.qmd)。
 
 ::: {.callout-tip #tip-ai-engineering title="什麼是🌉 「`AI 工程`」？"}
 
@@ -69,7 +69,7 @@ This page is not yet fully translated into English. Below is the original conten
 
 當前，AI 工程的成長主要來自「**基礎模型**」的應用開發。特別是 **大型語言模型**（LLM）的創新應用，正引領市場趨勢[@Huyen2025-ai-engineering]。本書將探討其中 6 個關鍵知識點。
 
-隨著 [神經網路](04-03-neural_networks.en.qmd) 發展 及 [大語言模型](02-07-large_language_models.en.qmd) 應用的擴散，當代 `AI 工程`將學術理論轉化為實際應用。以 2025 年市場最關注的雲端服務與產品為例：
+隨著 [神經網路](04-03-neural_networks.qmd) 發展 及 [大語言模型](02-07-large_language_models.qmd) 應用的擴散，當代 `AI 工程`將學術理論轉化為實際應用。以 2025 年市場最關注的雲端服務與產品為例：
 
 * 💻 **AI 程式設計助理**（AI Coding Assistants）：如 **GitHub Copilot**、**Cursor**、**Gemini Code Assist**，已成為開發者日常工具，支援程式碼生成、除錯與跨檔案重構。  
 * - 🏭 **AI 智慧製造與工業應用**：這是一個巨大且成長快速的市場，包括利用 AI 進行**預測性維護**（Predictive Maintenance）以減少停機時間、**機器視覺**（Computer Vision）用於產品品管檢測、以及**機器人流程自動化**（RPA）等，直接提升生產效率與良率。    
@@ -101,7 +101,7 @@ This page is not yet fully translated into English. Below is the original conten
 - **💻 效能工程（Performance Engineering）**：  
     專注於最佳化模型在推理階段的 **速度**、**記憶體使用** 與 **運算成本**。這對於將大型模型部署到邊緣裝置、行動裝置或高效能雲端服務至關重要。    
 
-這些實踐不僅是產業的最佳準則，也是理解 AI 如何 **「模組化」與「產品化」** 的關鍵專業語言（參見 **10.1** 🌉🔗🌐 [API 與 MCP](10-01-API_MCP.en.qmd)）。從 **雲端平台**、**企業應用** 到 **開發者工具**，其背後都依賴可靠的基礎設施與服務支撐。
+這些實踐不僅是產業的最佳準則，也是理解 AI 如何 **「模組化」與「產品化」** 的關鍵專業語言（參見 **10.1** 🌉🔗🌐 [API 與 MCP](10-01-API_MCP.qmd)）。從 **雲端平台**、**企業應用** 到 **開發者工具**，其背後都依賴可靠的基礎設施與服務支撐。
 
 可以說，`AI 工程` 不只是基礎設施、程式碼與模型的簡單堆疊，而是結合 **𝚷 型人才** 主動整合各方**需求**的**系統工程**與**創新工程**，預示了對「**需求 ➾ 設計 ➾ 實作 ➾ 驗證 ➾ 優化**」全產品週期的跨領域整合高要求。
 
@@ -114,7 +114,7 @@ This page is not yet fully translated into English. Below is the original conten
 
 | 📐 AI 數學  | 🌉 AI 工程實踐               | 踐行機制說明例                                                                                                   |
 | --------- | ------------------------ | --------------------------------------------------------------------------------------------------------- |
-| 線性代數      | **AI 程式設計助理**、**模型參數管理** | 向量與矩陣運算支撐 LLM 的**嵌入表示**與**權重更新**，影響 [脈絡工程](10-05-context_engineering.en.qmd) 模型部署與程式碼 **生成式 AI ** 落地。 |
+| 線性代數      | **AI 程式設計助理**、**模型參數管理** | 向量與矩陣運算支撐 LLM 的**嵌入表示**與**權重更新**，影響 [脈絡工程](10-05-context_engineering.qmd) 模型部署與程式碼 **生成式 AI ** 落地。 |
 | 微積分＋最佳化   | **MLOps**、**效能工程**       | 梯度下降與最佳化方法驅動**模型訓練**與**推理效率**，主導**持續訓練**、**部署**與**效能調優**的效能。                                              |
 | 機率與統計     | **AI 醫療應用**、**金融科技**     | **不確定性**建模與統計推斷，支撐如**臨床決策**、**詐欺偵測**與**信用評分**或等建模。                                                        |
 | 數值分析      | **智慧製造**、**供應鏈優化**       | 提供**穩定性**與**誤差控制**，確保 AI 模型在工業與物流場景中能**可靠收斂**。                                                            |
@@ -126,7 +126,7 @@ This page is not yet fully translated into English. Below is the original conten
 **✨ 小結**：  
 - **AI 數學** 提供了**模型**的「計算及表徵」語言：如何表示、計算與推斷。  
 - `AI 工程` 則提供了**系統**的「踐行」語言：如何設計、部署與維護。  
-- 進一步，**[AI 產品經理](10-06-AI_PM.en.qmd)** 提供了產品或項目**需求**的「結構溝通」語言：如何將使用者需求轉化為**產品規格**，並確保工程產品或項目落地與市場價值對齊。  
+- 進一步，**[AI 產品經理](10-06-AI_PM.qmd)** 提供了產品或項目**需求**的「結構溝通」語言：如何將使用者需求轉化為**產品規格**，並確保工程產品或項目落地與市場價值對齊。  
 
 因此，可以說：  
 - 數學是**源頭活水** —— 滋養理論與演算法，「鍛造」數據生產力價值。  
@@ -167,7 +167,7 @@ This page is not yet fully translated into English. Below is the original conten
 
 ## 🌉關鍵技術構成🔑
 
-根據 《AI 工程》（AI Engineering），「以**基礎模型**為基底」的 `AI 工程` （其實主要是 **[大語言模型](02-07-large_language_models.en.qmd)**）有三種核心技術[@Huyen2025-ai-engineering]，以下就作者對 **產品經理** 及 **AI 工程師** 的專業視角做對照補充：
+根據 《AI 工程》（AI Engineering），「以**基礎模型**為基底」的 `AI 工程` （其實主要是 **[大語言模型](02-07-large_language_models.qmd)**）有三種核心技術[@Huyen2025-ai-engineering]，以下就作者對 **產品經理** 及 **AI 工程師** 的專業視角做對照補充：
 
 *  🌉❔📌 **[提示工程](10-03-prompt_engineering.zh-hant)**（Prompt Engineering）  
 	* 🏷️**定義**：目的在於透過設計與優化**提示輸入**，引導 **AI** 模型（特別是 **LLM**）產生更精確、更符合需求的**輸出**。作用就像與 **LLM** 溝通的「魔法咒語」，用以精準控制模型的回應。
@@ -318,10 +318,10 @@ This page is not yet fully translated into English. Below is the original conten
 
 以下有五個 AI 發展假說，請參照上述，分別說明各種 AI 發展假說最需要的 `AI 工程` 需求。
 
-- 💥 **[AI 對齊崩潰假說](appendix-glossary.en.qmd#ai-alignment-collapse)**（AI Alignment Collapse Hypothesis）：隨著 AI 能力提升，若無法持續確保其行為與人類價值對齊，將導致追求衝突目標、產生有害行為，最終引發社會決策、經濟與安全體系的 **系統性失序與混亂**。
-- 🌐 **[AI 公共財假說](appendix-glossary.en.qmd#ai-commons-hypothesis)**（AI Commons Hypothesis）：主張 AI 應被視為**共享資源**，透過**開源模型、開放資料**與**社群治理**，推動技術的去中心化發展與民主化，以避免少數權力壟斷。
-- 👑 **[AI 帝國假說](appendix-glossary.en.qmd#ai-empire-hypothesis)**（AI Empire Hypothesis）：預測**算力、資料與演算法**將集中於少數國家或超級平台，形成類似「帝國」的支配格局，導致全球創新單一化與**治理不對稱**的風險。
-- ⚔️ **[AI 部落化／碎片化假說](appendix-glossary.en.qmd#ai-tribalization-fragmentation)**（AI Tribalization / Fragmentation Hypothesis）：認為 AI 發展將呈現**多極化、碎片化**格局，不同意識形態群體建立各自的 AI 生態與標準，導致**全球治理失序與標準分裂**。
-- 🚰 **[AI 公用事業假說](appendix-glossary.en.qmd#ai-utilities-hypothesis)**（AI Utilities Hypothesis）：主張 AI 將如同電力或網路一樣，成為**普及、隱形、無所不在的社會基礎設施**，並由政府、企業與社群共同監管，以確保公平取用與安全性。
+- 💥 **[AI 對齊崩潰假說](appendix-glossary.qmd#ai-alignment-collapse)**（AI Alignment Collapse Hypothesis）：隨著 AI 能力提升，若無法持續確保其行為與人類價值對齊，將導致追求衝突目標、產生有害行為，最終引發社會決策、經濟與安全體系的 **系統性失序與混亂**。
+- 🌐 **[AI 公共財假說](appendix-glossary.qmd#ai-commons-hypothesis)**（AI Commons Hypothesis）：主張 AI 應被視為**共享資源**，透過**開源模型、開放資料**與**社群治理**，推動技術的去中心化發展與民主化，以避免少數權力壟斷。
+- 👑 **[AI 帝國假說](appendix-glossary.qmd#ai-empire-hypothesis)**（AI Empire Hypothesis）：預測**算力、資料與演算法**將集中於少數國家或超級平台，形成類似「帝國」的支配格局，導致全球創新單一化與**治理不對稱**的風險。
+- ⚔️ **[AI 部落化／碎片化假說](appendix-glossary.qmd#ai-tribalization-fragmentation)**（AI Tribalization / Fragmentation Hypothesis）：認為 AI 發展將呈現**多極化、碎片化**格局，不同意識形態群體建立各自的 AI 生態與標準，導致**全球治理失序與標準分裂**。
+- 🚰 **[AI 公用事業假說](appendix-glossary.qmd#ai-utilities-hypothesis)**（AI Utilities Hypothesis）：主張 AI 將如同電力或網路一樣，成為**普及、隱形、無所不在的社會基礎設施**，並由政府、企業與社群共同監管，以確保公平取用與安全性。
 
 ***

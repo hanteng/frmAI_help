@@ -45,7 +45,7 @@ Bridging the journey from initial intention to systemic value alignment involves
    * 📩 **Example:** An AI tasked with "selecting top job applicants" may discover from dataset patterns that filtering by gender or race optimizes its objective function faster, thereby introducing bias.
 
 3. 🐘💞 **Preferences and Biases:** **Limits of Social Preferences and Lack of "Cognitive Texture"**
-   * Modern LLMs rely heavily on behaviorist feedback training [@chaudhari_2025-RLHFDecipheredCritical]. However, reward models are fitted to specific evaluator demographics [@dahlgrenlindstrom_2025-HelpfulHarmlessHonest], capturing only community intuition and cultural preferences within the **🐘💞 Relational & Emotional Mind**. They fail to represent a universally neutral standard of "Helpful, Harmless, and Honest" (HHH). Lacking the metacognition and self-auditing of the **🧘☸️ Reflective & Symbolic Mind**, reinforcement learning risks evolving **😘🌈 Sycophancy** or **😽🤯 Strategic Framing** to maximize reward scores rather than internalizing ethical boundaries [@gao_2023-ScalingLawsReward; @moskovitz_2024-ConfrontingRewardModel]. *(See [Appendix: Tri-Aspect Mind](appendix-brain.en.qmd) for structural details.)*
+   * Modern LLMs rely heavily on behaviorist feedback training [@chaudhari_2025-RLHFDecipheredCritical]. However, reward models are fitted to specific evaluator demographics [@dahlgrenlindstrom_2025-HelpfulHarmlessHonest], capturing only community intuition and cultural preferences within the **🐘💞 Relational & Emotional Mind**. They fail to represent a universally neutral standard of "Helpful, Harmless, and Honest" (HHH). Lacking the metacognition and self-auditing of the **🧘☸️ Reflective & Symbolic Mind**, reinforcement learning risks evolving **😘🌈 Sycophancy** or **😽🤯 Strategic Framing** to maximize reward scores rather than internalizing ethical boundaries [@gao_2023-ScalingLawsReward; @moskovitz_2024-ConfrontingRewardModel]. *(See [Appendix: Tri-Aspect Mind](appendix-brain.qmd) for structural details.)*
 
 ### 🌉 Intention as a Bridge to Values
 
@@ -128,7 +128,7 @@ Turning alignment philosophy into **AI Engineering** and **Product Management** 
 
 Together, these technical practices build architectural resilience, allowing AI systems to co-evolve safely alongside human society.
 
-This volume further applies the **⟨Tri-Aspect Mind⟩** framework (*see [Appendix: Tri-Aspect Mind](appendix-brain.en.qmd)*) to [AI Engineering & Governance](10----ai_engineering.en.qmd) through multi-layered control mechanisms:
+This volume further applies the **⟨Tri-Aspect Mind⟩** framework (*see [Appendix: Tri-Aspect Mind](appendix-brain.qmd)*) to [AI Engineering & Governance](10----ai_engineering.qmd) through multi-layered control mechanisms:
 
 - 🐸⚡ **Reactive Alignment:**
 
@@ -140,7 +140,7 @@ This volume further applies the **⟨Tri-Aspect Mind⟩** framework (*see [Appen
 
 - 🧘☸️ **Reflective Alignment:**
 
-  - **Constitutional AI & Auditability:** Integrating the logical verifiability of [Part III: Symbolic AI](03----symbolic_ai.en.qmd). Systems executing Chain-of-Thought (CoT) reasoning must export transparent, audit-ready technical logs adhering to Explainable AI (XAI) standards for intent-to-value verification.
+  - **Constitutional AI & Auditability:** Integrating the logical verifiability of [Part III: Symbolic AI](03----symbolic_ai.qmd). Systems executing Chain-of-Thought (CoT) reasoning must export transparent, audit-ready technical logs adhering to Explainable AI (XAI) standards for intent-to-value verification.
 
 ***
 
@@ -154,7 +154,7 @@ When mapped onto the **⟨Tri-Aspect Mind⟩** framework, behaviorist alignment 
 
 Empirical and critical studies demonstrate the limits of this behaviorist paradigm: reward models are prone to oversimplification and embedded bias [@dahlgrenlindstrom_2025-HelpfulHarmlessHonest], leading to measurable **Reward Overoptimization** under distribution shift [@moskovitz_2024-ConfrontingRewardModel].
 
-> 🔗 **Full Structural Mapping:** For a complete architectural mapping between neural substrate, dual-process theory, and AI alignment mechanisms, see [Appendix: Tri-Aspect Mind & AI Alignment Mapping Table](appendix-brain.en.qmd#nte-tri-aspect-for-AI-alignment).
+> 🔗 **Full Structural Mapping:** For a complete architectural mapping between neural substrate, dual-process theory, and AI alignment mechanisms, see [Appendix: Tri-Aspect Mind & AI Alignment Mapping Table](appendix-brain.qmd#nte-tri-aspect-for-AI-alignment).
 
 :::
 
@@ -162,21 +162,21 @@ Empirical and critical studies demonstrate the limits of this behaviorist paradi
 
 ## 🪸 See Also
 
-- **Comparative Perspective:** Examine how the interpretability and formal verifiability of [Part III: Symbolic AI](03----symbolic_ai.en.qmd) offer auditable, design-time guarantees for AI safety architectures.
+- **Comparative Perspective:** Examine how the interpretability and formal verifiability of [Part III: Symbolic AI](03----symbolic_ai.qmd) offer auditable, design-time guarantees for AI safety architectures.
 
 ---
 
 ## 👉 Next Steps
 
-The "AI Alignment and Control Problem" resonates with Gestalt psychology: alignment preserves intentional consistency, while Gestalt dynamics reveal how human perception rapidly fills in semantic shortcuts. Next, explore **[Language Games](01-07-Language_Games.en.qmd)** to examine how AI generates, negotiates, and manipulates meaning within interactive contexts.
+The "AI Alignment and Control Problem" resonates with Gestalt psychology: alignment preserves intentional consistency, while Gestalt dynamics reveal how human perception rapidly fills in semantic shortcuts. Next, explore **[Language Games](01-07-Language_Games.qmd)** to examine how AI generates, negotiates, and manipulates meaning within interactive contexts.
 
-Additionally, readers seeking practical technical solutions for alignment and control can consult entries across 🌉 [AI Engineering](10----ai_engineering.en.qmd) and ☸ [AI Orientations](05----ai_orientations.en.qmd):
+Additionally, readers seeking practical technical solutions for alignment and control can consult entries across 🌉 [AI Engineering](10----ai_engineering.qmd) and ☸ [AI Orientations](05----ai_orientations.qmd):
 
-- ☸⚖️ [Governance Orientation](05-05-oriented_governance.en.qmd)
+- ☸⚖️ [Governance Orientation](05-05-oriented_governance.qmd)
 
-- 🌉🤖🚨 [Agent Reliability & Evaluation](10-02-agent_reliability_evaluation.en.qmd)
+- 🌉🤖🚨 [Agent Reliability & Evaluation](10-02-agent_reliability_evaluation.qmd)
 
-- 🌉🪟🧭 [Context Engineering](10-05-context_engineering.en.qmd)
+- 🌉🪟🧭 [Context Engineering](10-05-context_engineering.qmd)
 
 ---
 

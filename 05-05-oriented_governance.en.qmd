@@ -56,7 +56,7 @@ This page is not yet fully translated into English. Below is the original conten
 - 🔍 **透明性與可解釋性**（Transparency & Explainability）：對外說明決策邏輯、輸入依據與不確定性範圍。
 - ♻️ **監測與持續合規**（Monitoring & Continuous Compliance）：部署後持續監控、定期稽核與政策更新以回應環境變化。
 
-**具體對齊與控制**的`治理導向 AI`，強調的是一種以流程為核心的問題解決方式，這和 [AI 對齊與控制問題](01-06-Alignment_Control_Problem.en.qmd) 相應，因而和其它導向，特別是協作及自主概念的問題及解決方案，有所區別：
+**具體對齊與控制**的`治理導向 AI`，強調的是一種以流程為核心的問題解決方式，這和 [AI 對齊與控制問題](01-06-Alignment_Control_Problem.qmd) 相應，因而和其它導向，特別是協作及自主概念的問題及解決方案，有所區別：
 
 - ☸🤝 **協作導向**：在 RegTech 的應用中，治理導向雖能確保合規與風險控制，但若缺乏協作導向的「人本互動」設計，合規檢查往往淪為高摩擦的阻力。透過協作導向的視角，RegTech 可以：
     
@@ -149,7 +149,7 @@ This page is not yet fully translated into English. Below is the original conten
 - 🛡️ **風險緩解機制**：在社會-技術系統中設置「合規閘門」與「即時監控」，確保偏差能被即時偵測與修正。    
 - 🔄 **持續迭代**：治理架構需隨法規更新與技術演進動態調整，避免制度落後於技術。    
 
-可以說 `治理導向 AI` 的 **知識姿態** 與 [AI 對齊與控制問題](01-06-Alignment_Control_Problem.en.qmd) 的問題意識高度相關，強調 **透明性、問責性與制度化控制**，這也反映到其社會-技術系統的架構設計，以確保法令遵循相關的 **意圖** 與 **預設行動** 可以有效即時地在系統中執行並監測。
+可以說 `治理導向 AI` 的 **知識姿態** 與 [AI 對齊與控制問題](01-06-Alignment_Control_Problem.qmd) 的問題意識高度相關，強調 **透明性、問責性與制度化控制**，這也反映到其社會-技術系統的架構設計，以確保法令遵循相關的 **意圖** 與 **預設行動** 可以有效即時地在系統中執行並監測。
 
 `治理導向 AI` 的架構，和以下其它導向對比：
 
@@ -218,7 +218,7 @@ This page is not yet fully translated into English. Below is the original conten
 
 ::: {.callout-tip #tip-orientations-frame title="🖼️ 三導向對照**問題框定與解決方式** ⏱️" collapse=false open=true}
 
-可以說，`治理導向 AI` 的具體 **問題[框定](01-04-Frame_Problem.en.qmd)與解決方式**，和以下其它導向對比：
+可以說，`治理導向 AI` 的具體 **問題[框定](01-04-Frame_Problem.qmd)與解決方式**，和以下其它導向對比：
 
 - ☸🤝 **協作導向**：強調「**用戶體驗**」框架，追求「**人本採納**」效應。協作導向偏重人機互動的流暢性與使用者體驗，而治理導向則偏重合規檢核與責任追溯；兩者需結合，將合規檢查點以低摩擦方式嵌入互動流程。  
 - ☸🤖 **智能體導向**：強調「**模型系統**」框架，追求「**動態適應**」效能。智能體導向強調自主性與長期策略性，治理導向則要求為自治行為設定可審計的邊界與即時干預機制；兩者需透過「意圖可視化」與「回退機制」來平衡自治與問責。  
@@ -296,8 +296,8 @@ This page is not yet fully translated into English. Below is the original conten
 
 ✨ **綜上所述**，`治理導向 AI` 應用啟發可分述如下：
 
-* 🌉 強調「治理即設計」的實踐要求：在 [AI 工程](10----ai_engineering.en.qmd) 的脈絡下，要求工程師將 **合規性、風險控制與問責機制** 內嵌於系統設計與開發流程，從需求規格、資料治理到部署監控，形成「**治理即設計**」的工程實踐。這不僅提升了系統的安全性與可持續性，也讓跨職能團隊（法務、合規、產品、技術）能在共同框架下協作。  
-* 🎁 強調「跨域素養」與「可審計、可解釋、可問責」的整合培養：在 [AI 教育](10-06-AI_PM.en.qmd) 的脈絡中，治理導向則轉化為 **教育與培訓的核心能力**：培養學生與專業人員理解 **法規、倫理與風險管理** 如何與技術閉環結合，並能在 **專案管理** 與 **產品設計** 中落實「**可審計、可解釋、可問責**」的原則。這種跨域教育不僅提升了未來 AI 工程師的專業素養，也為產業與社會建立長期的信任基礎。  
+* 🌉 強調「治理即設計」的實踐要求：在 [AI 工程](10----ai_engineering.qmd) 的脈絡下，要求工程師將 **合規性、風險控制與問責機制** 內嵌於系統設計與開發流程，從需求規格、資料治理到部署監控，形成「**治理即設計**」的工程實踐。這不僅提升了系統的安全性與可持續性，也讓跨職能團隊（法務、合規、產品、技術）能在共同框架下協作。  
+* 🎁 強調「跨域素養」與「可審計、可解釋、可問責」的整合培養：在 [AI 教育](10-06-AI_PM.qmd) 的脈絡中，治理導向則轉化為 **教育與培訓的核心能力**：培養學生與專業人員理解 **法規、倫理與風險管理** 如何與技術閉環結合，並能在 **專案管理** 與 **產品設計** 中落實「**可審計、可解釋、可問責**」的原則。這種跨域教育不僅提升了未來 AI 工程師的專業素養，也為產業與社會建立長期的信任基礎。  
 
 👉 因此，`治理導向 AI` 在工程與教育兩個面向的整合，既是 **技術落地的必要條件**，也是 **社會信任與產業競爭力的核心資產**。
 
@@ -306,24 +306,24 @@ This page is not yet fully translated into English. Below is the original conten
 瞭解基於 **法令遵循** 與 **RegTech** 發展、 強調「**問責追蹤**」框架，追求「**底線安全**」保障的 `治理導向 AI`  後，讀者可以繼續：
 
 - ⇆🚥對比：
-	* **5.1** ☸🎯 **[任務導向型](05-01-oriented_task.en.qmd)**
-	* **5.2** ☸🛠 **[工具導向](05-02-oriented_tool.en.qmd)**
-	* **5.3** ☸🤖 **[智能體／代理人導向](05-03-oriented_agent.en.qmd)**
-	* **5.4** ☸🤝 **[協作導向／以人為本導向](05-04-oriented_collaborative.en.qmd)**
-<!--	* **5.5** ☸⚖️ **[治理導向](05-05-oriented_governance.en.qmd)**-->
-* ⮤🚦探究 [第壹篇 ㉄](01----problematics.en.qmd)　AI 問題意識
-	* **1.3** 🔤⚓ [符碼紮根問題](01-03-Symbol_Grounding_Problem.en.qmd)
-	* **1.4** 🖼️⏱️ [框架問題](01-04-Frame_Problem.en.qmd)
-	* **1.6** 🎯🛡️ [對齊與控制問題](01-06-Alignment_Control_Problem.en.qmd)
-	* **1.7** 🗫🎲 [語言賽局](01-07-Language_Games.en.qmd)
-* ⮦🚦探究[第捌篇 🦾](08----embodied_ai.en.qmd)　「具身派」AI：
-	* **8.3** 🦾🔄🖼️ [自適應機器人](08-03-adaptive_robotics.en.qmd)
-	* **8.4** 🦾🤝💪 [人機互動](08-04-human_robot_interaction.en.qmd)
-	* **8.5** 🦾🛡️🚨 [機器人安全與穩健性](08-05-robot_safety_and_robustness.en.qmd)
-	* **8.6** 🦾🧭🎯 [任務與目標規劃](08-06-robot_tasks_and_goals.en.qmd)
-* ⮦✨應用啟發 [第拾篇 🌉](10----ai_engineering.en.qmd)　AI工程：
-	* **10.2** 🌉🤖🚨 [智能體可靠性與評估](10-02-agent_reliability_evaluation.en.qmd)
-	* **10.4** 🌉🔗📒 [知識驅動生成（RAG）](10-04-retrieval_augmented_generation.en.qmd)
-	* **10.5** 🌉🪟🧭 [脈絡工程](10-05-context_engineering.en.qmd)
-	* **10.6** 🎁🌱🚀 [AI 產品經理](10-06-AI_PM.en.qmd)
+	* **5.1** ☸🎯 **[任務導向型](05-01-oriented_task.qmd)**
+	* **5.2** ☸🛠 **[工具導向](05-02-oriented_tool.qmd)**
+	* **5.3** ☸🤖 **[智能體／代理人導向](05-03-oriented_agent.qmd)**
+	* **5.4** ☸🤝 **[協作導向／以人為本導向](05-04-oriented_collaborative.qmd)**
+<!--	* **5.5** ☸⚖️ **[治理導向](05-05-oriented_governance.qmd)**-->
+* ⮤🚦探究 [第壹篇 ㉄](01----problematics.qmd)　AI 問題意識
+	* **1.3** 🔤⚓ [符碼紮根問題](01-03-Symbol_Grounding_Problem.qmd)
+	* **1.4** 🖼️⏱️ [框架問題](01-04-Frame_Problem.qmd)
+	* **1.6** 🎯🛡️ [對齊與控制問題](01-06-Alignment_Control_Problem.qmd)
+	* **1.7** 🗫🎲 [語言賽局](01-07-Language_Games.qmd)
+* ⮦🚦探究[第捌篇 🦾](08----embodied_ai.qmd)　「具身派」AI：
+	* **8.3** 🦾🔄🖼️ [自適應機器人](08-03-adaptive_robotics.qmd)
+	* **8.4** 🦾🤝💪 [人機互動](08-04-human_robot_interaction.qmd)
+	* **8.5** 🦾🛡️🚨 [機器人安全與穩健性](08-05-robot_safety_and_robustness.qmd)
+	* **8.6** 🦾🧭🎯 [任務與目標規劃](08-06-robot_tasks_and_goals.qmd)
+* ⮦✨應用啟發 [第拾篇 🌉](10----ai_engineering.qmd)　AI工程：
+	* **10.2** 🌉🤖🚨 [智能體可靠性與評估](10-02-agent_reliability_evaluation.qmd)
+	* **10.4** 🌉🔗📒 [知識驅動生成（RAG）](10-04-retrieval_augmented_generation.qmd)
+	* **10.5** 🌉🪟🧭 [脈絡工程](10-05-context_engineering.qmd)
+	* **10.6** 🎁🌱🚀 [AI 產品經理](10-06-AI_PM.qmd)
 
