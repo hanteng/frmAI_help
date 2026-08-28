@@ -52,8 +52,8 @@ jobs:
       - name: 🔍 Audit File Manifest on Linux Runner
         run: python3 py-audit_manifest.py
 
-      # 6a. 🔬 Diagnostic: Check Root Workspace & Quarto Render Targets
-      - name: 🔬 Diagnostic: Inspect Root .qmd Files & Quarto Target List
+      # 6a. 🔬 Diagnostic-- Check Root Workspace & Quarto Render Targets
+      - name: 🔬 Diagnostic-- Inspect Root .qmd Files & Quarto Target List
         run: |
           echo "=== Count of .qmd files in Root Repo ==="
           find . -maxdepth 3 -name "*.qmd" | wc -l
@@ -83,8 +83,8 @@ jobs:
             babelquarto::render_book()
           '
 
-      # 7a. 🔬 Diagnostic: Inspect Output Directory and Temp Files
-      - name: 🔬 Diagnostic: Inspect Output Directory and Temp Files
+      # 7a. 🔬 Diagnostic-- Inspect Output Directory and Temp Files
+      - name: 🔬 Diagnostic-- Inspect Output Directory and Temp Files
         if: always()
         run: |
           echo "=== Output directory structure (_book) ==="
