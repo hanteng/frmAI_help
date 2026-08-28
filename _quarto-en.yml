@@ -4,11 +4,12 @@ language: _language-en.yml
 
 project:
   type: book
+  resources:
+    - CNAME               # Added to ensure your domain file is kept during rendering
+  output-dir: _book
   render:
     - "*.en.qmd"
-    - "index.qmd"
-    - "!*.qmd"       # <--- Excludes base Chinese files from Quarto POSIX auto-discovery
-    - "!0*.qmd"      # <--- Excludes numbered base chapter files (01-*, 02-*, etc.)
+    - "**/*.en.qmd"
 book:
   title: "Harnessing Intelligence"
   subtitle: "AI Game Playbook"
