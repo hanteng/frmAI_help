@@ -2,6 +2,9 @@ project:
   type: book
   resources:
     - CNAME               # Added to ensure your domain file is kept during rendering
+  render:
+    - "!*.en.qmd"
+    - "!**/*.en.qmd"
   output-dir: _book
 
 title-en: "Harnessing Intelligence:<br/><small>AI Game Playbook</small>"

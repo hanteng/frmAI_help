@@ -6,10 +6,10 @@ project:
   type: book
   resources:
     - CNAME               # Added to ensure your domain file is kept during rendering
-  output-dir: _book
   render:
     - "*.en.qmd"
     - "**/*.en.qmd"
+  output-dir: _book
 book:
   title: "Harnessing Intelligence"
   subtitle: "AI Game Playbook"
