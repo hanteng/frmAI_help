@@ -72,7 +72,7 @@ jobs:
       # 7. Render Multilingual Book using patched babelquarto
       - name: Render Multilingual Book
         env:
-          QUARTO_LOG_LEVEL: DEBUG                              # <-- ADD THIS LINE
+          QUARTO_LOG_LEVEL: INFO                              # <-- INFO shorter than DEBUG
         run: |
           Rscript -e '
             cat("=== Working Directory ===\n")
