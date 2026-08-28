@@ -52,10 +52,47 @@ jobs:
       - name: 🔍 Audit File Manifest on Linux Runner
         run: python3 py-audit_manifest.py
 
+      # 6a. 🔬 Diagnostic: Check Root Workspace & Quarto Render Targets
+      - name: 🔬 Diagnostic: Inspect Root .qmd Files & Quarto Target List
+        run: |
+          echo "=== Count of .qmd files in Root Repo ==="
+          find . -maxdepth 3 -name "*.qmd" | wc -l
+          
+          echo "=== List of all .qmd files in Root Repo ==="
+          find . -maxdepth 3 -name "*.qmd" | sort
+          
+          echo "=== What Quarto CLI sees as render targets ==="
+          quarto render --dry-run || true
+
       # 7. Render Multilingual Book using patched babelquarto
       - name: Render Multilingual Book
         run: |
-          Rscript -e 'unlink("_book", recursive = TRUE); babelquarto::render_book()'
+          Rscript -e '
+            cat("=== Working Directory ===\n")
+            print(getwd())
+            
+            unlink("_book", recursive = TRUE)
+            
+            trace(
+              babelquarto::render_book,
+              tracer = quote({
+                cat("\n=== babelquarto::render_book triggered ===\n")
+              })
+            )
+            
+            babelquarto::render_book()
+          '
+
+      # 7a. 🔬 Diagnostic: Inspect Output Directory and Temp Files
+      - name: 🔬 Diagnostic: Inspect Output Directory and Temp Files
+        if: always()
+        run: |
+          echo "=== Output directory structure (_book) ==="
+          ls -la _book/ || true
+          ls -la _book/en/ || true
+          
+          echo "=== Check system /tmp directory for babelquarto temp builds ==="
+          ls -la /tmp/Rtmp* || true
 
       # 8. Copy Cover Image
       - name: Copy Cover Image
