@@ -62,7 +62,7 @@ jobs:
           find . -maxdepth 3 -name "*.qmd" | sort
           
           echo "=== What Quarto CLI sees as render targets ==="
-          quarto render --dry-run || true
+          quarto render --dry-inspect || true
 
       # 7. Render Multilingual Book using patched babelquarto
       - name: Render Multilingual Book
