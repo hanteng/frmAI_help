@@ -47,6 +47,21 @@ jobs:
           packages: |
             github::${{ env.BABELQUARTO_REPO }}
 
+      - name: Force Install Patched babelquarto Fork
+        run: |
+          Rscript -e '
+            pak::pkg_install("hanteng/babelquarto@main", ask = FALSE)
+            
+            # Verify which commit was actually installed:
+            info <- utils::packageDescription("babelquarto")
+            cat("=========================================\n")
+            cat("INSTALLED SOURCE:", info$RemoteUsername, "/", info$RemoteRepo, "\n")
+            cat("INSTALLED REF:   ", info$RemoteRef, "\n")
+            cat("INSTALLED SHA:   ", info$RemoteSha, "\n")
+            cat("=========================================\n")
+          '
+        shell: bash      
+
       # 5. Verify Versions
       - name: Verify Versions
         run: |
