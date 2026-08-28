@@ -35,38 +35,40 @@ jobs:
       - name: Setup R
         uses: r-lib/actions/setup-r@v2
 
-      # 4. Install R dependencies
+      # 4. Install R dependencies (Directly targeting your patched fork)
       - name: Install R Dependencies
         uses: r-lib/actions/setup-r-dependencies@v2
         with:
-          extra-packages: |
-            any::babelquarto
           packages: |
-            github::ropensci-review-tools/babelquarto
-      - name: Set up Quarto
-        uses: quarto-dev/quarto-actions/setup@v2
+            github::hanteng/babelquarto
+
+      # 5. Verify Versions
       - name: Verify Versions
         run: |
           quarto --version
           Rscript -e 'cat("babelquarto version:", as.character(packageVersion("babelquarto")), "\n")'
+
+      # 6. Audit File Manifest
       - name: 🔍 Audit File Manifest on Linux Runner
         run: python3 py-audit_manifest.py
-      # 5. Render Multilingual Book using babelquarto
+
+      # 7. Render Multilingual Book using patched babelquarto
       - name: Render Multilingual Book
         run: |
           Rscript -e 'unlink("_book", recursive = TRUE); babelquarto::render_book()'
 
-      # 6. Copy Cover Image if not included in resources
+      # 8. Copy Cover Image
       - name: Copy Cover Image
         run: |
           cp cover.png _book/ || true
-      # 7. Upload Pages Artifact
+
+      # 9. Upload Pages Artifact
       - name: Upload pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: '_book'
 
-      # 8. Deploy Artifact to GitHub Pages
+      # 10. Deploy Artifact to GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
