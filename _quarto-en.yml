@@ -7,8 +7,8 @@ project:
   resources:
     - CNAME               # Added to ensure your domain file is kept during rendering
   render:
-    - "*.en.en.qmd"
-    - "**/*.en.en.qmd"
+    - "*.en.qmd"
+    - "**/*.en.qmd"
   output-dir: _book
 
 book:

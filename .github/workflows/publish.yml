@@ -86,6 +86,9 @@ jobs:
                 cat("\n=== babelquarto::render_book triggered ===\n")
               })
             )
+            cat("=== Repo Root ===\n", getwd(), "\n")
+            cat("=== R Temp Dir ===\n", tempdir(), "\n")
+            cat("=== Normalized Temp Dir ===\n", normalizePath(tempdir()), "\n")
             
             babelquarto::render_book()
           '
