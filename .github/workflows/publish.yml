@@ -14,6 +14,11 @@ concurrency:
   group: "pages"
   cancel-in-progress: true
 
+env:
+  # Toggle between your fork and upstream here:
+  # BABELQUARTO_REPO: "hanteng/babelquarto@backup-previous-patch"  # <-- FORK (or branch)
+  BABELQUARTO_REPO: "ropensci/babelquarto"                     # <-- UPSTREAM ORIGINAL
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
@@ -40,7 +45,7 @@ jobs:
         uses: r-lib/actions/setup-r-dependencies@v2
         with:
           packages: |
-            github::hanteng/babelquarto
+            github::${{ env.BABELQUARTO_REPO }}
 
       # 5. Verify Versions
       - name: Verify Versions
@@ -66,6 +71,8 @@ jobs:
 
       # 7. Render Multilingual Book using patched babelquarto
       - name: Render Multilingual Book
+        env:
+          QUARTO_LOG_LEVEL: DEBUG                              # <-- ADD THIS LINE
         run: |
           Rscript -e '
             cat("=== Working Directory ===\n")
