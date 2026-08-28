@@ -16,8 +16,8 @@ concurrency:
 
 env:
   # Toggle between your fork and upstream here:
-  # BABELQUARTO_REPO: "hanteng/babelquarto@backup-previous-patch"  # <-- FORK (or branch)
-  BABELQUARTO_REPO: "ropensci-review-tools/babelquarto"                     # <-- UPSTREAM ORIGINAL
+  BABELQUARTO_REPO: "hanteng/babelquarto@backup-previous-patch"  # <-- FORK (or branch)
+  #BABELQUARTO_REPO: "ropensci-review-tools/babelquarto"                     # <-- UPSTREAM ORIGINAL
 
 jobs:
   build-and-deploy:
@@ -68,7 +68,13 @@ jobs:
           
           echo "=== What Quarto CLI sees as render targets ==="
           quarto inspect || true
-
+      - name: 🔍 Debug Path Isolation
+        run: |
+          Rscript -e '
+            cat("=== Repo Working Dir ===\n", getwd(), "\n")
+            cat("=== System Temp Dir ===\n", tempdir(), "\n")
+            cat("=== Realpath Temp Dir ===\n", fs::path_real(tempdir()), "\n")
+          '
       # 7. Render Multilingual Book using patched babelquarto
       - name: Render Multilingual Book
         env:
