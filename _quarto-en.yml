@@ -29,6 +29,108 @@ book:
   search: true
   page-navigation: true
   reader-mode: true
+  chapters:
+    - index.en.qmd
+    - 00-02-notes-mental_fill-in.en.qmd
+    - 00-03-notes-constructive_fill-in.en.qmd
+    - toc.en.qmd  # This page will display the full TOC/Listings
+    - part: "01----problematics.en.qmd"
+      chapters:
+        - 01-01-Turing_Test.en.qmd # id: sec-turing-test
+        - 01-02-Chinese_Room.en.qmd # id: sec-chinese-room
+        - 01-03-Symbol_Grounding_Problem.en.qmd # id: sec-symbol-grounding-problem
+        - 01-04-Frame_Problem.en.qmd # id: sec-frame-problem
+        - 01-05-Gestalt_Psychology.en.qmd # id: sec-gestalt-psychology
+        - 01-06-Alignment_Control_Problem.en.qmd # id: sec-alignment-control-problem
+        - 01-07-Language_Games.en.qmd # id: sec-language-games
+    - part: 02----schools_paradigms.en.qmd
+      chapters:
+        - 02-01-symbolic_ai.en.qmd # id: sec-symbolic-ai
+        - 02-02-statistical_ai.en.qmd # id: sec-statistical-ai
+        - 02-03-neurosymbolic_ai.en.qmd # id: sec-neurosymbolic-ai
+        - 02-04-agi.en.qmd # id: sec-agi
+        - 02-05-connectionism.en.qmd # id: sec-connectionism
+        - 02-06-behaviorism.en.qmd # id: sec-behaviorism
+        - 02-07-large_language_models.en.qmd # id: sec-large-language-models
+    - part: 03----symbolic_ai.en.qmd
+      chapters:
+        - 03-01-formal_logic.en.qmd # id: sec-formal-logic
+        - 03-02-automatic_dialogue_systems.en.qmd # id: sec-automatic-dialogue-systems
+        - 03-03-expert_systems.en.qmd # id: sec-expert-systems
+        - 03-04-knowledge_representation.en.qmd # id: sec-knowledge-representation
+        - 03-05-knowledge_graph.en.qmd # id: sec-knowledge-graph
+        - 03-06-semantic_web.en.qmd # id: sec-semantic-web
+        - 03-07-ontology.en.qmd # id: sec-ontology
+    - part: 04----statistical_ai.en.qmd
+      chapters:
+        - 04-01-probabilistic_association.en.qmd # id: sec-probabilistic-association
+        - 04-02-llm_chatbots.en.qmd # id: sec-llm-chatbots
+        - 04-03-neural_networks.en.qmd # id: sec-neural-networks
+        - 04-04-feature_engineering.en.qmd # id: sec-feature-engineering
+        - 04-05-machine_learning_models.en.qmd # id: sec-machine-learning-models
+        - 04-06-llm_webassembly.en.qmd # id: sec-llm-webassembly
+        - 04-07-vector_space.en.qmd # id: sec-vector-space
+    - part: 05----ai_orientations.en.qmd
+      chapters:
+        - 05-01-oriented_task.en.qmd # id: sec-oriented-task
+        - 05-02-oriented_tool.en.qmd # id: sec-oriented-tool
+        - 05-03-oriented_agent.en.qmd # id: sec-oriented-agent
+        - 05-04-oriented_collaborative.en.qmd # id: sec-oriented-collaborative
+        - 05-05-oriented_governance.en.qmd # id: sec-oriented-governance
+    - part: 06----analytics_decisions.en.qmd
+      chapters:
+        - 06-01-analysis_diagnostic.en.qmd # id: sec-analysis-diagnostic
+        - 06-02-analysis_predictive.en.qmd # id: sec-analysis-predictive
+        - 06-03-analysis_prescriptive.en.qmd # id: sec-analysis-prescriptive
+        - 06-04-analysis_descriptive.en.qmd # id: sec-analysis-descriptive
+        - 06-05-analysis_generative.en.qmd # id: sec-analysis-generative
+        - 06-06-decision_making_algorithm.en.qmd # id: sec-decision-making-algorithm
+    - part: 07----game_ai.en.qmd
+      chapters:
+        - 07-01-ieee_micromouse.en.qmd # id: sec-ieee-micromouse
+        - 07-02-atari_dqn.en.qmd # id: sec-atari-dqn
+        - 07-03-alphago.en.qmd # id: sec-alphago
+        - 07-04-poker_ai.en.qmd # id: sec-poker-ai
+        - 07-05-openai_five.en.qmd # id: sec-openai-five
+        - 07-06-werewolf_ai.en.qmd # id: sec-werewolf-ai
+        - 07-07-complex_strategic_simulation.en.qmd # id: sec-complex-strategic-simulation
+    - part: 08----embodied_ai.en.qmd
+      chapters:
+        - 08-01-robotics_and_physical_actuation.en.qmd # id: sec-robotics-and-physical-actuation
+        - 08-02-perception_and_environment.en.qmd # id: sec-perception-and-environment
+        - 08-03-adaptive_robotics.en.qmd # id: sec-adaptive-robotics
+        - 08-04-human_robot_interaction.en.qmd # id: sec-human-robot-interaction
+        - 08-05-robot_safety_and_robustness.en.qmd # id: sec-robot-safety-and-robustness
+        - 08-06-robot_tasks_and_goals.en.qmd # id: sec-robot-tasks-and-goals
+    - part: 09----ai_math.en.qmd
+      chapters:
+        - 09-01-collaborative_filtering.en.qmd # id: sec-collaborative-filtering
+        - 09-02-steepest_descent_method.en.qmd # id: sec-steepest-descent-method
+        - 09-03-bayesian_network.en.qmd # id: sec-bayesian-network
+        - 09-04-sparse_modeling.en.qmd # id: sec-sparse-modeling
+        - 09-05-markov_modeling.en.qmd # id: sec-markov-modeling
+        - 09-06-monte_carlo_tree_search.en.qmd # id: sec-monte-carlo-tree-search
+        - 09-07-hebb_rule.en.qmd # id: sec-hebb-rule
+        - 09-08-multi_agent_payoff_matrix.en.qmd # id: sec-multi-agent-payoff-matrix
+    - part: 10----ai_engineering.en.qmd
+      chapters:
+        - 10-01-API_MCP.en.qmd # id: sec-api-mcp
+        - 10-02-agent_reliability_evaluation.en.qmd # id: sec-agent-reliability-evaluation
+        - 10-03-prompt_engineering.en.qmd # id: sec-prompt-engineering
+        - 10-04-retrieval_augmented_generation.en.qmd # id: sec-retrieval-augmented-generation
+        - 10-05-context_engineering.en.qmd # id: sec-context-engineering
+        - 10-06-AI_PM.en.qmd # id: sec-ai-pm
+  appendices:
+    - appendix-action.en.qmd # id: app-action
+    - appendix-brain.en.qmd # id: app-brain
+    - appendix-cognitive_capacity.en.qmd # id: app-cognitive-capacity
+    - appendix-cognitive_capacity-define.en.qmd # id: sec-cc-define-module
+    - appendix-cognitive_capacity-mvp.en.qmd # id: sec-cc-mvp-module
+    - appendix-differentiating_API-MCP.en.qmd # id: app-api
+    - appendix-evolving_mindmap.en.qmd # id: fig-mindmap
+    - appendix-framing_cover_back.en.qmd # id: sec-cover-back
+    - appendix-glossary.en.qmd # id: sec-book-glossary
+    - references.en.qmd # id: sec-book-references
 
   page-footer:
     left: |
