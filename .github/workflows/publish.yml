@@ -50,7 +50,7 @@ jobs:
         run: |
           Rscript -e '
             pak::pkg_install("hanteng/babelquarto@main", ask = FALSE)
-            
+
             # Verify which commit was actually installed:
             info <- utils::packageDescription("babelquarto")
             cat("=========================================\n")
@@ -59,7 +59,7 @@ jobs:
             cat("INSTALLED SHA:   ", info$RemoteSha, "\n")
             cat("=========================================\n")
           '
-        shell: bash      
+        shell: bash
 
       # 5. Verify Versions
       - name: Verify Versions
@@ -76,12 +76,13 @@ jobs:
         run: |
           echo "=== Count of .qmd files in Root Repo ==="
           find . -maxdepth 3 -name "*.qmd" | wc -l
-          
+
           echo "=== List of all .qmd files in Root Repo ==="
           find . -maxdepth 3 -name "*.qmd" | sort
-          
+
           echo "=== What Quarto CLI sees as render targets ==="
           quarto inspect || true
+
       - name: 🔍 Debug Path Isolation
         run: |
           Rscript -e '
@@ -89,17 +90,24 @@ jobs:
             cat("=== System Temp Dir ===\n", tempdir(), "\n")
             cat("=== Realpath Temp Dir ===\n", fs::path_real(tempdir()), "\n")
           '
+
       # 7. Render Multilingual Book using patched babelquarto
+      #    continue-on-error keeps the job alive on failure so the
+      #    diagnostics/fallback-deploy steps below can still run and
+      #    actually publish something visible instead of just failing
+      #    silently in the Actions log.
       - name: Render Multilingual Book
+        id: render
+        continue-on-error: true
         env:
-          QUARTO_LOG_LEVEL: INFO                              # <-- INFO shorter than DEBUG
+          QUARTO_LOG_LEVEL: INFO
         run: |
           Rscript -e '
             cat("=== Working Directory ===\n")
             print(getwd())
-            
+
             unlink("_book", recursive = TRUE)
-            
+
             trace(
               babelquarto::render_book,
               tracer = quote({
@@ -109,7 +117,7 @@ jobs:
             cat("=== Repo Root ===\n", getwd(), "\n")
             cat("=== R Temp Dir ===\n", tempdir(), "\n")
             cat("=== Normalized Temp Dir ===\n", normalizePath(tempdir()), "\n")
-            
+
             babelquarto::render_book()
           '
 
@@ -120,22 +128,101 @@ jobs:
           echo "=== Output directory structure (_book) ==="
           ls -la _book/ || true
           ls -la _book/en/ || true
-          
+
           echo "=== Check system /tmp directory for babelquarto temp builds ==="
           ls -la /tmp/Rtmp* || true
 
-      # 8. Copy Cover Image
+      # 7b. 🔬 Diagnostic-- Dump babelquarto's written _quarto.yml for each
+      #     language pass. Survives even though the temp dir it was copied
+      #     out of is cleaned up by withr::local_tempdir()'s exit handler
+      #     as soon as the R process ends (success or error).
+      - name: 🔬 Diagnostic-- Dump per-language _quarto.yml
+        if: always()
+        run: |
+          mkdir -p _diagnostics
+          echo "=== Render step outcome: ${{ steps.render.outcome }} ===" | tee _diagnostics/render-outcome.txt
+
+          found_any=0
+          for f in "$HOME"/babelquarto_debug_quarto_*.yml; do
+            if [ -f "$f" ]; then
+              found_any=1
+              echo "----- $f -----"
+              cat "$f"
+              cp "$f" _diagnostics/
+            fi
+          done
+          if [ "$found_any" -eq 0 ]; then
+            echo "No babelquarto_debug_quarto_*.yml files found — render_quarto_lang() never reached the write_yaml step for any language." | tee -a _diagnostics/render-outcome.txt
+          fi
+
+      # 7c. Build a minimal diagnostics HTML page as a fallback deploy
+      #     target, so a failed render still produces a visible webpage
+      #     instead of the Pages deployment simply not happening.
+      - name: 🔧 Build fallback diagnostics page
+        if: always()
+        run: |
+          mkdir -p _diagnostics
+          {
+            echo "<!DOCTYPE html><html><head><meta charset='utf-8'>"
+            echo "<title>babelquarto build diagnostics</title>"
+            echo "<style>body{font-family:monospace;white-space:pre-wrap;padding:2rem;background:#111;color:#eee}"
+            echo "h1{color:#f66}pre{background:#000;padding:1rem;overflow-x:auto;border:1px solid #333}</style>"
+            echo "</head><body>"
+            echo "<h1>babelquarto render did not complete (outcome: ${{ steps.render.outcome }})</h1>"
+            echo "<p>Run: <a href='${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}' style='color:#6cf'>${{ github.run_id }}</a> — commit ${{ github.sha }}</p>"
+            for f in _diagnostics/*.yml; do
+              [ -f "$f" ] || continue
+              echo "<h2>$(basename "$f")</h2><pre>"
+              sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g' "$f"
+              echo "</pre>"
+            done
+            echo "<h2>render-outcome.txt</h2><pre>"
+            sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g' _diagnostics/render-outcome.txt
+            echo "</pre>"
+            echo "</body></html>"
+          } > _diagnostics/index.html
+
+      # 7d. Decide deploy target: the real _book if the render actually
+      #     produced one, otherwise the diagnostics page, so the Upload/
+      #     Deploy steps below always have a valid, non-empty folder.
+      - name: 🚦 Choose deploy target
+        id: choose
+        if: always()
+        run: |
+          if [ -f "_book/index.html" ]; then
+            echo "Render succeeded — deploying _book/"
+            echo "deploy_path=_book" >> "$GITHUB_OUTPUT"
+          else
+            echo "Render did not produce _book/index.html — deploying diagnostics page instead"
+            echo "deploy_path=_diagnostics" >> "$GITHUB_OUTPUT"
+          fi
+
+      # 8. Copy Cover Image (only meaningful for a real, successful build)
       - name: Copy Cover Image
+        if: steps.choose.outputs.deploy_path == '_book'
         run: |
           cp cover.png _book/ || true
 
-      # 9. Upload Pages Artifact
+      # 9. Upload Pages Artifact (real book or diagnostics fallback)
       - name: Upload pages artifact
+        if: always()
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '_book'
+          path: ${{ steps.choose.outputs.deploy_path }}
 
-      # 10. Deploy Artifact to GitHub Pages
+      # 10. Deploy Artifact to GitHub Pages (always attempt, so failures
+      #     are visible on the live Pages URL instead of only in the
+      #     Actions log)
       - name: Deploy to GitHub Pages
         id: deployment
+        if: always()
         uses: actions/deploy-pages@v4
+
+      # 11. Fail the job loudly at the very end if the render actually
+      #     failed, so CI status/notifications still reflect the real
+      #     outcome even though we deployed diagnostics successfully.
+      - name: Fail job if render did not succeed
+        if: steps.render.outcome != 'success'
+        run: |
+          echo "Render step failed (outcome: ${{ steps.render.outcome }}). Diagnostics were deployed to Pages; see the run above for details."
+          exit 1
