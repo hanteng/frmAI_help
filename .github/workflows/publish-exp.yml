@@ -1,9 +1,9 @@
-name: [Experimental] Deploy Quarto Book to GitHub Pages
+name: Deploy Quarto Book to GitHub Pages
 
 on:
-  push:
-    branches: [main]
-  workflow_dispatch: {}
+  workflow_dispatch: {} # This enables the manual "Run workflow" button
+#  push:
+#    branches: [main]
 
 permissions:
   contents: read
@@ -16,8 +16,8 @@ concurrency:
 
 env:
   # Toggle between your fork and upstream here:
-  BABELQUARTO_REPO: "hanteng/babelquarto"  # <-- FORK (or branch)
-  #BABELQUARTO_REPO: "ropensci-review-tools/babelquarto"                     # <-- UPSTREAM ORIGINAL
+  #BABELQUARTO_REPO: "hanteng/babelquarto"  # <-- FORK (or branch)
+  BABELQUARTO_REPO: "ropensci-review-tools/babelquarto"                     # <-- UPSTREAM ORIGINAL
 
 jobs:
   build-and-deploy:
@@ -46,32 +46,14 @@ jobs:
         with:
           packages: |
             github::${{ env.BABELQUARTO_REPO }}
-
-      - name: Install and Verify Patched babelquarto Fork
-        run: |
-          Rscript -e '
-            pak::pkg_install("hanteng/babelquarto@main", ask = FALSE)
-            
-            # Verify which commit was actually installed:
-            info <- utils::packageDescription("babelquarto")
-            cat("=========================================\n")
-            cat("INSTALLED SOURCE:", info$RemoteUsername, "/", info$RemoteRepo, "\n")
-            cat("INSTALLED REF:   ", info$RemoteRef, "\n")
-            cat("INSTALLED SHA:   ", info$RemoteSha, "\n")
-            cat("=========================================\n")
-          '
-        shell: bash      
-
       # 5. Verify Versions
       - name: Verify Versions
         run: |
           quarto --version
           Rscript -e 'cat("babelquarto version:", as.character(packageVersion("babelquarto")), "\n")'
-
       # 6. Audit File Manifest
       - name: 🔍 Audit File Manifest on Linux Runner
         run: python3 py-audit_manifest.py
-
       # 6a. 🔬 Diagnostic-- Check Root Workspace & Quarto Render Targets
       - name: 🔬 Diagnostic-- Inspect Root .qmd Files & Quarto Target List
         run: |
@@ -113,7 +95,6 @@ jobs:
             
             babelquarto::render_book()
           '
-
       # 7a. 🔬 Diagnostic-- Inspect Output Directory and Temp Files
       - name: 🔬 Diagnostic-- Inspect Output Directory and Temp Files
         if: always()
