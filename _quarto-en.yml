@@ -16,8 +16,7 @@
     author:
       - name: "Han-Teng Liao (廖漢騰)"
         orcid: "0000-0003-1081-5599"   # replace with actual ORCID
-        affiliations:
-          - name: "Independent Researcher"
+        affiliations: "Independent Researcher"
     date: "2026-07-23"   # ISO format so it parses/localizes correctly across formats
     site-url: "https://book.frmai.help"   # matches CNAME; update if the domain changes
     sidebar:
