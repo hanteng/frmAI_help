@@ -318,7 +318,7 @@ tags:
 
 ## 👉 承先啟後
 
-::: {.callout-note #tip-note-ai-taxonomy title="🔖AI 分類雙維度對照：學界典範🆚業界經驗ℹ"}
+::: {.callout-note #nte-ai-taxonomy title="🔖AI 分類雙維度對照：學界典範🆚業界經驗ℹ"}
 
 `AI 導向` 可以視為 🪜 [知行鷹架](00-03-notes-constructive_fill-in.qmd) 的一種 「**業界經驗法則分類**」維度。讀者可藉此對照 AI 領域的兩種主要分類方法：
 

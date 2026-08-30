@@ -4,7 +4,12 @@ project:
     - CNAME               # Added to ensure your domain file is kept during rendering
   output-dir: _book
 
-title-en: "Harnessing Intelligence:<br/><small>AI Game Playbook</small>"
+title-en: "Harnessing Intelligence with Frames"
+subtitle-en: "<small>A Playbook for AI Life Games</small>"
+cover-image-alt-en: "Book cover showing the Illustrations of Alice and the Dodo from Alice's Adventures in Wonderland, by John Tenniel (1865)"  
+description-en: |
+    (TBD)
+
 
 # Main book metadata in Traditional Chinese
 book:
@@ -26,45 +31,6 @@ book:
   reader-mode: true
   chapters:
     - index.qmd
-    - 00-02-notes-mental_fill-in.qmd
-    - 00-03-notes-constructive_fill-in.qmd
-    - toc.qmd  # This page will display the full TOC/Listings
-    - part: "01----problematics.qmd"
-      chapters:
-        - 01-01-Turing_Test.qmd # id: sec-turing-test
-        - 01-02-Chinese_Room.qmd # id: sec-chinese-room
-        - 01-03-Symbol_Grounding_Problem.qmd # id: sec-symbol-grounding-problem
-        - 01-04-Frame_Problem.qmd # id: sec-frame-problem
-        - 01-05-Gestalt_Psychology.qmd # id: sec-gestalt-psychology
-        - 01-06-Alignment_Control_Problem.qmd # id: sec-alignment-control-problem
-        - 01-07-Language_Games.qmd # id: sec-language-games
-    - part: 02----schools_paradigms.qmd
-      chapters:
-        - 02-01-symbolic_ai.qmd # id: sec-symbolic-ai
-        - 02-02-statistical_ai.qmd # id: sec-statistical-ai
-        - 02-03-neurosymbolic_ai.qmd # id: sec-neurosymbolic-ai
-        - 02-04-agi.qmd # id: sec-agi
-        - 02-05-connectionism.qmd # id: sec-connectionism
-        - 02-06-behaviorism.qmd # id: sec-behaviorism
-        - 02-07-large_language_models.qmd # id: sec-large-language-models
-    - part: 03----symbolic_ai.qmd
-      chapters:
-        - 03-01-formal_logic.qmd # id: sec-formal-logic
-        - 03-02-automatic_dialogue_systems.qmd # id: sec-automatic-dialogue-systems
-        - 03-03-expert_systems.qmd # id: sec-expert-systems
-        - 03-04-knowledge_representation.qmd # id: sec-knowledge-representation
-        - 03-05-knowledge_graph.qmd # id: sec-knowledge-graph
-        - 03-06-semantic_web.qmd # id: sec-semantic-web
-        - 03-07-ontology.qmd # id: sec-ontology
-    - part: 04----statistical_ai.qmd
-      chapters:
-        - 04-01-probabilistic_association.qmd # id: sec-probabilistic-association
-        - 04-02-llm_chatbots.qmd # id: sec-llm-chatbots
-        - 04-03-neural_networks.qmd # id: sec-neural-networks
-        - 04-04-feature_engineering.qmd # id: sec-feature-engineering
-        - 04-05-machine_learning_models.qmd # id: sec-machine-learning-models
-        - 04-06-llm_webassembly.qmd # id: sec-llm-webassembly
-        - 04-07-vector_space.qmd # id: sec-vector-space
     - part: 05----ai_orientations.qmd
       chapters:
         - 05-01-oriented_task.qmd # id: sec-oriented-task
@@ -72,60 +38,10 @@ book:
         - 05-03-oriented_agent.qmd # id: sec-oriented-agent
         - 05-04-oriented_collaborative.qmd # id: sec-oriented-collaborative
         - 05-05-oriented_governance.qmd # id: sec-oriented-governance
-    - part: 06----analytics_decisions.qmd
-      chapters:
-        - 06-01-analysis_diagnostic.qmd # id: sec-analysis-diagnostic
-        - 06-02-analysis_predictive.qmd # id: sec-analysis-predictive
-        - 06-03-analysis_prescriptive.qmd # id: sec-analysis-prescriptive
-        - 06-04-analysis_descriptive.qmd # id: sec-analysis-descriptive
-        - 06-05-analysis_generative.qmd # id: sec-analysis-generative
-        - 06-06-decision_making_algorithm.qmd # id: sec-decision-making-algorithm
-    - part: 07----game_ai.qmd
-      chapters:
-        - 07-01-ieee_micromouse.qmd # id: sec-ieee-micromouse
-        - 07-02-atari_dqn.qmd # id: sec-atari-dqn
-        - 07-03-alphago.qmd # id: sec-alphago
-        - 07-04-poker_ai.qmd # id: sec-poker-ai
-        - 07-05-openai_five.qmd # id: sec-openai-five
-        - 07-06-werewolf_ai.qmd # id: sec-werewolf-ai
-        - 07-07-complex_strategic_simulation.qmd # id: sec-complex-strategic-simulation
-    - part: 08----embodied_ai.qmd
-      chapters:
-        - 08-01-robotics_and_physical_actuation.qmd # id: sec-robotics-and-physical-actuation
-        - 08-02-perception_and_environment.qmd # id: sec-perception-and-environment
-        - 08-03-adaptive_robotics.qmd # id: sec-adaptive-robotics
-        - 08-04-human_robot_interaction.qmd # id: sec-human-robot-interaction
-        - 08-05-robot_safety_and_robustness.qmd # id: sec-robot-safety-and-robustness
-        - 08-06-robot_tasks_and_goals.qmd # id: sec-robot-tasks-and-goals
-    - part: 09----ai_math.qmd
-      chapters:
-        - 09-01-collaborative_filtering.qmd # id: sec-collaborative-filtering
-        - 09-02-steepest_descent_method.qmd # id: sec-steepest-descent-method
-        - 09-03-bayesian_network.qmd # id: sec-bayesian-network
-        - 09-04-sparse_modeling.qmd # id: sec-sparse-modeling
-        - 09-05-markov_modeling.qmd # id: sec-markov-modeling
-        - 09-06-monte_carlo_tree_search.qmd # id: sec-monte-carlo-tree-search
-        - 09-07-hebb_rule.qmd # id: sec-hebb-rule
-        - 09-08-multi_agent_payoff_matrix.qmd # id: sec-multi-agent-payoff-matrix
-    - part: 10----ai_engineering.qmd
-      chapters:
-        - 10-01-API_MCP.qmd # id: sec-api-mcp
-        - 10-02-agent_reliability_evaluation.qmd # id: sec-agent-reliability-evaluation
-        - 10-03-prompt_engineering.qmd # id: sec-prompt-engineering
-        - 10-04-retrieval_augmented_generation.qmd # id: sec-retrieval-augmented-generation
-        - 10-05-context_engineering.qmd # id: sec-context-engineering
-        - 10-06-AI_PM.qmd # id: sec-ai-pm
   appendices:
-    - appendix-action.qmd # id: app-action
-    - appendix-brain.qmd # id: app-brain
-    - appendix-cognitive_capacity.qmd # id: app-cognitive-capacity
-    - appendix-cognitive_capacity-define.qmd # id: sec-cc-define-module
-    - appendix-cognitive_capacity-mvp.qmd # id: sec-cc-mvp-module
-    - appendix-differentiating_API-MCP.qmd # id: app-api
-    - appendix-evolving_mindmap.qmd # id: fig-mindmap
-    - appendix-framing_cover_back.qmd # id: sec-cover-back
-    - appendix-glossary.qmd # id: sec-book-glossary
     - references.qmd # id: sec-book-references
+    - appendix-cognitive_capacity.qmd # id: app-cognitive-capacity
+    - appendix-evolving_mindmap.qmd # id: fig-mindmap
 
 page-footer:
   left: |
@@ -136,13 +52,11 @@ page-footer:
     本站使用 <a href="https://quarto.org/">Quarto</a> 製作。
 page-footer-en:
   left: |
-     🙶Harnessing Intelligence: AI Game Playbook🙷 
+     🙶Harnessing Intelligence with Frames🙷 
      © Han-Teng Liao
   right: |
-    aka  🙶The Tao of Intelligence: AI Game Playbook🙷 
+    aka  🙶The Tao of Intelligence: A Playbook for AI Life🙷 
     This book website is built by using <a href="https://quarto.org/">Quarto</a>.
-
-
 
 bibliography: references.bib
 
@@ -157,8 +71,154 @@ babelquarto:
       text: "English"
   render_missing: false  # <--- CRITICAL: Prevents babelquarto from queuing main Chinese files in English pass
 
-lang: zh-hant
-language: _language-zh-hant.yml 
+language:
+  en:
+    toc-title-document: "〜📖 On This Page 📑〜"
+    crossref-nte-title: "Note"
+    crossref-tip-title: "Tip"
+    callout-important-title: "Important"
+  zh-hant:
+    toc-title-document: "本書目錄"
+    toc-title-website: "本站目錄"
+
+    related-formats-title: "其他格式"
+    related-notebooks-title: "筆記本"
+    source-notebooks-prefix: "來源"
+    other-links-title: "其他連結"
+    code-links-title: "程式碼連結"
+    launch-dev-container-title: "啟動開發用容器"
+    launch-binder-title: "啟動 Binder"
+
+    article-notebook-label: "文章筆記本"
+    notebook-preview-download: "下載筆記本"
+    notebook-preview-download-src: "下載原始碼"
+    notebook-preview-back: "返回文章"
+    manuscript-meca-bundle: "MECA 打包"
+
+    section-title-abstract: "摘要"
+    section-title-appendices: "🔖附錄"
+    section-title-footnotes: "腳註"
+    section-title-references: "參考文獻"
+    section-title-copyright: "版權"
+    section-title-citation: "引用格式"
+
+    appendix-attribution-cite-as: "請使用以下引用格式："
+    appendix-attribution-bibtex: "BibTeX 引用："
+    appendix-view-license: "查看授權"
+
+    title-block-author-single: "作者"
+    title-block-author-plural: "作者"
+    title-block-affiliation-single: "隸屬"
+    title-block-affiliation-plural: "隸屬"
+    title-block-published: "發佈於"
+    title-block-modified: "修改於"
+    title-block-keywords: "關鍵字"
+
+    callout-note-title: "註記"
+    callout-warning-title: "警告"
+    callout-important-title: "重要"
+    callout-caution-title: "注意"
+    # ✅ 正確的鍵名:
+    callout-tip-prefix: "箴"
+    callout-note-prefix: "註"
+    callout-warning-prefix: "誡"
+    callout-important-prefix: "要點"
+    callout-caution-prefix: "慎"
+
+    code-summary: "程式碼"
+
+    code-line: "行"
+    code-lines: "行"
+
+    code-tools-menu-caption: "程式碼"
+    code-tools-show-all-code: "顯示所有程式碼區塊"
+    code-tools-hide-all-code: "隱藏所有程式碼區塊"
+    code-tools-view-source: "查看本頁原始碼"
+    code-tools-source-code: "原始碼"
+
+    copy-button-tooltip: "複製到剪貼簿"
+    copy-button-tooltip-success: "已複製"
+
+    repo-action-links-edit: "編輯本頁面"
+    repo-action-links-source: "查看本頁原始碼"
+    repo-action-links-issue: "回報問題"
+
+    back-to-top: "回到頂端"
+
+    search-no-results-text: "沒有結果"
+    search-matching-documents-text: "符合的文件"
+    search-copy-link-title: "複製搜尋連結"
+    search-hide-matches-text: "隱藏其他符合的結果"
+    search-more-match-text: "更多符合結果"
+    search-more-matches-text: "更多符合結果"
+    search-clear-button-title: "清除"
+    search-text-placeholder: ""
+    search-detached-cancel-button-title: "取消"
+    search-submit-button-title: "送出"
+    search-label: "搜尋"
+
+    toggle-section: "切換區段"
+    toggle-sidebar: "切換側邊欄導航"
+    toggle-dark-mode: "切換深色模式"
+    toggle-reader-mode: "切換閱讀器模式"
+    toggle-navigation: "切換導航列"
+
+    crossref-fig-title: "圖"
+    crossref-tbl-title: "表"
+    crossref-lst-title: "列表"
+    crossref-thm-title: "定理"
+    crossref-lem-title: "引理"
+    crossref-cor-title: "推論"
+    crossref-prp-title: "命題"
+    crossref-cnj-title: "猜想"
+    crossref-def-title: "定義"
+    crossref-exm-title: "例子"
+    crossref-exr-title: "練習"
+    crossref-ch-prefix: "章"
+    crossref-apx-prefix: "附錄"
+    crossref-sec-prefix: "節"
+    crossref-eq-prefix: "方程式"
+    crossref-lof-title: "圖目錄"
+    crossref-lot-title: "表目錄"
+    crossref-lol-title: "列表目錄"
+    crossref-nte-title: "註釋"
+    crossref-imp-title: "要"
+    crossref-imp-prefix: "要點"
+
+    environment-proof-title: "證明"
+    environment-remark-title: "小結"
+    environment-solution-title: "答案"
+
+    listing-page-order-by: "排序方式"
+    listing-page-order-by-default: "預設"
+    listing-page-order-by-date-asc: "由舊到新"
+    listing-page-order-by-date-desc: "由新到舊"
+    listing-page-order-by-number-desc: "由高到低"
+    listing-page-order-by-number-asc: "由低到高"
+    listing-page-field-date: "日期"
+    listing-page-field-title: "標題"
+    listing-page-field-description: "描述"
+    listing-page-field-author: "作者"
+    listing-page-field-filename: "檔案名稱"
+    listing-page-field-filemodified: "修改時間"
+    listing-page-field-subtitle: "副標題"
+    listing-page-field-readingtime: "閱讀時間"
+    listing-page-field-categories: "類別"
+    listing-page-minutes-compact: "{0} 分鐘"
+    listing-page-category-all: "全部"
+    listing-page-no-matches: "無符合的項目"
+    listing-page-field-wordcount: "字數統計"
+    listing-page-words: "{0} 個單詞"
+    listing-page-filter: "篩選"
+    draft: "草稿"
+
+format-en:
+  html:
+    grid:
+      sidebar-width: 330px   # Widened to give long English chapter titles room
+      body-width: 850px
+      margin-width: 260px
+      gutter-width: 1.5rem
 
 # Main book metadata in Traditional Chinese
 format:
@@ -173,7 +233,7 @@ format:
     number-sections: true
     number-depth: 4
     grid:
-      sidebar-width: 280px    # Widened to give long English chapter titles room
-      body-width: 9000px       # Comfortable reading area for technical prose
+      sidebar-width: 280px    
+      body-width: 900px       # Comfortable reading area for technical prose
       margin-width: 260px     # Keeps the Right TOC perfectly stable and distinct
       gutter-width: 1.5rem    # The air/padding between your three columns
