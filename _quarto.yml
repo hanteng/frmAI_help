@@ -31,14 +31,9 @@ book:
   reader-mode: true
   chapters:
     - index.qmd
-    - part: 05----ai_orientations.qmd
-      chapters:
-        - 05-01-oriented_task.qmd # id: sec-oriented-task
-        - 05-02-oriented_tool.qmd # id: sec-oriented-tool
-        - 05-03-oriented_agent.qmd # id: sec-oriented-agent
-        - 05-04-oriented_collaborative.qmd # id: sec-oriented-collaborative
-        - 05-05-oriented_governance.qmd # id: sec-oriented-governance
+    - 00-02-notes-mental_fill-in.qmd
   appendices:
+    - appendix-brain.qmd # id: app-brain
     - appendix-cognitive_capacity.qmd # id: app-cognitive-capacity
     - appendix-evolving_mindmap.qmd # id: fig-mindmap
     - references.qmd # id: sec-book-references

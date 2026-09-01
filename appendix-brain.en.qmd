@@ -1,10 +1,11 @@
 ---
 number-sections: false 
 tags:
-- Cognitive-Faculties
-- Tri-Aspect-Mind
-- Mental-Fill-in-and-Constructive-Fill-in
-- Frame-Setting-Capability
+  - Cognitive-Faculties
+  - Tri-Aspect-Mind
+  - "#sec-tri-aspect-cognitive"
+  - Mental-Fill-in-and-Constructive-Fill-in
+  - Frame-Setting-Capability
 ---
 ::: {.callout-warning #nte--ed-index title="✎ Editorial Notes" collapse=true open=false}
 - [ ] **Fact-check** sentence by sentence
