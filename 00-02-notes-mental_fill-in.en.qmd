@@ -124,6 +124,27 @@ When addressing these [AI Problematics](01----problematics.qmd), issues regardin
 
 While human ❝mental fill-in❞ capacity is a useful "cognitive shortcut" that can be polished through experience and learning, the foundational issues of artificial intelligence—such as the **[Frame Problem](01-04-Frame_Problem.qmd)**, **[Gestalt Psychology](01-05-Gestalt_Psychology.qmd)**, and the **[Symbol Grounding Problem](01-03-Symbol_Grounding_Problem.qmd)**—constitute the empirical and engineering discipline focused on understanding and simulating these human "fill-in" experiences.
 
+## 🦾⚡ Case in Point: ❝Mental Fill-ins❞ and VLA Robots
+
+In 2026, a "two-camp" rivalry emerged in the robotics and embodied-AI industry, and it happens to offer a living, technical proof of the ❝mental fill-in❞ concept — the industry's route dispute turns out to be, at its core, two modern avatars of this same ancient mental habit.
+
+One camp champions **Vision-Language-Action (VLA)** models: the robot need not "understand" the world first — it only needs to learn, from massive volumes of demonstration data, the **mapping** and **correlation** between "seeing a situation" and "outputting an action" directly. This is the machine version of ❝mental fill-in❞ — it never asks "why," only "how," relying on trained "routines" to rapidly fill the gap between perception and action. It is scalable, good enough, fast, and cheap, and extremely effective in familiar situations.
+
+The other camp champions the **World Model**: before a machine acts, it should first build an internal model capable of simulating "if I do this, how will the world change?" — this is closer to the deliberate foresight of the human "reflective-symbolic" mind than to a bare ❝mental fill-in❞ shortcut.
+
+Leading figures include Yann LeCun (whose Joint Embedding Predictive Architecture, JEPA, draws on cybernetics and cognitive science rather than image generation) and Fei-Fei Li (with her concept of Spatial Intelligence). This camp holds that VLA's "look-and-act" mapping is precisely the kind of shortcut that breaks down outside its training distribution — and that only a world model built for internal simulation can extend reliably into genuinely novel situations.
+
+::: {.callout-note #nte-vla-world-model title="🦾⚡🙶 ❝Mental Fill-in❞ vs. VLA, 🙶Constructive Fill-in🙷 vs. World Model" collapse=false open=true}
+
+* **VLA ≈ the engineering of ❝mental fill-in❞**: like a "routine" — fast, cheap, effective in familiar situations, but prone to "missing the forest for the trees," or even locking in a single, confidently wrong read, once it meets a situation outside its training distribution.
+* **World Model ≈ the engineering of 🙶constructive fill-in🙷**: like "technological foresight" — it builds a model capable of internal simulation before acting. This costs more, but copes far better with the Frame Problem's core difficulty: situations where information is insufficient or falls outside prior experience.
+
+This maps neatly onto the contrast drawn earlier in "🖼️ Addressing AI Problematics ㉄": the human ❝mental fill-in❞ failure mode of "excluding too fast" corresponds to VLA's "strategy lock-in"; the AI Frame Problem's failure mode of "excluding too slowly" corresponds to the World Model's pursuit of "exhaustive simulation," which can come at the cost of "losing your bearings."
+
+In other words, the 2026 AI industry's multi-hundred-billion-dollar capital bet on this route dispute is not a brand-new philosophical question — it is the same ❝mental fill-in❞ vs. 🙶constructive fill-in🙷 debate that opened this book's first chapter, restaged in a new technical vocabulary.
+
+:::
+
 ## ㉄ A Problem Set or a Discipline? 🤖
 
 Artificial Intelligence (AI) is an independent discipline, yet it also resembles **a collection of problems that attract cross-disciplinary efforts**—much like **Nuclear Engineering**—requiring fresh insights from various fields. Although AI is viewed as an independent field within electrical engineering and computer science, AI Engineering centers strictly on industry **real-world implementation**.
@@ -218,7 +239,7 @@ Equipped with these, readers will carry both a knowledge map and a practice manu
 
 This introduction explains the concept of ❝mental fill-ins❞ and AI, and demonstrates how to navigate this toolbook. Readers can quickly find information using search functions and mindmap browsing; the book's systematic arrangement provides distinct indexical and reference value.
 
-The next section, 📑 Notes 《[❝Constructive Fill-ins❞: Cognitive Unity of Knowledge and Action](00-03-notes-constructive_fill-in.qmd)》, shifts focus to the practice of ❝constructive fill-ins.❞ Once readers deploy their own «**Knowledge-Action Scaffolding**» and map out matrices based on processed «**Options**» and «**Choices**», they will begin constructing their own operational knowledge systems, expanding the boundaries of action and knowledge.
+The next section, 📑 Notes 《[❝Constructive Fill-ins❞: Cognitive Unity of Knowledge and Action](00-03-notes-constructive_fill-in.qmd)》, shifts focus to the practice of ❝constructive fill-ins.❞ Once readers deploy their own «**Knowledge-Action Scaffolding**» and map out matrices based on processed «**Options**» and «**Choices**», they will begin constructing their own operational knowledge systems, expanding the boundaries of action and knowledge. That next chapter will also take this chapter's personal, individual-mind contrast of "❝Mental Fill-in❞ vs. VLA, 🙶Constructive Fill-in🙷 vs. World Model" and scale it up to the organizational and societal level, showing how "framing intelligence" echoes both management theory's "dynamic capabilities" and political science's "cybernetic governance."
 
 If readers are willing to invest more effort, they will find that this book is a highly interconnected system: its structure—consisting of one introduction, one set of notes, and multiple appendices—helps readers explore methodology deeply. The associated appendices on 💪 [Action](appendix-action.qmd), 🧠 [Brain](appendix-brain.qmd), and 🪜 [Cognitive Capacity](appendix-cognitive_capacity.qmd) serve as the author's carefully curated practice manual for your personal «**Knowledge-Action Scaffolding**»!
 
@@ -232,6 +253,7 @@ If readers are willing to invest more effort, they will find that this book is a
 | **🔗 Conceptual Linkage** | Establish cross-domain knowledge networks. | Use the **clickable nodes** on the **🌌 Mindmap** to perform quick comparisons and **cross-referencing**. |
 | **📚 Systematic Learning** | Master AI schools, paradigms, problems, and applications. | Follow the **ten parts** and systematically differentiate and integrate concepts using the mindmap's 🧭 **coordinates**. |
 | **🏗️ Practical Action** | Construct a personalized **Knowledge-Action Scaffolding** for AI systems. | List your "**Actions**" (verbs) and "**Knowledge**" (nouns), **weave** them into custom matrices, and systematically execute **❝constructive fill-ins❞**. |
+| **🦾 Frontier Verification** | Verify the framework against the 2026 industry route dispute. | Contrast **VLA** (the engineering of ❝mental fill-in❞) with the **World Model** (the engineering of 🙶constructive fill-in🙷). |
 
 Ultimately, this book aims to help readers transform the human instinct for ❝**mental fill-ins**❞ into a **systematic, deliberate** practice of ❝**constructive fill-ins**❞ for innovation.
 
