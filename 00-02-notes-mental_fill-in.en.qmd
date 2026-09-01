@@ -12,14 +12,6 @@ editor:
       location: block
 ---
 
-
-::: {.callout-tip}
-📊 Character Counts / 字數統計
-
-- Chinese version: 10350 characters
-- English version: 21683 characters
-:::
-
 # 💬 Intro: ❝Mental Fill-ins❞~ Cognitive Shortcuts {.unnumbered #nte-mental_fill-in}
 
 > 🥶🥵 When you see the Chinese idiom **「水深火熱」 (*Shui-Shen-Huo-Re* — literally "deep water and scorching fire")**, what instantly comes to your mind? 
@@ -128,22 +120,39 @@ While human ❝mental fill-in❞ capacity is a useful "cognitive shortcut" that 
 
 In 2026, a "two-camp" rivalry emerged in the robotics and embodied-AI industry, and it happens to offer a living, technical proof of the ❝mental fill-in❞ concept — the industry's route dispute turns out to be, at its core, two modern avatars of this same ancient mental habit.
 
-One camp champions **Vision-Language-Action (VLA)** models: the robot need not "understand" the world first — it only needs to learn, from massive volumes of demonstration data, the **mapping** and **correlation** between "seeing a situation" and "outputting an action" directly. This is the machine version of ❝mental fill-in❞ — it never asks "why," only "how," relying on trained "routines" to rapidly fill the gap between perception and action. It is scalable, good enough, fast, and cheap, and extremely effective in familiar situations.
+One camp champions **Vision-Language-Action (VLA)** models: the robot need not "understand" the world first — it only needs to learn, from massive volumes of demonstration data, the **mapping** and **correlation** between "seeing a situation" and "outputting an action" directly. This is the machine version of ❝mental fill-in❞ — it never asks "why," only "how," relying on trained "routines" to rapidly fill the gap between perception and action. It is scalable, good enough, fast, and cheap, and extremely effective in familiar situations [@zitkovich_2023-RT2VisionLanguageActionModels; @black_2024-P0VisionlanguageactionFlow].
 
-The other camp champions the **World Model**: before a machine acts, it should first build an internal model capable of simulating "if I do this, how will the world change?" — this is closer to the deliberate foresight of the human "reflective-symbolic" mind than to a bare ❝mental fill-in❞ shortcut.
-
-Leading figures include Yann LeCun (whose Joint Embedding Predictive Architecture, JEPA, draws on cybernetics and cognitive science rather than image generation) and Fei-Fei Li (with her concept of Spatial Intelligence). This camp holds that VLA's "look-and-act" mapping is precisely the kind of shortcut that breaks down outside its training distribution — and that only a world model built for internal simulation can extend reliably into genuinely novel situations.
+The other camp champions the **World Model**: before a machine acts, it should first build an internal model capable of simulating "if I do this, how will the world change?" — this is closer to the deliberate foresight of the human "reflective-symbolic" mind than to a bare ❝mental fill-in❞ shortcut. Leading figures include Yann LeCun (whose Joint Embedding Predictive Architecture, JEPA, draws on cybernetics and cognitive science rather than image generation [@lecun_2022-PathAutonomousMachine; @assran_2023-SelfsupervisedLearningImages]) and Fei-Fei Li, whose long-standing research on embodied intelligence and spatial understanding underlies this camp's outlook [@gupta_2021-EmbodiedIntelligenceLearning; @krishna_2022-SociallySituatedArtificial; @worldlabs_2026-WorldLabsSpatial]. This camp holds that VLA's "look-and-act" mapping is precisely the kind of shortcut that breaks down outside its training distribution — a difficulty echoed in broader systematic reviews of embodied AI [@liu_2025-AligningCyberSpace] — and that only a world model built for internal simulation can extend reliably into genuinely novel situations.
 
 ::: {.callout-note #nte-vla-world-model title="🦾⚡🙶 ❝Mental Fill-in❞ vs. VLA, 🙶Constructive Fill-in🙷 vs. World Model" collapse=false open=true}
 
 * **VLA ≈ the engineering of ❝mental fill-in❞**: like a "routine" — fast, cheap, effective in familiar situations, but prone to "missing the forest for the trees," or even locking in a single, confidently wrong read, once it meets a situation outside its training distribution.
+
 * **World Model ≈ the engineering of 🙶constructive fill-in🙷**: like "technological foresight" — it builds a model capable of internal simulation before acting. This costs more, but copes far better with the Frame Problem's core difficulty: situations where information is insufficient or falls outside prior experience.
 
 This maps neatly onto the contrast drawn earlier in "🖼️ Addressing AI Problematics ㉄": the human ❝mental fill-in❞ failure mode of "excluding too fast" corresponds to VLA's "strategy lock-in"; the AI Frame Problem's failure mode of "excluding too slowly" corresponds to the World Model's pursuit of "exhaustive simulation," which can come at the cost of "losing your bearings."
 
-In other words, the 2026 AI industry's multi-hundred-billion-dollar capital bet on this route dispute is not a brand-new philosophical question — it is the same ❝mental fill-in❞ vs. 🙶constructive fill-in🙷 debate that opened this book's first chapter, restaged in a new technical vocabulary.
+In other words, the 2026 AI industry's multi-hundred-billion-dollar capital bet on this route dispute is a version of the ❝mental fill-in❞ vs. 🙶constructive fill-in🙷 debate.
 
 :::
+
+### 📊 VLA vs. World Model: Side-by-Side
+
+| Route | Characteristic | Leading Figures | Representative Work | Strengths | Risks |
+|------|------|----------|----------|------|------|
+| **VLA (fill-in style)** | Perception → action, directly linked | Zitkovich, Brohan, et al. [@zitkovich_2023-RT2VisionLanguageActionModels]; Black et al. [@black_2024-P0VisionlanguageactionFlow] | RT-2, π0 series | Fast, cheap, effective in familiar settings | Prone to hallucination, poor generalization |
+| **World Model (constructive style)** | Internal simulation → then action | LeCun [@lecun_2022-PathAutonomousMachine; @assran_2023-SelfsupervisedLearningImages]; Li Fei-Fei [@gupta_2021-EmbodiedIntelligenceLearning; @krishna_2022-SociallySituatedArtificial; @worldlabs_2026-WorldLabsSpatial] | JEPA, World Labs | Handles unfamiliar situations, capable of reasoning | High cost, slow to deploy |
+
+
+### 🧠 Echoes of the Threefold Mind
+
+- 🐸⚡ **The Reactive Mind** → corresponds to VLA's "rapid mapping," emphasizing instant reflex and routinized action.
+
+- 🐘💞 **The Affective-Bonding Mind** → in human-machine interaction, VLA's "mental fill-in" can invite situational dependence and misreading.
+
+- 🧘☸️ **The Reflective-Symbolic Mind** → corresponds to the World Model's "constructive simulation," emphasizing symbolic reasoning, planning, and ethics.
+
+This alignment shows that the 2026 AI industry's multi-hundred-billion-dollar capital bet on this route dispute is not a brand-new philosophical question — it is the same ❝mental fill-in❞ vs. 🙶constructive fill-in🙷 debate that opened this book's first chapter, restaged in a new technical vocabulary.
 
 ## ㉄ A Problem Set or a Discipline? 🤖
 
