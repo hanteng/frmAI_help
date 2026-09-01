@@ -70,8 +70,8 @@ babelquarto:
       text: "English"
   render_missing: false  # <--- CRITICAL: Prevents babelquarto from queuing main Chinese files in English pass
 
-language: _language-zh-hant.yml 
-language-en: _language-en.yml 
+language: _language-zh-hant.yml
+language-en: _language-en.yml
 
 format-en:
   html:
@@ -80,6 +80,7 @@ format-en:
       body-width: 850px
       margin-width: 260px
       gutter-width: 1.5rem
+    toc-title: "〜📖 On This Page 📑〜"
 
 # Main book metadata in Traditional Chinese
 format:
