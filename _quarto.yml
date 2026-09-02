@@ -32,6 +32,7 @@ book:
   chapters:
     - index.qmd
     - 00-02-notes-mental_fill-in.qmd
+    - 00-03-notes-constructive_fill-in.qmd
   appendices:
     - appendix-brain.qmd # id: app-brain
     - appendix-cognitive_capacity.qmd # id: app-cognitive-capacity

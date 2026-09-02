@@ -1,26 +1,41 @@
-  encoding: "UTF-8"
-  lang: en
-  language: _language-en.yml
+encoding: "UTF-8"
+lang: en
+language: _language-en.yml
 
-  format:
-    html:
-      lang: en                           # 確保英文配置下 HTML 語系正確
-      css: styles.css
-      theme:
-        - zephyr
-        - styles-en.scss
-      toc: true
-      toc-location: right
-      number-sections: true
-      number-depth: 4
-      grid:
-        sidebar-width: 330px
-        body-width: 850px
-        margin-width: 260px
-        gutter-width: 1.5rem
-      toc-title: "〜📖 On This Page 📑〜"
-      crossref-nte-prefix: "Note"
-      crossref-nte-title: "Note"
-      crossref-tip-prefix: "Tip"
-      crossref-tip-title: "Tip"
-      callout-important-title: "Important"
+# _quarto-en.yml
+format:
+  html:
+    grid:
+      sidebar-width: 330px   # Applies exclusively to the English render
+      body-width: 850px
+      margin-width: 260px
+      gutter-width: 1.5rem
+    toc-title: "〜📖 On This Page 📑〜"
+
+format:
+html:
+  lang: en                           # 確保英文配置下 HTML 語系正確
+  css: styles.css
+  theme:
+    - zephyr
+    - styles-en.scss
+  toc: true
+  toc-location: right
+  number-sections: true
+  number-depth: 4
+  grid:
+    sidebar-width: 330px
+    body-width: 850px
+    margin-width: 260px
+    gutter-width: 1.5rem
+  toc-title: "〜📖 On This Page 📑〜"
+  crossref-nte-prefix: "Note"
+  crossref-nte-title: "Note"
+  crossref-tip-prefix: "Tip"
+  crossref-tip-title: "Tip"
+  callout-important-title: "Important"
+
+
+#project:
+#  render:
+#    - "*.en.qmd"  # no effects
