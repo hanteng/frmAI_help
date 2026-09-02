@@ -91,7 +91,7 @@
 	* B. 🧠[Brain](appendix-brain.qmd)："Naming Intelligence" 〜 Focusing on **Nouns** 
 	* C. 🪜[Cognitive Capacity](appendix-cognitive_capacity.qmd)："Framing Scaffolding" 〜 Focusing on **Nouns ➕ Verbs** 
 	* D. ⚙[MCP/API Classification](appendix-differentiating_API-MCP.qmd)
-	* E. 🌌[Mindmap](appendix-mindmap.qmd)
+	* E. 🌌[Mindmap](appendix-evolving_mindmap.qmd)
 	* F. 📔[Cover, Back Cover, and Spine](appendix-framing_cover_back.qmd)
 	* G. 🔖[Glossary](appendix-glossary.qmd)
 		* 🧠 [Cognitive Fill-in](00-03-notes-constructive_fill-in.qmd) 🐸🐘🧘
