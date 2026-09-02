@@ -1,0 +1,71 @@
+## 🌐🦾 Extending Frame Intelligence: Organizational Dynamic Capabilities and Cybernetic Governance
+
+The previous section's Frame Intelligence — "deliberating before acting" — was mostly about mental training at the individual scale. Scale the same logic up to firms, governments, and societies, and management theory and political science already offer ready-made frameworks that corroborate it — some of them predating the AI field itself.
+
+### 🔭🤝🔧 Dynamic Capabilities: Frame Intelligence at Organizational Scale
+
+Strategic management scholar David Teece's [@teece_1997-DynamicCapabilitiesStrategica; @teece_2009-DynamicCapabilitiesStrategicb] theory of **dynamic capabilities** argues that organizations need three capacities to keep winning in volatile environments — and these map neatly onto Frame Intelligence's "deliberate, then act":
+
+- 🔭 **Sensing**: detecting opportunities and threats in the environment. Corresponds to this book's "technological forecasting" — observing trends and projecting futures.
+- 🤝 **Seizing**: mobilizing resources to capture an opportunity and turn it into action. Corresponds to "action fill-in" — converting imagination into concrete choices.
+- 🔧 **Transforming / Reconfiguring**: redesigning organizational structure and resource base. Corresponds to the dynamic re-tuning of the "**deliberate**" (定) half of Frame Intelligence — resetting the frame to fit the context, rather than running one framework indefinitely.
+
+In other words, dynamic capabilities theory asks: can an organization move from a "mental-fill-in" style of inertial reaction (blindly reapplying old playbooks) to a "constructive-fill-in" style of Frame Intelligence (re-deliberating under a new context)?
+
+By 2026, management scholarship is actively debating how AI — including agentic systems — constitutes a foundation for dynamic capabilities: new concepts like **Agentic Operational Capability** [@francis_2026-AgenticAIDynamic], human–AI collaborative strategic decision-making [@karami_2026-ReframingStrategicDecisionmaking], and new cognitive architectures for senior executives [@wu_2026-HowAIMattersa] all point the same direction — this theoretical path is the next step in extending individual cognition into organizational governance. By 2026, the tools facing corporate leaders are no longer simple software but AI agents with **Autonomous Orchestration Capacity**. Through human–AI collaboration, AI systems can push past traditional digital boundaries and dynamically adjust decision rules, reshaping senior executives' cognitive architecture and helping resolve the perennial organizational dilemma between flexibility and stability. In other words, organizational dynamic capability has evolved from purely human judgment into a symbiotic decision network — sensing, seizing, and reconfiguring together with multiple AI agents.
+
+> 🎯 **Leap insight**: Future competitive advantage won't come from how much compute you stockpile, but from whether your organization can move seamlessly with its AI agents — turning every environmental shock into a springboard for re-deliberation.
+
+### 🧭🤝 Cybernetic Governance: The "Steering" Metaphor for Frame Intelligence
+
+Political scientist Karl Deutsch's [@deutsch_1966-NervesGovernmentModels] *The Nerves of Government* proposed **cybernetic governance**: a government or organization need not rule by coercive command — it can, like a nervous system, "steer" (the original sense of *cybernetics*) society by receiving, transmitting, and responding to feedback.
+
+This connects directly to what AI engineering circles have been calling **Harness Engineering** since 2026: constraining agentic systems by governing **computational emergence** [@mittal_2015-HarnessingEmergenceControl] and steering it toward outcomes aligned with system goals.
+
+Deutsch distinguished between **Lag** and **Lead** response modes — which turn out to be another academic vocabulary for "mental fill-in" versus "constructive fill-in":
+
+- **Lag-mode response**: waiting for a problem to occur before reacting. Like "mental fill-in," or a VLA robot with no internal model, blindly executing actions purely off a performance feedback loop.
+
+- **Lead-mode response**: building a model in advance to anticipate problems before they occur. Like "constructive fill-in," or a world model — a "Will," equipped with memory and value judgment, driving action.
+
+> 🎯 **Leap insight**: True steering was never about pulling the reins tighter under force — it's about building an organizational nervous system with the "lead-mode fill-in" will to turn, gracefully, before the crisis ever takes shape.
+
+### 🧭📡 Systems Management: Frame Intelligence's "Viable" Systems Model
+
+To address the challenge of dynamic adaptation in complex organizations, management scientist Stafford Beer published his classic trilogy [@beer_1972-BrainFirmDevelopment; @beer_1979-HeartEnterprise; @beer_1985_2007-DiagnosingSystemOrganizations], grounding cybernetic principles fully in organizational design and proposing the **Viable System Model (VSM)**.
+
+Beer ingeniously used human neuroanatomy as his prototype, arguing that any system capable of independent survival has internal information flows and control nodes that are fractal and recursive in nature. He decomposed this structure — one that maintains systemic homeostasis while dynamically responding to external change — into five tightly coordinated subsystems, from the ground up:
+
+- **System 1 (Operations / muscles and organs)**: the basic autonomous units that interact directly with the external environment and create real value — "the doing parts."
+- **System 2 (Coordination / spinal cord and parasympathetic nervous system)**: anti-oscillatory — prevents autonomous units from generating internal conflict through resource competition.
+- **System 3 (Internal control / pons and medulla)**: manages "here-and-now" day-to-day scheduling, optimizing current operations and allocating resources.
+- **System 4 (Strategic intelligence / diencephalon and cortical foresight)**: scans the "outside and then" — the external environment and future — capturing opportunities through simulation, foresight, and R&D.
+- **System 5 (Policy and core values / the cortical "president")**: responsible for the system's ultimate "closure" — defining organizational identity and the highest guiding principles (System Ethos), and striking the critical balance between System 3's present-optimization and System 4's future-adaptation.
+
+This structure maps beautifully onto the micro-foundations of Frame Intelligence. System 4's predictive, forward-scanning role is exactly "technological forecasting" at organizational scale; System 5's self-adjustment of core values and identity precisely corresponds to the moment in Frame Intelligence when the "deliberate" (定) in "deliberate, then act" is redefined — the moment of reframing.
+
+By 2025–2026, both practitioners and scholars had begun applying VSM's five-layer neuro-cybernetic framework to rethink accountability and steering strategy for multi-agent systems within **AI Governance**. This shows that Frame Intelligence and cybernetic governance are talking about the same thing: is your system merely reacting to what's already happened (System 3's lag loop), or can it build a model in advance and anticipate the future (Systems 4 and 5's lead-mode fill-in)?
+
+> 🎯 **Leap insight**: An organization lacking System 5's capacity to reshape its own values is, at best, an efficient but blind execution machine. Only by writing "Frame Intelligence" into its architectural DNA can an organization stay unassailably viable amid the turbulence of the multi-agent era.
+
+::: {.callout-tip #tip-dc-cybernetics-en title="💬 Organizational Frame Intelligence Tip: **🌟TL;DR**" collapse=false open=true}
+
+**🌟 TL;DR** — Frame Intelligence isn't just individual mental training. Scaled up to organizations and societies, its core comes down to:
+
+- 🔭🤝🔧 **Dynamic capabilities**: sense (technological forecasting), seize (action fill-in), reconfigure (re-deliberate).
+- 🧭📡 **Cybernetic governance**: lead-mode (🙶constructive fill-in🙷) beats lag-mode (❝mental fill-in❞) — steer by feedback, not by command.
+
+Whether at the level of individual mind, corporate architecture, or national governance, Frame Intelligence's ultimate question stays the same: **is your system merely reacting to what's already happened, or can it build a model in advance and anticipate the future?**
+
+🦾💪🔥💧
+:::
+
+### 📌 Summary: The Evolution of Frame Intelligence, from Individual Mind to Organizational Cybernetics
+
+From individual mental training to governance at the organizational and societal level, Frame Intelligence offers a unified architecture spanning macro and micro scales:
+
+1. **Individual level**: moving from blind, "mental-fill-in" inertia to context-recalibrated, "constructive-fill-in" Frame Intelligence.
+2. **Organizational level**: folding agentic AI into a dynamic-capabilities loop of sensing, seizing, and reconfiguring — a symbiotic human–machine decision network.
+3. **Governance level**: steering computational emergence through the Viable System Model and lead-mode feedback, building systems capable of self-reframing.
+
+Armed with Frame Intelligence — grasping both the cutting edge of technical evolution (agentic AI, emergence-steering, multi-agent governance) and classic theory in management and political science (Teece's dynamic capabilities, Deutsch's cybernetic governance, Beer's Viable System Model) — this book helps readers see both the forest and the trees in AI knowledge, and put it to work: **Harness Intelligence**. "Deliberate, then act" turns out to be not just an ancient habit of mind, but the underlying logic by which complex systems stay viable — and keep evolving — under deep uncertainty.
