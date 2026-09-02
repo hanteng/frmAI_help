@@ -219,9 +219,9 @@ language:
     manuscript-meca-bundle: "MECA 打包"
 
     # Appendices UI elements
-    appendix-name: "附錄"
+    appendix-name: "🔖附"
     section-title-abstract: "摘要"
-    section-title-appendices: "附錄"
+    section-title-appendices: "🔖附錄"
     section-title-footnotes: "腳註"
     section-title-references: "參考文獻"
     section-title-copyright: "版權"
