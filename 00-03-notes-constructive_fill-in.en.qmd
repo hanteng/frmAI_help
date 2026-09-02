@@ -125,9 +125,9 @@ At the core of "technological foresight" are:
 
 這也說明『人機協作』的價值不在於簡單拼接，而在於理解『此套路』與『彼套路』的差異，判斷能否真正互補，而非笨上加拙。
 
-## 💪🦾 框智力🖼️ 
+## 💪🦾 框智力🖼️ {#sec-frame-intelligence}
 
-為了更清楚說明這本工具書的用處，我將 ❝腦補❞ 到 🙶補全🙷 的能力，提升為一種行動準備的心智能力——「**框智力**」（frame setting capabilities）。
+為了更清楚說明這本工具書的用處，我將 ❝腦補❞ 到 🙶補全🙷 的能力，提升為一種行動準備的心智能力——「**框智力**」（**frame-setting capabilities**, or simply **frame intelligence**）。
 
 > **框智力**：指在大千世局中，如何依**脈絡**情境，「謀**定**而後**動**」。
 
