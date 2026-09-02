@@ -121,7 +121,7 @@ Readers can copy the list and add or remove entries as they see fit: parents mig
 
 Drawing together the knowledge sources of human learning and machine learning, this appendix set, “🧠Brain”, divides these nouns into three levels, forming a "concentric-circle noun system":
 
-- 🔴 **Core Circle**: the AI knowledge points summarized in this book, cross-referenced in **[🔖Appendix 🌌 Mindmap](appendix-mindmap.qmd)** (e.g., neural networks, reinforcement learning, knowledge graphs).    
+- 🔴 **Core Circle**: the AI knowledge points summarized in this book, cross-referenced in **[🔖Appendix 🌌 Mindmap](appendix-evolving_mindmap.qmd)** (e.g., neural networks, reinforcement learning, knowledge graphs).    
 - 🟠 **Middle Circle**: tightly encircling the core is the **knowledge structure** and **context** that readers must master when building intelligent systems or agents, including information about the "**self**" and the "**environment**."    
 - 🟢 **Outer Circle**: wrapping around the first two layers is the "world presuppositions" and "emergent knowledge" that an agent must understand, capable of carrying a broader world model (even encompassing a user's "three views": worldview, outlook on life, and values).
 
