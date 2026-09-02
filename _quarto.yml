@@ -39,10 +39,6 @@ book:
     - appendix-evolving_mindmap.qmd # id: fig-mindmap
     - references.qmd # id: sec-book-references
 
-# English translation profile configuration for babelquarto
-book-en:
-  appendices-title: "Appendices"
-
 page-footer:
   left: |
     《框智格局：AI 賽局手冊》
@@ -73,8 +69,9 @@ babelquarto:
 
 language:
   en:
-    toc-title-document: "Table of contents"
-    toc-title-website: "On this page"
+    toc-title: "〜📖 On This Page 📑〜"
+    toc-title-document: "〜On This Page〜"
+    toc-title-website: "〜📖 On This Page 📑〜"
 
     related-formats-title: "Other Formats"
     related-notebooks-title: "Notebooks"
@@ -204,8 +201,9 @@ language:
 
     draft: "Draft"
   zh-hant:
-    toc-title-document: "本頁目錄"
-    toc-title-website: "本站目錄"
+    toc-title: "〜📖 本頁目錄 📑〜"
+    toc-title-document: "〜本頁目錄〜"
+    toc-title-website: "〜📖 本頁目錄 📑〜"
     related-formats-title: "其他格式"
     related-notebooks-title: "筆記本"
     source-notebooks-prefix: "來源"
@@ -220,6 +218,8 @@ language:
     notebook-preview-back: "返回文章"
     manuscript-meca-bundle: "MECA 打包"
 
+    # Appendices UI elements
+    appendix-name: "附錄"
     section-title-abstract: "摘要"
     section-title-appendices: "附錄"
     section-title-footnotes: "腳註"
@@ -341,12 +341,13 @@ language:
 
 format-en:
   html:
+    lang: en
+    theme:
+      - zephyr                         # 或是你原本使用的基礎主題（如 default, slate 等）
+      - styles-en.scss                 # 載入你專為英文版設計的 SCSS 檔案
     grid:
       sidebar-width: 330px   # Widened to give long English chapter titles room
       body-width: 850px
-      margin-width: 260px
-      gutter-width: 1.5rem
-    toc-title: "〜📖 On This Page 📑〜"
 
 # Main book metadata in Traditional Chinese
 format:
@@ -355,7 +356,6 @@ format:
     css: styles.css
     theme:
       - zephyr                         # 或是你原本使用的基礎主題（如 default, slate 等）
-      - styles-en.scss                 # 載入你專為英文版設計的 SCSS 檔案
     toc: true
     toc-location: right
     number-sections: true
@@ -365,3 +365,5 @@ format:
       body-width: 900px       # Comfortable reading area for technical prose
       margin-width: 260px     # Keeps the Right TOC perfectly stable and distinct
       gutter-width: 1.5rem    # The air/padding between your three columns
+
+lang: zh-hant
