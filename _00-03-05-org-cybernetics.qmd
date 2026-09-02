@@ -1,8 +1,8 @@
-## 🌐🦾 框智力擴展：組織的動態能力與模控治理
+## 🌐🦾 擴展框智力：組織的動態能力與模控治理 {#sec-scaling-frame-intelligence}
 
 前一節的框智力（謀**定**而後**動**），談的多是個人尺度的心智鍛鍊。若把同一套邏輯放大到企業、政府與社會，管理學與政治學早有現成的理論可以互相印證，甚至比 AI 領域更早提出。
 
-### 🔭🤝🔧 動態能力：組織尺度的框智力
+### 🔭🤝🔧 動態能力：組織尺度的框智力 {#sec-scaling-dynamic-capabilities}
 
 策略管理學者 Teece [@teece_1997-DynamicCapabilitiesStrategica; @teece_2009-DynamicCapabilitiesStrategicb] 提出的「動態能力」（dynamic capabilities）理論，主張組織要在多變環境中持續勝出，需具備三種能力，恰好與框智力的「謀**定**而後**動**」一一對應：
 
@@ -16,9 +16,9 @@
 
 > 🎯 躍進式洞察：未來的競爭優勢不取決於算力儲備的多寡，而在於企業能否與 AI 代理人無縫共舞，將每一次的環境震盪都轉化為重新「謀定」的進化跳板。
 
-### 🧭🤝 模控治理：框智力的「駕馭」隱喻
+### 🧭🤝 模控治理：框智力「駕馭」 {#sec-scaling-cybernetic-computational-emergence}
 
-政治學者 Karl Deutsch @deutsch_1966-NervesGovernmentModels《政府的神經》（The Nerves of Government）提出「模控治理」（cybernetic governance）：政府或組織不必靠強制命令，而可如同神經系統，靠接收、傳遞、回應「回饋」（feedback）來「駕馭」（Steer，即 Cybernetics 「模控」 的原意）社會。
+政治學者 Karl Deutsch @deutsch_1966-NervesGovernmentModels 《政府的神經》（The Nerves of Government）提出「模控治理」（cybernetic governance）：政府或組織不必靠強制命令，而可如同神經系統，靠接收、傳遞、回應「回饋」（feedback）來「駕馭」（Steer，即 Cybernetics 「模控」 的原意）社會。
 
 這與 2026 年起 AI 工程界討論的「駕馭工程」（Harness Engineering）以約束智能體的邏輯互通，核心皆在於如何駕馭「計算湧現」（computational emergence）@mittal_2015-HarnessingEmergenceControl，並將之引導至符合系統目標的軌道上。
 
@@ -30,7 +30,7 @@ Deutsch 區分了「**滯後**（Lag）」與「**前導**（Lead）」兩種回
 
 > 🎯 躍進式洞察：真正的駕馭從來不是勒緊韁繩強制施壓，而是打造具備「前導補全」意志的組織神經網，讓系統在危機現形之前，便已優雅轉向。
 
-### 🧭📡 系統管理：框智力的「可行」系統模型
+### 🧭📡 系統管理：框智力的「可行」系統模型 {#sec-scaling-viable-system-model}
 
 為了解決複雜組織的動態適應問題，管理科學家 Stafford Beer 發表了其經典的三部曲著作 [@beer_1972-BrainFirmDevelopment; @beer_1979-HeartEnterprise; @beer_1985_2007-DiagnosingSystemOrganizations]，將模控學原理完全落實到組織設計中，提出了「可行系統模型」（Viable System Model, VSM）。
 
@@ -60,7 +60,7 @@ Beer 巧妙地以人類的神經解剖學（Neuroanatomy）作為原型，主張
 🦾💪🔥💧
 :::
 
-### 📌 小結：從個人心智到組織模控的框智力進化
+### 📌 小結：從個人心智到組織模控的框智力進化 {#sec-scaling-frame-intelligence-take-away}
 
 從個人心智的鍛鍊到組織與社會層面的治理，框智力（Frame Intelligence）提供了一套貫穿巨觀與微觀的統一架構：
 

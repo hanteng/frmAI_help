@@ -33,3 +33,9 @@ WARN: index.html: Unable to resolve crossref @fig-mindmap
 WARN: appendix-cognitive_capacity.html: Unable to resolve crossref @imp-book-navigation
 WARN: appendix-cognitive_capacity.html: Unable to resolve crossref @sec-scaffolding
 WARN: appendix-cognitive_capacity.html: Unable to resolve crossref @tbl-actions-10
+
+
+## Known upstream issues
+
+### Appendix
+- [untranslated terms such as appendix in sidebar and breadcrumbs](https://github.com/quarto-dev/quarto-cli/issues/2285()

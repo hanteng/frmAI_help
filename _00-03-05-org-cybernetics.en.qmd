@@ -1,8 +1,8 @@
-## 🌐🦾 Extending Frame Intelligence: Organizational Dynamic Capabilities and Cybernetic Governance
+## 🌐🦾 Scaling Frame Intelligence: Organizational Dynamic Capabilities and Cybernetic Governance  {#sec-scaling-frame-intelligence}
 
 The previous section's Frame Intelligence — "deliberating before acting" — was mostly about mental training at the individual scale. Scale the same logic up to firms, governments, and societies, and management theory and political science already offer ready-made frameworks that corroborate it — some of them predating the AI field itself.
 
-### 🔭🤝🔧 Dynamic Capabilities: Frame Intelligence at Organizational Scale
+### 🔭🤝🔧 Dynamic Capabilities: Frame Intelligence at Organizational Scale {#sec-scaling-dynamic-capabilities}
 
 Strategic management scholar David Teece's [@teece_1997-DynamicCapabilitiesStrategica; @teece_2009-DynamicCapabilitiesStrategicb] theory of **dynamic capabilities** argues that organizations need three capacities to keep winning in volatile environments — and these map neatly onto Frame Intelligence's "deliberate, then act":
 
@@ -12,11 +12,11 @@ Strategic management scholar David Teece's [@teece_1997-DynamicCapabilitiesStrat
 
 In other words, dynamic capabilities theory asks: can an organization move from a "mental-fill-in" style of inertial reaction (blindly reapplying old playbooks) to a "constructive-fill-in" style of Frame Intelligence (re-deliberating under a new context)?
 
-By 2026, management scholarship is actively debating how AI — including agentic systems — constitutes a foundation for dynamic capabilities: new concepts like **Agentic Operational Capability** [@francis_2026-AgenticAIDynamic], human–AI collaborative strategic decision-making [@karami_2026-ReframingStrategicDecisionmaking], and new cognitive architectures for senior executives [@wu_2026-HowAIMattersa] all point the same direction — this theoretical path is the next step in extending individual cognition into organizational governance. By 2026, the tools facing corporate leaders are no longer simple software but AI agents with **Autonomous Orchestration Capacity**. Through human–AI collaboration, AI systems can push past traditional digital boundaries and dynamically adjust decision rules, reshaping senior executives' cognitive architecture and helping resolve the perennial organizational dilemma between flexibility and stability. In other words, organizational dynamic capability has evolved from purely human judgment into a symbiotic decision network — sensing, seizing, and reconfiguring together with multiple AI agents.
+By 2026, management scholarship is actively debating how AI — including agentic systems — constitutes a foundation for dynamic capabilities: new concepts like **Agentic Operational Capability** [@francis_2026-AgenticAIDynamic], human–AI collaborative strategic decision-making [@karami_2026-ReframingStrategicDecisionmaking], and new cognitive architectures for senior executives [@wu_2026-HowAIMattersa] all point the same direction — this theoretical path is the next step in scaling individual cognition into organizational governance. By 2026, the tools facing corporate leaders are no longer simple software but AI agents with **Autonomous Orchestration Capacity**. Through human–AI collaboration, AI systems can push past traditional digital boundaries and dynamically adjust decision rules, reshaping senior executives' cognitive architecture and helping resolve the perennial organizational dilemma between flexibility and stability. In other words, organizational dynamic capability has evolved from purely human judgment into a symbiotic decision network — sensing, seizing, and reconfiguring together with multiple AI agents.
 
 > 🎯 **Leap insight**: Future competitive advantage won't come from how much compute you stockpile, but from whether your organization can move seamlessly with its AI agents — turning every environmental shock into a springboard for re-deliberation.
 
-### 🧭🤝 Cybernetic Governance: The "Steering" Metaphor for Frame Intelligence
+### 🧭🤝 Cybernetic Governance: The "Steering" Metaphor for Frame Intelligence {#sec-scaling-cybernetic-computational-emergence}
 
 Political scientist Karl Deutsch's [@deutsch_1966-NervesGovernmentModels] *The Nerves of Government* proposed **cybernetic governance**: a government or organization need not rule by coercive command — it can, like a nervous system, "steer" (the original sense of *cybernetics*) society by receiving, transmitting, and responding to feedback.
 
@@ -30,7 +30,7 @@ Deutsch distinguished between **Lag** and **Lead** response modes — which turn
 
 > 🎯 **Leap insight**: True steering was never about pulling the reins tighter under force — it's about building an organizational nervous system with the "lead-mode fill-in" will to turn, gracefully, before the crisis ever takes shape.
 
-### 🧭📡 Systems Management: Frame Intelligence's "Viable" Systems Model
+### 🧭📡 Systems Management: Frame Intelligence's "Viable" Systems Model {#sec-scaling-viable-system-model}
 
 To address the challenge of dynamic adaptation in complex organizations, management scientist Stafford Beer published his classic trilogy [@beer_1972-BrainFirmDevelopment; @beer_1979-HeartEnterprise; @beer_1985_2007-DiagnosingSystemOrganizations], grounding cybernetic principles fully in organizational design and proposing the **Viable System Model (VSM)**.
 
@@ -60,7 +60,7 @@ Whether at the level of individual mind, corporate architecture, or national gov
 🦾💪🔥💧
 :::
 
-### 📌 Summary: The Evolution of Frame Intelligence, from Individual Mind to Organizational Cybernetics
+### 📌 Summary: The Evolution of Frame Intelligence, from Individual Mind to Organizational Cybernetics {#sec-scaling-frame-intelligence-take-away}
 
 From individual mental training to governance at the organizational and societal level, Frame Intelligence offers a unified architecture spanning macro and micro scales:
 
