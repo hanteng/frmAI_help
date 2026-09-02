@@ -192,7 +192,10 @@ At the core of "technological foresight" are:
 💡 結合「**如何思考自己與世界**」與「**在何種脈絡下思考**」，構建全景式行動框架。  
 
 :::
-{{< include 00-03-05-org-cybernetics.en.qmd >}} <!-- ## 🌐🦾 Extending Frame Intelligence: Organizational Dynamic Capabilities and Cybernetic Governance -->
+
+{{< include _00-03-05-org-cybernetics.en.qmd >}}
+
+<!-- ## 🌐🦾 Extending Frame Intelligence: Organizational Dynamic Capabilities and Cybernetic Governance -->
 
 ## 🪜 通向附錄的下一步
 
