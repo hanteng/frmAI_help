@@ -37,6 +37,7 @@ book:
     - appendix-brain.qmd # id: app-brain
     - appendix-cognitive_capacity.qmd # id: app-cognitive-capacity
     - appendix-evolving_mindmap.qmd # id: fig-mindmap
+  references:
     - references.qmd # id: sec-book-references
 
 page-footer:
@@ -88,9 +89,9 @@ language:
     manuscript-meca-bundle: "MECA Bundle"
 
     section-title-abstract: "Abstract"
-    section-title-appendices: "Appendices"
+    section-title-appendices: "🔖Appendices"
     section-title-footnotes: "Footnotes"
-    section-title-references: "References"
+    section-title-references: "📚References"
     section-title-reuse: "Reuse"
     section-title-copyright: "Copyright"
     section-title-citation: "Citation"
@@ -223,7 +224,7 @@ language:
     section-title-abstract: "摘要"
     section-title-appendices: "🔖附錄"
     section-title-footnotes: "腳註"
-    section-title-references: "參考文獻"
+    section-title-references: "📚參考文獻"
     section-title-copyright: "版權"
     section-title-citation: "引用格式"
 
