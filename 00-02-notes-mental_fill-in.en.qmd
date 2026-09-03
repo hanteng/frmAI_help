@@ -16,7 +16,7 @@ editor:
 
 > 🥶🥵 When you see the Chinese idiom **「水深火熱」 (*Shui-Shen-Huo-Re* — literally "deep water and scorching fire")**, what instantly comes to your mind? 
 > 
-> 🌬️🌞 When you see **「水火不容」 (*Shui-Huo-Bu-Rong* — literally "water and fire are incompatible")**, what comes to your mind?
+> 🌬️🌞 When you see **「水火不容」 (*Shui-Huo-Bu-Rong* — literally "irreconcilable as water and fire")**, what comes to your mind?
 > 
 > ⚔️🐉 If we pivot to Western pop culture and you hear the phrase **"A Song of Ice and Fire,"** what intricate plots, looming battles, and epic character arcs does your brain immediately start reconstructing out of thin air?
 > 
@@ -26,18 +26,18 @@ These seemingly "common-sense" questions actually involve multiple intertwined c
 
 Get ready to embark on a journey of cognitive capacities using these primal elements as our guide, and witness how humans naturally perform ❝[Mental Fill-ins](appendix-glossary.qmd#def-mental-fill-in)❞.
 
-## 💧🔥 About Water and Fire
+## 💧🔥 About Water and Fire {#sec-mental_fill-in-water-fire}
 
 Regarding "**water**" and "**fire**":
 
-* 🥶🥵 What is your "reactive" physical sensation when encountering extreme heat or biting cold?
-* 🌬️🌞 What is your "emotional-relational" memory when evaluating idioms like 「水火不容」 or stories of warring factions in *A Song of Ice and Fire*?
-* 💧🔥 What does your "reflective-symbolic" (scientific knowledge) tell you about what "**water**" and "**fire**" actually are?
+* 🥶🥵 What is your "reactive" **physical sensation** when encountering extreme heat or biting cold?  
+* 🌬️🌞 What is your "emotional-relational" **memory** when evaluating idioms like  or stories of warring factions in *A Song of Ice and Fire*?  
+* 💧🔥 What does your "reflective-symbolic" **scientific knowledge** tell you about what "**water**" and "**fire**" actually are?  
 
-Furthermore, consider the evolution of human society:
-* 🪵🔥 The mythological stories and practical skills of **using** "fire"?
+Furthermore, consider the evolution of human society:  
+* 🪵🔥 The mythological stories and practical skills of **using** "fire"?  
 * 🌊🏗️ The mythological stories and contemporary engineering of **controlling** "water"?
-* 🚂💨 How did the **Industrial Revolution**—literally a technological blend of "water and fire" (steam)—construct modern urban civilization?
+* 🚂💨 How did the **Industrial Revolution**—literally a technological blend of "water and fire" (steam)—construct modern **urban civilization** and contemporary **AI industrial revolution**?
 
 Reflect on these questions and take some notes: what kind of ❝[Mental Fill-ins](appendix-glossary.qmd#def-mental-fill-in)❞ can you conjure up as answers?
 
