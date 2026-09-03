@@ -4,15 +4,6 @@ tags:
   - the-book-glossary
   - "#sec-book-glossary"
 ---
-
-
-::: {.callout-tip}
-📊 Character Counts / 字數統計
-
-- Chinese version: 19357 characters
-- English version: 22700 characters
-:::
-
 # 🪧 Glossary: ​​Order {#sec-book-glossary}
 
 > The glossary lists the technical terms and keywords used in this book in alphabetical order, and readers can also reinforce their knowledge through the links within each word.
@@ -342,9 +333,15 @@ tags:
 
 ### Markov decision process（MDP）
 
-### Mental Fill‑in {#def-mental-fill-in}
+### mental fill‑in {#def-mental-fill-in}
 
 `腦補` (*mental fill‑in*) is a colloquial term from Chinese internet usage. In contemporary discourse it refers to the act of speculating, imagining, or filling in gaps when information is insufficient or meaning is unclear, in order to complete one’s own understanding. It often implies *personal interpretation or guesswork*, and carries humorous, skeptical, or ironic undertones. The expression is said to derive from Japanese phrases such as “脳内補正” (*nōnai hosei*, mental correction) or “脳内補完” (*nōnai hokan*, mental completion), highlighting the subjective nature of such filling‑in. In short, ❝腦補❞ began as a term in Japanese anime fandom describing imaginative extrapolation, but has gradually broadened to describe how people use imagination to interpret, explain, or even construct information.
+
+::: {.callout-important #imp-this-book-mental-fill-in title="📖 How This Book Uses the Term (Not the Common-Usage Definition)"}
+
+In this book, ❝mental fill-in❞ is adopted as a technical term rather than left as internet slang: it names the broader cognitive habit of completing an incomplete picture from experience and imagination, spanning everything from split-second reflexes to elaborate narrative speculation. The book pairs it with a counterpart term, 🙶constructive fill-in🙷 — a slower, more deliberate, symbol-mediated way of closing the same gaps — and traces both across three domains: individual cognition (the 🐸🐘🧘 three-part mind), artificial intelligence (from GOFAI's rule-based fill-in through LLMs' statistical fill-in to VLA's perception-to-action fill-in), and, in later chapters, organizational and societal decision-making. Read this way, ❝mental fill-in❞ is not simply "guessing" — it is the book's throughline for asking, in any system capable of acting on incomplete information, *which* kind of gap-filling is happening, and what it costs.
+
+:::
 
 > See also: [`Scaffolding`](#scaffolding); [`Cognitive Scaffolding`](#sec-cognitive-scaffolding); [`Constructive Fill‑in`](#sec-constructive-fill-in)  
 > Read: 💬 Introduction ~ [`❝Mental Fill-ins❞: Cognitive Shortcuts`](00-02-notes-mental_fill-in.qmd)

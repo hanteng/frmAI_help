@@ -37,7 +37,7 @@ book:
     - appendix-brain.qmd # id: app-brain
     - appendix-cognitive_capacity.qmd # id: app-cognitive-capacity
     - appendix-evolving_mindmap.qmd # id: fig-mindmap
-  references:
+    - appendix-glossary.qmd # id: sec-book-glossary
     - references.qmd # id: sec-book-references
 
 page-footer:

@@ -303,19 +303,60 @@ tags:
 
 ## G 
 
-### generalization
-
 ### game theory {#sec-game-theory}
+
+### generalization
 
 ### generative adversarial network（GAN)
 
 > 參見： [`game theory`](#sec-game-theory)
 
+### graph engineering {#sec-graph-engineering}
+<sup> ⁃ 圖工程</sup>
+
+`圖工程`（Graph Engineering）指利用**知識圖譜**或其他符號化結構，為 AI 系統提供**確定性邏輯支撐**。它的發展背景在於：  
+- **GOFAI** 的符號推論能提供精確結構，但缺乏語境彈性。  
+- **LLM 神經網路**能捕捉語境，但缺乏明確邏輯。  
+
+圖工程透過知識表示、圖推理、神經—符號融合，彌補純統計模型的不足，讓 AI 同時具備語境理解與邏輯精確性。
+
 ## H 
 
 ### hallucination
 
-### heuristic
+### harness engineering {#sec-harness-engineering}
+<sup> ⁃ 駕馭工程</sup>
+
+`駕馭工程`（Harness Engineering）指在**機率性神經網路**（如 LLMs）上加入**確定性約束**，以「駕馭」模型行為。它的背景在於：  
+- **GOFAI** 偏向確定性規則推論，雖然精確但缺乏彈性。  
+- **LLM 神經網路**偏向機率性預測，雖然靈活但容易產生幻覺。  
+
+駕馭工程透過邊界約束、規則疊加、人類回饋等方式，讓機率性模型在保持靈活的同時，具備更高的可控性與安全性。
+
+---
+
+### heuristic {#sec-heuristic}
+<sup> ⁃ 啟發法</sup>
+
+`啟發法`（heuristic）指人類或機器在面對複雜問題或資訊不足時，利用**簡單、快速的經驗法則**（rules of thumb）來做出判斷或決策的方法。它通常不是最優解，但能在有限時間與資源下提供「足夠好」的解答。
+
+常見特徵：
+- **簡化複雜性**：將龐大問題轉化為可處理的近似解。
+- **效率優先**：在時間壓力或資訊缺口下快速反應。
+- **偏誤風險**：雖然能提升效率，但也可能導致認知偏差或錯誤判斷。
+
+應用範疇：
+- 在**認知心理學**中，解釋人類如何在日常生活中快速決策（例如「代表性啟發法」「可得性啟發法」）。
+- 在**人工智慧**中，作為演算法設計的近似解法（例如搜尋演算法中的啟發式函數）。
+- 在**行為經濟學**中，解釋人類非理性行為與決策偏差。
+
+與 [`腦補`](#def-mental-fill-in) 的關係：
+- 兩者皆屬於「**知行捷徑**」（cognitive shortcuts for actions）。  
+- `腦補`偏向於在資訊不足時的**推測與填補**，而`啟發法`則偏向於在決策過程中的**快速規則化判斷**。  
+- 在人類與 AI 系統設計中，兩者往往交織運作：腦補提供情境填補，啟發法提供行動捷徑。
+
+> 參見：[`認知負荷`](#sec-cognitive-load)、[`認知鷹架`](#sec-cognitive-scaffolding)、[`雙系統理論`](#sec-dual-process-theory)、[`知行鷹架`](#sec-constructive-fill-in)
+
 
 ## I 
 
@@ -339,12 +380,21 @@ tags:
 
 ### Markov decision process（MDP）
 
-### mental fill-in {#def-mental-fill-in}
+### mental fill-in 
+
+::: {#def-mental-fill-in}
 
 `腦補`（mental fill-in），中文網絡語，當今語用意義指人們資訊不足或意義模糊時推測、想像並填補「資訊落差」以完成自己的理解，暗指是「個人解讀與猜測」，帶有幽默、質疑或諷刺的意味。該詞原意有一說是源自日語的「脳内補正」（nōnai hosei）或「脳内補完」（nōnai hokan），因此突顯的是主觀判斷的填補。總之，❝腦補❞從最初特指日本動漫領域的幻想行為，逐漸演變成更廣泛的、描述人們如何透過想像來理解、詮釋甚至建構資訊的現象。
 
+::: {.callout-important #imp-this-book-mental-fill-in title="📖 本書用法（非通用定義）"}
+
+本書將❝腦補❞從網路流行語轉為一個貫穿全書的概念工具：泛指從本能反射到敘事想像，人類依賴經驗與想像，在資訊不完整時自動填補出「完整」情節或事實的心智習慣。本書為它配上一個對照概念——🙶補全🙷（constructive fill-in），指較為緩慢、審慎、依賴符號推理的填補方式——並以此組對照貫穿三個層次：個人認知（🐸🐘🧘 心智三分法）、人工智慧（從 GOFAI 的規則式腦補、LLM 的統計式腦補，到 VLA 的感知—動作腦補），以及後續章節將延伸到的組織與社會決策層次。如此一來，❝腦補❞在本書中不只是「亂猜」，而是用來追問——任何需要在資訊不完整下行動的系統，究竟是靠哪一種腦補、又付出了什麼代價。
+
+:::
+
+> 閱讀： @sec-mental_fill-in 💬導論 ~  [❝腦補❞ 知行捷徑](00-02-notes-mental_fill-in.qmd)
 > 參見： [`鷹架` ](#scaffolding)； [`認知鷹架` ](#sec-cognitive-scaffolding)；[`知行鷹架` ](#sec-constructive-fill-in)；
-> 閱讀：💬導論 ~  [❝腦補❞ 知行捷徑](00-02-notes-mental_fill-in.qmd)
+::: 
 
 ### 心智 {#def-mind}
 <sup> ⁃ Mind</sup>
