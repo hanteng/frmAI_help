@@ -1,49 +1,64 @@
 ---
 tags: 
-  - mental_fill-in
-  - 腦補
   - "#imp-tri-aspect-cognitive"
-  - cognitive_shortcuts_for_actions
-  - 知行捷徑
+  - "#nte-vla-world-model"
+  - "#imp-book-navigation"
+  - "#imp-mindmap-fill-in"
+  - "#tip-mental-fill-in"
+keywords:
+  - "mental fill-in"
+  - "cognitive shortcuts for actions"
 number-sections: false 
 editor: 
   markdown: 
     references: 
       location: block
 ---
+# ▘ Intro~ "Mental Fill-in" as Cognitive Shortcuts for Actions {.unnumbered #sec-mental_fill-in}
 
-# 💬 Intro: ❝Mental Fill-ins❞~ Cognitive Shortcuts {.unnumbered #nte-mental_fill-in}
-
-> 🥶🥵 When you see the Chinese idiom **「水深火熱」 (*Shui-Shen-Huo-Re* — literally "deep water and scorching fire")**, what instantly comes to your mind? 
+> 🥶🥵 When you see the Chinese idiom **「水深火熱」 (*Shui-Shen-Huo-Re* — literally "deep water and scorching fire")**, what comes to your mind instantly?
 > 
-> 🌬️🌞 When you see **「水火不容」 (*Shui-Huo-Bu-Rong* — literally "irreconcilable as water and fire")**, what comes to your mind?
+> 🌬️🌞 When you see the the Chinese idiom **「水火不容」 (*Shui-Huo-Bu-Rong* — literally "irreconcilable as water and fire")**, what comes to your mind?
 > 
 > ⚔️🐉 If we pivot to Western pop culture and you hear the phrase **"A Song of Ice and Fire,"** what intricate plots, looming battles, and epic character arcs does your brain immediately start reconstructing out of thin air?
 > 
 > 💧🔥 Ultimately, are "**water**" and "**fire**" (or **"ice"** and **"fire"**) even comparable things?
 
-These seemingly "common-sense" questions actually involve multiple intertwined cognitive capacities.
+These seemingly "common-sense" questions actually involve multiple (and distinct) interwoven mental capacities.
 
-Get ready to embark on a journey of cognitive capacities using these primal elements as our guide, and witness how humans naturally perform ❝[Mental Fill-ins](appendix-glossary.qmd#def-mental-fill-in)❞.
+Get ready to embark on a journey of mental and cognitive capacities using these primal elements as our guide, and witness how humans naturally perform ❝Mental Fill-in❞.
 
-## 💧🔥 About Water and Fire {#sec-mental_fill-in-water-fire}
+## 💧🔥 On Water and Fire {#sec-mental_fill-in-water-fire}
 
 Regarding "**water**" and "**fire**":
 
 * 🥶🥵 What is your "reactive" **physical sensation** when encountering extreme heat or biting cold?  
-* 🌬️🌞 What is your "emotional-relational" **memory** when evaluating idioms like  or stories of warring factions in *A Song of Ice and Fire*?  
+* 🌬️🌞 What is your "emotional-relational" **memory** when encountering relevant Chinese idioms or the fiction title of *A Song of Ice and Fire*?  
 * 💧🔥 What does your "reflective-symbolic" **scientific knowledge** tell you about what "**water**" and "**fire**" actually are?  
 
 Furthermore, consider the evolution of human society:  
-* 🪵🔥 The mythological stories and practical skills of **using** "fire"?  
-* 🌊🏗️ The mythological stories and contemporary engineering of **controlling** "water"?
-* 🚂💨 How did the **Industrial Revolution**—literally a technological blend of "water and fire" (steam)—construct modern **urban civilization** and contemporary **AI industrial revolution**?
 
-Reflect on these questions and take some notes: what kind of ❝[Mental Fill-ins](appendix-glossary.qmd#def-mental-fill-in)❞ can you conjure up as answers?
+* 🪵🔥 What are the mythical stories and practical skills surrounding the **use of fire**? 
+* 🌊🏗️ What are the mythical stories and contemporary engineering projects regarding **water management and governance**?
+* 🚂💨 How did the "fusion of water and fire" in the **Industrial Revolution** shape modern **urban civilization** and the contemporary **AI Industrial Revolution**?
 
-## 🧠 Cognitive Capacity 🐸🐘🧘
+Reflect and take notes: What answers can you ❝Mentally Fill-in❞ as responses to the questions above?
 
-By observing the different facets of "water" and "fire," we have unconsciously mobilized multiple levels of cognitive resources—ranging from **instinctive reactions** to **emotional memories**, and finally to **symbolic** **knowledge reasoning**.
+### 🤯 "Mental Fill-in" as Cognitive Shortcuts for Action  {#sec-mental_fill-in-intro}
+
+"Mental fill-in" (詳見 @def-mental-fill-in 及 @imp-this-book-mental-fill-in) refers to the human behavior of **relying on experience and imagination to automatically fill in complete "plots" or "facts" in the mind** when information is incomplete.
+
+It manifests in countlessly everyday moments:
+
+- 💌 A partner sends a text message with an ambiguous tone, and your mind immediately acts out: **"Is he angry? Is she implying something? Or did I do something wrong?"**    
+- 📺 When background music swells over news commentary about two nations, your emotions overflow: **"Ah, another conflict! One side must have provoked first, forcing the other to retaliate."** Verdicts on "who is right or wrong" and "where responsibility lies" are already drawn.    
+- 🎭 Watching a drama unfold to a critical climax, you anticipate twist after twist: **"This character will definitely betray them! No, wait, he is actually an undercover agent! Hold on, is the director going to flip it again?"**    
+
+These mental activities of "mental fill-in" are both our instincts and potential sources of misreading reality. **Emotions**, **stances**, **narratives**... anything can be filled in.
+
+### 🧠 Mental and Cognitive Capacity 🐸🐘🧘  {#sec-capacity-intro}
+
+By observing the different facets of "water" and "fire," we have unconsciously mobilized multiple levels of mental and cognitive resources—ranging from **instinctive reactions** to **emotional memories**, and finally to **symbolic** **knowledge reasoning**.
 
 * 🐸⚡ 🙶Reactive🙷 Mind: The tactile sensation and temperature changes of "water," and the instinctive avoidance of the heat and light of "fire." These belong to rapid, thought-free physiological reflexes.
 * 🐘💞 🙶Emotional-Relational🙷 Mind: Idioms and scenarios like "water and fire are merciless," "in deep water and scorching fire," "like a person drinking water (knowing its temperature naturally)," or "getting along like a house on fire" evoke emotional memories and social interaction experiences.
@@ -53,9 +68,10 @@ These levels do not operate in isolation; instead, they intertwine into a collab
 
 To analyze and apply these capacities more clearly, we can abstract and categorize them to form a cognitive framework that compares human intelligence with artificial intelligence.
 
-It is precisely these cognitive frameworks that elevate the empirical rules of thumb of ❝[Mental Fill-ins](appendix-glossary.qmd#def-mental-fill-in)❞ into higher-level cognitive capacities.
+It is precisely these cognitive frameworks that elevate the empirical rules of thumb (see also @sec-heuristic ) of ❝Mental Fill-ins❞ into higher-level cognitive capacities. Frames work to elevate mental and cognitive capacity.
 
 ::: {.callout-important #imp-tri-aspect-cognitive title="🧠 ⟨**Tri-Cognitive Model**⟩ " collapse=false open=true } 
+
 The **cognitive capacity classification** originally integrated in this book provides a refined starting point for classifying noun <<options>>:
 
 * 🐸⚡ 🙶Reactive🙷 Mind: Dominated by **real-time perception and rapid response modules**.
@@ -64,10 +80,15 @@ The **cognitive capacity classification** originally integrated in this book pro
 
 Reflecting on human mental activities based on their **processing speed**, **social functions**, and **symbolic capabilities** allows us to distinguish our own cognitive capacities from those of machines.
 
-For details, see **🔖 Appendix** B. 🧠 [Brain: Tri-Cognitive Model Integration](appendix-brain.qmd#sec-tri-aspect-cognitive).
+For details, see **@sec-tri-aspect-cognitive**.
+
 
 ⚡💞☸️
 ::: 
+
+Understanding how our innate cognitive abilities (e.g., "filling in the blanks" or "connecting the dots") operate can unlock the key to understanding and innovating in Artificial Intelligence (AI):
+
+Humans rely on experience and imagination to fill in the gaps in incomplete information, outlining "facts" that drive our "actions." How do these "cognitive shortcuts for actions" understanding contribute to the development of AI?
 
 ## 🤯 ❝Mental Fill-ins❞: Cognitive Shortcuts
 

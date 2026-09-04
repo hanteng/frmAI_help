@@ -406,8 +406,10 @@ tags:
 
 ---
 
-### 心智-大腦問題 {#def-mind-brain-problem}
-<sup> ⁃ Mind-Brain Problem</sup>
+### Mind-Brain Problem 
+<sup> ⁃ 心智-大腦問題</sup>
+
+::: {#def-mind-brain-problem}
 
 `心智-大腦問題`（Mind-Brain Problem）是認知科學與心靈哲學中的核心難題，探討主觀的心智體驗（意識、感受）與客觀的物質大腦（神經網路、生物化學）之間究竟存在何種關係。此問題分裂為兩個主要立場：
 
@@ -426,6 +428,8 @@ tags:
    - **還原論**認為只要連結足夠的神經元，心智便會自然湧現；**哲學界**則指出「數據處理（大腦）」與「主觀感受（心智）」之間存在難以跨越的「解釋性鴻溝」。AI 能完美模擬回饋，但本身並無主觀體驗。
 
 > 參見：[`三重腦假說`](#sec-triune-brain-hypothesis)；[`社會腦假說`](#sec-social-brain-hypothesis)；[`認知負荷`](#sec-cognitive-load)
+
+:::
 
 ---
 
