@@ -12,7 +12,7 @@ tags:
 
 ## A
 
-### AI Alignment Collapse Hypothesis {#ai-alignment-collapse}
+### AI Alignment Collapse Hypothesis {#sec-ai-alignment-collapse}
 
 `AI 對齊崩潰假說`（AI Alignment Collapse Hypothesis）指隨著人工智慧系統能力不斷提升，若無法確保其行為與人類價值、目標持續對齊，將導致 **大規模的不對齊現象**。這些不對齊的 AI 系統可能：
 
@@ -65,7 +65,7 @@ tags:
 
 此假說凸顯了 **多中心治理（polycentric governance）** 的必要性，呼籲在多樣化的 AI 部落之間建立最低限度的協調機制，以避免碎片化演變為全面衝突。
 
-### AI Utilities Hypothesis {#ai-utilities-hypothesis}
+### AI Utilities Hypothesis {#sec-ai-utilities-hypothesis}
 
 `AI 公用事業假說`（AI Utilities Hypothesis）認為人工智慧將如同 **電力、自來水或網際網路** 一樣，逐漸成為社會的 **基礎設施**。在此假說下，AI 不再被視為少數主體的專屬資產，而是 **普及、隱形、無所不在** 的公共服務。其特徵包括：
 
@@ -335,8 +335,7 @@ tags:
 
 ---
 
-### heuristic {#sec-heuristic}
-<sup> ⁃ 啟發法</sup>
+### heuristic <sup> ⁃ 啟發法</sup> {#sec-heuristic}
 
 `啟發法`（heuristic）指人類或機器在面對複雜問題或資訊不足時，利用**簡單、快速的經驗法則**（rules of thumb）來做出判斷或決策的方法。它通常不是最優解，但能在有限時間與資源下提供「足夠好」的解答。
 
@@ -356,7 +355,6 @@ tags:
 - 在人類與 AI 系統設計中，兩者往往交織運作：腦補提供情境填補，啟發法提供行動捷徑。
 
 > 參見：[`認知負荷`](#sec-cognitive-load)、[`認知鷹架`](#sec-cognitive-scaffolding)、[`雙系統理論`](#sec-dual-process-theory)、[`知行鷹架`](#sec-constructive-fill-in)
-
 
 ## I 
 

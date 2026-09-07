@@ -748,11 +748,11 @@ Here, verb «options» are extended into a hypothesis-vocabulary of "**action an
 
 The "Action Orchestration" system dynamics of each "AI Future" hypothesis:
 
-- 💥 **[AI Alignment Collapse Hypothesis](appendix-glossary.qmd#ai-alignment-collapse)**: If the dynamics of AI's orchestrated action ultimately fail to "align" with human values, the system may enter **negative-feedback imbalance**, leading to collapse; or, under new norms, form a **new equilibrium order**.
+- 💥 **[AI Alignment Collapse Hypothesis](appendix-glossary.qmd#sec-ai-alignment-collapse)**: If the dynamics of AI's orchestrated action ultimately fail to "align" with human values, the system may enter **negative-feedback imbalance**, leading to collapse; or, under new norms, form a **new equilibrium order**.
 - 🌐 **[AI Commons Hypothesis](appendix-glossary.qmd#ai-commons-hypothesis)**: If the dynamics of AI's orchestrated action encourage universal "sharing," the system may fall into a **tragedy of the commons** (overuse, resource depletion); "governance," "negotiation," and "allocation" must therefore be designed to establish a **positive-feedback collaboration mechanism**.
 - 👑 **[AI Empire Hypothesis](appendix-glossary.qmd#ai-empire-hypothesis)**: If AI's action is "monopolized" by a small number of power centers, the system will exhibit a **reinforcing loop**, with a small number of actors continually accumulating resources and control, leading to **power centralization** and asymmetric dynamics.
 - ⚔️ **[AI Tribalization/Fragmentation Hypothesis](appendix-glossary.qmd#ai-tribalization-fragmentation)**: If different groups each define AI's action differently, the system develops **fragmentation loops**, forming subsystems lacking mutual "alignment" and "collaboration," leading to **fragmented dynamics**.
-- 🚰 **[AI Utilities Hypothesis](appendix-glossary.qmd#ai-utilities-hypothesis)**: If AI becomes a "universalized" everyday infrastructure, it will tend toward a **stabilizing loop**, forming a "high-dependency" supply akin to water or electricity — but this may also reduce resilience through over-reliance.
+- 🚰 **[AI Utilities Hypothesis](appendix-glossary.qmd#sec-ai-utilities-hypothesis)**: If AI becomes a "universalized" everyday infrastructure, it will tend toward a **stabilizing loop**, forming a "high-dependency" supply akin to water or electricity — but this may also reduce resilience through over-reliance.
 ::: 
 
 Thus, it can be said that these verb «options» can both examine AI systems' interaction with the world, and foresee the dynamics of future intelligent society. In this light, each hypothesis can be viewed as a **system-dynamics model**:

@@ -547,11 +547,11 @@ These noun «options» therefore let us describe the practical path of mind trai
 
 These questions connect directly to a series of hypotheses about the future of AI. Here, noun «options» are extended into hypothesis vocabulary such as "alignment," "commons," "empire," "tribalization," and "utility," forming multiple narratives of AI's future:
 
-- 💥 **[AI Alignment Collapse Hypothesis](appendix-glossary.qmd#ai-alignment-collapse)**: if an AI's world model fails to embed human values, will alignment failure follow?    
+- 💥 **[AI Alignment Collapse Hypothesis](appendix-glossary.qmd#sec-ai-alignment-collapse)**: if an AI's world model fails to embed human values, will alignment failure follow?    
 - 🌐 **[AI Commons Hypothesis](appendix-glossary.qmd#ai-commons-hypothesis)**: if an AI's world model can be shared, could it become a form of public infrastructure?    
 - 👑 **[AI Empire Hypothesis](appendix-glossary.qmd#ai-empire-hypothesis)**: if an AI's world model is monopolized, will a new power structure emerge?    
 - ⚔️ **[AI Tribalization/Fragmentation Hypothesis](appendix-glossary.qmd#ai-tribalization-fragmentation)**: will different groups each train their own AI world models, leading to a fragmentation of values?    
-- 🚰 **[AI Utilities Hypothesis](appendix-glossary.qmd#ai-utilities-hypothesis)**: will AI become a basic utility of daily life, like water or electricity?
+- 🚰 **[AI Utilities Hypothesis](appendix-glossary.qmd#sec-ai-utilities-hypothesis)**: will AI become a basic utility of daily life, like water or electricity?
 
 These noun «options» are therefore both the hypothesis language with which we test AI world models, and a future lexicon for humanity's civilizational practice. 
 

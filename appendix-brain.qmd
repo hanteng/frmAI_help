@@ -531,11 +531,11 @@ Piccinini 與 Friston 在較偏概念層次上主張，紮根的內容與具預�
 
 這些問題直接連結到一系列關於 AI 未來的假說，名詞«選項»在此被延伸為「對齊」「公共財」「帝國」「部落化」「公用事業」等假說詞彙，構成未來 AI 的多重敘事：
 
-- 💥 **[AI 對齊崩潰假說](appendix-glossary.qmd#ai-alignment-collapse)**：若 AI 的世界模型無法內嵌人類價值，是否會出現對齊失敗？    
+- 💥 **[AI 對齊崩潰假說](appendix-glossary.qmd#sec-ai-alignment-collapse)**：若 AI 的世界模型無法內嵌人類價值，是否會出現對齊失敗？    
 - 🌐 **[AI 公共財假說](appendix-glossary.qmd#ai-commons-hypothesis)**（AI Commons Hypothesis）：若 AI 的世界模型能被共享，是否能成為一種公共基礎設施？    
 - 👑 **[AI 帝國假說](appendix-glossary.qmd#ai-empire-hypothesis)**：若 AI 的世界模型被壟斷，是否會形成新的權力結構？    
 - ⚔️ **[AI 部落化／碎片化假說](appendix-glossary.qmd#ai-tribalization-fragmentation)**：不同群體是否會各自訓練 AI 世界模型，導致價值觀分裂？    
-- 🚰 **[AI 公用事業假說](appendix-glossary.qmd#ai-utilities-hypothesis)**：AI 是否會像水電一樣，成為日常生活的基礎公用事業？
+- 🚰 **[AI 公用事業假說](appendix-glossary.qmd#sec-ai-utilities-hypothesis)**：AI 是否會像水電一樣，成為日常生活的基礎公用事業？
 
 因此，這些名詞«選項»既是我們檢驗 AI 世界模型的假設語言，也是人類文明修行的未來辭典。
 

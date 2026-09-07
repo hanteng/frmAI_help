@@ -1,0 +1,61 @@
+## 💧🔥 On Water and Fire {#sec-mental_fill-in-water-fire}
+
+Regarding "**water**" and "**fire**":
+
+* 🥶🥵 What is your "reactive" **physical sensation** when encountering extreme heat or biting cold?  
+* 🌬️🌞 What is your "emotional-relational" **memory** when encountering relevant Chinese idioms or the fiction title of *A Song of Ice and Fire*?  
+* 💧🔥 What does your "reflective-symbolic" **scientific knowledge** tell you about what "**water**" and "**fire**" actually are?  
+
+Furthermore, consider the evolution of human society:  
+
+* 🪵🔥 What are the mythical stories and practical skills surrounding the **use of fire**? 
+* 🌊🏗️ What are the mythical stories and contemporary engineering projects regarding **water management and governance**?
+* 🚂💨 How did the "fusion of water and fire" in the **Industrial Revolution** shape modern **urban civilization** and the contemporary **AI Industrial Revolution**?
+
+Reflect and take notes: What answers can you ❝Mentally Fill-in❞ as responses to the questions above?
+
+### 🤯 "Mental Fill-in" as Cognitive Shortcuts for Action  {#sec-mental_fill-in-intro}
+
+"Mental fill-in" (詳見 @def-mental-fill-in 及 @imp-this-book-mental-fill-in) refers to the human behavior of **relying on experience and imagination to automatically fill in complete "plots" or "facts" in the mind** when information is incomplete.
+
+It manifests in countlessly everyday moments:
+
+- 💌 A partner sends a text message with an ambiguous tone, and your mind immediately acts out: **"Is he angry? Is she implying something? Or did I do something wrong?"**    
+- 📺 When background music swells over news commentary about two nations, your emotions overflow: **"Ah, another conflict! One side must have provoked first, forcing the other to retaliate."** Verdicts on "who is right or wrong" and "where responsibility lies" are already drawn.    
+- 🎭 Watching a drama unfold to a critical climax, you anticipate twist after twist: **"This character will definitely betray them! No, wait, he is actually an undercover agent! Hold on, is the director going to flip it again?"**    
+
+These mental activities of "mental fill-in" are both our instincts and potential sources of misreading reality. **Emotions**, **stances**, **narratives**... anything can be filled in.
+
+### 🧠 Mental and Cognitive Capacity 🐸🐘🧘  {#sec-capacity-intro}
+
+By observing the different facets of "water" and "fire," we have unconsciously mobilized multiple levels of mental and cognitive resources—ranging from **instinctive reactions** to **emotional memories**, and finally to **symbolic** **knowledge reasoning**.
+
+* 🐸⚡ 🙶Reactive🙷 Mind: The tactile sensation and temperature changes of "water," and the instinctive avoidance of the heat and light of "fire." These belong to rapid, thought-free physiological reflexes.
+* 🐘💞 🙶Emotional-Relational🙷 Mind: Idioms and scenarios like "water and fire are merciless," "in deep water and scorching fire," "like a person drinking water (knowing its temperature naturally)," or "getting along like a house on fire" evoke emotional memories and social interaction experiences.
+* 🧘☸️ 🙶Reflective-Symbolic🙷 Mind: Recognizing that "water" is $H_{2}O$ and "fire" is a phenomenon of combustion requiring oxygen $O_{2}$, allowing for further deductions of their physical and chemical conditions.
+
+These levels do not operate in isolation; instead, they intertwine into a collaborative cognitive capacity system.
+
+To analyze and apply these capacities more clearly, we can abstract and categorize them to form a cognitive framework that compares human intelligence with artificial intelligence.
+
+It is precisely these cognitive frameworks that elevate the empirical rules of thumb (see also @sec-heuristic ) of ❝Mental Fill-ins❞ into higher-level cognitive capacities. Frames work to elevate mental and cognitive capacity.
+
+::: {.callout-important #imp-tri-aspect-cognitive title="🧠 ⟨**Tri-Cognitive Model**⟩ " collapse=false open=true } 
+
+The **cognitive capacity classification** originally integrated in this book provides a refined starting point for classifying noun <<options>>:
+
+* 🐸⚡ 🙶Reactive🙷 Mind: Dominated by **real-time perception and rapid response modules**.
+* 🐘💞 🙶Emotional-Relational🙷 Mind: Centered around **human-computer interaction, affective computing, and social simulation**.
+* 🧘☸️ 🙶Reflective-Symbolic🙷 Mind: Focused on **high-level reasoning, planning, ethics, and alignment**.
+
+Reflecting on human mental activities based on their **processing speed**, **social functions**, and **symbolic capabilities** allows us to distinguish our own cognitive capacities from those of machines.
+
+For details, see **@sec-tri-aspect-cognitive**.
+
+
+⚡💞☸️
+::: 
+
+Understanding how our innate cognitive abilities (e.g., "filling in the blanks" or "connecting the dots") operate can unlock the key to understanding and innovating in Artificial Intelligence (AI):
+
+Humans rely on experience and imagination to fill in the gaps in incomplete information, outlining "facts" that drive our "actions." How do these "cognitive shortcuts for actions" understanding contribute to the development of AI?
