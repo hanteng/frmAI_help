@@ -208,43 +208,44 @@ AI 問題意識直擊了兩種「腦補」機制的極限。
 
 以下「經度和緯度」，將分別提供不同的閱讀與應用視角。
 
-::: {.callout-important #imp-book-navigation title="🌐🧭 本書 **經緯** 導航 "  collapse=false open=true }
+::: {.callout-important #imp-book-navigation title="🧵🪡 本書 **經緯** 導航 "  collapse=false open=true }
 
-本書10**篇**及各**章**，適合讀者按圖拆解應用。
+本書借用紡織的「經緯」為喻：**緯線**是讀者翻頁遇到的十篇順序（第壹篇到第拾篇，一梭一梭織入）；**經線**則是貫穿多篇、反覆出現的脈絡色系（如 LLM 脈絡、符號古典脈絡、神經網路脈絡等），讀者可挑一條經線跳著讀，看同一主題如何在不同篇章中反覆加深。
 
-* **X** 軸 **經度**：《[分析與決策 6 點](06----analytics_decisions.qmd)》<sup>📍[@fig-mindmap-06]</sup>
-	* 含有融合『**[生成式 AI](06-05-analysis_generative.qmd)**』及『**[決策演算法](06-06-decision_making_algorithm.qmd)**』的創新發散及收歛 **迴圈和弧線** 
-* **Y** 軸 **緯度**：分選《[☸ AI 5 大導向](05----ai_orientations.qmd)》<sup>📍 [@fig-mindmap-05]</sup>
-	* 還有《[AI 問題意識](01----problematics.qmd) 》<sup>📍[@fig-mindmap-01] </sup>、《[流派與主義](02----schools_paradigms.qmd) 》<sup>📍 [@fig-mindmap-02]</sup> 、等切入點；
-* **Z** + 軸 **能力階梯**、歷史發展等：助力讀者從能力逐級提升。
+* **緯線 順讀**：依《第壹篇 ㉄ [AI 問題意識](01----problematics.qmd)》→……→《第拾篇 🌉 AI工程》順序閱讀，掌握敘事總體脈絡。幫助讀者掌握較細化的《第陸篇 ❖ 分析與決策 6 點》融合『**[生成式 AI](06-05-analysis_generative.qmd)**』及『**[決策演算法](06-06-decision_making_algorithm.qmd)**』。
+* **經線 跳讀**：挑一條或多條脈絡（如 🏛️符號流AI🎏、🌀統計流AI🎏、🧬聯結主義🏮、💪行為主義🏮、🧬聯結主義🏮、等等），沿🌌[心智圖](appendix-evolving_mindmap.qmd) 上相聯及靠近的節點跳讀，聚焦相關主題的縱深演變。協助讀者有效區分《[流派與主義](02----schools_paradigms.qmd) 》、《[☸ AI 5 大導向](05----ai_orientations.qmd)》，以及和🏆「博弈派」AI、🦾「具身派」AI等等關係。
 
 :::
 
-### 🧭經度和緯度🔗
+### 🧵經緯怎麼讀🪡
 
-快速掌握本書主要知識點，可從本書🌌[心智圖](appendix-evolving_mindmap.qmd) 開始，縱向（«數據驅動決策»過程）與橫向（不同問題意識、流派與主義、導向等等）開展定位：
+延續上方的紡織比喻，這裡各舉一例，示範「緯線順讀」與「經線跳讀」實際怎麼操作，從本書🌌[心智圖](appendix-evolving_mindmap.qmd) 開始，快速掌握本書主要知識點，在«數據驅動決策»過程與不同問題意識、流派與主義、導向等等，展開知識點相互定位：
 
-* **X** 軸 **經度**~說明«數據驅動決策»過程，見《[第陸篇 ❖](06----analytics_decisions.qmd) 分析與決策 6 點》<sup>📍[@fig-mindmap-06]</sup> 結合 ✍️💡 布魯姆 6 能力：
-	* 🤓📘 從大千世界中，進行『**[描述型分析](06-04-analysis_descriptive.qmd)**』，以求**當下**相關之«**記憶**»框定；
-	* 😷🩺 在相關記憶中，進行『**[診斷型分析](06-01-analysis_diagnostic.qmd)**』，以求**因子**相關之«**理解**»匡謬；
-	* 🤠🔮 在相關因子中，進行『**[預測型分析](06-02-analysis_predictive.qmd)**』，以求**模型**知識之«**應用**»匡助；
-	* 🧐🧭 在知識模型中，進行『**[指導型分析](06-03-analysis_prescriptive.qmd)**』，以求**系統**智能之«**評估**»及«**創造**»；
-	* 除了以上 4 點 分析學核心主軸，有創新的發散及收歛輔線：
-		* 🙀🎨 從眾智大模型中，利用『**[生成式 AI](06-05-analysis_generative.qmd)**』，以求«**選項**»的各種可能的創新發散；
-		* 😽🪄 從發散各選項中，利用『**[決策演算法](06-06-decision_making_algorithm.qmd)**』，以求«**選擇**»的自主決策判斷的創新收歛；
-* **Y** 軸 **緯度**~說明不同問題意識、流派等，有多篇進入點，見：
-	* 《[第壹篇 ㉄](01----problematics.qmd) AI 問題意識》<sup>📍[@fig-mindmap-01]</sup>
-	* 《[第伍篇 ☸](05----ai_orientations.qmd) 區分 AI 5 大導向》 <sup>📍[@fig-mindmap-05]</sup>
-	* 《[第貳篇 🎏🏮](02----schools_paradigms.qmd) 流派與主義》 <sup>📍[@fig-mindmap-02]</sup>
-	* 《[第參篇 🏛️](03----symbolic_ai.qmd) 「符號流」AI》 <sup>📍[@fig-mindmap-03]</sup>
-	* 《[第肆篇 🌀](04----statistical_ai.qmd) 「統計流」AI》 <sup>📍[@fig-mindmap-04]</sup>
+**緯線順讀範例**——以《[第陸篇 ❖](06----analytics_decisions.qmd) 分析與決策 6 點》<sup>📍[@fig-mindmap-06]</sup> 為例說明«數據驅動決策»過程，示範如何依序織入，結合 ✍️💡 布魯姆 6 能力：
 
-餘下 6 篇，包括以下內容，見：
+* 🤓📘 從大千世界中，進行『**[描述型分析](06-04-analysis_descriptive.qmd)**』，以求**當下**相關之«**記憶**»框定；
+* 😷🩺 在相關記憶中，進行『**[診斷型分析](06-01-analysis_diagnostic.qmd)**』，以求**因子**相關之«**理解**»匡謬；
+* 🤠🔮 在相關因子中，進行『**[預測型分析](06-02-analysis_predictive.qmd)**』，以求**模型**知識之«**應用**»匡助；
+* 🧐🧭 在知識模型中，進行『**[指導型分析](06-03-analysis_prescriptive.qmd)**』，以求**系統**智能之«**評估**»及«**創造**»；
+
+除了以上 4 點分析學核心主軸，還有創新的發散及收歛輔線：
+* 🙀🎨 從眾智大模型中，利用『**[生成式 AI](06-05-analysis_generative.qmd)**』，以求«**選項**»的各種可能的創新發散；
+* 😽🪄 從發散各選項中，利用『**[決策演算法](06-06-decision_making_algorithm.qmd)**』，以求«**選擇**»的自主決策判斷的創新收歛。
+
+**經線跳讀範例**——同一條「古典符號脈絡」經線，貫穿以下幾篇的相關節點，讀者可沿🌌心智圖跳著讀，比較同一問題意識在不同篇章的變形：
+
+* 《[第壹篇 ㉄](01----problematics.qmd) AI 問題意識》<sup>📍[@fig-mindmap-01]</sup>
+* 《[第伍篇 ☸](05----ai_orientations.qmd) 區分 AI 5 大導向》<sup>📍[@fig-mindmap-05]</sup>
+* 《[第貳篇 🎏🏮](02----schools_paradigms.qmd) 流派與主義》<sup>📍[@fig-mindmap-02]</sup>
+* 《[第參篇 🏛️](03----symbolic_ai.qmd) 「符號流」AI》<sup>📍[@fig-mindmap-03]</sup>
+* 《[第肆篇 🌀](04----statistical_ai.qmd) 「統計流」AI》<sup>📍[@fig-mindmap-04]</sup>
+
+另外幾條經線則分布較為集中、獨立成篇，各自有專屬深挖空間：
 
 * 《[第柒篇 🏆](07----game_ai.qmd) 「博弈派」AI》 <sup>📍[@fig-mindmap-07]</sup>
 * 《[第捌篇 🦾](08----embodied_ai.qmd) 「具身派」AI》 <sup>📍[@fig-mindmap-08]</sup>
 * 《[第玖篇 📐](09----ai_math.qmd) AI用到的數學》 <sup>📍[@fig-mindmap-09]</sup>
-* 《[第拾篇 🌉](10----ai_engineering.qmd) AI工程》 <sup>📍[@fig-mindmap-10]</sup>
+* 《[第拾篇 🌉](10----ai_engineering.qmd) AI工程》 <sup>📍[@fig-mindmap-10]</sup>，是全書收尾出口。
 
 可以說本書🌌[心智圖](appendix-evolving_mindmap.qmd)與📖[目錄](toc.qmd)是作者為讀者搭建的«AI 知識鷹架»初稿，旨在幫助讀者快速掌握學習方向。
 
