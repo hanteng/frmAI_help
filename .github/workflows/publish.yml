@@ -46,12 +46,17 @@ jobs:
           packages: |
             github::${{ env.BABELQUARTO_REPO }}
 
+      # NOTE: pak needs a real GitHub token to reliably resolve @main against
+      # the live commit and avoid anonymous rate limits / stale-cache installs
+      # on hosted runners. GITHUB_TOKEN is provided by Actions automatically;
+      # we just need to expose it as GITHUB_PAT for pak to pick up.
       - name: Install and Verify Patched babelquarto Fork
+        env:
+          GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
         run: |
           Rscript -e '
             pak::pkg_install("hanteng/babelquarto@main", ask = FALSE)
 
-            # Verify which commit was actually installed:
             info <- utils::packageDescription("babelquarto")
             cat("=========================================\n")
             cat("INSTALLED SOURCE:", info$RemoteUsername, "/", info$RemoteRepo, "\n")
@@ -72,13 +77,23 @@ jobs:
         run: python3 py-audit_manifest.py
 
       # 6a. 🔬 Diagnostic-- Check Root Workspace & Quarto Render Targets
-      - name: 🔬 Diagnostic-- Inspect Root .qmd Files & Quarto Target List
+      - name: 🔬 Diagnostic-- Inspect Root .qmd Files, _quarto.yml & Quarto Target List
         run: |
           echo "=== Count of .qmd files in Root Repo ==="
           find . -maxdepth 3 -name "*.qmd" | wc -l
 
           echo "=== List of all .qmd files in Root Repo ==="
           find . -maxdepth 3 -name "*.qmd" | sort
+
+          echo "=== _quarto.yml presence & contents ==="
+          if [ -f "_quarto.yml" ]; then
+            echo "-- FOUND at $(pwd)/_quarto.yml --"
+            cat _quarto.yml
+          else
+            echo "!! _quarto.yml NOT FOUND at $(pwd) — render_book() will fail before"
+            echo "   entering its per-language loop. This alone would explain"
+            echo "   'no babelquarto_debug_quarto_*.yml files found'."
+          fi
 
           echo "=== What Quarto CLI sees as render targets ==="
           quarto inspect || true
@@ -96,6 +111,9 @@ jobs:
       #    diagnostics/fallback-deploy steps below can still run and
       #    actually publish something visible instead of just failing
       #    silently in the Actions log.
+      #    tryCatch here prints the REAL R condition + call stack on
+      #    failure, instead of relying on R's default one-line error
+      #    printer — this was the missing piece in earlier CI runs.
       - name: Render Multilingual Book
         id: render
         continue-on-error: true
@@ -108,6 +126,9 @@ jobs:
 
             unlink("_book", recursive = TRUE)
 
+            cat("=== babelquarto SHA in use at render time ===\n")
+            print(utils::packageDescription("babelquarto")$RemoteSha)
+
             trace(
               babelquarto::render_book,
               tracer = quote({
@@ -118,7 +139,23 @@ jobs:
             cat("=== R Temp Dir ===\n", tempdir(), "\n")
             cat("=== Normalized Temp Dir ===\n", normalizePath(tempdir()), "\n")
 
-            babelquarto::render_book()
+            result <- tryCatch({
+              babelquarto::render_book()
+              "success"
+            }, error = function(e) {
+              cat("\n=== CAUGHT ERROR ===\n")
+              print(e)
+              cat("\n=== CALL STACK AT ERROR ===\n")
+              calls <- sys.calls()
+              if (!is.null(calls)) {
+                for (i in seq_along(calls)) {
+                  cat(sprintf("[%d] ", i)); print(calls[[i]])
+                }
+              }
+              "failed"
+            })
+            cat("\n=== render_book() result:", result, "===\n")
+            if (identical(result, "failed")) quit(status = 1, save = "no")
           '
 
       # 7a. 🔬 Diagnostic-- Inspect Output Directory and Temp Files
