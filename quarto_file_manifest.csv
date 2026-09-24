@@ -79,6 +79,8 @@ base,10-03-prompt_engineering.qmd
 base,10-04-retrieval_augmented_generation.qmd
 base,10-05-context_engineering.qmd
 base,10-06-AI_PM.qmd
+base,_00-02-01-org-water-fire.qmd
+base,_00-03-05-org-cybernetics.qmd
 base,appendix-action.issues.qmd
 base,appendix-action.qmd
 base,appendix-brain.qmd
@@ -89,7 +91,6 @@ base,appendix-differentiating_API-MCP.qmd
 base,appendix-evolving_mindmap.qmd
 base,appendix-framing_cover_back.qmd
 base,appendix-glossary.qmd
-base,appendix-mindmap.qmd
 base,index.qmd
 base,intro.qmd
 base,references.qmd
@@ -174,6 +175,8 @@ english,10-03-prompt_engineering.en.qmd
 english,10-04-retrieval_augmented_generation.en.qmd
 english,10-05-context_engineering.en.qmd
 english,10-06-AI_PM.en.qmd
+english,_00-02-01-org-water-fire.en.qmd
+english,_00-03-05-org-cybernetics.en.qmd
 english,appendix-action.en.qmd
 english,appendix-action.issues.en.qmd
 english,appendix-brain.en.qmd
@@ -184,7 +187,6 @@ english,appendix-differentiating_API-MCP.en.qmd
 english,appendix-evolving_mindmap.en.qmd
 english,appendix-framing_cover_back.en.qmd
 english,appendix-glossary.en.qmd
-english,appendix-mindmap.en.qmd
 english,index.en.qmd
 english,intro.en.qmd
 english,references.en.qmd
