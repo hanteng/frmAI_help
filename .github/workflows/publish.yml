@@ -111,9 +111,18 @@ jobs:
       #    diagnostics/fallback-deploy steps below can still run and
       #    actually publish something visible instead of just failing
       #    silently in the Actions log.
-      #    tryCatch here prints the REAL R condition + call stack on
-      #    failure, instead of relying on R's default one-line error
-      #    printer — this was the missing piece in earlier CI runs.
+      #
+      #    Diagnostic design note: rather than patching babelquarto itself
+      #    (its file-staging logic is unchanged from upstream — verified by
+      #    diffing this fork against ropensci-review-tools/babelquarto), we
+      #    trace() the EXPORTED quarto::quarto_render() function. Babelquarto
+      #    always calls it from inside withr::with_dir(proj_path, {...}), so
+      #    by the time our tracer fires (on entry, once per language pass),
+      #    getwd() is already the staged temp copy for that pass. We scan
+      #    every .qmd/.Rmd in that staged copy for {{< include ... >}}
+      #    directives and confirm each target actually resolved — this
+      #    catches ANY missing include across the whole book, not just one
+      #    known file, with no change to the fork required.
       - name: Render Multilingual Book
         id: render
         continue-on-error: true
@@ -129,11 +138,39 @@ jobs:
             cat("=== babelquarto SHA in use at render time ===\n")
             print(utils::packageDescription("babelquarto")$RemoteSha)
 
+            verify_includes <- function() {
+              cat(sprintf("\n--- Verifying includes in: %s ---\n", getwd()))
+              qmd_files <- fs::dir_ls(recurse = TRUE, regexp = "\\.(qmd|Rmd)$")
+              bad <- character(0)
+              for (f in qmd_files) {
+                lines <- tryCatch(readLines(f, warn = FALSE), error = function(e) character(0))
+                inc_lines <- grep("\\{\\{<\\s*include\\s+", lines, value = TRUE, perl = TRUE)
+                for (l in inc_lines) {
+                  m <- regmatches(l, regexpr("(?<=include\\s)[^ >]+", l, perl = TRUE))
+                  if (length(m) == 1) {
+                    target <- file.path(dirname(f), m)
+                    if (!fs::file_exists(target)) {
+                      bad <- c(bad, sprintf("%s -> MISSING include target %s (resolved: %s)", f, m, target))
+                    }
+                  }
+                }
+              }
+              if (length(bad) > 0) {
+                cat("!! BROKEN INCLUDES FOUND:\n")
+                cat(paste(" -", bad), sep = "\n")
+              } else {
+                cat(sprintf("OK: all includes across %d files resolved.\n", length(qmd_files)))
+              }
+            }
+
+            trace(
+              quarto::quarto_render,
+              tracer = quote(verify_includes())
+            )
+
             trace(
               babelquarto::render_book,
-              tracer = quote({
-                cat("\n=== babelquarto::render_book triggered ===\n")
-              })
+              tracer = quote(cat("\n=== babelquarto::render_book triggered ===\n"))
             )
             cat("=== Repo Root ===\n", getwd(), "\n")
             cat("=== R Temp Dir ===\n", tempdir(), "\n")
